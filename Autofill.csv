@@ -1,4 +1,4 @@
-### AUTOFILL PROFILES ###,,,,,,
+### POCHACCO - AUTOFILL PROFILES ###,,,,,,
 Profile ID,Name,Site,Hotkey,,,
 c1,"A Few Questions About You","","",,,
 c3,"Some questions about you!","crowdtap.com/dashboard","",,,
@@ -77,7 +77,7 @@ c78,"Let’s talk about TV!","","",,,
 c79,"Some questions about your lawn and garden care.","","",,,
 c80,"Taking care of your garden.","","",,,
 c81,"Let's talk about grocery shopping.","","",,,
-c82,"This survey is about Men & Women Hair and Scalp","","",,,
+c82,"This survey is about Men & Women Hair and Scalp Care Products","","",,,
 c83,"Tell us about your work!","","",,,
 c84,"A few questions about eating preferences...","","",,,
 c85,"Let's talk about work!","","",,,
@@ -103,7 +103,20 @@ c104,"Pediatric Allergy Sufferers","","",,,
 c105,"Frozen Breakfast Survey","","",,,
 c106,"Calling All Food and Drink Enthusiasts! 🎉","","",,,
 c107,"Shopping Habits - Spring 2024","","",,,
-### AUTOFILL RULES ###,,,,,,
+c108,"Let's go grocery shopping!","","",,,
+c109,"Home Electronics are a part of our everyday lives!","crowdtap.com/dashboard","",,,
+c110,"Food Shopping and Consumption Survey","","",,,
+c111,"Skincare Enthusiasts - We want to hear from you!","","",,,
+c112,"Pizza Brands 🍕","","",,,
+c113,"What tech interests you?","","",,,
+c114,"Questions about you","","",,,
+c115,"Let's Talk Social","","",,,
+c116,"Bought a mattress online recently?  We want to hear from you!","","",,,
+c117,"Indian Food Home Cooks","","",,,
+c118,"We want to understand your purchasing habits as a consumer.","","",,,
+c119,"Tell us about yourself!","","",,,
+c120,"Technology Usage Survey Summer 24","","",,,
+### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
 r2,3,"^Target$","1","",1,c1
@@ -688,25 +701,6 @@ r844,3,"^No, I prefer disposable K-Cups$","1","",1,c39
 r845,3,"^Sometimes$","1","",1,c39
 r846,3,"^Increased slightly$","1","",1,c39
 r847,3,"^Choosing brands with eco-friendly packaging$","1","",1,c39
-r857,3,"^\$3,000 or more$","1","",1,c41
-r858,3,"^Personal loan from a bank/financial institution$","1","",1,c41
-r859,3,"^Debit card from a bank/financial institution$","1","",1,c41
-r860,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal\)$","1","",1,c41
-r861,3,"^""Buy Now, Pay Later"" service \(e\.g\., Klarna, Affirm\)$","1","",1,c41
-r862,3,"^Mobile/digital wallet \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c41
-r863,3,"^Savings account from a bank/financial institution$","1","",1,c41
-r864,3,"^Credit card from a bank/financial institution$","1","",1,c41
-r865,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1,c41
-r866,3,"^Very open$","1","",1,c41
-r867,3,"^IKEA$","1","",1,c41
-r868,3,"^Target$","1","",1,c41
-r869,3,"^Amazon$","1","",1,c41
-r870,3,"^Walmart$","1","",1,c41
-r871,3,"^The Home Depot$","1","",1,c41
-r872,3,"^Within the past month$","1","",1,c41
-r873,3,"^I have a Home Depot credit card$","1","",1,c41
-r874,3,"^Lamp$","1","",1,c41
-r875,3,"^Pink, Light Blue, Dark Blue$","1","",1,c41
 r885,3,"^2$","1","",1,c43
 r886,3,"^No$","1","",1,c43
 r887,3,"^Purchase a different brand, but the same flavor$","1","",1,c43
@@ -714,7 +708,6 @@ r888,0,"input\[_ngcontent-ppv-c77\]","400","",1,c43
 r889,0,"^launcher$","","",1,c43
 r891,3,"^Bank of America$","1","",1,c44
 r892,3,"^\$10,001 - \$25,000$","1","",1,c44
-r895,0,"^other$","Illinois","",1,c44
 r896,0,"^launcher$","","",1,c44
 r898,3,"^Pain relievers \(Tylenol, Ibuprofen, etc\.\)$","1","",1,c45
 r899,3,"^Antacids or digestive/heartburn relief \(Tums, Alka-Seltzer etc\.\)$","1","",1,c45
@@ -2113,14 +2106,333 @@ r2168,3,"^Headaches \(non-migraine\)$","1","",1,c107
 r2169,3,"^Energy levels$","1","",1,c107
 r2170,3,"^Stress levels$","1","",1,c107
 r2171,3,"^Medical professional$","1","",1,c107
-### AUTOFILL OPTIONS ###,,,,,,
+r857,3,"^\$3,000 or more$","1","",1,c41
+r858,3,"^Personal loan from a bank/financial institution$","1","",1,c41
+r859,3,"^Debit card from a bank/financial institution$","1","",1,c41
+r860,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal\)$","1","",1,c41
+r861,3,"^""Buy Now, Pay Later"" service \(e\.g\., Klarna, Affirm\)$","1","",1,c41
+r862,3,"^Mobile/digital wallet \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c41
+r863,3,"^Savings account from a bank/financial institution$","1","",1,c41
+r864,3,"^Credit card from a bank/financial institution$","1","",1,c41
+r865,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1,c41
+r866,3,"^Very open$","1","",1,c41
+r867,3,"^IKEA$","1","",1,c41
+r868,3,"^Target$","1","",1,c41
+r869,3,"^Amazon$","1","",1,c41
+r870,3,"^Walmart$","1","",1,c41
+r871,3,"^The Home Depot$","1","",1,c41
+r872,3,"^Within the past month$","1","",1,c41
+r873,3,"^I have a Home Depot credit card$","1","",1,c41
+r874,3,"^Lamp$","1","",1,c41
+r875,3,"^Pink, Light Blue, Dark Blue$","1","",1,c41
+r2172,3,"^Outdoor garden or bed with edible plants \(i\.e\., vegetables, fruits, herbs, etc\.\)$","1","",1,c41
+r2173,3,"^Outdoor entertainment spaces \(i\.e\., deck, patio, firepit, tables, etc\.\)$","1","",1,c41
+r2174,3,"^Grass lawn \(full or partial\)$","1","",1,c41
+r2175,3,"^Handyman or repair services \(e\.g\., plumbing, electrical, general repairs\)$","1","",1,c41
+r2176,3,"^Home Cleaning Products$","1","",1,c41
+r2177,3,"^A few times a month$","1","",1,c41
+r2178,3,"^Spectracide$","1","",1,c41
+r2179,3,"^Off$","1","",1,c41
+r2180,3,"^Kitchen \(counters, stove tops and other raised surfaces\)$","1","",1,c41
+r2181,3,"^Multipurpose Cleaner \(general surfaces, multiple areas\)$","1","",1,c41
+r2182,3,"^Bathrooms \(toilet, bathtub, sinks, etc\.\)$","1","",1,c41
+r2183,3,"^Outdoor Cleaner \(patio, deck, driveway, etc\.\)$","1","",1,c41
+r2184,3,"^Reflective Surfaces \(glass features, windows, mirrors, etc\.\)$","1","",1,c41
+r2185,3,"^Clorox$","1","",1,c41
+r2186,3,"^Own$","1","",1,c41
+r2187,3,"^I do all of the grocery shopping for my household$","1","",1,c108
+r2188,3,"^For myself$","1","",1,c108
+r2189,3,"^My kids$","1","",1,c108
+r2190,3,"^My partner/spouse$","1","",1,c108
+r2191,3,"^Target$","1","",1,c108
+r2192,3,"^Whole Foods$","1","",1,c108
+r2193,3,"^Costco$","1","",1,c108
+r2194,3,"^Kroger \(e\.g\., Mariano’s, Smith’s, Ralphs, Dillons, etc\.\)$","1","",1,c108
+r2195,3,"^Walmart$","1","",1,c108
+r2196,3,"^Sam’s Club$","1","",1,c108
+r2197,3,"^I don't follow a diet$","1","",1,c108
+r2198,3,"^Donuts$","1","",1,c108
+r2199,3,"^Breakfast Breads/ Sweet Breads$","1","",1,c108
+r2200,3,"^Tortillas$","1","",1,c108
+r2201,3,"^Great Taste$","1","",1,c108
+r2202,3,"^Organic$","1","",1,c108
+r2203,3,"^Trusted brand$","1","",1,c108
+r2205,3,"^TV$","1","",1,c109
+r2206,3,"^Soundbar$","1","",1,c109
+r2207,3,"^Gaming Console$","1","",1,c109
+r2208,3,"^Smartphone$","1","",1,c109
+r2209,3,"^Tablet$","1","",1,c109
+r2210,3,"^Computer$","1","",1,c109
+r2211,3,"^LG$","1","",1,c109
+r2212,3,"^Samsung$","1","",1,c109
+r2213,3,"^Sony$","1","",1,c109
+r2214,3,"^Within the last 7-12 months$","1","",1,c109
+r2215,3,"^\$1000-\$1499$","1","",1,c109
+r2216,3,"^\$800-\$999$","1","",1,c109
+r2217,3,"^Amazon$","1","",1,c109
+r2218,3,"^Go online first$","1","",1,c109
+r2219,3,"^Read reviews$","1","",1,c109
+r2220,3,"^Visit online retailer \(Amazon, Bestbuy\.com, etc\)$","1","",1,c109
+r2221,3,"^Watch videos and reviews on social media \(YouTube, TikTok, Instagram\)$","1","",1,c109
+r2222,3,"^From an online retailer \(Amazon, Bestbuy\.com, etc\)$","1","",1,c109
+r2223,3,"^More convenient$","1","",1,c109
+r2224,3,"^Better product selection$","1","",1,c109
+r2225,3,"^It’s easy to navigate and find the product I need$","1","",1,c109
+r2227,3,"^Convenience Cook - I prefer to cook but rely heavily on convenience foods like pre-made sauces, frozen vegetables, and meal kits to simplify prep\.$","1","",1,c110
+r2228,3,"^I enjoy cooking from scratch$","1","",1,c110
+r2229,3,"^I like trying new flavors / ingredients$","1","",1,c110
+r2230,3,"^I love food and seek out great food experiences of all kinds$","1","",1,c110
+r2231,3,"^I think about the nutritional value of what I eat$","1","",1,c110
+r2232,3,"^Frequently - I cook or prepare meals at home most of the time$","1","",1,c110
+r2233,3,"^Convenience \(easy to use and store\)$","1","",1,c110
+r2234,3,"^USDA Organic$","1","",1,c110
+r2235,3,"^All Natural$","1","",1,c110
+r2236,3,"^Frozen Dessert \(e\.g\. Ice Cream, Popsicles, Ice Cream Bars, Gelato etc\.\)$","1","",1,c110
+r2237,3,"^Other Natural Sweeteners \(e\.g\. Honey, Maple Syrup, Agave, Coconut Sugar etc\.\)$","1","",1,c110
+r2238,3,"^Salad Dressings$","1","",1,c110
+r2239,3,"^Bake Mixes \(e\.g\. Cake Mix, Cookie Mix, Brownie Mix etc\.\)$","1","",1,c110
+r2240,3,"^Cooking Oil \(e\.g\. Olive Oil, Extra Virgin Olive Oil, Canola Oil, Sesame Oil, Avocado Oil etc\.\)$","1","",1,c110
+r2241,3,"^Spices and Seasonings$","1","",1,c110
+r2242,3,"^Vinegars \(e\.g\. Balsamic, Apple Cider Vinegar, Red Wine Vinegar, White Wine Vinegar etc\.\)$","1","",1,c110
+r2243,3,"^Frozen Prepared Meals \(e\.g\. Stouffer's, Lean Cuisine, Healthy Choice, Amy's Kitchen etc\.\)$","1","",1,c110
+r2244,3,"^Condiments \(e\.g\. Ketchup, Mustard, BBQ Sauce, Hot Sauce etc\.\)$","1","",1,c110
+r2245,3,"^Low Calorie Sweeteners \(e\.g\. Stevia, Truvia, Monk Fruit, Allulose etc\.\)$","1","",1,c110
+r2246,3,"^Crackers$","1","",1,c110
+r2247,3,"^Picked and Preserved Foods \(e\.g\. Pickles, Olives, Sundried Tomatoes, Artichoke Hearts etc\.\)$","1","",1,c110
+r2248,3,"^Sugar \(e\.g\. White, Brown, Powdered, Turbinado etc\.\)$","1","",1,c110
+r2249,3,"^Bob's Red Mill$","1","",1,c110
+r2250,3,"^Chosen Foods$","1","",1,c110
+r2251,3,"^Extra Virgin Olive Oil$","1","",1,c110
+r2252,3,"^Vegetable Oil$","1","",1,c110
+r2253,3,"^Olive Oil$","1","",1,c110
+r2254,3,"^Spray Can$","1","",1,c110
+r2255,3,"^I often try new brands$","1","",1,c110
+r2256,3,"^In baking$","1","",1,c110
+r2257,3,"^In salad dressings$","1","",1,c110
+r2258,3,"^In marinades$","1","",1,c110
+r2259,3,"^Familiar Brand$","1","",1,c110
+r2260,3,"^Premium brand$","1","",1,c110
+r2261,3,"^Attractive packaging$","1","",1,c110
+r2262,3,"^California Olive Ranch$","1","",1,c110
+r2263,3,"^Honey$","1","",1,c110
+r2264,3,"^Primal Kitchen$","1","",1,c110
+r2265,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c110
+r2266,3,"^Mass Retailers \(e\.g\. Walmart, Target\)$","1","",1,c110
+r2267,3,"^Online Retailers \(e\.g\. Amazon, Instacart\)$","1","",1,c110
+r2268,3,"^Convenience Stores \(e\.g\. 7 Eleven\)$","1","",1,c110
+r2269,3,"^Club Retailers \(e\.g\. Costco, Sam’s, BJs\)$","1","",1,c110
+r2270,3,"^Natural Foods Stores \(e\.g\. Whole Foods, Sprouts\)$","1","",1,c110
+r2271,3,"^Grocery Stores \(e\.g\. Kroger, Safeway\)$","1","",1,c110
+r2275,3,"^Dominos$","1","",1,c112
+r2276,3,"^Pizza Hut$","1","",1,c112
+r2277,3,"^Somewhat interested$","1","",1,c113
+r2278,3,"^Smartphones$","1","",1,c113
+r2279,3,"^Headphones/Earbuds$","1","",1,c113
+r2280,3,"^Fitness trackers$","1","",1,c113
+r2281,3,"^Laptops$","1","",1,c113
+r2282,3,"^Wearable tech \(e\.g\., VR headsets\)$","1","",1,c113
+r2283,3,"^Smartwatches$","1","",1,c113
+r2284,3,"^Gaming consoles$","1","",1,c113
+r2285,3,"^Tablets$","1","",1,c113
+r2286,3,"^Smart home devices \(e\.g\., smart speakers, smart lights\)$","1","",1,c113
+r2287,3,"^I currently own a smartwatch$","1","",1,c113
+r2288,3,"^Annually$","1","",1,c113
+r2289,3,"^Tech retail stores \(e\.g\., Best Buy\)$","1","",1,c113
+r2290,3,"^Brand-specific stores \(e\.g\., Apple Store, Samsung Store\)$","1","",1,c113
+r2291,3,"^Online retailers \(e\.g\., Amazon, BestBuy\.com\)$","1","",1,c113
+r2292,3,"^During workouts or exercise$","1","",1,c113
+r2293,3,"^For daily activity tracking$","1","",1,c113
+r2294,3,"^Apple$","1","",1,c113
+r2295,3,"^Fitbit$","1","",1,c113
+r2296,3,"^Samsung$","1","",1,c113
+r2297,3,"^Own$","1","",1,c114
+r2298,3,"^Single family detached home$","1","",1,c114
+r2299,3,"^Disease spreading insects \(e\.g\., cockroaches, mosquitos, ticks, bed bugs, fleas, etc\.\)$","1","",1,c114
+r2300,3,"^mosquitos$","1","",1,c114
+r2301,3,"^Purchased a product$","1","",1,c114
+r2302,3,"^I have a product on hand to kill this pest$","1","",1,c114
+r2303,3,"^I am the primary decision maker$","1","",1,c114
+r2304,3,"^Spectracide$","1","",1,c114
+r2305,3,"^Off$","1","",1,c114
+r2306,3,"^Green$","1","",1,c115
+r2307,3,"^3$","1","",1,c115
+r2308,3,"^Urban$","1","",1,c115
+r2309,3,"^Read a book/ newspaper/ magazine$","1","",1,c115
+r2310,3,"^Watch TV \(live or streaming\)$","1","",1,c115
+r2311,3,"^Online shopping$","1","",1,c115
+r2312,3,"^Watch movies \(live or streaming\)$","1","",1,c115
+r2313,3,"^Exercise$","1","",1,c115
+r2314,3,"^Listen to music$","1","",1,c115
+r2315,3,"^Use social media/online platforms$","1","",1,c115
+r2316,3,"^Play video games$","1","",1,c115
+r2317,3,"^Home Decor$","1","",1,c115
+r2318,3,"^Fashion$","1","",1,c115
+r2319,3,"^Food and Beverage$","1","",1,c115
+r2320,3,"^Household Essentials \(i\.e\. cleaning products\)$","1","",1,c115
+r2321,3,"^Beauty$","1","",1,c115
+r2322,3,"^I wanted to stay current with trends or changing styles$","1","",1,c115
+r2323,3,"^A few times per week$","1","",1,c115
+r2324,3,"^Friends$","1","",1,c115
+r2325,3,"^Family$","1","",1,c115
+r2326,3,"^Brands \(i\.e\. their direct account\)$","1","",1,c115
+r2327,3,"^Influencers$","1","",1,c115
+r2328,3,"^Instagram$","1","",1,c115
+r2329,3,"^I do most of my shopping online \(i\.e\. groceries, clothes, furniture, etc\.\)$","1","",1,c115
+r2330,3,"^Through the brand’s direct app or website$","1","",1,c115
+r2331,3,"^I plan to purchase holiday gifts this year, and will likely purchase them in-store$","1","",1,c115
+r2332,3,"^I look at the app to get everyday inspiration for certain areas of my life \(i\.e\. workouts, meals to cook, fashion ideas, home improvement help, etc\.\)$","1","",1,c115
+r2334,3,"^Fitness$","1","",1,c115
+r2335,3,"^Home design & decor$","1","",1,c115
+r2336,3,"^Food & drink$","1","",1,c115
+r2337,3,"^Sports$","1","",1,c115
+r2338,3,"^Health & wellbeing$","1","",1,c115
+r2340,3,"^Yes$","1","",1,c116
+r2341,3,"^Online - Amazon$","1","",1,c116
+r2342,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c117
+r2343,3,"^White/Caucasian$","1","",1,c117
+r2344,3,"^Mexican$","1","",1,c117
+r2345,3,"^American$","1","",1,c117
+r2346,3,"^Japanese$","1","",1,c117
+r2347,3,"^Chinese$","1","",1,c117
+r2348,3,"^Italian$","1","",1,c117
+r2349,3,"^Scented Home Décor Products \(candles, wax melts, diffusers, etc\.\)$","1","",1,c118
+r2350,3,"^Oral Care \(toothpaste, mouthwash, etc\.\)$","1","",1,c118
+r2351,3,"^Hair Care \(hair mist, shampoo, conditioner, etc\.\)$","1","",1,c118
+r2352,3,"^Fine Fragrance$","1","",1,c118
+r2353,3,"^Pet Care$","1","",1,c118
+r2354,3,"^Personal Care/Beauty \(deodorant, skincare, body wash, etc\.\)$","1","",1,c118
+r2355,3,"^Household Cleaning/Laundry Care$","1","",1,c118
+r2356,3,"^Deodorant/Antiperspirant$","1","",1,c118
+r2357,3,"^Aerosol \(spray\) Air Fresheners$","1","",1,c118
+r2358,3,"^Hair Care$","1","",1,c118
+r2359,3,"^Scented Candles$","1","",1,c118
+r2360,3,"^Plug-In Fragrance Oils & Diffusers \(Glade, Airwick, etc\.\)$","1","",1,c118
+r2361,3,"^Car Air Fresheners$","1","",1,c118
+r2362,3,"^Facial Skincare$","1","",1,c118
+r2363,3,"^Household Cleaning Products$","1","",1,c118
+r2364,3,"^Fine Fragrance/Cologne$","1","",1,c118
+r2365,3,"^Beauty Stores \(Sephora, Ulta\)$","1","",1,c118
+r2366,3,"^Online Retailers \(Amazon, Walmart\.com, Target\.com\)$","1","",1,c118
+r2367,3,"^Mass Merchandisers \(Walmart, Target\)$","1","",1,c118
+r2368,3,"^Mix of mainstream and natural and organic brands$","1","",1,c118
+r2369,3,"^Dove$","1","",1,c118
+r2370,3,"^Aveeno$","1","",1,c118
+r2371,3,"^OGX$","1","",1,c118
+r2372,3,"^Pantene$","1","",1,c118
+r2373,3,"^Head & Shoulders$","1","",1,c118
+r2374,3,"^Oriental \(amber, warm spicy florals\)$","1","",1,c118
+r2375,3,"^Seasonal Fragrances \(spring, summer, fall, winter, holiday\)$","1","",1,c118
+r2376,3,"^Floral$","1","",1,c118
+r2377,3,"^2$","1","",1,c118
+r2378,3,"^I am more comfortable shopping online for household cleaning products$","1","",1,c118
+r2379,3,"^I am shopping online more for household cleaning products$","1","",1,c118
+r2380,3,"^I've tried a new household cleaning brand/product$","1","",1,c118
+r2381,3,"^Carpet cleaner$","1","",1,c118
+r2382,3,"^Laundry detergent$","1","",1,c118
+r2383,3,"^Floor cleaner$","1","",1,c118
+r2384,3,"^Laundry sanitizers$","1","",1,c118
+r2385,3,"^Stain removers$","1","",1,c118
+r2386,3,"^Clorox$","1","",1,c118
+r2387,3,"^Glade$","1","",1,c118
+r2388,3,"^Dior$","1","",1,c118
+r2389,3,"^Personal Finance Topics$","1","",1,c119
+r2390,3,"^Alcohol purchase and usage$","1","",1,c119
+r2391,3,"^Prescription medicine purchase and usage$","1","",1,c119
+r2392,3,"^Gender identity and sexual preference$","1","",1,c119
+r2393,3,"^Tobacco purchase and usage$","1","",1,c119
+r2394,3,"^\$100,000 - \$150,000$","1","",1,c119
+r2395,3,"^Somewhat disagree$","1","",1,c119
+r2396,3,"^Firefox$","1","",1,c120
+r2397,3,"^Microsoft Bing$","1","",1,c120
+r2398,3,"^Google$","1","",1,c120
+r2399,3,"^iPhone$","1","",1,c120
+r2400,3,"^Safari$","1","",1,c120
+r2401,3,"^MacBook, iMac, or Mac Pro$","1","",1,c120
+r2402,3,"^Windows laptop, or desktop$","1","",1,c120
+r2403,3,"^iPad$","1","",1,c120
+r2404,3,"^Chrome$","1","",1,c120
+r2405,3,"^Bing$","1","",1,c120
+r2406,3,"^ChatGPT$","1","",1,c120
+r2407,3,"^Avast Online Security$","1","",1,c120
+r2409,3,"^Security suites / antivirus$","1","",1,c120
+r2410,3,"^I have never used DuckDuckGo$","1","",1,c120
+r2411,3,"^Somewhat agree$","1","",1,c120
+r2412,3,"^I do not know anyone affected by identity theft, but am concerned about the impact\.$","1","",1,c120
+r2272,3,"^Active acne or blemishes$","1","",1,c111
+r2273,3,"^Oily$","1","",1,c111
+r2413,3,"^Somewhat sensitive$","1","",1,c111
+r2414,3,"^Normal$","1","",1,c111
+r2415,3,"^Acne/pimples/breakouts$","1","",1,c111
+r2416,3,"^My facial skin rarely reacts, it is tough$","1","",1,c111
+r2417,3,"^Micellar water$","1","",1,c111
+r2418,3,"^2$","1","",1,c111
+r2419,3,"^Facial Moisturizers \(lotion, creams\)$","1","",1,c111
+r2420,3,"^Acne Treatments \(acne spot treatments, acne spot patch\)$","1","",1,c111
+r2421,3,"^Facial Serums/ Treatments \(serum, essence, wrinkle treatment, spot treatment\)$","1","",1,c111
+r2422,3,"^Aveeno$","1","",1,c111
+r2423,3,"^Cetaphil$","1","",1,c111
+r2424,3,"^Olay$","1","",1,c111
+r2425,3,"^The Ordinary$","1","",1,c111
+r2426,3,"^Cerave$","1","",1,c111
+r2427,3,"^Neutrogena$","1","",1,c111
+r2428,3,"Amazon","1","",1,c111
+r2429,3,"^Mass Merchandiser \(such as WalMart, Target, Kmart\)$","1","",1,c111
+r2430,3,"^Warehouse club store \(i\.e\., COSTCO, Sam's Club,\)$","1","",1,c111
+r2431,3,"^Internet only \(i\.e\., Amazon, Drugstore\.com, Internet only brand\)$","1","",1,c111
+r2432,3,"^Grocery/food store \(i\.e\., Kroger, Whole Foods, Safeway\)$","1","",1,c111
+r2433,3,"^Drug store/pharmacy \(i\.e\., Rite-Aid, Walgreens, CVS\)$","1","",1,c111
+r2434,3,"^Sephora \(Sephora store, sephora\.com, Sephora @ Kohl's or JCPenny\)$","1","",1,c111
+r2435,3,"^Brand website \(i\.e\. Clinique\.com\)$","1","",1,c111
+r2436,3,"^Niacinamide$","1","",1,c111
+r2437,3,"^I’ve accepted where I’m at in life, yet still want to show up just as strong and capable as my younger self\.$","1","",1,c111
+r2438,3,"^I accept my skin as is, and just want to maintain it\.$","1","",1,c111
+r2439,3,"^I want to Maintain & Balance my Skin\.$","1","",1,c111
+r2440,3,"^I want to Control my Acne or Irritation on my skin\.$","1","",1,c111
+r2441,3,"^Enhance the appearance of my skin$","1","",1,c111
+r2442,3,"^Maintain healthy balance of my skin$","1","",1,c111
+r2443,3,"^My skin is in good condition, but I'm still on a quest to improve my skin\. There's always something new and better\. I'm always wondering what's next\.\.\.$","1","",1,c111
+r2444,3,"^Maintain skin balance$","1","",1,c111
+r2445,3,"^Moisturization / Hydration$","1","",1,c111
+r2446,3,"^Anti-aging$","1","",1,c111
+r2447,3,"^I’m having a ‘Good Skin Day’$","1","",1,c111
+r2448,3,"^I routinely switch between Olay Facial Moisturizer and another product$","1","",1,c111
+r2449,3,"^I routinely switch between Olay Facial Cleanser and another product$","1","",1,c111
+r2450,3,"^Graduate High School$","1","",1,c111
+r2451,3,"^Accepted into College$","1","",1,c111
+r2452,3,"^Move away from Home$","1","",1,c111
+r2453,3,"^Self-Identify your Gender Identity/Sexual Orientation$","1","",1,c111
+r2454,3,"^Start College$","1","",1,c111
+r2455,3,"^Graduate College$","1","",1,c111
+r2456,3,"^Start Career$","1","",1,c111
+r2457,3,"^Stabilize Career$","1","",1,c111
+r2458,3,"^Move Homes$","1","",1,c111
+r2459,3,"^Move in with Partner$","1","",1,c111
+r2460,3,"^Get Engaged$","1","",1,c111
+r2461,3,"^Get Married$","1","",1,c111
+r2462,3,"^Have Kids$","1","",1,c111
+r2463,3,"^Buy your First Home$","1","",1,c111
+r2464,3,"^Buy your First Car$","1","",1,c111
+r2465,3,"^Get your masters or secondary Degree$","1","",1,c111
+r2466,3,"^Be financially independent$","1","",1,c111
+r2467,3,"^Body acne$","1","",1,c111
+r2468,3,"^I have to be the first to try new technology and digital gadgets\.$","1","",1,c111
+r2469,3,"^Walmart\+$","1","",1,c111
+r2470,3,"^Uber Eats$","1","",1,c111
+r2471,3,"^Sam’s Club$","1","",1,c111
+r2472,3,"^Costco$","1","",1,c111
+r2473,3,"^Instacart\+$","1","",1,c111
+r2474,3,"^DashPass \(DoorDash\)$","1","",1,c111
+r2475,3,"^I am willing to invest in higher-end skincare products if they deliver visible results\.$","1","",1,c111
+r2476,3,"^I am open to using artificial intelligence in my daily life and use it from time to time\.$","1","",1,c111
+r2477,3,"^I have no interest in using online quizzes to find products or personalized coaching\.$","1","",1,c111
+### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
 textclips,"[]",,,,,
 variables,"[]",,,,,
 activecat,1,,,,,
 attributesoff,0,,,,,
-autoimport,0,,,,,
+autoimport,0,https://raw.githubusercontent.com/diturz/Autofill/main/Autofill.csv,,,,
 backup,0,30,,,,
 badge,1,,,,,
 closeinfobar,1,1,,,,
