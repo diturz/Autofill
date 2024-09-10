@@ -1194,104 +1194,6 @@ r1471,3,"^Clips or trailers$","1","",1,c78
 r1472,3,"^I’ll definitely watch it$","1","",1,c78
 r1473,3,"^I'm planning to watch it live$","1","",1,c78
 r1474,3,"^Mystery and Thriller$","1","",1,c78
-r341,3,"^Sports Drinks \(e\.g\., Gatorade, Powerade, BodyArmor\)$","1","",1,c19
-r342,3,"^Carbonated soft drinks \(e\.g\. Coca Cola, A&W Root Beer, Pepsi\)$","1","",1,c19
-r343,3,"^Ready-to-Drink Coffee or Tea \(e\.g\., Starbucks, Snapple, Arizona\)$","1","",1,c19
-r344,3,"^Bottled Water \(e\.g\., Dasani, Evian, Poland Spring\)$","1","",1,c19
-r345,3,"^Non-Dairy Milk Alternatives \(e\.g\., Almond Milk, Soy Milk, Oat Milk\)$","1","",1,c19
-r346,3,"^Functional Beverages \(e\.g\., Vitamin Water, Kombucha, Protein Shakes\)$","1","",1,c19
-r347,3,"^Juice \(e\.g\., Tropicana, Minute Maid, Simply Orange\)$","1","",1,c19
-r348,3,"^Energy Drinks \(e\.g\., Red Bull, Monster, Rockstar\)$","1","",1,c19
-r349,3,"^Alcoholic Beverages \(e\.g\., Beer, Wine, Spirits\)$","1","",1,c19
-r350,3,"^Ginger Ale \(e\.g\., Canada Dry, Schweppes\)$","1","",1,c19
-r351,3,"^Orange Soda \(e\.g\., Fanta, Sunkist\)$","1","",1,c19
-r352,3,"^Lemon-Lime Soda \(e\.g\., Sprite, 7UP\)$","1","",1,c19
-r353,3,"^Sparkling Water \(e\.g\., LaCroix, Perrier\)$","1","",1,c19
-r354,3,"^Cola \(e\.g\., Coca-Cola, Pepsi\)$","1","",1,c19
-r1082,3,"^I am the primary decision-maker$","1","",1,c19
-r1184,3,"^Frozen potatoes \(such as French fries, tater tots, etc\.\)$","1","",1,c19
-r1185,3,"^Dressings/marinades$","1","",1,c19
-r1186,3,"^Pasta sauces$","1","",1,c19
-r1187,3,"^Frozen vegetables \(spinach, peas, carrots, etc\.\)$","1","",1,c19
-r1188,3,"^Cereal$","1","",1,c19
-r1189,3,"^Refrigerated prepared meals \(stir fry, bbq chicken, etc\.\)$","1","",1,c19
-r1190,3,"^Frozen berries \(strawberries, blueberries, mixed berries, etc\.\)$","1","",1,c19
-r1191,3,"^Canned/boxed soup$","1","",1,c19
-r1192,3,"^Frozen prepared meals \(pasta, enchiladas, etc\.\)$","1","",1,c19
-r1193,3,"^Frozen French fries$","1","",1,c19
-r1194,3,"^Frozen diced, roasted potatoes$","1","",1,c19
-r1195,3,"^Great Value$","1","",1,c19
-r1475,3,"^Personal care products \(toothpaste, shampoo, soap, etc\.\)$","1","",1,c19
-r1476,3,"^Cleaning supplies \(dish soap, laundry detergent, all-purpose cleaner, etc\.\)$","1","",1,c19
-r1477,3,"^Finishing sauces \(sweet and sour sauce, Mexican enchilada sauce, etc\.\)$","1","",1,c19
-r1478,3,"^Shelf-stable snacks \(chips, nuts, granola bars, etc\.\)$","1","",1,c19
-r1479,3,"^Frozen foods \(frozen vegetables, frozen meals, ice cream, etc\.\)$","1","",1,c19
-r1480,3,"^Breakfast items \(cereal, oatmeal, pancake mix, etc \.\)$","1","",1,c19
-r1481,3,"^Condiments \(ketchup, mustard, mayonnaise, etc\.\)$","1","",1,c19
-r1482,3,"^Condiments \(ketchup, mayonnaise, mustard, etc\.\)$","1","",1,c19
-r1483,3,"^Bakery items \(bread, muffins, bagels, etc\.\)$","1","",1,c19
-r1484,3,"^Single-serve beverages \(apple juice, kombucha, soda, etc \.\)$","1","",1,c19
-r1485,3,"^Marinades \(Teriyaki, Herb & Garlic, Caribbean Jerk, etc\.\)$","1","",1,c19
-r1486,3,"^Refrigerated snacks \(meat &cheese packs, cracker & dip packs, pudding cups, etc\.\)$","1","",1,c19
-r1487,3,"^Dry goods \(pasta, rice, flour, etc\.\)$","1","",1,c19
-r1488,3,"^Cheese snacks \(e\.g\., cheese puffs, cheese crackers\)$","1","",1,c19
-r1489,3,"^Protein bars$","1","",1,c19
-r1490,3,"^Granola bars$","1","",1,c19
-r1491,3,"^Crackers$","1","",1,c19
-r1492,3,"^Pretzels$","1","",1,c19
-r1493,3,"^Snack mixes \(e\.g\., trail mix, Chex mix\)$","1","",1,c19
-r1494,3,"^Fruit snacks \(e\.g\., fruit leather, fruit gummies\)$","1","",1,c19
-r1495,3,"^Potato chips$","1","",1,c19
-r1496,3,"^Nuts$","1","",1,c19
-r1497,3,"^Cookies$","1","",1,c19
-r1498,3,"^Cheez-It$","1","",1,c19
-r1499,3,"^Doritos$","1","",1,c19
-r1500,3,"^KIND$","1","",1,c19
-r1501,3,"^Lay's$","1","",1,c19
-r1502,3,"^Nature Valley$","1","",1,c19
-r1503,3,"^Pringles$","1","",1,c19
-r1504,3,"^Quaker$","1","",1,c19
-r1505,3,"^Ruffles$","1","",1,c19
-r1506,3,"^Meat & cheese lunch/snack packs \(e\.g\., Oscar Mayer Bites, Hillshire Snacking Small Plates\)$","1","",1,c19
-r1507,3,"^Cheese snack packs \(e\.g\., Babybel, Sargento Balanced Breaks\)$","1","",1,c19
-r1508,3,"^Protein smoothie drinks \(e\.g\., Bolthouse Farms Protein Plus Smoothies\)$","1","",1,c19
-r1509,3,"^Oscar Mayer$","1","",1,c19
-r1510,3,"^Ready-to-drink coffee$","1","",1,c19
-r1511,3,"^Smoothies$","1","",1,c19
-r1512,3,"^Lemonade$","1","",1,c19
-r1513,3,"^Fruit juice \(e\.g\., apple, orange\)$","1","",1,c19
-r1514,3,"^Sparkling water/seltzer$","1","",1,c19
-r1515,3,"^Plant-based milk alternatives \(e\.g\., almond, oat\)$","1","",1,c19
-r1516,3,"^Soda$","1","",1,c19
-r1517,3,"^Flavored water$","1","",1,c19
-r1518,3,"^Milk$","1","",1,c19
-r1519,3,"^Sports drinks \(e\.g\., Gatorade, Powerade\)$","1","",1,c19
-r1520,3,"^Energy drinks \(e\.g\., Red Bull, Monster\)$","1","",1,c19
-r1521,3,"^Protein shakes/drinks$","1","",1,c19
-r1522,3,"^Bottled water$","1","",1,c19
-r1523,3,"^Iced tea$","1","",1,c19
-r1524,3,"^Arizona$","1","",1,c19
-r1525,3,"^Coca-Cola$","1","",1,c19
-r1526,3,"^Capri Sun$","1","",1,c19
-r1527,3,"^Gatorade$","1","",1,c19
-r1528,3,"^LaCroix$","1","",1,c19
-r1529,3,"^Lipton$","1","",1,c19
-r1530,3,"^Minute Maid$","1","",1,c19
-r1531,3,"^Organic Valley$","1","",1,c19
-r1532,3,"^Pepsi$","1","",1,c19
-r1533,3,"^Red Bull$","1","",1,c19
-r1534,3,"^Silk$","1","",1,c19
-r1535,3,"^Starbucks$","1","",1,c19
-r1536,3,"^Tropicana$","1","",1,c19
-r1537,3,"^BBQ$","1","",1,c19
-r1538,3,"^Heinz$","1","",1,c19
-r1539,3,"^Kraft$","1","",1,c19
-r1540,3,"^BBQ Sauce$","1","",1,c19
-r1541,3,"^Somewhat familiar$","1","",1,c19
-r1542,3,"^Yogurt$","1","",1,c19
-r1543,3,"^Soy sauce$","1","",1,c19
-r1544,3,"^Fermented alcoholic beverages \(e\.g\., beer, wine\)$","1","",1,c19
-r1545,3,"^No - I would not like to participate$","1","",1,c19
 r1546,3,"^Own$","1","",1,c79
 r1547,3,"^We do not have an area/ feature like this in or around my home$","1","",1,c79
 r1548,3,"^I am the primary decision maker$","1","",1,c79
@@ -1767,7 +1669,7 @@ r1948,3,"^I SOMETIMES buy organic or natural products$","1","",1,c100
 r1949,3,"^My partner / significant other $","1","",1,c100
 r1950,3,"^Children \(6-12 years\)$","1","",1,c100
 r1951,3,"^Teenagers \(13-17 years\)$","1","",1,c100
-r1952,3,"^Omnivore: I eat all all foods, including meat \(beef and/or chicken and/or pork\) / animal protein and do not have any dietary restrictions$","1","",1,c101
+r1952,3,"Omnivore","1","",1,c101
 r1953,3,"^No, I do not consider myself flexitarian$","1","",1,c101
 r1954,3,"^About the same$","1","",1,c101
 r1955,3,"^Kroger$","1","",1,c101
@@ -2135,73 +2037,6 @@ r2409,3,"^Security suites / antivirus$","1","",1,c120
 r2410,3,"^I have never used DuckDuckGo$","1","",1,c120
 r2411,3,"^Somewhat agree$","1","",1,c120
 r2412,3,"^I do not know anyone affected by identity theft, but am concerned about the impact\.$","1","",1,c120
-r2272,3,"^Active acne or blemishes$","1","",1,c111
-r2273,3,"^Oily$","1","",1,c111
-r2413,3,"^Somewhat sensitive$","1","",1,c111
-r2414,3,"^Normal$","1","",1,c111
-r2415,3,"^Acne/pimples/breakouts$","1","",1,c111
-r2416,3,"^My facial skin rarely reacts, it is tough$","1","",1,c111
-r2417,3,"^Micellar water$","1","",1,c111
-r2418,3,"^2$","1","",1,c111
-r2419,3,"^Facial Moisturizers \(lotion, creams\)$","1","",1,c111
-r2420,3,"^Acne Treatments \(acne spot treatments, acne spot patch\)$","1","",1,c111
-r2421,3,"^Facial Serums/ Treatments \(serum, essence, wrinkle treatment, spot treatment\)$","1","",1,c111
-r2422,3,"^Aveeno$","1","",1,c111
-r2423,3,"^Cetaphil$","1","",1,c111
-r2424,3,"^Olay$","1","",1,c111
-r2425,3,"^The Ordinary$","1","",1,c111
-r2426,3,"^Cerave$","1","",1,c111
-r2427,3,"^Neutrogena$","1","",1,c111
-r2428,3,"Amazon","1","",1,c111
-r2429,3,"^Mass Merchandiser \(such as WalMart, Target, Kmart\)$","1","",1,c111
-r2430,3,"^Warehouse club store \(i\.e\., COSTCO, Sam's Club,\)$","1","",1,c111
-r2431,3,"^Internet only \(i\.e\., Amazon, Drugstore\.com, Internet only brand\)$","1","",1,c111
-r2432,3,"^Grocery/food store \(i\.e\., Kroger, Whole Foods, Safeway\)$","1","",1,c111
-r2433,3,"^Drug store/pharmacy \(i\.e\., Rite-Aid, Walgreens, CVS\)$","1","",1,c111
-r2434,3,"^Sephora \(Sephora store, sephora\.com, Sephora @ Kohl's or JCPenny\)$","1","",1,c111
-r2435,3,"^Brand website \(i\.e\. Clinique\.com\)$","1","",1,c111
-r2436,3,"^Niacinamide$","1","",1,c111
-r2437,3,"^I’ve accepted where I’m at in life, yet still want to show up just as strong and capable as my younger self\.$","1","",1,c111
-r2438,3,"^I accept my skin as is, and just want to maintain it\.$","1","",1,c111
-r2439,3,"^I want to Maintain & Balance my Skin\.$","1","",1,c111
-r2440,3,"^I want to Control my Acne or Irritation on my skin\.$","1","",1,c111
-r2441,3,"^Enhance the appearance of my skin$","1","",1,c111
-r2442,3,"^Maintain healthy balance of my skin$","1","",1,c111
-r2443,3,"^My skin is in good condition, but I'm still on a quest to improve my skin\. There's always something new and better\. I'm always wondering what's next\.\.\.$","1","",1,c111
-r2444,3,"^Maintain skin balance$","1","",1,c111
-r2445,3,"^Moisturization / Hydration$","1","",1,c111
-r2446,3,"^Anti-aging$","1","",1,c111
-r2447,3,"^I’m having a ‘Good Skin Day’$","1","",1,c111
-r2448,3,"^I routinely switch between Olay Facial Moisturizer and another product$","1","",1,c111
-r2449,3,"^I routinely switch between Olay Facial Cleanser and another product$","1","",1,c111
-r2450,3,"^Graduate High School$","1","",1,c111
-r2451,3,"^Accepted into College$","1","",1,c111
-r2452,3,"^Move away from Home$","1","",1,c111
-r2453,3,"^Self-Identify your Gender Identity/Sexual Orientation$","1","",1,c111
-r2454,3,"^Start College$","1","",1,c111
-r2455,3,"^Graduate College$","1","",1,c111
-r2456,3,"^Start Career$","1","",1,c111
-r2457,3,"^Stabilize Career$","1","",1,c111
-r2458,3,"^Move Homes$","1","",1,c111
-r2459,3,"^Move in with Partner$","1","",1,c111
-r2460,3,"^Get Engaged$","1","",1,c111
-r2461,3,"^Get Married$","1","",1,c111
-r2462,3,"^Have Kids$","1","",1,c111
-r2463,3,"^Buy your First Home$","1","",1,c111
-r2464,3,"^Buy your First Car$","1","",1,c111
-r2465,3,"^Get your masters or secondary Degree$","1","",1,c111
-r2466,3,"^Be financially independent$","1","",1,c111
-r2467,3,"^Body acne$","1","",1,c111
-r2468,3,"^I have to be the first to try new technology and digital gadgets\.$","1","",1,c111
-r2469,3,"^Walmart\+$","1","",1,c111
-r2470,3,"^Uber Eats$","1","",1,c111
-r2471,3,"^Sam’s Club$","1","",1,c111
-r2472,3,"^Costco$","1","",1,c111
-r2473,3,"^Instacart\+$","1","",1,c111
-r2474,3,"^DashPass \(DoorDash\)$","1","",1,c111
-r2475,3,"^I am willing to invest in higher-end skincare products if they deliver visible results\.$","1","",1,c111
-r2476,3,"^I am open to using artificial intelligence in my daily life and use it from time to time\.$","1","",1,c111
-r2477,3,"^I have no interest in using online quizzes to find products or personalized coaching\.$","1","",1,c111
 r2478,3,"^Vineyard$","1","",1,c92
 r2479,3,"^Drinks with Friends$","1","",1,c92
 r2480,3,"^Minuty$","1","",1,c92
@@ -2552,6 +2387,172 @@ r2100,3,"^Scrambled$","1","",1,c105
 r2101,3,"^Classic Eggs$","1","",1,c105
 r2102,3,"^Customize with condiments \(ex Ketchup, Hot Sauce, Spices\)$","1","",1,c105
 r2103,3,"^Over \$14\.00$","1","",1,c105
+r2272,3,"^Active acne or blemishes$","1","",1,c111
+r2273,3,"^Oily$","1","",1,c111
+r2413,3,"^Somewhat sensitive$","1","",1,c111
+r2414,3,"^Normal$","1","",1,c111
+r2415,3,"^Acne/pimples/breakouts$","1","",1,c111
+r2416,3,"^My facial skin rarely reacts, it is tough$","1","",1,c111
+r2417,3,"^Micellar water$","1","",1,c111
+r2418,3,"^2$","1","",1,c111
+r2419,3,"^Facial Moisturizers \(lotion, creams\)$","1","",1,c111
+r2420,3,"^Acne Treatments \(acne spot treatments, acne spot patch\)$","1","",1,c111
+r2421,3,"^Facial Serums/ Treatments \(serum, essence, wrinkle treatment, spot treatment\)$","1","",1,c111
+r2422,3,"^Aveeno$","1","",1,c111
+r2423,3,"^Cetaphil$","1","",1,c111
+r2424,3,"^Olay$","1","",1,c111
+r2425,3,"^The Ordinary$","1","",1,c111
+r2426,3,"^Cerave$","1","",1,c111
+r2427,3,"^Neutrogena$","1","",1,c111
+r2428,3,"Amazon","1","",1,c111
+r2429,3,"^Mass Merchandiser \(such as WalMart, Target, Kmart\)$","1","",1,c111
+r2430,3,"^Warehouse club store \(i\.e\., COSTCO, Sam's Club,\)$","1","",1,c111
+r2431,3,"^Internet only \(i\.e\., Amazon, Drugstore\.com, Internet only brand\)$","1","",1,c111
+r2432,3,"^Grocery/food store \(i\.e\., Kroger, Whole Foods, Safeway\)$","1","",1,c111
+r2433,3,"^Drug store/pharmacy \(i\.e\., Rite-Aid, Walgreens, CVS\)$","1","",1,c111
+r2434,3,"^Sephora \(Sephora store, sephora\.com, Sephora @ Kohl's or JCPenny\)$","1","",1,c111
+r2435,3,"^Brand website \(i\.e\. Clinique\.com\)$","1","",1,c111
+r2436,3,"^Niacinamide$","1","",1,c111
+r2437,3,"^I’ve accepted where I’m at in life, yet still want to show up just as strong and capable as my younger self\.$","1","",1,c111
+r2438,3,"^I accept my skin as is, and just want to maintain it\.$","1","",1,c111
+r2439,3,"^I want to Maintain & Balance my Skin\.$","1","",1,c111
+r2440,3,"^I want to Control my Acne or Irritation on my skin\.$","1","",1,c111
+r2441,3,"^Enhance the appearance of my skin$","1","",1,c111
+r2442,3,"^Maintain healthy balance of my skin$","1","",1,c111
+r2443,3,"^I want to invest in my skin and appearance, so I want products that work for my skin now and set me up to be better off in the future\.$","1","",1,c111
+r2444,3,"^Maintain skin balance$","1","",1,c111
+r2445,3,"^Moisturization / Hydration$","1","",1,c111
+r2446,3,"^Anti-aging$","1","",1,c111
+r2447,3,"^I’m having a ‘Good Skin Day’$","1","",1,c111
+r2448,3,"^I routinely switch between Olay Facial Moisturizer and another product$","1","",1,c111
+r2449,3,"^I routinely switch between Olay Facial Cleanser and another product$","1","",1,c111
+r2450,3,"^Graduate High School$","1","",1,c111
+r2451,3,"^Accepted into College$","1","",1,c111
+r2452,3,"^Move away from Home$","1","",1,c111
+r2453,3,"^Self-Identify your Gender Identity/Sexual Orientation$","1","",1,c111
+r2454,3,"^Start College$","1","",1,c111
+r2455,3,"^Graduate College$","1","",1,c111
+r2456,3,"^Start Career$","1","",1,c111
+r2457,3,"^Stabilize Career$","1","",1,c111
+r2458,3,"^Move Homes$","1","",1,c111
+r2459,3,"^Move in with Partner$","1","",1,c111
+r2460,3,"^Get Engaged$","1","",1,c111
+r2461,3,"^Get Married$","1","",1,c111
+r2462,3,"^Have Kids$","1","",1,c111
+r2463,3,"^Buy your First Home$","1","",1,c111
+r2464,3,"^Buy your First Car$","1","",1,c111
+r2465,3,"^Get your masters or secondary Degree$","1","",1,c111
+r2466,3,"^Be financially independent$","1","",1,c111
+r2467,3,"^Body acne$","1","",1,c111
+r2468,3,"^I have to be the first to try new technology and digital gadgets\.$","1","",1,c111
+r2469,3,"^Walmart\+$","1","",1,c111
+r2470,3,"^Uber Eats$","1","",1,c111
+r2471,3,"^Sam’s Club$","1","",1,c111
+r2472,3,"^Costco$","1","",1,c111
+r2473,3,"^Instacart\+$","1","",1,c111
+r2474,3,"^DashPass \(DoorDash\)$","1","",1,c111
+r2475,3,"^I am willing to invest in higher-end skincare products if they deliver visible results\.$","1","",1,c111
+r2476,3,"^I am open to using artificial intelligence in my daily life and use it from time to time\.$","1","",1,c111
+r2477,3,"^I have no interest in using online quizzes to find products or personalized coaching\.$","1","",1,c111
+r341,3,"^Sports Drinks \(e\.g\., Gatorade, Powerade, BodyArmor\)$","1","",1,c19
+r342,3,"^Carbonated soft drinks \(e\.g\. Coca Cola, A&W Root Beer, Pepsi\)$","1","",1,c19
+r343,3,"^Ready-to-Drink Coffee or Tea \(e\.g\., Starbucks, Snapple, Arizona\)$","1","",1,c19
+r344,3,"^Bottled Water \(e\.g\., Dasani, Evian, Poland Spring\)$","1","",1,c19
+r345,3,"^Non-Dairy Milk Alternatives \(e\.g\., Almond Milk, Soy Milk, Oat Milk\)$","1","",1,c19
+r346,3,"^Functional Beverages \(e\.g\., Vitamin Water, Kombucha, Protein Shakes\)$","1","",1,c19
+r347,3,"^Juice \(e\.g\., Tropicana, Minute Maid, Simply Orange\)$","1","",1,c19
+r348,3,"^Energy Drinks \(e\.g\., Red Bull, Monster, Rockstar\)$","1","",1,c19
+r349,3,"^Alcoholic Beverages \(e\.g\., Beer, Wine, Spirits\)$","1","",1,c19
+r350,3,"^Ginger Ale \(e\.g\., Canada Dry, Schweppes\)$","1","",1,c19
+r351,3,"^Orange Soda \(e\.g\., Fanta, Sunkist\)$","1","",1,c19
+r352,3,"^Lemon-Lime Soda \(e\.g\., Sprite, 7UP\)$","1","",1,c19
+r353,3,"^Sparkling Water \(e\.g\., LaCroix, Perrier\)$","1","",1,c19
+r354,3,"^Cola \(e\.g\., Coca-Cola, Pepsi\)$","1","",1,c19
+r1082,3,"^I am the primary decision-maker$","1","",1,c19
+r1184,3,"^Frozen potatoes \(such as French fries, tater tots, etc\.\)$","1","",1,c19
+r1185,3,"^Dressings/marinades$","1","",1,c19
+r1186,3,"^Pasta sauces$","1","",1,c19
+r1187,3,"^Frozen vegetables \(spinach, peas, carrots, etc\.\)$","1","",1,c19
+r1188,3,"^Cereal$","1","",1,c19
+r1189,3,"^Refrigerated prepared meals \(stir fry, bbq chicken, etc\.\)$","1","",1,c19
+r1190,3,"^Frozen berries \(strawberries, blueberries, mixed berries, etc\.\)$","1","",1,c19
+r1191,3,"^Canned/boxed soup$","1","",1,c19
+r1192,3,"^Frozen prepared meals \(pasta, enchiladas, etc\.\)$","1","",1,c19
+r1193,3,"^Frozen French fries$","1","",1,c19
+r1194,3,"^Frozen diced, roasted potatoes$","1","",1,c19
+r1195,3,"^Great Value$","1","",1,c19
+r1475,3,"^Personal care products \(toothpaste, shampoo, soap, etc\.\)$","1","",1,c19
+r1476,3,"^Cleaning supplies \(dish soap, laundry detergent, all-purpose cleaner, etc\.\)$","1","",1,c19
+r1477,3,"^Finishing sauces \(sweet and sour sauce, Mexican enchilada sauce, etc\.\)$","1","",1,c19
+r1478,3,"^Shelf-stable snacks \(chips, nuts, granola bars, etc\.\)$","1","",1,c19
+r1479,3,"^Frozen foods \(frozen vegetables, frozen meals, ice cream, etc\.\)$","1","",1,c19
+r1480,3,"^Breakfast items \(cereal, oatmeal, pancake mix, etc \.\)$","1","",1,c19
+r1481,3,"^Condiments \(ketchup, mustard, mayonnaise, etc\.\)$","1","",1,c19
+r1482,3,"^Condiments \(ketchup, mayonnaise, mustard, etc\.\)$","1","",1,c19
+r1483,3,"^Bakery items \(bread, muffins, bagels, etc\.\)$","1","",1,c19
+r1484,3,"^Single-serve beverages \(apple juice, kombucha, soda, etc \.\)$","1","",1,c19
+r1485,3,"^Marinades \(Teriyaki, Herb & Garlic, Caribbean Jerk, etc\.\)$","1","",1,c19
+r1486,3,"^Refrigerated snacks \(meat &cheese packs, cracker & dip packs, pudding cups, etc\.\)$","1","",1,c19
+r1487,3,"^Dry goods \(pasta, rice, flour, etc\.\)$","1","",1,c19
+r1488,3,"^Cheese snacks \(e\.g\., cheese puffs, cheese crackers\)$","1","",1,c19
+r1489,3,"^Protein bars$","1","",1,c19
+r1490,3,"^Granola bars$","1","",1,c19
+r1491,3,"^Crackers$","1","",1,c19
+r1492,3,"^Pretzels$","1","",1,c19
+r1493,3,"^Snack mixes \(e\.g\., trail mix, Chex mix\)$","1","",1,c19
+r1494,3,"^Fruit snacks \(e\.g\., fruit leather, fruit gummies\)$","1","",1,c19
+r1495,3,"^Potato chips$","1","",1,c19
+r1496,3,"^Nuts$","1","",1,c19
+r1497,3,"^Cookies$","1","",1,c19
+r1498,3,"^Cheez-It$","1","",1,c19
+r1499,3,"^Doritos$","1","",1,c19
+r1500,3,"^KIND$","1","",1,c19
+r1501,3,"^Lay's$","1","",1,c19
+r1502,3,"^Nature Valley$","1","",1,c19
+r1503,3,"^Pringles$","1","",1,c19
+r1504,3,"^Quaker$","1","",1,c19
+r1505,3,"^Ruffles$","1","",1,c19
+r1506,3,"^Meat & cheese lunch/snack packs \(e\.g\., Oscar Mayer Bites, Hillshire Snacking Small Plates\)$","1","",1,c19
+r1507,3,"^Cheese snack packs \(e\.g\., Babybel, Sargento Balanced Breaks\)$","1","",1,c19
+r1508,3,"^Protein smoothie drinks \(e\.g\., Bolthouse Farms Protein Plus Smoothies\)$","1","",1,c19
+r1509,3,"^Oscar Mayer$","1","",1,c19
+r1510,3,"^Ready-to-drink coffee$","1","",1,c19
+r1511,3,"^Smoothies$","1","",1,c19
+r1512,3,"^Lemonade$","1","",1,c19
+r1513,3,"^Fruit juice \(e\.g\., apple, orange\)$","1","",1,c19
+r1514,3,"^Sparkling water/seltzer$","1","",1,c19
+r1515,3,"^Plant-based milk alternatives \(e\.g\., almond, oat\)$","1","",1,c19
+r1516,3,"^Soda$","1","",1,c19
+r1517,3,"^Flavored water$","1","",1,c19
+r1518,3,"^Milk$","1","",1,c19
+r1519,3,"^Sports drinks \(e\.g\., Gatorade, Powerade\)$","1","",1,c19
+r1520,3,"^Energy drinks \(e\.g\., Red Bull, Monster\)$","1","",1,c19
+r1521,3,"^Protein shakes/drinks$","1","",1,c19
+r1522,3,"^Bottled water$","1","",1,c19
+r1523,3,"^Iced tea$","1","",1,c19
+r1524,3,"^Arizona$","1","",1,c19
+r1525,3,"^Coca-Cola$","1","",1,c19
+r1526,3,"^Capri Sun$","1","",1,c19
+r1527,3,"^Gatorade$","1","",1,c19
+r1528,3,"^LaCroix$","1","",1,c19
+r1529,3,"^Lipton$","1","",1,c19
+r1530,3,"^Minute Maid$","1","",1,c19
+r1531,3,"^Organic Valley$","1","",1,c19
+r1532,3,"^Pepsi$","1","",1,c19
+r1533,3,"^Red Bull$","1","",1,c19
+r1534,3,"^Silk$","1","",1,c19
+r1535,3,"^Starbucks$","1","",1,c19
+r1536,3,"^Tropicana$","1","",1,c19
+r1537,3,"^BBQ$","1","",1,c19
+r1538,3,"^Heinz$","1","",1,c19
+r1539,3,"^Kraft$","1","",1,c19
+r1540,3,"^BBQ Sauce$","1","",1,c19
+r1541,3,"^Somewhat familiar$","1","",1,c19
+r1542,3,"^Yogurt$","1","",1,c19
+r1543,3,"^Soy sauce$","1","",1,c19
+r1544,3,"^Fermented alcoholic beverages \(e\.g\., beer, wine\)$","1","",1,c19
+r1545,3,"^No - I would not like to participate$","1","",1,c19
+r2605,3,"these brands","1","",1,c19
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
