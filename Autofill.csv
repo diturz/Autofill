@@ -121,6 +121,16 @@ c122,"Calling all skincare and skin treatment fans!","","",,,
 c123,"Let's talk about grocery shopping!","","",,,
 c124,"Men's Health Survey","","",,,
 c125,"Coffee Consumption in 2024","","",,,
+c126,"A few quick questions about what you eat!","","",,,
+c127,"Let's talk about beverages!","","",,,
+c128,"Tell us about you.","","",,,
+c129,"What types of party supplies do you purchase?","","",,,
+c130,"Hello, Let’s Talk About Your Hair!","","",,,
+c131,"Tell us if you use heartburn medication!","","",,,
+c132,"All About Technology!","","",,,
+c133,"Questions about Grocery Shopping","","",,,
+c134,"iPhone Survey","","",,,
+c135,"Product Usage Survey","","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
@@ -1584,47 +1594,6 @@ r1906,3,"^Sport or activity$","1","",1,c98
 r1907,3,"^Gathering with Friends/Family$","1","",1,c98
 r1908,3,"^Positive, it's generally a good experience that we look forward to$","1","",1,c98
 r1910,3,"^Tap Water$","1","",1,c99
-r1911,3,"^3$","1","",1,c100
-r1912,3,"^Topical pain medication \(Bengay, Icy-Hot, Voltaren, etc\.\)$","1","",1,c100
-r1913,3,"^Adult allergy medication \(Claritin, Flonase, Xyzal, Zyrtec, etc\.\)$","1","",1,c100
-r1914,3,"^Oral pain medication \(Advil, Tylenol, Aleve, Bayer Aspirin, etc\.\)$","1","",1,c100
-r1915,3,"^Adult Multivitamins \(One-A-Day, Nature’s Bounty, Nature’s Made, etc\.\)$","1","",1,c100
-r1916,3,"^Supplements \(Nature’s Bounty, AG1, Vital Proteins, etc\.\)$","1","",1,c100
-r1917,3,"^Amazon\.com$","1","",1,c100
-r1918,3,"^Mass merchandiser/supercenter stores \(Walmart, Target, etc\.\)$","1","",1,c100
-r1919,3,"^Drug stores \(CVS, Walgreens, etc\.\)$","1","",1,c100
-r1920,3,"^Myself$","1","",1,c100
-r1921,3,"^My children$","1","",1,c100
-r1922,3,"^My spouse or partner$","1","",1,c100
-r1923,3,"^Hydration boosters$","1","",1,c100
-r1924,3,"^Daily multivitamins$","1","",1,c100
-r1925,3,"^Protein supplements$","1","",1,c100
-r1926,3,"^Calcium supplements$","1","",1,c100
-r1927,3,"^Probiotics$","1","",1,c100
-r1928,3,"^Men’s health$","1","",1,c100
-r1929,3,"^Fitness aids$","1","",1,c100
-r1930,3,"^Digestion/gut$","1","",1,c100
-r1931,3,"^Nature Made$","1","",1,c100
-r1932,3,"^Olly$","1","",1,c100
-r1933,3,"^Centrum$","1","",1,c100
-r1934,3,"^To get additional nutrients for my specific life stage$","1","",1,c100
-r1935,3,"^To fill nutrient gaps in my diet$","1","",1,c100
-r1936,3,"^To stay healthy in the long run$","1","",1,c100
-r1937,3,"^Positive recommendations from healthcare professionals$","1","",1,c100
-r1938,3,"^Well-known and trusted brand$","1","",1,c100
-r1939,3,"^Product packaging with clear information and instructions$","1","",1,c100
-r1940,3,"^Several times a week$","1","",1,c100
-r1941,3,"^Capsules or pills$","1","",1,c100
-r1942,3,"^Liquid or syrup$","1","",1,c100
-r1943,3,"^Softgels$","1","",1,c100
-r1944,3,"^Energy and vitality$","1","",1,c100
-r1945,3,"^Overall wellbeing$","1","",1,c100
-r1946,3,"^Fitness$","1","",1,c100
-r1947,3,"^I consider nutritional supplements a crucial part of my daily health regimen$","1","",1,c100
-r1948,3,"^I SOMETIMES buy organic or natural products$","1","",1,c100
-r1949,3,"^My partner / significant other $","1","",1,c100
-r1950,3,"^Children \(6-12 years\)$","1","",1,c100
-r1951,3,"^Teenagers \(13-17 years\)$","1","",1,c100
 r1952,3,"Omnivore","1","",1,c101
 r1953,3,"^No, I do not consider myself flexitarian$","1","",1,c101
 r1954,3,"^About the same$","1","",1,c101
@@ -2554,6 +2523,216 @@ r1751,3,"^\$100,000 - \$149,999$","1","",1,c90
 r1752,3,"^IL - Illinois$","1","",1,c90
 r1753,3,"^Green bricks$","1","",1,c90
 r2606,3,"Healthy","1","",1,c90
+r2607,3,"^Crackers \(e\.g\., saltines, whole wheat, etc\.\)$","1","",1,c126
+r2608,3,"^Cookies$","1","",1,c126
+r2609,3,"^Trail mix and/or mixed nuts$","1","",1,c126
+r2610,3,"^Bars \(e\.g\., energy, nutrition, protein, granola, cereal, etc\.\)$","1","",1,c126
+r2611,3,"^Candy and/or chocolate$","1","",1,c126
+r2612,3,"^Fruit snacks \(e\.g\., dried fruit, fruit cups, etc\.\)$","1","",1,c126
+r2613,3,"^Snacking cheese \(e\.g\., string cheese, Babybel, etc\.\)$","1","",1,c126
+r2614,3,"^Pretzels$","1","",1,c126
+r2615,3,"^Chips$","1","",1,c126
+r2616,3,"^Yogurt$","1","",1,c126
+r2617,3,"^Protein bars \(e\.g\., Clif Builders bar, Pure Protein, Quest, etc\.\)$","1","",1,c126
+r2618,3,"^Energy or Nutrition Bars \(e\.g\., Clif Bar, Kind Bar, Rx Bar, etc\.\)$","1","",1,c126
+r2619,3,"^Granola bars \(e\.g\., Quaker, Nature Valley, etc\.\)$","1","",1,c126
+r2620,3,"^Breakfast or cereal bars \(e\.g\., Nutri-Grain, Special K, etc\.\)$","1","",1,c126
+r2621,3,"^Special K$","1","",1,c126
+r2622,3,"^KIND$","1","",1,c126
+r2623,3,"^Nature Valley$","1","",1,c126
+r2624,3,"^I am the sole decision maker$","1","",1,c126
+r2625,3,"^Once or twice a week$","1","",1,c126
+r2626,3,"^Joyful$","1","",1,c126
+r2627,3,"^New York City$","1","",1,c126
+r2628,3,"^Yes, I have children at home$","1","",1,c126
+r2629,3,"^Bottled water \(flat\)$","1","",1,c127
+r2630,3,"^Canned/bottled tea$","1","",1,c127
+r2631,3,"^Energy Drinks \(i\.e\. Red Bull, Monster\)$","1","",1,c127
+r2632,3,"^Flavored/enhanced water$","1","",1,c127
+r2633,3,"^Hot/Iced Coffees$","1","",1,c127
+r2634,3,"^Juice$","1","",1,c127
+r2635,3,"^Sports drinks \(i\.e\. Gatorade, Powerade\)$","1","",1,c127
+r2636,3,"^Soda$","1","",1,c127
+r2637,3,"^Canned/bottled coffee$","1","",1,c127
+r2638,3,"^Sparkling water \(carbonated\)$","1","",1,c127
+r2639,3,"^My first time purchasing an energy drink was more than 12 months ago$","1","",1,c127
+r2640,3,"^Mass Merchandisers \(like Walmart or Target\)$","1","",1,c127
+r2641,3,"^Warehouse Clubs \(like Costco or Sam's Club\)$","1","",1,c127
+r2642,3,"^Online Only Stores \(like Amazon\.com but not Walmart\.com\)$","1","",1,c127
+r2643,3,"^Convenience Stores/Gas Stations \(like 7-Eleven or Circle K\)$","1","",1,c127
+r2644,3,"^Restaurants or bars$","1","",1,c127
+r2646,3,"^Best assortment of energy drinks$","1","",1,c127
+r2647,3,"^Energy is easy to find$","1","",1,c127
+r2648,3,"^Convenient location$","1","",1,c127
+r2649,3,"^Prime Energy$","1","",1,c127
+r2650,3,"^Red Bull$","1","",1,c127
+r2651,3,"^Celsius$","1","",1,c127
+r2653,3,"^Rockstar$","1","",1,c127
+r2654,3,"^Bang$","1","",1,c127
+r2655,3,"^Alani Nu$","1","",1,c127
+r2656,3,"^Daily$","1","",1,c127
+r2657,3,"^Spending time with friends/family$","1","",1,c127
+r2658,3,"^Exercising/Working out$","1","",1,c127
+r2659,3,"^Playing video games$","1","",1,c127
+r2660,3,"^Playing sports or outdoor activities$","1","",1,c127
+r2661,3,"^Relaxing at home \(e\.g\. watching TV, reading, etc\.\)$","1","",1,c127
+r2662,3,"^New flavors/innovation$","1","",1,c127
+r2663,3,"^A mix of both flavored and non-flavored items$","1","",1,c127
+r2664,3,"^A mix of both full sugar and sugar-free items$","1","",1,c127
+r2665,3,"^Agree$","1","",1,c127
+r2666,3,"^12oz$","1","",1,c127
+r2667,3,"^Single cans$","1","",1,c127
+r2668,3,"^Variety Pack \(a multipack with multiple flavors\)$","1","",1,c127
+r2669,3,"^All natural$","1","",1,c127
+r2670,3,"^Drug Stores \(like CVS or Walgreens\)$","1","",1,c127
+r2671,3,"^Grocery Stores$","1","",1,c127
+r2672,3,"^Store Websites \(like Walmart\.com or Kroger\.com\)$","1","",1,c127
+r2673,3,"^Dollar Stores \(like Dollar General or Dollar Tree\)$","1","",1,c127
+r2674,3,"^White-collar worker \(e\.g\., office worker\)$","1","",1,c127
+r2675,3,"^I only work on one project at a time$","1","",1,c128
+r2676,3,"^I enjoy working toward an obtainable goal$","1","",1,c128
+r2677,3,"^I feel energized by working toward a specific goal$","1","",1,c128
+r2678,3,"^I have a steady routine and habits I typically follow$","1","",1,c128
+r2679,3,"^I prefer spending more for higher quality products$","1","",1,c128
+r2680,3,"^I feel content knowing that I've accomplished something$","1","",1,c128
+r2681,3,"^I am happy with what I have and where I am right now$","1","",1,c128
+r2682,3,"^I want things my way and spend time or effort to get it$","1","",1,c128
+r2683,3,"^I spend a lot of time thinking about and doing things that will improve my future$","1","",1,c128
+r2684,3,"^I could use help managing my time$","1","",1,c128
+r2685,3,"^Walmart$","1","",1,c130
+r2686,3,"^Sephora$","1","",1,c130
+r2687,3,"^Dollar stores \(e\.g\., Dollar General, Family Dollar, Dollar Tree, etc\.\)$","1","",1,c130
+r2688,3,"^Amazon$","1","",1,c130
+r2689,3,"^Club stores \(e\.g\., Costco, Sam’s Club, etc\.\)$","1","",1,c130
+r2690,3,"^Target$","1","",1,c130
+r2691,3,"^Grocery stores \(e\.g\., Kroger, Publix, Meijer, Albertsons, etc\.\)$","1","",1,c130
+r2692,2,"^CVS$","1","",1,c130
+r2693,3,"^Bath & Shower \(e\.g\., body wash, bath salts, etc\.\)$","1","",1,c130
+r2694,3,"^Deodorants & Antiperspirants$","1","",1,c130
+r2695,3,"^Vitamins & Supplements$","1","",1,c130
+r2696,3,"^Fragrances$","1","",1,c130
+r2697,3,"^Body Care \(e\.g\., body/ hand lotion, body scrubs/ exfoliators, etc\.\)$","1","",1,c130
+r2698,3,"^Hair Care \(e\.g\., shampoo, conditioner, hair treatment, styling products, etc\.\)$","1","",1,c130
+r2699,3,"^Shaving, Grooming, & Hair Removal$","1","",1,c130
+r2700,3,"^Facial Skincare$","1","",1,c130
+r2701,3,"^Shampoo & Conditioners$","1","",1,c130
+r2702,3,"^Dove$","1","",1,c130
+r2703,3,"^Garnier$","1","",1,c130
+r2704,3,"^Curly$","1","",1,c130
+r2705,3,"^Coily \(4A-4C\)$","1","",1,c130
+r2706,3,"^Medium$","1","",1,c130
+r2707,3,"^Moisture / Hydration$","1","",1,c130
+r2708,3,"^Facebook$","1","",1,c130
+r2709,3,"^YouTube$","1","",1,c130
+r2710,3,"^Snapchat$","1","",1,c130
+r2711,3,"^Instagram$","1","",1,c130
+r2712,3,"^Twitter/X$","1","",1,c130
+r2713,3,"^Threads$","1","",1,c130
+r2714,3,"^Pinterest$","1","",1,c130
+r2715,3,"^Reddit$","1","",1,c130
+r2716,3,"^TikTok$","1","",1,c130
+r2717,3,"^I actively seek out new hair care products to try and enjoy incorporating them into my routine regularly\.$","1","",1,c130
+r2718,3,"^Cruelty-free$","1","",1,c130
+r2719,3,"^I have never used Nexium$","1","",1,c131
+r2720,3,"^Alka Seltzer$","1","",1,c131
+r2721,3,"^Mobile Phones$","1","",1,c132
+r2722,3,"^Printers$","1","",1,c132
+r2723,3,"^Personal Computers such as laptops and desktops$","1","",1,c132
+r2724,3,"^Tablets$","1","",1,c132
+r2725,3,"^More than 500$","1","",1,c132
+r2726,3,"^I do all of the grocery shopping for my household$","1","",1,c133
+r2727,3,"^My partner/spouse$","1","",1,c133
+r2728,3,"^My kids$","1","",1,c133
+r2729,3,"^For myself$","1","",1,c133
+r2730,3,"^Walmart$","1","",1,c133
+r2731,3,"^Target$","1","",1,c133
+r2732,3,"^Amazon$","1","",1,c133
+r2733,3,"^Sam’s Club$","1","",1,c133
+r2734,3,"^Kroger \(e\.g\., King Soopers, Smith’s, Ralphs, Dillons, etc\.\)$","1","",1,c133
+r2735,3,"^Costco$","1","",1,c133
+r2736,3,"^Whole Foods$","1","",1,c133
+r2737,3,"^Omnivore \(eats both meat and seafood\)$","1","",1,c133
+r2738,3,"^Canned seafood/ fish products$","1","",1,c133
+r2739,3,"^Frozen meat products$","1","",1,c133
+r2740,3,"^Canned meat products$","1","",1,c133
+r2741,3,"^Frozen seafood/ fish products$","1","",1,c133
+r2742,3,"^Fresh meat products$","1","",1,c133
+r2743,3,"^Fresh seafood products$","1","",1,c133
+r2744,3,"^Fresh meat products$","1","",1,c133
+r2745,3,"^Club Stores \(i\.e\. Costco, BJ’s, Sam’s\)$","1","",1,c133
+r2746,3,"^Mass Merchandisers \(i\.e\. Walmart, Target\)$","1","",1,c133
+r2747,3,"^Mainstream Grocery Stores \(i\.e\. Publix, Kroger, Safeway\)$","1","",1,c133
+r2748,3,"^Natural Grocers \(i\.e\. Whole Foods, Sprouts\)$","1","",1,c133
+r2749,3,"^Online, directly through an app like Amazon, Instacart, Shipt, etc\.$","1","",1,c133
+r2750,3,"^Canned Sardines$","1","",1,c133
+r2751,3,"^Canned Tuna$","1","",1,c133
+r2752,3,"^Once a week$","1","",1,c133
+r2753,3,"^In Water$","1","",1,c133
+r2754,3,"^In Tomato Sauce$","1","",1,c133
+r2755,3,"^In Extra Virgin Olive Oil$","1","",1,c133
+r2756,3,"^Twitter$","1","",1,c133
+r2757,3,"^TikTok$","1","",1,c133
+r2758,3,"^Pinterest$","1","",1,c133
+r2759,3,"^Twitch$","1","",1,c133
+r2760,3,"^YouTube$","1","",1,c133
+r2761,3,"^Instagram$","1","",1,c133
+r2762,3,"^Facebook$","1","",1,c133
+r2763,3,"^Chicken of the Sea$","1","",1,c133
+r2764,3,"^Skipjack$","1","",1,c133
+r2765,3,"^Goya$","1","",1,c133
+r2766,3,"^Slightly concerned$","1","",1,c133
+r2767,3,"^Agree$","1","",1,c133
+r2768,3,"^Takes vitamins / supplements$","1","",1,c133
+r2769,3,"^Exercises regularly$","1","",1,c133
+r2770,3,"^Enjoys cooking$","1","",1,c133
+r1911,3,"^3$","1","",1,c100
+r1912,3,"^Topical pain medication \(Bengay, Icy-Hot, Voltaren, etc\.\)$","1","",1,c100
+r1913,3,"^Adult allergy medication \(Claritin, Flonase, Xyzal, Zyrtec, etc\.\)$","1","",1,c100
+r1914,3,"^Oral pain medication \(Advil, Tylenol, Aleve, Bayer Aspirin, etc\.\)$","1","",1,c100
+r1915,3,"^Adult Multivitamins \(One-A-Day, Nature’s Bounty, Nature’s Made, etc\.\)$","1","",1,c100
+r1916,3,"^Supplements \(Nature’s Bounty, AG1, Vital Proteins, etc\.\)$","1","",1,c100
+r1917,3,"^Amazon\.com$","1","",1,c100
+r1918,3,"^Mass merchandiser/supercenter stores \(Walmart, Target, etc\.\)$","1","",1,c100
+r1919,3,"^Drug stores \(CVS, Walgreens, etc\.\)$","1","",1,c100
+r1920,3,"^Myself$","1","",1,c100
+r1921,3,"^My children$","1","",1,c100
+r1922,3,"^My spouse or partner$","1","",1,c100
+r1923,3,"^Hydration boosters$","1","",1,c100
+r1924,3,"^Daily multivitamins$","1","",1,c100
+r1925,3,"^Protein supplements$","1","",1,c100
+r1926,3,"^Calcium supplements$","1","",1,c100
+r1927,3,"^Probiotics$","1","",1,c100
+r1928,3,"^Men’s health$","1","",1,c100
+r1929,3,"^Fitness aids$","1","",1,c100
+r1930,3,"^Digestion/gut$","1","",1,c100
+r1931,3,"^Nature Made$","1","",1,c100
+r1932,3,"^Olly$","1","",1,c100
+r1933,3,"^Centrum$","1","",1,c100
+r1934,3,"^To get additional nutrients for my specific life stage$","1","",1,c100
+r1935,3,"^To fill nutrient gaps in my diet$","1","",1,c100
+r1936,3,"^To stay healthy in the long run$","1","",1,c100
+r1937,3,"^Positive recommendations from healthcare professionals$","1","",1,c100
+r1938,3,"^Well-known and trusted brand$","1","",1,c100
+r1939,3,"^Product packaging with clear information and instructions$","1","",1,c100
+r1940,3,"^Several times a week$","1","",1,c100
+r1941,3,"^Capsules or pills$","1","",1,c100
+r1942,3,"^Liquid or syrup$","1","",1,c100
+r1943,3,"^Softgels$","1","",1,c100
+r1944,3,"^Energy and vitality$","1","",1,c100
+r1945,3,"^Overall wellbeing$","1","",1,c100
+r1946,3,"^Fitness$","1","",1,c100
+r1947,3,"^I consider nutritional supplements a crucial part of my daily health regimen$","1","",1,c100
+r1948,3,"^I SOMETIMES buy organic or natural products$","1","",1,c100
+r1949,3,"^My partner / significant other $","1","",1,c100
+r1950,3,"^Children \(6-12 years\)$","1","",1,c100
+r1951,3,"^Teenagers \(13-17 years\)$","1","",1,c100
+r2771,3,"^I would purchase any of these brands$","1","",1,c100
+r2772,3,"^Verizon$","1","",1,c134
+r2774,3,"^No$","1","",1,c134
+r2775,3,"^Multivitamin$","1","",1,c135
+r2776,3,"^Condoms$","1","",1,c135
+r2777,3,"^Laundry detergent$","1","",1,c135
+r2778,3,"^Mouthwash/Oral Rinse$","1","",1,c135
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
