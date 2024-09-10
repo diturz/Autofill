@@ -1313,50 +1313,6 @@ r1706,3,"^Watch at home more than half of the time$","1","",1,c89
 r1707,3,"^Gaming subscription \(e\.g\., Xbox Game Pass, Google Stadia\)$","1","",1,c89
 r1708,3,"^Satellite / Internet radio \(e\.g\., SiriusXM, Spotify\)$","1","",1,c89
 r1709,3,"^Yes, I am registered to vote\.$","1","",1,c89
-r1710,3,"^Yes, I do drink alcoholic beverages$","1","",1,c90
-r1711,3,"^Tea$","1","",1,c90
-r1712,3,"^Bottled water$","1","",1,c90
-r1713,3,"^Energy drinks$","1","",1,c90
-r1714,3,"^Alcohol beverages \(spirits/liquor, champagne, wine, beer, etc\.\)$","1","",1,c90
-r1715,3,"^Smoothies \(fruit or vegetable drinks\)$","1","",1,c90
-r1716,3,"^Coffee$","1","",1,c90
-r1717,3,"^Beer$","1","",1,c90
-r1718,3,"^Sparkling Wine \(e\.g\., Korbel, Andre, Mumm, Chandon\)$","1","",1,c90
-r1719,3,"^Hard seltzer \(e\.g\., Truly, White Claw\)$","1","",1,c90
-r1720,3,"^Rosé still/table wine$","1","",1,c90
-r1721,3,"^Tequila/Mezcal \(e\.g\., Patron, Cuervo\)$","1","",1,c90
-r1722,3,"^Gin \(e\.g\., Tanqueray, Hendrick’s\)$","1","",1,c90
-r1723,3,"^Red still/table wine$","1","",1,c90
-r1724,3,"^White still/table wine$","1","",1,c90
-r1725,3,"^Pre-made ready to drink cocktails$","1","",1,c90
-r1726,3,"^Vodka \(e\.g\., Smirnoff, Tito’s, Grey Goose\)$","1","",1,c90
-r1727,3,"^Rum \(e\.g\., Bacardi, Captain Morgan\)$","1","",1,c90
-r1728,3,"^\$51-\$100$","1","",1,c90
-r1729,3,"^Once every week$","1","",1,c90
-r1730,3,"^At celebrations$","1","",1,c90
-r1731,3,"^A romantic occasion with a partner$","1","",1,c90
-r1732,3,"^When going out to eat for dinner$","1","",1,c90
-r1733,3,"^Minuty$","1","",1,c90
-r1734,3,"^Liquor store chain \(e\.g\., Total Wine & More, BevMo\)$","1","",1,c90
-r1735,3,"^I am willing to spend more on a bottle of wine to treat myself$","1","",1,c90
-r1736,3,"^I am willing to spend more on a bottle of wine to impress others$","1","",1,c90
-r1737,3,"^I am willing to spend more on a bottle of wine since it is a gift$","1","",1,c90
-r1738,3,"^Brand name$","1","",1,c90
-r1739,3,"^In-store samples$","1","",1,c90
-r1740,3,"^Celebrity endorsements$","1","",1,c90
-r1741,3,"^In the cold box / refrigerated case$","1","",1,c90
-r1742,3,"^Product displays$","1","",1,c90
-r1743,3,"^Size of bottle$","1","",1,c90
-r1744,3,"^Flavor/variety options$","1","",1,c90
-r1745,3,"^Product reviews$","1","",1,c90
-r1746,3,"^Alcohol content/proof$","1","",1,c90
-r1747,3,"^The liquid in the bottle looks appealing$","1","",1,c90
-r1748,3,"^If I like the label design$","1","",1,c90
-r1749,3,"^White / Caucasian$","1","",1,c90
-r1750,3,"^Healthy - Money left at the end of the month for a few luxuries, or to add to savings$","1","",1,c90
-r1751,3,"^\$100,000 - \$149,999$","1","",1,c90
-r1752,3,"^IL - Illinois$","1","",1,c90
-r1753,3,"^Green bricks$","1","",1,c90
 r85,3,"^25-34$","1","",1,c3
 r86,3,"^\$100,000 to \$125,000$","1","",1,c3
 r356,3,"^\$100,000 - \$149,999$","1","",1,c3
@@ -2553,6 +2509,51 @@ r1543,3,"^Soy sauce$","1","",1,c19
 r1544,3,"^Fermented alcoholic beverages \(e\.g\., beer, wine\)$","1","",1,c19
 r1545,3,"^No - I would not like to participate$","1","",1,c19
 r2605,3,"these brands","1","",1,c19
+r1710,3,"^Yes, I do drink alcoholic beverages$","1","",1,c90
+r1711,3,"^Tea$","1","",1,c90
+r1712,3,"^Bottled water$","1","",1,c90
+r1713,3,"^Energy drinks$","1","",1,c90
+r1714,3,"^Alcohol beverages \(spirits/liquor, champagne, wine, beer, etc\.\)$","1","",1,c90
+r1715,3,"^Smoothies \(fruit or vegetable drinks\)$","1","",1,c90
+r1716,3,"^Coffee$","1","",1,c90
+r1717,3,"^Beer$","1","",1,c90
+r1718,3,"^Sparkling Wine \(e\.g\., Korbel, Andre, Mumm, Chandon\)$","1","",1,c90
+r1719,3,"^Hard seltzer \(e\.g\., Truly, White Claw\)$","1","",1,c90
+r1720,3,"^Rosé still/table wine$","1","",1,c90
+r1721,3,"^Tequila/Mezcal \(e\.g\., Patron, Cuervo\)$","1","",1,c90
+r1722,3,"^Gin \(e\.g\., Tanqueray, Hendrick’s\)$","1","",1,c90
+r1723,3,"^Red still/table wine$","1","",1,c90
+r1724,3,"^White still/table wine$","1","",1,c90
+r1725,3,"^Pre-made ready to drink cocktails$","1","",1,c90
+r1726,3,"^Vodka \(e\.g\., Smirnoff, Tito’s, Grey Goose\)$","1","",1,c90
+r1727,3,"^Rum \(e\.g\., Bacardi, Captain Morgan\)$","1","",1,c90
+r1728,3,"^\$51-\$100$","1","",1,c90
+r1729,3,"^Once every week$","1","",1,c90
+r1730,3,"^At celebrations$","1","",1,c90
+r1731,3,"^A romantic occasion with a partner$","1","",1,c90
+r1732,3,"^When going out to eat for dinner$","1","",1,c90
+r1733,3,"^Minuty$","1","",1,c90
+r1734,3,"^Liquor store chain \(e\.g\., Total Wine & More, BevMo\)$","1","",1,c90
+r1735,3,"^I am willing to spend more on a bottle of wine to treat myself$","1","",1,c90
+r1736,3,"^I am willing to spend more on a bottle of wine to impress others$","1","",1,c90
+r1737,3,"^I am willing to spend more on a bottle of wine since it is a gift$","1","",1,c90
+r1738,3,"^Brand name$","1","",1,c90
+r1739,3,"^In-store samples$","1","",1,c90
+r1740,3,"^Celebrity endorsements$","1","",1,c90
+r1741,3,"^In the cold box / refrigerated case$","1","",1,c90
+r1742,3,"^Product displays$","1","",1,c90
+r1743,3,"^Size of bottle$","1","",1,c90
+r1744,3,"^Flavor/variety options$","1","",1,c90
+r1745,3,"^Product reviews$","1","",1,c90
+r1746,3,"^Alcohol content/proof$","1","",1,c90
+r1747,3,"^The liquid in the bottle looks appealing$","1","",1,c90
+r1748,3,"^If I like the label design$","1","",1,c90
+r1749,3,"^White / Caucasian$","1","",1,c90
+r1750,3,"^Healthy - Money left at the end of the month for a few luxuries, or to add to savings$","1","",1,c90
+r1751,3,"^\$100,000 - \$149,999$","1","",1,c90
+r1752,3,"^IL - Illinois$","1","",1,c90
+r1753,3,"^Green bricks$","1","",1,c90
+r2606,3,"Healthy","1","",1,c90
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
