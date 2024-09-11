@@ -2614,48 +2614,6 @@ r1200,3,"^Yes I have served carbonated soft drinks to my family in the past 3 mo
 r1201,3,"^Agree$","1","",1,c60
 r1268,3,"^Yes I have brewed and consumed iced tea brewed from tea bags in the past 3 months$","1","",1,c60
 r2859,3,"^I would purchase all of the above iced tea brands$","1","",1,c60
-r857,3,"^\$3,000 or more$","1","",1,c41
-r858,3,"^Personal loan from a bank/financial institution$","1","",1,c41
-r859,3,"^Debit card from a bank/financial institution$","1","",1,c41
-r860,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal\)$","1","",1,c41
-r861,3,"^""Buy Now, Pay Later"" service \(e\.g\., Klarna, Affirm\)$","1","",1,c41
-r862,3,"^Mobile/digital wallet \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c41
-r863,3,"^Savings account from a bank/financial institution$","1","",1,c41
-r864,3,"^Credit card from a bank/financial institution$","1","",1,c41
-r865,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1,c41
-r866,3,"^Very open$","1","",1,c41
-r867,3,"^IKEA$","1","",1,c41
-r868,3,"^Target$","1","",1,c41
-r869,3,"^Amazon$","1","",1,c41
-r870,3,"^Walmart$","1","",1,c41
-r871,3,"^The Home Depot$","1","",1,c41
-r872,3,"^Within the past month$","1","",1,c41
-r873,3,"^I have a Home Depot credit card$","1","",1,c41
-r874,3,"^Lamp$","1","",1,c41
-r875,3,"^Pink, Light Blue, Dark Blue$","1","",1,c41
-r2172,3,"^Outdoor garden or bed with edible plants \(i\.e\., vegetables, fruits, herbs, etc\.\)$","1","",1,c41
-r2173,3,"^Outdoor entertainment spaces \(i\.e\., deck, patio, firepit, tables, etc\.\)$","1","",1,c41
-r2174,3,"^Grass lawn \(full or partial\)$","1","",1,c41
-r2175,3,"^Handyman or repair services \(e\.g\., plumbing, electrical, general repairs\)$","1","",1,c41
-r2176,3,"^Home Cleaning Products$","1","",1,c41
-r2177,3,"^A few times a month$","1","",1,c41
-r2178,3,"^Spectracide$","1","",1,c41
-r2179,3,"^Off$","1","",1,c41
-r2180,3,"^Kitchen \(counters, stove tops and other raised surfaces\)$","1","",1,c41
-r2181,3,"^Multipurpose Cleaner \(general surfaces, multiple areas\)$","1","",1,c41
-r2182,3,"^Bathrooms \(toilet, bathtub, sinks, etc\.\)$","1","",1,c41
-r2183,3,"^Outdoor Cleaner \(patio, deck, driveway, etc\.\)$","1","",1,c41
-r2184,3,"^Reflective Surfaces \(glass features, windows, mirrors, etc\.\)$","1","",1,c41
-r2185,3,"^Clorox$","1","",1,c41
-r2186,3,"^Own$","1","",1,c41
-r2604,3,"^I am primarily responsible for shopping for my household$","1","",1,c41
-r2809,3,"^Single-family detached home under 2,000 square feet$","1","",1,c41
-r2810,3,"^Children aged 0-12$","1","",1,c41
-r2811,3,"^Teenagers aged 13-17$","1","",1,c41
-r2812,3,"^Adults aged 25-44$","1","",1,c41
-r2813,3,"^Pets - Dogs$","1","",1,c41
-r2814,3,"^Pets - Cats$","1","",1,c41
-r2860,3,"^I am primarily responsible for purchasing grocery items$","1","",1,c41
 r1297,3,"^Both online and in-store$","1","",1,c68
 r1298,3,"^Delivery$","1","",1,c68
 r1299,3,"^Through UberEats$","1","",1,c68
@@ -2674,55 +2632,7 @@ r966,3,"^Target\.com$","1","",1,c50
 r967,3,"^Uber Eats Grocery or Convenience \(Not including Restaurant Delivery\)$","1","",1,c50
 r968,3,"^Walmart\.com$","1","",1,c50
 r2862,3,"^Target$","1","",1,c50
-r101,3,"^Smartphone$","1","",1,c5
-r102,3,"^Smartwatch$","1","",1,c5
-r103,3,"^Laptop / desktop computer$","1","",1,c5
-r104,3,"^Tablet$","1","",1,c5
-r105,3,"^Apple$","1","",1,c5
-r106,3,"^No$","1","",1,c5
-r1028,3,"detached house","1","",1,c5
-r1029,3,"^Grass Lawn$","1","",1,c5
-r1030,3,"^Outdoor Garden/Plants \(flowers, vegetables, herbs, etc\.\)$","1","",1,c5
-r1031,3,"^Garage \(fully enclosed\)$","1","",1,c5
-r1032,3,"^Bathroom$","1","",1,c5
-r1033,3,"^Basement$","1","",1,c5
-r1034,3,"^Fence$","1","",1,c5
-r1035,3,"^Driveway$","1","",1,c5
-r1036,3,"^Sidewalk/walkway$","1","",1,c5
-r1037,3,"^I am solely responsible for my home's lawn maintenance$","1","",1,c5
-r1038,3,"^Lawnmower$","1","",1,c5
-r1225,3,"^You$","1","",1,c5
-r1226,3,"^\$100,000-\$149,999$","1","",1,c5
-r1227,3,"^Own$","1","",1,c5
-r1228,3,"^I'm more than able to make ends meet each month and am learning or already know how to maximize the value of my money\.$","1","",1,c5
-r1229,3,"^The same$","1","",1,c5
-r1230,3,"^660 to 719$","1","",1,c5
-r1231,3,"^Quarterly$","1","",1,c5
-r1233,3,"^Haven’t used but familiar$","1","",1,c5
-r1234,3,"^I don't use this company$","1","",1,c5
-r1235,3,"^I am certain Credit Karma does offer this$","1","",1,c5
-r1236,3,"^Credit Card$","1","",1,c5
-r1237,3,"^Personal Loan / Line of Credit$","1","",1,c5
-r1238,3,"^Savings Account / Money Market$","1","",1,c5
-r1239,3,"^Checking Account$","1","",1,c5
-r1240,3,"^Cryptocurrency holdings in any exchange platform \(e\.g\., Coinbase, Binance, etc\.\)$","1","",1,c5
-r1241,3,"^Debit Card$","1","",1,c5
-r1242,3,"^Improving your credit score$","1","",1,c5
-r1243,3,"^Becoming financially stable$","1","",1,c5
-r1244,3,"^Setting up an emergency fund$","1","",1,c5
-r1245,3,"^Saving for retirement$","1","",1,c5
-r1246,3,"^Growing your savings or investments$","1","",1,c5
-r1247,3,"^Apply for a credit card$","1","",1,c5
-r1248,3,"^File your taxes online$","1","",1,c5
-r1249,3,"^Somewhat likely$","1","",1,c5
-r2863,3,"^Online \(e\.g\., Amazon, Fresh Direct\)$","1","",1,c5
-r2864,3,"^Club stores \(e\.g\., Sam’s Club, BJ’s, Costco\)$","1","",1,c5
-r2865,3,"^Convenience stores \(e\.g\., Wawa, 7Eleven\)$","1","",1,c5
-r2866,3,"^Grocery stores$","1","",1,c5
-r2867,3,"^Dollar stores \(e\.g\., Family Dollar, Dollar General\)$","","",1,c5
-r2868,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c5
 r645,3,"^Several times a week$","1","",1,c32
-r,0,"input\[_ngcontent-rcv-c77\]","400","",1,c32
 r2869,3,"^Iced and sprinkled$","1","",1,c32
 r341,3,"^Sports Drinks \(e\.g\., Gatorade, Powerade, BodyArmor\)$","1","",1,c19
 r342,3,"^Carbonated soft drinks \(e\.g\. Coca Cola, A&W Root Beer, Pepsi\)$","1","",1,c19
@@ -2827,6 +2737,134 @@ r2870,3,"^13 or older$","1","",1,c19
 r2871,3,"^10$","1","",1,c19
 r2872,3,"^Yes$","1","",1,c19
 r2873,3,"^Green bricks$","1","",1,c19
+r857,3,"^\$3,000 or more$","1","",1,c41
+r858,3,"^Personal loan from a bank/financial institution$","1","",1,c41
+r859,3,"^Debit card from a bank/financial institution$","1","",1,c41
+r860,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal\)$","1","",1,c41
+r861,3,"^""Buy Now, Pay Later"" service \(e\.g\., Klarna, Affirm\)$","1","",1,c41
+r862,3,"^Mobile/digital wallet \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c41
+r863,3,"^Savings account from a bank/financial institution$","1","",1,c41
+r864,3,"^Credit card from a bank/financial institution$","1","",1,c41
+r865,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1,c41
+r866,3,"^Very open$","1","",1,c41
+r867,3,"^IKEA$","1","",1,c41
+r868,3,"^Target$","1","",1,c41
+r869,3,"^Amazon$","1","",1,c41
+r870,3,"^Walmart$","1","",1,c41
+r871,3,"^The Home Depot$","1","",1,c41
+r872,3,"^Within the past month$","1","",1,c41
+r873,3,"^I have a Home Depot credit card$","1","",1,c41
+r874,3,"^Lamp$","1","",1,c41
+r875,3,"^Pink, Light Blue, Dark Blue$","1","",1,c41
+r2172,3,"^Outdoor garden or bed with edible plants \(i\.e\., vegetables, fruits, herbs, etc\.\)$","1","",1,c41
+r2173,3,"^Outdoor entertainment spaces \(i\.e\., deck, patio, firepit, tables, etc\.\)$","1","",1,c41
+r2174,3,"^Grass lawn \(full or partial\)$","1","",1,c41
+r2175,3,"^Handyman or repair services \(e\.g\., plumbing, electrical, general repairs\)$","1","",1,c41
+r2176,3,"^Home Cleaning Products$","1","",1,c41
+r2177,3,"^A few times a month$","1","",1,c41
+r2178,3,"^Spectracide$","1","",1,c41
+r2179,3,"^Off$","1","",1,c41
+r2180,3,"^Kitchen \(counters, stove tops and other raised surfaces\)$","1","",1,c41
+r2181,3,"^Multipurpose Cleaner \(general surfaces, multiple areas\)$","1","",1,c41
+r2182,3,"^Bathrooms \(toilet, bathtub, sinks, etc\.\)$","1","",1,c41
+r2183,3,"^Outdoor Cleaner \(patio, deck, driveway, etc\.\)$","1","",1,c41
+r2184,3,"^Reflective Surfaces \(glass features, windows, mirrors, etc\.\)$","1","",1,c41
+r2185,3,"^Clorox$","1","",1,c41
+r2186,3,"^Own$","1","",1,c41
+r2604,3,"^I am primarily responsible for shopping for my household$","1","",1,c41
+r2809,3,"^Single-family detached home under 2,000 square feet$","1","",1,c41
+r2810,3,"^Children aged 0-12$","1","",1,c41
+r2811,3,"^Teenagers aged 13-17$","1","",1,c41
+r2812,3,"^Adults aged 25-44$","1","",1,c41
+r2813,3,"^Pets - Dogs$","1","",1,c41
+r2814,3,"^Pets - Cats$","1","",1,c41
+r2860,3,"^I am primarily responsible for purchasing grocery items$","1","",1,c41
+r2874,3,"^Online \(e\.g\., Amazon, Fresh Direct\)$","1","",1,c41
+r2875,3,"^Convenience stores \(e\.g\., Wawa, 7Eleven\)$","1","",1,c41
+r2876,3,"^Club stores \(e\.g\., Sam’s Club, BJ’s, Costco\)$","1","",1,c41
+r2877,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c41
+r2878,3,"^Sam’s Club$","1","",1,c41
+r2879,3,"^Costco$","1","",1,c41
+r2880,3,"^Nuts/Mixed nuts/Trail mix$","1","",1,c41
+r2881,3,"^Vegetables$","1","",1,c41
+r2882,3,"^Salty snacks \(e\.g\., chips, cheese puffs, pretzels\)$","1","",1,c41
+r2883,3,"^Snack bars \(e\.g\., granola bars, protein bars, cereal bars\)$","1","",1,c41
+r2884,3,"^Fruit$","1","",1,c41
+r2885,3,"^Bottled non-alcoholic beverages$","1","",1,c41
+r2886,3,"^Crackers$","1","",1,c41
+r2887,3,"^Dips \(e\.g\., ranch, queso, bean\)$","1","",1,c41
+r2888,3,"^Meat$","1","",1,c41
+r2889,3,"^Fruit snacks$","1","",1,c41
+r2890,3,"^Cookies$","1","",1,c41
+r2891,3,"^Canned goods$","1","",1,c41
+r2892,3,"^Pastries$","1","",1,c41
+r2893,3,"^Single-serve size for individual consumption$","1","",1,c41
+r2894,3,"^Multipack/Straight pack of same flavor \(i\.e\., a pack with multiple bags of the same item\)$","1","",1,c41
+r2895,3,"^Lays$","1","",1,c41
+r2896,3,"^Doritos$","1","",1,c41
+r2897,3,"^Ruffles$","1","",1,c41
+r2898,3,"^Cheetos$","1","",1,c41
+r2899,3,"^Tostitos$","1","",1,c41
+r101,3,"^Smartphone$","1","",1,c5
+r102,3,"^Smartwatch$","1","",1,c5
+r103,3,"^Laptop / desktop computer$","1","",1,c5
+r104,3,"^Tablet$","1","",1,c5
+r105,3,"^Apple$","1","",1,c5
+r106,3,"^No$","1","",1,c5
+r1028,3,"detached house","1","",1,c5
+r1029,3,"^Grass Lawn$","1","",1,c5
+r1030,3,"^Outdoor Garden/Plants \(flowers, vegetables, herbs, etc\.\)$","1","",1,c5
+r1031,3,"^Garage \(fully enclosed\)$","1","",1,c5
+r1032,3,"^Bathroom$","1","",1,c5
+r1033,3,"^Basement$","1","",1,c5
+r1034,3,"^Fence$","1","",1,c5
+r1035,3,"^Driveway$","1","",1,c5
+r1036,3,"^Sidewalk/walkway$","1","",1,c5
+r1037,3,"^I am solely responsible for my home's lawn maintenance$","1","",1,c5
+r1038,3,"^Lawnmower$","1","",1,c5
+r1225,3,"^You$","1","",1,c5
+r1226,3,"^\$100,000-\$149,999$","1","",1,c5
+r1227,3,"^Own$","1","",1,c5
+r1228,3,"^I'm more than able to make ends meet each month and am learning or already know how to maximize the value of my money\.$","1","",1,c5
+r1229,3,"^The same$","1","",1,c5
+r1230,3,"^660 to 719$","1","",1,c5
+r1231,3,"^Quarterly$","1","",1,c5
+r1233,3,"^Haven’t used but familiar$","1","",1,c5
+r1234,3,"^I don't use this company$","1","",1,c5
+r1235,3,"^I am certain Credit Karma does offer this$","1","",1,c5
+r1236,3,"^Credit Card$","1","",1,c5
+r1237,3,"^Personal Loan / Line of Credit$","1","",1,c5
+r1238,3,"^Savings Account / Money Market$","1","",1,c5
+r1239,3,"^Checking Account$","1","",1,c5
+r1240,3,"^Cryptocurrency holdings in any exchange platform \(e\.g\., Coinbase, Binance, etc\.\)$","1","",1,c5
+r1241,3,"^Debit Card$","1","",1,c5
+r1242,3,"^Improving your credit score$","1","",1,c5
+r1243,3,"^Becoming financially stable$","1","",1,c5
+r1244,3,"^Setting up an emergency fund$","1","",1,c5
+r1245,3,"^Saving for retirement$","1","",1,c5
+r1246,3,"^Growing your savings or investments$","1","",1,c5
+r1247,3,"^Apply for a credit card$","1","",1,c5
+r1248,3,"^File your taxes online$","1","",1,c5
+r1249,3,"^Somewhat likely$","1","",1,c5
+r2863,3,"^Online \(e\.g\., Amazon, Fresh Direct\)$","1","",1,c5
+r2864,3,"^Club stores \(e\.g\., Sam’s Club, BJ’s, Costco\)$","1","",1,c5
+r2865,3,"^Convenience stores \(e\.g\., Wawa, 7Eleven\)$","1","",1,c5
+r2866,3,"^Grocery stores$","1","",1,c5
+r2867,3,"^Dollar stores \(e\.g\., Family Dollar, Dollar General\)$","","",1,c5
+r2868,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c5
+r2901,3,"^Costco$","1","",1,c5
+r2902,3,"^Sam’s Club$","1","",1,c5
+r2903,3,"^Nuts/Mixed nuts/Trail mix$","1","",1,c5
+r2904,3,"^Café \(e\.g\., pizza, hot dog, pretzel, sundae, beverage\)$","1","",1,c5
+r2905,3,"^Snack bars \(e\.g\., granola bars, protein bars, cereal bars\)$","","",1,c5
+r2906,3,"^Dips \(e\.g\., ranch, queso, bean\)$","1","",1,c5
+r2907,3,"^Bottled non-alcoholic beverages$","1","",1,c5
+r2908,3,"^Salty snacks \(e\.g\., chips, cheese puffs, pretzels\)$","1","",1,c5
+r2909,3,"^Cookies$","1","",1,c5
+r2910,3,"^Canned goods$","1","",1,c5
+r2911,3,"^Beverage$","1","",1,c5
+r2912,3,"^Pizza slice$","1","",1,c5
+r2913,3,"^Pretzel$","1","",1,c5
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
@@ -2834,7 +2872,7 @@ textclips,"[]",,,,,
 variables,"[]",,,,,
 activecat,1,,,,,
 attributesoff,0,,,,,
-autoimport,0,https://raw.githubusercontent.com/diturz/Autofill/main/Autofill.csv,,,,
+autoimport,0,,,,,
 backup,0,30,,,,
 badge,1,,,,,
 closeinfobar,1,1,,,,
