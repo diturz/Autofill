@@ -131,6 +131,9 @@ c132,"All About Technology!","","",,,
 c133,"Questions about Grocery Shopping","","",,,
 c134,"iPhone Survey","","",,,
 c135,"Product Usage Survey","","",,,
+c136,"Tell us about your health & wellness.","","",,,
+c137,"Some questions for you!","crowdtap.com/dashboard","",,,
+c138,"Shopping!","","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
@@ -1093,58 +1096,6 @@ r1393,3,"^Grand Theft Auto V$","1","",1,c23
 r1394,3,"^Minecraft$","1","",1,c23
 r1395,3,"^Fortnite$","1","",1,c23
 r1396,3,"^MyTeam$","1","",1,c23
-r311,3,"^Headaches$","1","",1,c17
-r312,3,"^Fever$","1","",1,c17
-r313,3,"^Topical pain relief \(e\.g\., creams, patches\)$","1","",1,c17
-r314,3,"^Headache-specific relief products \(e\.g\., migraine tablets\)$","1","",1,c17
-r315,3,"^Over-the-counter pain relief products \(e\.g\., ibuprofen, acetaminophen, etc\.\)$","1","",1,c17
-r316,3,"^Packaging and ease of use$","1","",1,c17
-r317,3,"^Recommendation from a healthcare professional$","1","",1,c17
-r318,3,"^Brand reputation and trust$","1","",1,c17
-r319,3,"^3$","1","For quality purposes, how many times does the letter “r” appear in “Strawberry”?",1,c17
-r601,3,"^Wellness Report$","1","",1,c17
-r602,3,"^Activity tracking$","1","",1,c17
-r603,3,"^Stress Management Score & details$","1","",1,c17
-r604,3,"^Daily$","1","",1,c17
-r605,3,"^A few days$","1","",1,c17
-r606,3,"^White$","1","",1,c17
-r607,3,"^Yes$","1","",1,c17
-r608,3,"^Apple iPhone$","1","",1,c17
-r609,3,"^2023$","1","",1,c17
-r610,3,"^\$1200\+$","1","",1,c17
-r611,3,"^Baseball$","1","",1,c17
-r612,3,"^Basketball$","1","",1,c17
-r613,3,"^American Football$","1","",1,c17
-r614,3,"^Soccer / Football$","1","",1,c17
-r949,3,"^No, but I’m Interested$","1","",1,c17
-r950,3,"^25-34$","1","",1,c17
-r951,3,"^Male$","1","",1,c17
-r952,3,"^Doctorate or professional degree$","1","",1,c17
-r953,3,"^Employed full time$","1","",1,c17
-r1261,3,"^iOS$","1","",1,c17
-r1262,3,"^Apple Photos$","1","",1,c17
-r1263,3,"^Gmail$","1","",1,c17
-r1264,3,"^Google Drive$","1","",1,c17
-r1265,3,"^YouTube$","1","",1,c17
-r1266,3,"^In the last week$","1","",1,c17
-r1397,3,"^Play video games$","1","",1,c17
-r1398,3,"^Go grocery shopping$","1","",1,c17
-r1399,3,"^Watch TV$","1","",1,c17
-r1400,3,"^Post on social media$","1","",1,c17
-r1401,3,"^Drink alcohol$","1","",1,c17
-r1402,3,"^Go to the gym$","1","",1,c17
-r1403,3,"^Drink water$","1","",1,c17
-r1404,3,"^Use a printer$","1","",1,c17
-r1405,3,"^Order something on Amazon$","1","",1,c17
-r1406,3,"^Cable or satellite TV$","1","",1,c17
-r1407,3,"^Live TV Streaming \(YouTube TV, Hulu\+ Live TV, etc\.\)$","1","",1,c17
-r1408,3,"^Subscription streaming services \(Netflix, Prime, MAX, etc\.\)$","1","",1,c17
-r1409,3,"^Watching pay-per-view content$","1","",1,c17
-r1410,3,"^Watching whatever my favorite few channels have on$","1","",1,c17
-r1411,3,"^Leaving the TV on for background noise$","1","",1,c17
-r1412,3,"^Watching live sports or specific events live$","","",1,c17
-r1413,3,"^Going directly to specific shows I know are live$","1","",1,c17
-r1414,3,"^A few times a week$","1","",1,c17
 r1415,3,"^National Grocery Store \(e\.g\., Albertson’s, Kroger or HEB\)$","1","",1,c76
 r1416,3,"^Club Store \(e\.g\., Sam’s Club or Costco\)$","1","",1,c76
 r1417,3,"^Convenience Store / Gas Station Store \(e\.g\., 7-Eleven\)$","1","",1,c76
@@ -2157,41 +2108,6 @@ r899,3,"^Antacids or digestive/heartburn relief \(Tums, Alka-Seltzer etc\.\)$","
 r900,3,"^Topical pain medication \(Bengay, Icy-Hot, etc\.\)$","1","",1,c45
 r901,3,"^Allergy medicine \(Zyrtec, Allegra, etc\.\)$","1","",1,c45
 r902,3,"^Alka-Seltzer$","1","",1,c45
-r857,3,"^\$3,000 or more$","1","",1,c41
-r858,3,"^Personal loan from a bank/financial institution$","1","",1,c41
-r859,3,"^Debit card from a bank/financial institution$","1","",1,c41
-r860,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal\)$","1","",1,c41
-r861,3,"^""Buy Now, Pay Later"" service \(e\.g\., Klarna, Affirm\)$","1","",1,c41
-r862,3,"^Mobile/digital wallet \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c41
-r863,3,"^Savings account from a bank/financial institution$","1","",1,c41
-r864,3,"^Credit card from a bank/financial institution$","1","",1,c41
-r865,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1,c41
-r866,3,"^Very open$","1","",1,c41
-r867,3,"^IKEA$","1","",1,c41
-r868,3,"^Target$","1","",1,c41
-r869,3,"^Amazon$","1","",1,c41
-r870,3,"^Walmart$","1","",1,c41
-r871,3,"^The Home Depot$","1","",1,c41
-r872,3,"^Within the past month$","1","",1,c41
-r873,3,"^I have a Home Depot credit card$","1","",1,c41
-r874,3,"^Lamp$","1","",1,c41
-r875,3,"^Pink, Light Blue, Dark Blue$","1","",1,c41
-r2172,3,"^Outdoor garden or bed with edible plants \(i\.e\., vegetables, fruits, herbs, etc\.\)$","1","",1,c41
-r2173,3,"^Outdoor entertainment spaces \(i\.e\., deck, patio, firepit, tables, etc\.\)$","1","",1,c41
-r2174,3,"^Grass lawn \(full or partial\)$","1","",1,c41
-r2175,3,"^Handyman or repair services \(e\.g\., plumbing, electrical, general repairs\)$","1","",1,c41
-r2176,3,"^Home Cleaning Products$","1","",1,c41
-r2177,3,"^A few times a month$","1","",1,c41
-r2178,3,"^Spectracide$","1","",1,c41
-r2179,3,"^Off$","1","",1,c41
-r2180,3,"^Kitchen \(counters, stove tops and other raised surfaces\)$","1","",1,c41
-r2181,3,"^Multipurpose Cleaner \(general surfaces, multiple areas\)$","1","",1,c41
-r2182,3,"^Bathrooms \(toilet, bathtub, sinks, etc\.\)$","1","",1,c41
-r2183,3,"^Outdoor Cleaner \(patio, deck, driveway, etc\.\)$","1","",1,c41
-r2184,3,"^Reflective Surfaces \(glass features, windows, mirrors, etc\.\)$","1","",1,c41
-r2185,3,"^Clorox$","1","",1,c41
-r2186,3,"^Own$","1","",1,c41
-r2604,3,"^I am primarily responsible for shopping for my household$","1","",1,c41
 r101,3,"^Smartphone$","1","",1,c5
 r102,3,"^Smartwatch$","1","",1,c5
 r103,3,"^Laptop / desktop computer$","1","",1,c5
@@ -2733,6 +2649,172 @@ r2775,3,"^Multivitamin$","1","",1,c135
 r2776,3,"^Condoms$","1","",1,c135
 r2777,3,"^Laundry detergent$","1","",1,c135
 r2778,3,"^Mouthwash/Oral Rinse$","1","",1,c135
+r2780,3,"^I do most/all the laundry myself$","1","",1,c135
+r2781,3,"^At home$","1","",1,c135
+r2783,3,"^I am primarily responsible for buying groceries for my household\.$","1","",1,c136
+r2784,3,"^Kroger \(includes City Market, Dillons, Fred Meyer, Fry’s, Harris Teeter, King Soopers, QFC, Ralphs, Roundy’s/Mariano’s, Smith’s\)$","1","",1,c136
+r2785,3,"^Amazon \(includes Amazon Fresh and Amazon Prime\)$","1","",1,c136
+r2786,3,"^Walmart$","1","",1,c136
+r2787,3,"^Whole Foods$","1","",1,c136
+r2788,3,"^I would shop at all of the above$","1","",1,c136
+r2789,3,"^CVS$","1","",1,c136
+r2790,3,"^Walmart Pharmacy$","1","",1,c136
+r2791,3,"^Target Pharmacy \(CVS\)$","1","",1,c136
+r2792,3,"^At least once a month$","1","",1,c136
+r311,3,"^Headaches$","1","",1,c17
+r312,3,"^Fever$","1","",1,c17
+r313,3,"^Topical pain relief \(e\.g\., creams, patches\)$","1","",1,c17
+r314,3,"^Headache-specific relief products \(e\.g\., migraine tablets\)$","1","",1,c17
+r315,3,"^Over-the-counter pain relief products \(e\.g\., ibuprofen, acetaminophen, etc\.\)$","1","",1,c17
+r316,3,"^Packaging and ease of use$","1","",1,c17
+r317,3,"^Recommendation from a healthcare professional$","1","",1,c17
+r318,3,"^Brand reputation and trust$","1","",1,c17
+r319,3,"^3$","1","For quality purposes, how many times does the letter “r” appear in “Strawberry”?",1,c17
+r601,3,"^Wellness Report$","1","",1,c17
+r602,3,"^Activity tracking$","1","",1,c17
+r603,3,"^Stress Management Score & details$","1","",1,c17
+r604,3,"^Daily$","1","",1,c17
+r605,3,"^A few days$","1","",1,c17
+r606,3,"^White$","1","",1,c17
+r607,3,"^Yes$","1","",1,c17
+r608,3,"^Apple iPhone$","1","",1,c17
+r609,3,"^2023$","1","",1,c17
+r610,3,"^\$1200\+$","1","",1,c17
+r611,3,"^Baseball$","1","",1,c17
+r612,3,"^Basketball$","1","",1,c17
+r613,3,"^American Football$","1","",1,c17
+r614,3,"^Soccer / Football$","1","",1,c17
+r949,3,"^No, but I’m Interested$","1","",1,c17
+r950,3,"^25-34$","1","",1,c17
+r951,3,"^Male$","1","",1,c17
+r952,3,"^Doctorate or professional degree$","1","",1,c17
+r953,3,"^Employed full time$","1","",1,c17
+r1261,3,"^iOS$","1","",1,c17
+r1262,3,"^Apple Photos$","1","",1,c17
+r1263,3,"^Gmail$","1","",1,c17
+r1264,3,"^Google Drive$","1","",1,c17
+r1265,3,"^YouTube$","1","",1,c17
+r1266,3,"^In the last week$","1","",1,c17
+r1397,3,"^Play video games$","1","",1,c17
+r1398,3,"^Go grocery shopping$","1","",1,c17
+r1399,3,"^Watch TV$","1","",1,c17
+r1400,3,"^Post on social media$","1","",1,c17
+r1401,3,"^Drink alcohol$","1","",1,c17
+r1402,3,"^Go to the gym$","1","",1,c17
+r1403,3,"^Drink water$","1","",1,c17
+r1404,3,"^Use a printer$","1","",1,c17
+r1405,3,"^Order something on Amazon$","1","",1,c17
+r1406,3,"^Cable or satellite TV$","1","",1,c17
+r1407,3,"^Live TV Streaming \(YouTube TV, Hulu\+ Live TV, etc\.\)$","1","",1,c17
+r1408,3,"^Subscription streaming services \(Netflix, Prime, MAX, etc\.\)$","1","",1,c17
+r1409,3,"^Watching pay-per-view content$","1","",1,c17
+r1410,3,"^Watching whatever my favorite few channels have on$","1","",1,c17
+r1411,3,"^Leaving the TV on for background noise$","1","",1,c17
+r1412,3,"^Watching live sports or specific events live$","","",1,c17
+r1413,3,"^Going directly to specific shows I know are live$","1","",1,c17
+r1414,3,"^A few times a week$","1","",1,c17
+r2793,3,"^I am the primary decision-maker for choosing the internet service provider in my household\.$","1","",1,c17
+r2794,3,"^Dined out at a restaurant$","1","",1,c17
+r2795,3,"^Gone to a concert/festival$","1","",1,c17
+r2796,3,"^Gone to a movie theater$","1","",1,c17
+r2797,3,"^Gone to a sporting event$","1","",1,c17
+r2798,3,"^Played video games$","1","",1,c17
+r2799,3,"^Played board games$","1","",1,c17
+r2800,3,"^PC$","1","",1,c17
+r2801,3,"^11-20 hours a week$","1","",1,c17
+r2802,3,"^I play to compete with others$","1","",1,c17
+r2803,3,"^Verizon Fios$","1","",1,c17
+r857,3,"^\$3,000 or more$","1","",1,c41
+r858,3,"^Personal loan from a bank/financial institution$","1","",1,c41
+r859,3,"^Debit card from a bank/financial institution$","1","",1,c41
+r860,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal\)$","1","",1,c41
+r861,3,"^""Buy Now, Pay Later"" service \(e\.g\., Klarna, Affirm\)$","1","",1,c41
+r862,3,"^Mobile/digital wallet \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c41
+r863,3,"^Savings account from a bank/financial institution$","1","",1,c41
+r864,3,"^Credit card from a bank/financial institution$","1","",1,c41
+r865,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1,c41
+r866,3,"^Very open$","1","",1,c41
+r867,3,"^IKEA$","1","",1,c41
+r868,3,"^Target$","1","",1,c41
+r869,3,"^Amazon$","1","",1,c41
+r870,3,"^Walmart$","1","",1,c41
+r871,3,"^The Home Depot$","1","",1,c41
+r872,3,"^Within the past month$","1","",1,c41
+r873,3,"^I have a Home Depot credit card$","1","",1,c41
+r874,3,"^Lamp$","1","",1,c41
+r875,3,"^Pink, Light Blue, Dark Blue$","1","",1,c41
+r2172,3,"^Outdoor garden or bed with edible plants \(i\.e\., vegetables, fruits, herbs, etc\.\)$","1","",1,c41
+r2173,3,"^Outdoor entertainment spaces \(i\.e\., deck, patio, firepit, tables, etc\.\)$","1","",1,c41
+r2174,3,"^Grass lawn \(full or partial\)$","1","",1,c41
+r2175,3,"^Handyman or repair services \(e\.g\., plumbing, electrical, general repairs\)$","1","",1,c41
+r2176,3,"^Home Cleaning Products$","1","",1,c41
+r2177,3,"^A few times a month$","1","",1,c41
+r2178,3,"^Spectracide$","1","",1,c41
+r2179,3,"^Off$","1","",1,c41
+r2180,3,"^Kitchen \(counters, stove tops and other raised surfaces\)$","1","",1,c41
+r2181,3,"^Multipurpose Cleaner \(general surfaces, multiple areas\)$","1","",1,c41
+r2182,3,"^Bathrooms \(toilet, bathtub, sinks, etc\.\)$","1","",1,c41
+r2183,3,"^Outdoor Cleaner \(patio, deck, driveway, etc\.\)$","1","",1,c41
+r2184,3,"^Reflective Surfaces \(glass features, windows, mirrors, etc\.\)$","1","",1,c41
+r2185,3,"^Clorox$","1","",1,c41
+r2186,3,"^Own$","1","",1,c41
+r2604,3,"^I am primarily responsible for shopping for my household$","1","",1,c41
+r2809,3,"^Single-family detached home under 2,000 square feet$","1","",1,c41
+r2810,3,"^Children aged 0-12$","1","",1,c41
+r2811,3,"^Teenagers aged 13-17$","1","",1,c41
+r2812,3,"^Adults aged 25-44$","1","",1,c41
+r2813,3,"^Pets - Dogs$","1","",1,c41
+r2814,3,"^Pets - Cats$","1","",1,c41
+r,0,"input\[_ngcontent-fhf-c77\]","500","",1,c137
+r2804,3,"^AI-based customer support$","1","",1,c137
+r2805,3,"^Wealth management$","1","",1,c137
+r2806,3,"^Speed of service$","1","",1,c137
+r2807,3,"^24/7 availability$","1","",1,c137
+r2808,3,"^Personalization of services$","1","",1,c137
+r2815,3,"^Human financial advisors will remain essential in the next 10 years, despite AI advancements\.$","1","",1,c137
+r2816,3,"^Personal research$","1","",1,c137
+r2817,3,"^A useful tool but with limited applications$","1","",1,c137
+r2818,3,"^More likely to trust$","1","",1,c137
+r2819,3,"^Smartphone$","1","",1,c138
+r2820,3,"^Television$","1","",1,c138
+r2821,3,"^Laptop$","1","",1,c138
+r2822,3,"^Windows PC$","1","",1,c138
+r2823,3,"^Apple Mac \(MacBook, iMac, etc\.\)$","1","",1,c138
+r2824,3,"^Android Tablet \(Google Pixel Tablet, Samsung Galaxy Tab, etc\.\)$","1","",1,c138
+r2825,3,"^Apple iPad$","1","",1,c138
+r2826,3,"^Nintendo Switch / Switch Lite$","1","",1,c138
+r2827,3,"^Xbox Series X / S / Xbox One$","1","",1,c138
+r2828,3,"^PlayStation 4 / 5$","1","",1,c138
+r2829,3,"^Steam Deck$","1","",1,c138
+r2830,3,"^Apple iPhone$","1","",1,c138
+r2831,3,"^Shop for clothing/shoes/accessories$","1","",1,c138
+r2832,3,"^Shop for video game products/services$","1","",1,c138
+r2833,3,"^Shop for technology products/services$","1","",1,c138
+r2834,3,"^Shop for travel related products/services \(hotels, flights, rentals, etc\.\)$","1","",1,c138
+r2835,3,"^Order groceries for home delivery$","1","",1,c138
+r2836,3,"^I am the sole decision maker$","1","",1,c138
+r2837,3,"^Video games \(Call of Duty, Last of Us, Zelda, etc\.\)$","1","",1,c138
+r2838,3,"^Gaming accessories \(Controller, headset, etc\.\)$","1","",1,c138
+r2839,3,"^Game subscription \(PlayStation Plus, Xbox Game Pass, Apple Arcade, etc\.\)$","1","",1,c138
+r2840,3,"^Amazon$","1","",1,c138
+r2841,3,"^Best Buy$","1","",1,c138
+r2842,3,"^Microsoft Store$","1","",1,c138
+r2843,3,"^Steam$","1","",1,c138
+r2844,3,"^Nintendo$","1","",1,c138
+r2845,3,"^Google Store$","1","",1,c138
+r2846,3,"^Apple Store$","1","",1,c138
+r2847,3,"^Apple$","1","",1,c138
+r2848,3,"^LG$","1","",1,c138
+r2849,3,"^Google$","1","",1,c138
+r2850,3,"^Microsoft$","1","",1,c138
+r2851,3,"^Sony$","1","",1,c138
+r2852,3,"^HP \(Hewlett-Packard\)$","1","",1,c138
+r2853,3,"^Samsung$","1","",1,c138
+r2854,3,"^None of the above; I would consider all these brands$","1","",1,c138
+r2855,3,"^I’m extremely enthusiastic about new technology, I actively use AI, and I prioritize performance in tech even if it costs more\.$","1","",1,c138
+r2856,3,"^4784$","1","",1,c138
+r2857,3,"^8448$","1","",1,c138
+r2858,3,"^I would not like to participate$","1","",1,c138
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
