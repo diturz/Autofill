@@ -58,7 +58,6 @@ c58,"Let's talk about snacking!","","",,,
 c59,"Tell us about the wellness products you use.","","",,,
 c60,"A few questions about you...","","",,,
 c61,"Tell us about your Beverage Habits!","","",,,
-c62,"Your favorite brands","","",,,
 c64,"Your Online Grocery Shopping Behavior","","",,,
 c65,"Pizza Orders","","",,,
 c66,"Tell Us About You","","",,,
@@ -73,7 +72,6 @@ c74,"Burger Orders","","",,,
 c75,"A few questions about your sit down restaurant beverage pur","","",,,
 c76,"Beverages Study","","",,,
 c77,"Healthy beverage questions!","","",,,
-c78,"Let’s talk about TV!","","",,,
 c79,"Some questions about your lawn and garden care.","","",,,
 c80,"Taking care of your garden.","","",,,
 c81,"Let's talk about grocery shopping.","","",,,
@@ -87,12 +85,9 @@ c88,"Tell us about yourself and what you buy","","",,,
 c89,"Some questions about you and what you watch","","",,,
 c90,"We have a few questions for you!","","",,,
 c91,"A few questions for you!","","",,,
-c92,"We want to know your Rosé vibe!","","",,,
-c93,"Chips and Sodas","","",,,
 c94,"Home electronics are a part of our everyday lives!","","",,,
 c95,"We have a few questions about you!","","",,,
 c96,"Weight Loss Solutions","","",,,
-c97,"Let's talk about sweet snacks!","","",,,
 c98,"Let's talk about clothes!","","",,,
 c99,"Primary Home Water Source","","",,,
 c100,"Your Shopping Habits - Q3 2024 N","","",,,
@@ -149,6 +144,12 @@ c154,"Hobbies and Interests","","",,,
 c155,"Check out this new survey!","","",,,
 c156,"Frozen Buying Habits","","",,,
 c157,"Let's talk about what you eat and drink!","","",,,
+c158,"Questions about your home","","",,,
+c159,"This survey is about haircare products","","",,,
+c160,"Questions about your home!","","",,,
+c161,"Some questions about your face beauty products!","","",,,
+c162,"Getting to Know You!","","",,,
+c163,"Some questions about you.","","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
@@ -335,16 +336,6 @@ r337,3,"^Target$","1","",1,c18
 r338,3,"^Online$","1","",1,c18
 r339,3,"^Walmart$","1","",1,c18
 r340,3,"^Amazon$","1","",1,c18
-r397,3,"^Being open to new ideas and experiences$","1","",1,c20
-r398,3,"^Enjoying relationships that give my life meaning$","1","",1,c20
-r399,3,"^DESCRIBES ME: Authentic$","1","",1,c20
-r400,3,"^I like to cook or bake from scratch$","1","",1,c20
-r401,3,"^I cook for fun/enjoyment$","1","",1,c20
-r402,3,"^I cook or eat frozen meals/entrees$","1","",1,c20
-r403,3,"^I cook or bake from box mixes$","1","",1,c20
-r404,3,"^I feel responsible for helping my family to eat better$","1","",1,c20
-r405,3,"^I will go out of my way to find unique foods and drinks$","1","",1,c20
-r406,3,"^Cat$","1","",1,c20
 r414,3,"^I spend \$6 or more when I buy a tube of toothpaste$","1","",1,c22
 r442,3,"^Cat\(s\)$","1","",1,c24
 r443,3,"^Dog\(s\)$","","",1,c24
@@ -978,16 +969,6 @@ r1113,3,"^Hair cut/trim$","1","",1,c55
 r1114,3,"^4A$","1","",1,c55
 r1115,3,"^Male$","1","",1,c55
 r1116,3,"^Straight/Heterosexual$","1","",1,c55
-r1251,3,"^3-4 times per week$","1","",1,c62
-r1252,3,"^Running/Jogging$","1","",1,c62
-r1253,3,"^Gym workouts$","1","",1,c62
-r1254,3,"^Outdoor activities \(e\.g\., hiking, cycling\)$","1","",1,c62
-r1255,3,"^Nike$","1","",1,c62
-r1256,3,"^Adidas$","1","",1,c62
-r1257,3,"^The North Face$","1","",1,c62
-r1258,3,"^New Balance$","1","",1,c62
-r1259,3,"^Under Armour$","1","",1,c62
-r1260,3,"^Excellent$","1","",1,c62
 r1271,3,"^Both online and in-store$","1","",1,c64
 r1273,3,"^Costco\.com$","1","",1,c64
 r1275,3,"^Instacart$","1","",1,c64
@@ -1051,35 +1032,6 @@ r1377,3,"^Lipton Iced Tea$","1","",1,c65
 r1378,3,"^Sprite$","1","",1,c65
 r1379,3,"^Diet Pepsi$","1","",1,c65
 r1380,3,"^Pepsi Zero Sugar$","1","",1,c65
-r417,3,"^Bicycle$","1","",1,c23
-r418,3,"^House$","1","",1,c23
-r419,3,"^Car$","1","",1,c23
-r420,3,"^I am responsible for all decisions related to my car$","1","",1,c23
-r422,3,"^Carwash \(did it myself\)$","1","",1,c23
-r423,3,"^Carwash \(went to a car wash facility\)$","1","",1,c23
-r424,3,"^Changed the oil$","1","",1,c23
-r425,3,"^Take 5 Car Wash$","1","",1,c23
-r426,3,"^Zips Car Wash$","1","",1,c23
-r427,3,"^6\+ times$","1","",1,c23
-r428,3,"^Within the last week$","1","",1,c23
-r429,3,"^I am a current member of Zips Car Wash$","1","",1,c23
-r430,3,"^I would not like to participate$","1","",1,c23
-r1381,3,"^Green bricks$","1","",1,c23
-r1382,3,"^Occasionally$","1","",1,c23
-r1383,3,"^Video Games$","1","",1,c23
-r1384,3,"^Soda$","1","",1,c23
-r1385,3,"^Chocolate chips$","1","",1,c23
-r1386,3,"^Computer monitor$","1","",1,c23
-r1387,3,"^Automobile \(car, motorcycle, SUV, etc\.\)$","1","",1,c23
-r1388,3,"^Cereal$","1","",1,c23
-r1389,3,"^Printer paper$","1","",1,c23
-r1390,3,"^NBA 2K$","1","",1,c23
-r1391,3,"^Call of Duty$","1","",1,c23
-r1392,3,"^League of Legends$","1","",1,c23
-r1393,3,"^Grand Theft Auto V$","1","",1,c23
-r1394,3,"^Minecraft$","1","",1,c23
-r1395,3,"^Fortnite$","1","",1,c23
-r1396,3,"^MyTeam$","1","",1,c23
 r1415,3,"^National Grocery Store \(e\.g\., Albertson’s, Kroger or HEB\)$","1","",1,c76
 r1416,3,"^Club Store \(e\.g\., Sam’s Club or Costco\)$","1","",1,c76
 r1417,3,"^Convenience Store / Gas Station Store \(e\.g\., 7-Eleven\)$","1","",1,c76
@@ -1133,12 +1085,6 @@ r1464,3,"^High-quality ingredients$","1","",1,c77
 r1465,3,"^Clean energy \(e\.g\., yerba mate, B vitamins\)$","1","",1,c77
 r1466,3,"^Added vitamins \(e\.g\., vitamin C, D, etc\.\)$","1","",1,c77
 r1468,3,"^Added minerals \(e\.g\., magnesium, zinc, etc\.\)$","1","",1,c77
-r1469,3,"^Murder in a Small Town$","1","",1,c78
-r1470,3,"^Posts or references online$","1","",1,c78
-r1471,3,"^Clips or trailers$","1","",1,c78
-r1472,3,"^I’ll definitely watch it$","1","",1,c78
-r1473,3,"^I'm planning to watch it live$","1","",1,c78
-r1474,3,"^Mystery and Thriller$","1","",1,c78
 r1546,3,"^Own$","1","",1,c79
 r1547,3,"^We do not have an area/ feature like this in or around my home$","1","",1,c79
 r1548,3,"^I am the primary decision maker$","1","",1,c79
@@ -1258,54 +1204,6 @@ r1706,3,"^Watch at home more than half of the time$","1","",1,c89
 r1707,3,"^Gaming subscription \(e\.g\., Xbox Game Pass, Google Stadia\)$","1","",1,c89
 r1708,3,"^Satellite / Internet radio \(e\.g\., SiriusXM, Spotify\)$","1","",1,c89
 r1709,3,"^Yes, I am registered to vote\.$","1","",1,c89
-r86,3,"^\$100,000 to \$125,000$","1","",1,c3
-r356,3,"^\$100,000 - \$149,999$","1","",1,c3
-r358,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
-r359,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
-r360,3,"^Hot cereal \(including instant oatmeal, rolled oats, steel cut oats, grits, polenta, etc\.\)$","1","",1,c3
-r361,3,"^Shelf-stable, hand-held breakfast \(pop tarts, nutrigrain\)$","1","",1,c3
-r362,3,"^Baking mixes \(including pancake mix, waffle mix, brownie mix, cake mix, muffin mix, bread mix, etc\.\)$","1","",1,c3
-r363,3,"^Breakfast pastries, pop ups, bars$","1","",1,c3
-r364,3,"^Frozen breakfast item \(pancakes, waffles, biscuits, sandwiches\)$","1","",1,c3
-r365,3,"^Ready-to-eat packaged cookies$","1","",1,c3
-r366,3,"^Crackers$","1","",1,c3
-r367,3,"^Baking aids \(baking powder, baking soda, yeast, shredded/flaked coconut, guar gum, xanthan gum, egg replacer, coconut sugar, dry milk powder, etc\.\)$","1","",1,c3
-r368,3,"^Cold cereal \(including granola, wheat bran, wheat germ, muesli, etc\.\)$","1","",1,c3
-r369,3,"^Snack bars, protein bars, or granola bars$","1","",1,c3
-r431,3,"^I have some experience or knowledge in this area$","1","",1,c3
-r432,3,"^Somewhat agree$","1","",1,c3
-r433,3,"^Sometimes$","1","",1,c3
-r434,3,"^Yes, I understand and wish to continue$","1","",1,c3
-r435,0,"input\[_ngcontent-jgq-c77\]","0","",1,c3
-r436,3,"^Smartphone/Mobile Phone$","1","",1,c3
-r437,3,"^Tablet$","1","",1,c3
-r438,3,"^Gaming console \(e\.g\., Playstation, Nintendo, Xbox consoles\)$","1","",1,c3
-r439,3,"^Desktop computer$","1","",1,c3
-r440,3,"^Laptop/Notebook \(including 2 in 1 laptop that can be used like a tablet\)$","1","",1,c3
-r441,3,"^Cat$","1","",1,c3
-r833,3,"^Married$","1","",1,c3
-r834,3,"^I have children at home$","1","",1,c3
-r835,3,"^Graduate of professional degree$","1","",1,c3
-r836,3,"^Employed full-time$","1","",1,c3
-r837,3,"^\$100,000 to \$149,999$","1","",1,c3
-r838,3,"^English$","1","",1,c3
-r839,3,"^700 & above$","1","",1,c3
-r840,3,"^Personal loan$","1","",1,c3
-r841,3,"^Credit card$","1","",1,c3
-r1754,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
-r1755,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
-r1756,3,"^Hot cereal \(including instant oatmeal, rolled oats, steel cut oats, grits, polenta, etc\.\)$","1","",1,c3
-r1757,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
-r1758,3,"^Baking mixes \(including pancake mix, waffle mix, brownie mix, cake mix, muffin mix, bread mix, etc\.\)$","1","",1,c3
-r1759,3,"^Breakfast pastries, pop ups, bars$","1","",1,c3
-r1760,3,"^Baking aids \(baking powder, baking soda, yeast, shredded/flaked coconut, guar gum, xanthan gum, egg replacer, coconut sugar, dry milk powder, etc\.\)$","1","",1,c3
-r1761,3,"^Ready-to-eat packaged cookies$","1","",1,c3
-r1762,3,"^Gluten-free flours, grains, or baking mixes$","1","",1,c3
-r1763,3,"^Crackers$","1","",1,c3
-r1764,3,"^Cold cereal \(including granola, wheat bran, wheat germ, muesli, etc\.\)$","1","",1,c3
-r1765,3,"^Shelf-stable, hand-held breakfast \(pop tarts, nutrigrain\)$","1","",1,c3
-r1766,3,"^Snack bars, protein bars, or granola bars$","1","",1,c3
-r1767,3,"^Frozen breakfast item \(pancakes, waffles, biscuits, sandwiches\)$","1","",1,c3
 r1769,3,"^Cookies/sweet snacks$","1","",1,c91
 r1770,3,"^Paper products$","1","",1,c91
 r1771,3,"^Beverage$","1","",1,c91
@@ -1318,11 +1216,6 @@ r1778,3,"^Club store \(Costco, Sam's, BJ's, etc\)$","1","",1,c91
 r1779,3,"^Hershey$","1","",1,c91
 r1780,3,"^Ferrero$","1","",1,c91
 r1781,3,"^Godiva$","1","",1,c91
-r1782,3,"^Very appealing$","1","",1,c93
-r1783,3,"^Cooling - A refreshing, cooling sensation that leaves your mouth feeling cool$","1","",1,c93
-r1784,3,"^Burning - A spicy, burning sensation that’s intense and heats up your mouth$","1","",1,c93
-r1785,3,"^Bubbly - A bubbling sensation, like a carbonated drink \(soda\)$","1","",1,c93
-r1786,3,"^Occasionally$","1","",1,c93
 r1787,3,"^Soundbar$","1","",1,c94
 r1788,3,"^Gaming Console$","1","",1,c94
 r1789,3,"^Gaming Console$","1","",1,c94
@@ -1502,7 +1395,6 @@ r882,3,"^Better sizing for a quick energy boost$","1","",1,c42
 r883,3,"^Better sizing for breakfast$","1","",1,c42
 r884,3,"^Better sizing for snacking$","1","",1,c42
 r1882,3,"^In the refrigerated section$","1","",1,c42
-r1884,3,"^Probably would buy$","1","",1,c97
 r1885,3,"^I am a parent with young children who live at home$","1","",1,c98
 r1886,3,"^Girls age 9-13$","1","",1,c98
 r1887,3,"^Teen Boys 14-18$","1","",1,c98
@@ -1879,9 +1771,6 @@ r2409,3,"^Security suites / antivirus$","1","",1,c120
 r2410,3,"^I have never used DuckDuckGo$","1","",1,c120
 r2411,3,"^Somewhat agree$","1","",1,c120
 r2412,3,"^I do not know anyone affected by identity theft, but am concerned about the impact\.$","1","",1,c120
-r2478,3,"^Vineyard$","1","",1,c92
-r2479,3,"^Drinks with Friends$","1","",1,c92
-r2480,3,"^Minuty$","1","",1,c92
 r2481,3,"^Illinois$","1","",1,c121
 r2482,3,"^Chicago$","1","",1,c121
 r2483,3,"^Urban$","1","",1,c121
@@ -2968,7 +2857,6 @@ r3100,3,"^Totino’s$","1","",1,c156
 r3101,3,"^Spring Rolls$","1","",1,c156
 r3102,3,"^Moderately familiar$","1","",1,c156
 r3103,3,"^Slightly interested$","1","",1,c156
-r,0,"input\[_ngcontent-dwl-c77\]","400","",1,c146
 r857,3,"^\$3,000 or more$","1","",1,c41
 r858,3,"^Personal loan from a bank/financial institution$","1","",1,c41
 r859,3,"^Debit card from a bank/financial institution$","1","",1,c41
@@ -3109,6 +2997,103 @@ r3152,3,"^Adult's birthday$","1","",1,c129
 r3153,3,"^To contribute to a party or gathering$","1","",1,c129
 r3154,3,"^10$","1","",1,c129
 r3155,3,"^14$","1","",1,c129
+r3156,3,"^East North Central \(IL, IN, MI, OH, WI\)$","1","",1,c158
+r3158,3,"^Shampoos$","1","",1,c159
+r3159,3,"^Conditioners$","1","",1,c159
+r3160,3,"^Own$","1","",1,c160
+r3161,3,"^Yes$","1","",1,c161
+r3162,3,"^6$","1","",1,c162
+r3163,3,"^Accounting/Bookkeeping$","1","",1,c163
+r397,3,"^Being open to new ideas and experiences$","1","",1,c20
+r398,3,"^Enjoying relationships that give my life meaning$","1","",1,c20
+r399,3,"^DESCRIBES ME: Authentic$","1","",1,c20
+r400,3,"^I like to cook or bake from scratch$","1","",1,c20
+r401,3,"^I cook for fun/enjoyment$","1","",1,c20
+r402,3,"^I cook or eat frozen meals/entrees$","1","",1,c20
+r403,3,"^I cook or bake from box mixes$","1","",1,c20
+r404,3,"^I feel responsible for helping my family to eat better$","1","",1,c20
+r405,3,"^I will go out of my way to find unique foods and drinks$","1","",1,c20
+r406,3,"^Cat$","1","",1,c20
+r3164,3,"^I am primarily responsible for grocery shopping$","1","",1,c20
+r86,3,"^\$100,000 to \$125,000$","1","",1,c3
+r356,3,"^\$100,000 - \$149,999$","1","",1,c3
+r358,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
+r359,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
+r360,3,"^Hot cereal \(including instant oatmeal, rolled oats, steel cut oats, grits, polenta, etc\.\)$","1","",1,c3
+r361,3,"^Shelf-stable, hand-held breakfast \(pop tarts, nutrigrain\)$","1","",1,c3
+r362,3,"^Baking mixes \(including pancake mix, waffle mix, brownie mix, cake mix, muffin mix, bread mix, etc\.\)$","1","",1,c3
+r363,3,"^Breakfast pastries, pop ups, bars$","1","",1,c3
+r364,3,"^Frozen breakfast item \(pancakes, waffles, biscuits, sandwiches\)$","1","",1,c3
+r365,3,"^Ready-to-eat packaged cookies$","1","",1,c3
+r366,3,"^Crackers$","1","",1,c3
+r367,3,"^Baking aids \(baking powder, baking soda, yeast, shredded/flaked coconut, guar gum, xanthan gum, egg replacer, coconut sugar, dry milk powder, etc\.\)$","1","",1,c3
+r368,3,"^Cold cereal \(including granola, wheat bran, wheat germ, muesli, etc\.\)$","1","",1,c3
+r369,3,"^Snack bars, protein bars, or granola bars$","1","",1,c3
+r431,3,"^I have some experience or knowledge in this area$","1","",1,c3
+r432,3,"^Somewhat agree$","1","",1,c3
+r433,3,"^Sometimes$","1","",1,c3
+r434,3,"^Yes, I understand and wish to continue$","1","",1,c3
+r435,0,"input\[_ngcontent-jgq-c77\]","0","",1,c3
+r436,3,"^Smartphone/Mobile Phone$","1","",1,c3
+r437,3,"^Tablet$","1","",1,c3
+r438,3,"^Gaming console \(e\.g\., Playstation, Nintendo, Xbox consoles\)$","1","",1,c3
+r439,3,"^Desktop computer$","1","",1,c3
+r440,3,"^Laptop/Notebook \(including 2 in 1 laptop that can be used like a tablet\)$","1","",1,c3
+r441,3,"^Cat$","1","",1,c3
+r833,3,"^Married$","1","",1,c3
+r834,3,"^I have children at home$","1","",1,c3
+r835,3,"^Graduate of professional degree$","1","",1,c3
+r836,3,"^Employed full-time$","1","",1,c3
+r837,3,"^\$100,000 to \$149,999$","1","",1,c3
+r838,3,"^English$","1","",1,c3
+r839,3,"^700 & above$","1","",1,c3
+r840,3,"^Personal loan$","1","",1,c3
+r841,3,"^Credit card$","1","",1,c3
+r1754,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
+r1755,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
+r1756,3,"^Hot cereal \(including instant oatmeal, rolled oats, steel cut oats, grits, polenta, etc\.\)$","1","",1,c3
+r1757,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
+r1758,3,"^Baking mixes \(including pancake mix, waffle mix, brownie mix, cake mix, muffin mix, bread mix, etc\.\)$","1","",1,c3
+r1759,3,"^Breakfast pastries, pop ups, bars$","1","",1,c3
+r1760,3,"^Baking aids \(baking powder, baking soda, yeast, shredded/flaked coconut, guar gum, xanthan gum, egg replacer, coconut sugar, dry milk powder, etc\.\)$","1","",1,c3
+r1761,3,"^Ready-to-eat packaged cookies$","1","",1,c3
+r1762,3,"^Gluten-free flours, grains, or baking mixes$","1","",1,c3
+r1763,3,"^Crackers$","1","",1,c3
+r1764,3,"^Cold cereal \(including granola, wheat bran, wheat germ, muesli, etc\.\)$","1","",1,c3
+r1765,3,"^Shelf-stable, hand-held breakfast \(pop tarts, nutrigrain\)$","1","",1,c3
+r1766,3,"^Snack bars, protein bars, or granola bars$","1","",1,c3
+r1767,3,"^Frozen breakfast item \(pancakes, waffles, biscuits, sandwiches\)$","1","",1,c3
+r3165,3,"^\$0-\$24,999$","1","",1,c3
+r417,3,"^Bicycle$","1","",1,c23
+r418,3,"^House$","1","",1,c23
+r419,3,"^Car$","1","",1,c23
+r420,3,"^I am responsible for all decisions related to my car$","1","",1,c23
+r422,3,"^Carwash \(did it myself\)$","1","",1,c23
+r423,3,"^Carwash \(went to a car wash facility\)$","1","",1,c23
+r424,3,"^Changed the oil$","1","",1,c23
+r425,3,"^Take 5 Car Wash$","1","",1,c23
+r426,3,"^Zips Car Wash$","1","",1,c23
+r427,3,"^6\+ times$","1","",1,c23
+r428,3,"^Within the last week$","1","",1,c23
+r429,3,"^I am a current member of Zips Car Wash$","1","",1,c23
+r430,3,"^I would not like to participate$","1","",1,c23
+r1381,3,"^Green bricks$","1","",1,c23
+r1382,3,"^Occasionally$","1","",1,c23
+r1383,3,"^Video Games$","1","",1,c23
+r1384,3,"^Soda$","1","",1,c23
+r1385,3,"^Chocolate chips$","1","",1,c23
+r1386,3,"^Computer monitor$","1","",1,c23
+r1387,3,"^Automobile \(car, motorcycle, SUV, etc\.\)$","1","",1,c23
+r1388,3,"^Cereal$","1","",1,c23
+r1389,3,"^Printer paper$","1","",1,c23
+r1390,3,"^NBA 2K$","1","",1,c23
+r1391,3,"^Call of Duty$","1","",1,c23
+r1392,3,"^League of Legends$","1","",1,c23
+r1393,3,"^Grand Theft Auto V$","1","",1,c23
+r1394,3,"^Minecraft$","1","",1,c23
+r1395,3,"^Fortnite$","1","",1,c23
+r1396,3,"^MyTeam$","1","",1,c23
+r3166,3,"^Green$","1","",1,c23
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
