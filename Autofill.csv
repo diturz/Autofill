@@ -186,6 +186,11 @@ c199,"Questions about your Men's Electric Hair Removal shopping!","crowdtap.com/
 c200,"Questions about your Men's Hair Care (Shampoo/Conditioner/Styling Aids) shopping!","crowdtap.com/dashboard","",,,
 c201,"Questions about your Men's Facial Care (Cleansers/Moisturizers/Treatments) shopping!","crowdtap.com/dashboard","",,,
 c202,"Questions about your Sun Care shopping!","crowdtap.com/dashboard","",,,
+c203,"Crowdtap 101: The Basics","crowdtap.com/dashboard","",,,
+c204,"Crowdtap 101: Your Membership","crowdtap.com/dashboard","",,,
+c205,"Crowdtap 101: Getting Rewarded","crowdtap.com/dashboard","",,,
+c206,"Crowdtap 101: Your Crowdtap Habits","crowdtap.com/dashboard","",,,
+c207,"Crowdtap 101: Survey Types","crowdtap.com/dashboard","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
@@ -3842,7 +3847,6 @@ r3940,3,"^Left$","1","",1,c187
 r3941,3,"^Buy online$","1","",1,c187
 r3942,3,"^The same$","1","",1,c187
 r3943,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c187
-r,0,"input\[_ngcontent-ljo-c77\]","400","",1,c187
 r3944,3,"^I don’t pay attention to price when making my purchases$","1","",1,c187
 r3945,3,"^4$","1","",1,c187
 r3946,3,"^Green bricks$","1","",1,c188
@@ -4218,6 +4222,30 @@ r1950,3,"^Children \(6-12 years\)$","1","",1,c100
 r1951,3,"^Teenagers \(13-17 years\)$","1","",1,c100
 r2771,3,"^I would purchase any of these brands$","1","",1,c100
 r4282,3,"these brands","1","",1,c100
+r4292,3,"^\$25-\$50/month$","1","",1,c205
+r4293,3,"^Save up points for something big$","1","",1,c205
+r4321,0,"^response$","points","",1,c205
+r4283,3,"^Redeem \$5 reward for every 1000 points earned$","1","",1,c203
+r4284,3,"^Pass the time while earning passive income$","1","",1,c203
+r4285,3,"^Have fun!$","1","",1,c203
+r4286,3,"^Influence top brands future decisions$","1","",1,c203
+r4287,3,"^I saw this once or twice$","1","",1,c203
+r4288,3,"^2$","1","",1,c203
+r4289,3,"^Give dishonest or inappropriate answers$","1","",1,c204
+r4290,3,"^Option C$","1","",1,c204
+r4291,3,"^No, it does not work well$","1","",1,c204
+r4294,3,"^Late nights$","1","",1,c206
+r4295,3,"^Streaks or achievement badges$","1","",1,c206
+r4296,3,"^Answer survey questions every day$","1","",1,c206
+r4297,3,"^Spend 15-20 minutes answering 20-30 surveys$","1","",1,c206
+r4298,3,"^Make Crowdtap a healthy habit with their free time$","1","",1,c206
+r4299,3,"^Bookmark Crowdtap or download the mobile app$","1","",1,c206
+r4300,3,"^Yes, I'm interested$","1","",1,c206
+r4301,3,"^30-37$","1","",1,c206
+r4302,3,"^Often$","1","",1,c206
+r4306,0,"^response$","Daily streak rewards","",1,c206
+r4304,3,"^Option 1$","1","",1,c207
+r4309,3,"^Often$","1","",1,c207
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
@@ -4225,7 +4253,7 @@ textclips,"[]",,,,,
 variables,"[]",,,,,
 activecat,1,,,,,
 attributesoff,0,,,,,
-autoimport,0,,,,,
+autoimport,0,https://raw.githubusercontent.com/diturz/Autofill/main/Autofill.csv,,,,
 backup,0,30,,,,
 badge,1,,,,,
 closeinfobar,1,1,,,,
