@@ -223,6 +223,10 @@ c234,"More about you","","",,,
 c235,"Tell us about your tech!","","",,,
 c236,"Home Sweet Home","","",,,
 c239,"Tell us about what goes in your cart!","","",,,
+c241,"Perspectives on mobile device purchasing and decision making","","",,,
+c243,"Video Game Value","","",,,
+c244,"Tell us about your household!","","",,,
+c245,"Tiktok Trends Shopping Habit","","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
@@ -4324,12 +4328,6 @@ r4741,3,"^An AC unit$","1","",1,c20
 r4742,3,"^Google$","1","",1,c20
 r4743,3,"^Microsoft$","1","",1,c20
 r4744,3,"^Adobe$","1","",1,c20
-r4745,3,"^Know a little about AI$","1","",1,c227
-r4746,3,"^More to gain$","1","",1,c227
-r4747,3,"^Somewhat Positive$","1","",1,c227
-r4748,3,"^Somewhat agree$","1","",1,c227
-r4749,3,"^Yes, I’ve used it sometimes$","1","",1,c227
-r4750,3,"^Disagree somewhat$","1","",1,c227
 r4751,3,"^I usually do all the purchasing$","1","",1,c228
 r4752,3,"^Walmart$","1","",1,c228
 r4753,3,"^CVS$","1","",1,c228
@@ -5093,6 +5091,84 @@ r5151,3,"^Makes it easy to achieve the results I want for my lawn$","1","",1,c24
 r5152,3,"^Is earth-friendly/ environmentally responsible$","1","",1,c240
 r5153,3,"^Offers products to effectively address problem areas \(e\.g\., bare spots, weeds, etc\.\)$","1","",1,c240
 r5154,3,"^Guarantees results$","1","",1,c240
+r5155,3,"^No, but I plan to$","1","",1,c241
+r5156,3,"^Probably impacts my decision to upgrade or purchase$","1","",1,c241
+r5157,3,"^In 6 months or more$","1","",1,c241
+r5158,3,"^Have heard of, but not aware of specifics$","1","",1,c241
+r5159,3,"^Social media$","1","",1,c241
+r4745,3,"^Know a little about AI$","1","",1,c227
+r4746,3,"^More to gain$","1","",1,c227
+r4747,3,"^Somewhat Positive$","1","",1,c227
+r4748,3,"^Somewhat agree$","1","",1,c227
+r4749,3,"^Yes, I’ve used it sometimes$","1","",1,c227
+r4750,3,"^Disagree somewhat$","1","",1,c227
+r5161,3,"^Own$","1","",1,c227
+r5162,3,"^Single-family detached home$","1","",1,c227
+r5163,3,"^Metropolitan \(large city or densely populated urban area\)$","1","",1,c227
+r5164,3,"^Fences or retaining walls$","1","",1,c227
+r5165,3,"^Driveways, patios, walkways or sidewalks$","1","",1,c227
+r5166,3,"^Grass lawn \(full or partial\)$","1","",1,c227
+r5167,3,"^Live flowers/decorative plants$","1","",1,c227
+r5168,3,"^Grass seed$","1","",1,c227
+r5169,3,"^Scotts$","1","",1,c227
+r5170,3,"^Bonnie Plants$","1","",1,c227
+r5171,3,"^Average$","1","",1,c227
+r5172,3,"^Outdoor raised garden bed with edible plants$","1","",1,c227
+r5173,3,"^Somewhat confident$","1","",1,c227
+r5174,3,"^Somewhat important$","1","",1,c227
+r5175,3,"^I'm willing to pay significantly more$","1","",1,c227
+r5176,3,"^Specialty plant store or website$","1","",1,c227
+r5177,3,"^Online Only Retailer \(e\.g\., Amazon\)$","1","",1,c227
+r5178,3,"^Farm Supply Store \(e\.g\., Farm & Fleet, Tractor Supply, etc\.\)$","1","",1,c227
+r5179,3,"^The Home Depot$","1","",1,c227
+r5180,3,"^Amazon$","1","",1,c227
+r5185,3,"^Mario Party$","1","",1,c243
+r5186,3,"^The Legend of Zelda$","1","",1,c243
+r5187,3,"^LEGO$","1","",1,c243
+r5188,3,"^Grand Theft Auto$","1","",1,c243
+r5189,3,"^Assassin's Creed$","1","",1,c243
+r5190,3,"^Elden Ring$","1","",1,c243
+r5191,3,"^Elden Ring \(2022\)$","1","",1,c243
+r5192,3,"^Grand Theft Auto 6 \(2025 est\.\)$","1","",1,c243
+r5193,3,"^The Legend of Zelda: Tears of the Kingdom \(2023\)$","1","",1,c243
+r5194,3,"^2 children$","1","",1,c244
+r5195,3,"^7-10 years$","1","",1,c244
+r5196,3,"^14 - 17 years$","1","",1,c244
+r5197,3,"^Not currently pregnant or planning pregnancy$","1","",1,c244
+r5199,3,"^I do not buy baby products$","1","",1,c244
+r5200,3,"^Kids$","1","",1,c244
+r5201,3,"^Myself$","1","",1,c244
+r5202,3,"^Games$","1","",1,c244
+r5203,3,"^Electronics$","","",1,c244
+r5204,3,"^Action Figures$","1","",1,c244
+r5205,3,"^Amazon\.com$","1","",1,c244
+r5206,3,"^Disney\+$","1","",1,c244
+r5207,3,"^Netflix$","1","",1,c244
+r5208,3,"^Amazon Prime$","1","",1,c244
+r5209,3,"^Hulu$","1","",1,c244
+r5210,3,"^HBO Max$","","",1,c244
+r5211,3,"^Playstation 5$","1","",1,c244
+r5212,3,"^Nintendo Switch$","1","",1,c244
+r5213,3,"^Mobile$","1","",1,c244
+r5214,3,"^Xbox Series X$","1","",1,c244
+r5215,3,"^PC$","1","",1,c244
+r5216,3,"^YouTube$","1","",1,c244
+r5217,3,"^Instagram$","1","",1,c244
+r5218,3,"^Facebook$","1","",1,c244
+r5219,3,"^LinkedIn$","1","",1,c244
+r5220,3,"^Reddit$","1","",1,c244
+r5221,3,"^Pinterest$","1","",1,c244
+r5222,3,"^TikTok$","1","",1,c244
+r5223,3,"^Snapchat$","1","",1,c244
+r5224,3,"^Twitter$","1","",1,c244
+r5225,3,"^No - not of Hispanic, Latino, or Spanish origin$","1","",1,c244
+r5226,3,"^English all the time$","1","",1,c244
+r5227,3,"^Made with eco-friendly or sustainable materials$","1","",1,c244
+r5229,3,"^I’m not familiar with any micro trends on Tik Tok$","1","",1,c245
+r5230,3,"^Fashion or accessories$","1","",1,c245
+r5231,3,"^Minimalism$","","",1,c245
+r5232,3,"^It improves my opinion of the brand as I believe they are genuinely trying to connect with consumers$","1","",1,c245
+r5233,3,"^Limited-time collaborations or exclusive items$","","",1,c245
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
