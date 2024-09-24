@@ -227,6 +227,9 @@ c241,"Perspectives on mobile device purchasing and decision making","","",,,
 c243,"Video Game Value","","",,,
 c244,"Tell us about your household!","","",,,
 c245,"Tiktok Trends Shopping Habit","","",,,
+c246,"Brands & Advertising","","",,,
+c247,"All about you","","",,,
+c248,"All about you & preferred products!","","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
@@ -3219,14 +3222,6 @@ r3709,3,"^Pharmacist$","1","",1,c177
 r3710,3,"^Social Media$","1","",1,c177
 r3711,3,"^Tik Tok$","1","",1,c177
 r3712,3,"^X$","1","",1,c177
-r3713,3,"^Strength training / weightlifting$","1","",1,c178
-r3714,3,"^Running$","1","",1,c178
-r3715,3,"^Walking$","1","",1,c178
-r3716,3,"^Moderate intensity \(i\.e\., some effort, but manageable\)$","1","",1,c178
-r3717,3,"^4-6 times per week$","1","",1,c178
-r3718,3,"^Somewhat agree$","1","",1,c178
-r3719,3,"^Provides an energy boost before workout$","1","",1,c178
-r3720,3,"^Helps speed up muscle repair and recovery$","1","",1,c178
 r3185,3,"^Online-Only Retailers \(Amazon, Instacart, etc\.\)$","1","",1,c164
 r3186,3,"^Convenience Stores \(7-11, Wawa, Circle K, etc\.\)$","1","",1,c164
 r3187,3,"^Club Store \(Costco, BJs, Sam’s Club, etc\.\)$","1","",1,c164
@@ -4722,112 +4717,6 @@ r5036,3,"^Like it$","1","",1,c235
 r5037,3,"^Own$","1","",1,c236
 r5038,3,"^Single-family home$","1","",1,c236
 r5039,3,"^Panther$","1","",1,c236
-r89,3,"^Wireless earbuds$","1","",1,c4
-r90,3,"^Smartphone$","1","",1,c4
-r91,3,"^Smartwatch$","1","",1,c4
-r92,3,"^Wireless headphones$","1","",1,c4
-r93,3,"^Personal computer \(e\.g\., desktop or laptop\)$","1","",1,c4
-r94,3,"^Smart home speaker$","1","",1,c4
-r95,3,"^Smart TV$","1","",1,c4
-r96,3,"^Virtual Reality \(VR\) headset$","1","",1,c4
-r97,3,"^Smart home accessories other than speakers \(e\.g\. smart lights, smart thermostat\)$","1","",1,c4
-r98,3,"^Tablet$","1","",1,c4
-r99,3,"^Video game console$","1","",1,c4
-r100,3,"^Fitness band / tracker$","1","",1,c4
-r147,3,"^Home decor items$","1","",1,c4
-r148,3,"^Pet supplies$","1","",1,c4
-r149,3,"^Toys$","1","",1,c4
-r150,3,"^Groceries \(e\.g\., fresh produce, meat\)$","1","",1,c4
-r151,3,"^Baking supplies \(e\.g\., cake mix, frosting\)$","1","",1,c4
-r152,3,"^Cleaning supplies$","1","",1,c4
-r153,3,"^Beverages \(e\.g\., soda, juice\)$","1","",1,c4
-r154,3,"^Party supplies \(e\.g\., decorations, tableware\)$","1","",1,c4
-r155,3,"^Garden items$","1","",1,c4
-r156,3,"^Snacks \(e\.g\., chips, pretzels\)$","1","",1,c4
-r157,3,"^Clothing$","1","",1,c4
-r158,3,"^4$","1","Knee, arm, wrench, cat, car, nose, lips: how many body parts are in the list?",1,c4
-r159,3,"^Party City$","1","",1,c4
-r160,3,"^Online retailers \(e\.g\., Amazon, Etsy\)$","1","",1,c4
-r161,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c4
-r162,3,"^3$","1","How many of the letter R are in ""strawberry""?",1,c4
-r371,3,"^1 year to 2 years ago$","1","",1,c4
-r372,3,"^I was the primary decision maker$","1","",1,c4
-r373,3,"^Within the next 6 to 12 months$","1","",1,c4
-r374,3,"^Very open to this OS$","1","",1,c4
-r375,3,"^Camera quality$","1","",1,c4
-r376,3,"^Smartphone brand$","1","",1,c4
-r377,3,"^Durability$","1","",1,c4
-r378,3,"^Audio quality$","1","",1,c4
-r379,3,"^Fast charging$","1","",1,c4
-r380,3,"^Professional review websites$","1","",1,c4
-r381,3,"^Customer reviews$","1","",1,c4
-r382,3,"^Electronics store$","1","",1,c4
-r383,3,"^I agree much more with Statement B$","1","",1,c4
-r384,3,"^Is made by the brand I prefer$","1","",1,c4
-r385,3,"^Has the most advanced technology$","1","",1,c4
-r386,3,"^It works well with other tech products I own$","1","",1,c4
-r387,3,"^It has long-lasting battery life$","1","",1,c4
-r388,3,"^It has the best features available$","1","",1,c4
-r389,3,"^Among the first people$","1","",1,c4
-r390,3,"^Apple \(iOS\)$","1","",1,c4
-r391,3,"or more","1","",1,c4
-r393,3,"^Apple iPhone$","1","",1,c4
-r394,3,"^In the next 6 months to 1 year$","1","",1,c4
-r395,3,"^OS \(Apple iPhone\)$","1","",1,c4
-r396,3,"^Android \(Samsung Galaxy, Google Pixel, etc\.\)$","1","",1,c4
-r926,3,"^Electronics$","1","",1,c4
-r927,3,"^Kitchen Items \(e\.g\. Le Creuset, Cuisart\)$","1","",1,c4
-r928,3,"^Premium chocolate$","1","",1,c4
-r929,3,"^Leather Goods \(e\.g\. handbags, wallets\)$","1","",1,c4
-r930,3,"^Experiences \(e\.g\. classes, travel, tickets etc\.\)$","1","",1,c4
-r931,3,"^Monthly subscriptions$","1","",1,c4
-r932,3,"^Beauty products$","1","",1,c4
-r933,3,"^Wine$","1","",1,c4
-r934,3,"^Alcohol$","1","",1,c4
-r935,3,"^Fragrances$","1","",1,c4
-r936,3,"^Gift baskets \(e\.g\. Harry & David\)$","1","",1,c4
-r937,3,"^Dallmann$","1","",1,c4
-r938,3,"^In store shopping$","1","",1,c4
-r939,3,"^Online at premium brand websites$","1","",1,c4
-r940,3,"^In store$","1","",1,c4
-r941,3,"^Online$","1","",1,c4
-r2574,3,"^Soda \(e\.g\. Coke, Sprite, Fanta, Pepsi etc\.\)$","1","",1,c4
-r2575,3,"^Coffee/ Tea$","1","",1,c4
-r2576,3,"^Spirits/ Liquor \(e\.g\., Vodka, Whiskey, Tequila, etc\.\)$","1","",1,c4
-r2577,3,"^Hard Seltzers/Canned cocktails \(e\.g\., White Claw, High Noon, etc\.\)$","1","",1,c4
-r2578,3,"^Unsweetened Sparkling Water \(either Flavored or Unflavored : e\.g\. LaCroix, Bubly, Topo Chico, Perrier, etc\.\)$","1","",1,c4
-r2579,3,"^Beer$","1","",1,c4
-r2580,3,"^Bottled/Flat water \(e\.g\. Smartwater, Dasani, Aquafina, Lifewtr, etc\.\)$","1","",1,c4
-r2581,3,"^Pre-mixed cocktails in a bottle \(e\.g\., Jose Cuervo Margarita, On the Rocks\)$","1","",1,c4
-r2582,3,"^Juice/ Milk \(Either plant/ animal based\)$","1","",1,c4
-r2583,3,"^Sports Drinks/ Energy drinks/shots \(e\.g\. Gatorade, G Zero, Redbull, 24 Hour Energy etc\.\)$","1","",1,c4
-r2584,3,"^Hard Seltzer \(e\.g\., Truly, White Claw\)$","1","",1,c4
-r2585,3,"^Tequila$","1","",1,c4
-r2586,3,"^Gin$","1","",1,c4
-r2587,3,"^Whiskey \(e\.g\., Bourbon, Rye, Scotch\)$","1","",1,c4
-r2588,3,"^Rum$","1","",1,c4
-r2589,3,"^Vodka$","1","",1,c4
-r2590,3,"^Pre-mixed cocktails in a bottle - multi serve \(e\.g\., Jose Cuervo Margarita, On the Rocks\)$","1","",1,c4
-r2591,3,"^Flavored Malt Beverage \(e\.g\., Mike’s Hard Lemonade, Smirnoff Ice\)$","1","",1,c4
-r2592,3,"^I make the decision by myself$","1","",1,c4
-r2593,3,"^Bar \(For e\.g\. sports bar, nightclubs, etc\.\)$","1","",1,c4
-r2594,3,"^Chain Liquor Stores/Outlets \(For e\.g\. Total Wine & more, BevMo!, ABC Fine Wine & Spirits, etc\.\)$","1","",1,c4
-r2595,3,"^Online-only Stores \(For e\.g\. Amazon Fresh, Go Puff, etc\.\)$","1","",1,c4
-r2596,3,"^I would not like to participate in a video interview$","1","",1,c4
-r3799,3,"^90$","1","",1,c4
-r5045,3,"^Green bricks$","1","",1,c4
-r5046,3,"^Bottled water$","1","",1,c4
-r5047,3,"^Dairy milk$","1","",1,c4
-r5048,3,"^Coffee \(ready-to-drink\)$","1","",1,c4
-r5049,3,"^Energy drinks$","1","",1,c4
-r5050,3,"^Sports drinks \(e\.g\., Gatorade, Powerade\)$","1","",1,c4
-r5051,3,"^Soda$","1","",1,c4
-r5052,3,"^Fruit juice$","1","",1,c4
-r5053,3,"^Iced tea$","1","",1,c4
-r5054,3,"^Plant-based beverages \(e\.g\., soy milk, hemp milk\)$","1","",1,c4
-r5055,3,"^Sparkling water$","1","",1,c4
-r5056,3,"^Smoothies$","1","",1,c4
-r5057,3,"^Flavored water$","1","",1,c4
 r417,3,"^Bicycle$","1","",1,c23
 r418,3,"^House$","1","",1,c23
 r419,3,"^Car$","1","",1,c23
@@ -5169,6 +5058,166 @@ r5230,3,"^Fashion or accessories$","1","",1,c245
 r5231,3,"^Minimalism$","","",1,c245
 r5232,3,"^It improves my opinion of the brand as I believe they are genuinely trying to connect with consumers$","1","",1,c245
 r5233,3,"^Limited-time collaborations or exclusive items$","","",1,c245
+r5234,3,"^6$","1","",1,c246
+r5235,3,"^5 or more times$","1","",1,c247
+r5236,3,"^Non-alcoholic wines$","1","",1,c247
+r3713,3,"^Strength training / weightlifting$","1","",1,c178
+r3714,3,"^Running$","1","",1,c178
+r3715,3,"^Walking$","1","",1,c178
+r3716,3,"^Moderate intensity \(i\.e\., some effort, but manageable\)$","1","",1,c178
+r3717,3,"^4-6 times per week$","1","",1,c178
+r3718,3,"^Somewhat agree$","1","",1,c178
+r3719,3,"^Provides an energy boost before workout$","1","",1,c178
+r3720,3,"^Helps speed up muscle repair and recovery$","1","",1,c178
+r5237,3,"^4-5 times a week$","1","",1,c178
+r5238,3,"^Soft drinks$","1","",1,c178
+r5239,3,"^Non-alcoholic beer$","1","",1,c178
+r5240,3,"^Juices$","1","",1,c178
+r5241,3,"^Non-alcoholic spirits$","1","",1,c178
+r5242,3,"^Non-alcoholic wine$","","",1,c178
+r5243,3,"^Alcoholic beverages$","","",1,c178
+r5244,3,"^Driving/work responsibilities$","1","",1,c178
+r5245,3,"^Sometimes$","1","",1,c178
+r5246,3,"^Mouthwash/Oral Rinse$","1","",1,c248
+r5247,3,"^Multivitamin$","1","",1,c248
+r5248,3,"^Condoms$","1","",1,c248
+r5249,3,"^Laundry detergent$","1","",1,c248
+r5250,3,"^Dry Shampoo$","1","",1,c248
+r5251,3,"^I do most/all the laundry myself$","1","",1,c248
+r5252,3,"^An INDOOR ONLY dog or puppy$","1","",1,c248
+r5253,3,"^An INDOOR ONLY cat or kitten$","1","",1,c248
+r5254,3,"^Somewhat$","1","",1,c248
+r89,3,"^Wireless earbuds$","1","",1,c4
+r90,3,"^Smartphone$","1","",1,c4
+r91,3,"^Smartwatch$","1","",1,c4
+r92,3,"^Wireless headphones$","1","",1,c4
+r93,3,"^Personal computer \(e\.g\., desktop or laptop\)$","1","",1,c4
+r94,3,"^Smart home speaker$","1","",1,c4
+r95,3,"^Smart TV$","1","",1,c4
+r96,3,"^Virtual Reality \(VR\) headset$","1","",1,c4
+r97,3,"^Smart home accessories other than speakers \(e\.g\. smart lights, smart thermostat\)$","1","",1,c4
+r98,3,"^Tablet$","1","",1,c4
+r99,3,"^Video game console$","1","",1,c4
+r100,3,"^Fitness band / tracker$","1","",1,c4
+r147,3,"^Home decor items$","1","",1,c4
+r148,3,"^Pet supplies$","1","",1,c4
+r149,3,"^Toys$","1","",1,c4
+r150,3,"^Groceries \(e\.g\., fresh produce, meat\)$","1","",1,c4
+r151,3,"^Baking supplies \(e\.g\., cake mix, frosting\)$","1","",1,c4
+r152,3,"^Cleaning supplies$","1","",1,c4
+r153,3,"^Beverages \(e\.g\., soda, juice\)$","1","",1,c4
+r154,3,"^Party supplies \(e\.g\., decorations, tableware\)$","1","",1,c4
+r155,3,"^Garden items$","1","",1,c4
+r156,3,"^Snacks \(e\.g\., chips, pretzels\)$","1","",1,c4
+r157,3,"^Clothing$","1","",1,c4
+r158,3,"^4$","1","Knee, arm, wrench, cat, car, nose, lips: how many body parts are in the list?",1,c4
+r159,3,"^Party City$","1","",1,c4
+r160,3,"^Online retailers \(e\.g\., Amazon, Etsy\)$","1","",1,c4
+r161,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c4
+r162,3,"^3$","1","How many of the letter R are in ""strawberry""?",1,c4
+r371,3,"^1 year to 2 years ago$","1","",1,c4
+r372,3,"^I was the primary decision maker$","1","",1,c4
+r373,3,"^Within the next 6 to 12 months$","1","",1,c4
+r374,3,"^Very open to this OS$","1","",1,c4
+r375,3,"^Camera quality$","1","",1,c4
+r376,3,"^Smartphone brand$","1","",1,c4
+r377,3,"^Durability$","1","",1,c4
+r378,3,"^Audio quality$","1","",1,c4
+r379,3,"^Fast charging$","1","",1,c4
+r380,3,"^Professional review websites$","1","",1,c4
+r381,3,"^Customer reviews$","1","",1,c4
+r382,3,"^Electronics store$","1","",1,c4
+r383,3,"^I agree much more with Statement B$","1","",1,c4
+r384,3,"^Is made by the brand I prefer$","1","",1,c4
+r385,3,"^Has the most advanced technology$","1","",1,c4
+r386,3,"^It works well with other tech products I own$","1","",1,c4
+r387,3,"^It has long-lasting battery life$","1","",1,c4
+r388,3,"^It has the best features available$","1","",1,c4
+r389,3,"^Among the first people$","1","",1,c4
+r390,3,"^Apple \(iOS\)$","1","",1,c4
+r391,3,"or more","1","",1,c4
+r393,3,"^Apple iPhone$","1","",1,c4
+r394,3,"^In the next 6 months to 1 year$","1","",1,c4
+r395,3,"^OS \(Apple iPhone\)$","1","",1,c4
+r396,3,"^Android \(Samsung Galaxy, Google Pixel, etc\.\)$","1","",1,c4
+r926,3,"^Electronics$","1","",1,c4
+r927,3,"^Kitchen Items \(e\.g\. Le Creuset, Cuisart\)$","1","",1,c4
+r928,3,"^Premium chocolate$","1","",1,c4
+r929,3,"^Leather Goods \(e\.g\. handbags, wallets\)$","1","",1,c4
+r930,3,"^Experiences \(e\.g\. classes, travel, tickets etc\.\)$","1","",1,c4
+r931,3,"^Monthly subscriptions$","1","",1,c4
+r932,3,"^Beauty products$","1","",1,c4
+r933,3,"^Wine$","1","",1,c4
+r934,3,"^Alcohol$","1","",1,c4
+r935,3,"^Fragrances$","1","",1,c4
+r936,3,"^Gift baskets \(e\.g\. Harry & David\)$","1","",1,c4
+r937,3,"^Dallmann$","1","",1,c4
+r938,3,"^In store shopping$","1","",1,c4
+r939,3,"^Online at premium brand websites$","1","",1,c4
+r940,3,"^In store$","1","",1,c4
+r941,3,"^Online$","1","",1,c4
+r2574,3,"^Soda \(e\.g\. Coke, Sprite, Fanta, Pepsi etc\.\)$","1","",1,c4
+r2575,3,"^Coffee/ Tea$","1","",1,c4
+r2576,3,"^Spirits/ Liquor \(e\.g\., Vodka, Whiskey, Tequila, etc\.\)$","1","",1,c4
+r2577,3,"^Hard Seltzers/Canned cocktails \(e\.g\., White Claw, High Noon, etc\.\)$","1","",1,c4
+r2578,3,"^Unsweetened Sparkling Water \(either Flavored or Unflavored : e\.g\. LaCroix, Bubly, Topo Chico, Perrier, etc\.\)$","1","",1,c4
+r2579,3,"^Beer$","1","",1,c4
+r2580,3,"^Bottled/Flat water \(e\.g\. Smartwater, Dasani, Aquafina, Lifewtr, etc\.\)$","1","",1,c4
+r2581,3,"^Pre-mixed cocktails in a bottle \(e\.g\., Jose Cuervo Margarita, On the Rocks\)$","1","",1,c4
+r2582,3,"^Juice/ Milk \(Either plant/ animal based\)$","1","",1,c4
+r2583,3,"^Sports Drinks/ Energy drinks/shots \(e\.g\. Gatorade, G Zero, Redbull, 24 Hour Energy etc\.\)$","1","",1,c4
+r2584,3,"^Hard Seltzer \(e\.g\., Truly, White Claw\)$","1","",1,c4
+r2585,3,"^Tequila$","1","",1,c4
+r2586,3,"^Gin$","1","",1,c4
+r2587,3,"^Whiskey \(e\.g\., Bourbon, Rye, Scotch\)$","1","",1,c4
+r2588,3,"^Rum$","1","",1,c4
+r2589,3,"^Vodka$","1","",1,c4
+r2590,3,"^Pre-mixed cocktails in a bottle - multi serve \(e\.g\., Jose Cuervo Margarita, On the Rocks\)$","1","",1,c4
+r2591,3,"^Flavored Malt Beverage \(e\.g\., Mike’s Hard Lemonade, Smirnoff Ice\)$","1","",1,c4
+r2592,3,"^I make the decision by myself$","1","",1,c4
+r2593,3,"^Bar \(For e\.g\. sports bar, nightclubs, etc\.\)$","1","",1,c4
+r2594,3,"^Chain Liquor Stores/Outlets \(For e\.g\. Total Wine & more, BevMo!, ABC Fine Wine & Spirits, etc\.\)$","1","",1,c4
+r2595,3,"^Online-only Stores \(For e\.g\. Amazon Fresh, Go Puff, etc\.\)$","1","",1,c4
+r2596,3,"^I would not like to participate in a video interview$","1","",1,c4
+r3799,3,"^90$","1","",1,c4
+r5045,3,"^Green bricks$","1","",1,c4
+r5046,3,"^Bottled water$","1","",1,c4
+r5047,3,"^Dairy milk$","1","",1,c4
+r5048,3,"^Coffee \(ready-to-drink\)$","1","",1,c4
+r5049,3,"^Energy drinks$","1","",1,c4
+r5050,3,"^Sports drinks \(e\.g\., Gatorade, Powerade\)$","1","",1,c4
+r5051,3,"^Soda$","1","",1,c4
+r5052,3,"^Fruit juice$","1","",1,c4
+r5053,3,"^Iced tea$","1","",1,c4
+r5054,3,"^Plant-based beverages \(e\.g\., soy milk, hemp milk\)$","1","",1,c4
+r5055,3,"^Sparkling water$","1","",1,c4
+r5056,3,"^Smoothies$","1","",1,c4
+r5057,3,"^Flavored water$","1","",1,c4
+r5255,3,"^Twitch$","1","",1,c4
+r5256,3,"^Facebook$","1","",1,c4
+r5257,3,"^Tik Tok$","1","",1,c4
+r5258,3,"^Pinterest$","1","",1,c4
+r5259,3,"^Discord$","1","",1,c4
+r5260,3,"^X \(formerly Twitter\)$","1","",1,c4
+r5261,3,"^Snapchat$","1","",1,c4
+r5262,3,"^Instagram$","1","",1,c4
+r5263,3,"^YouTube$","1","",1,c4
+r5264,3,"^Fitness/Wellness$","1","",1,c4
+r5265,3,"^Fashion/Style$","1","",1,c4
+r5266,3,"^Motivational/Inspirational$","1","",1,c4
+r5267,3,"^Edited photos/videos before posting$","1","",1,c4
+r5268,3,"^Watched content creators/streamers$","1","",1,c4
+r5269,3,"^Updated my profile/profile picture$","1","",1,c4
+r5270,3,"^Saved videos/content for a later time$","1","",1,c4
+r5271,3,"^Shared other people's videos/content with friends and/or family$","1","",1,c4
+r5272,3,"^About 4-5 times a week$","1","",1,c4
+r5273,3,"^11\+ times$","1","",1,c4
+r5274,3,"^Video games \(PCs, consoles, tablets, etc\.\)$","1","",1,c4
+r5275,3,"^Books/book series$","1","",1,c4
+r5276,3,"^Movies \(any kind\)$","1","",1,c4
+r5277,3,"^Fitness$","1","",1,c4
+r5278,3,"^Music$","1","",1,c4
+r5279,3,"^No - I would not like to participate$","1","",1,c4
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
