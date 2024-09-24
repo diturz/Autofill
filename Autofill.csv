@@ -5053,11 +5053,6 @@ r5224,3,"^Twitter$","1","",1,c244
 r5225,3,"^No - not of Hispanic, Latino, or Spanish origin$","1","",1,c244
 r5226,3,"^English all the time$","1","",1,c244
 r5227,3,"^Made with eco-friendly or sustainable materials$","1","",1,c244
-r5229,3,"^I’m not familiar with any micro trends on Tik Tok$","1","",1,c245
-r5230,3,"^Fashion or accessories$","1","",1,c245
-r5231,3,"^Minimalism$","","",1,c245
-r5232,3,"^It improves my opinion of the brand as I believe they are genuinely trying to connect with consumers$","1","",1,c245
-r5233,3,"^Limited-time collaborations or exclusive items$","","",1,c245
 r5234,3,"^6$","1","",1,c246
 r5235,3,"^5 or more times$","1","",1,c247
 r5236,3,"^Non-alcoholic wines$","1","",1,c247
@@ -5218,6 +5213,11 @@ r5276,3,"^Movies \(any kind\)$","1","",1,c4
 r5277,3,"^Fitness$","1","",1,c4
 r5278,3,"^Music$","1","",1,c4
 r5279,3,"^No - I would not like to participate$","1","",1,c4
+r5229,3,"^I’m not familiar with any micro trends on Tik Tok$","1","",1,c245
+r5230,3,"^Fashion or accessories$","1","",1,c245
+r5231,3,"^Minimalism$","1","",1,c245
+r5232,3,"^It improves my opinion of the brand as I believe they are genuinely trying to connect with consumers$","1","",1,c245
+r5233,3,"^Limited-time collaborations or exclusive items$","1","",1,c245
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
