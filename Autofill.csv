@@ -230,6 +230,7 @@ c245,"Tiktok Trends Shopping Habit","","",,,
 c246,"Brands & Advertising","","",,,
 c247,"All about you","","",,,
 c248,"All about you & preferred products!","","",,,
+c395,"Thinking about groceries...","","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
@@ -5218,6 +5219,28 @@ r5230,3,"^Fashion or accessories$","1","",1,c245
 r5231,3,"^Minimalism$","1","",1,c245
 r5232,3,"^It improves my opinion of the brand as I believe they are genuinely trying to connect with consumers$","1","",1,c245
 r5233,3,"^Limited-time collaborations or exclusive items$","1","",1,c245
+r5281,3,"^Specialty/health food store \(ex: Whole Foods, Trader Joe’s\)$","1","",1,c395
+r5282,3,"^Grocery Stores \(ex: Meijer, Kroger, Publix, Albertsons\)$","1","",1,c395
+r5283,3,"^Online \(ex: Amazon\.com\)$","1","",1,c395
+r5284,3,"^Warehouse/club stores \(ex: Costco, Sam’s Club, BJ’s\)$","1","",1,c395
+r5285,3,"^Gas/Convenience stores \(ex: 7-Eleven, Quick Check\)$","1","",1,c395
+r5286,3,"^Mass merchandise/discount department store \(ex: Walmart, Target, Kmart\)$","1","",1,c395
+r5287,3,"^Costco$","1","",1,c395
+r5288,3,"^Sam’s Club$","1","",1,c395
+r5289,3,"^Pre-packaged side dishes$","1","",1,c395
+r5290,3,"^Instant Asian noodles or ramen$","1","",1,c395
+r5291,3,"^Frozen pizza or pizza kits$","1","",1,c395
+r5292,3,"^Frozen meals or snacks$","1","",1,c395
+r5293,3,"^Pre-packaged salads or salad kits$","1","",1,c395
+r5294,3,"^Single-serve yogurt cups$","1","",1,c395
+r5295,3,"^Once a week or more$","1","",1,c395
+r5296,3,"^Instant Asian noodles or ramen sold in a PACKET or BAG$","1","",1,c395
+r5297,3,"^Maruchan$","1","",1,c395
+r5298,3,"^Chicken$","1","",1,c395
+r5299,3,"^Authentic Asian flavors$","1","",1,c395
+r5300,3,"^Yes$","1","",1,c395
+r5301,3,"^I’m willing to spend more for instant ramen that is higher quality$","1","",1,c395
+r5302,3,"^CR: “I really like ramen and feel it can be part of a sophisticated meal… \(see image for full text\)”$","1","",1,c395
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
