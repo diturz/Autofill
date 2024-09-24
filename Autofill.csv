@@ -4863,36 +4863,6 @@ r5076,3,"^Within the past month$","1","",1,c19
 r5077,3,"^Education$","1","",1,c19
 r5078,3,"^Myself$","1","",1,c19
 r5079,3,"^A few times a week or more$","1","",1,c19
-r5080,3,"^Own$","1","",1,c238
-r5081,3,"^We do not have an area/ feature like this in or around my home$","1","",1,c238
-r5082,3,"^I am the primary decision maker$","1","",1,c238
-r5083,3,"^Dragon$","1","",1,c238
-r5084,3,"^Amazon$","1","",1,c238
-r5085,3,"^Grocery Store or Chain \(Kroger, Publix, Whole Foods, Local grocery, etc\.\)$","1","",1,c238
-r5086,3,"^Walmart$","1","",1,c238
-r5087,3,"^Target$","1","",1,c238
-r5088,3,"^Sam’s Club$","1","",1,c238
-r5089,3,"^Costco$","1","",1,c238
-r5090,3,"^The Home Depot$","1","",1,c238
-r5091,3,"^Single-family detached home$","1","",1,c238
-r5092,3,"^Metropolitan \(large city or densely populated urban area\)$","1","",1,c238
-r5093,3,"^Grass seed$","1","",1,c238
-r5094,3,"^Live flowers/decorative plants$","1","",1,c238
-r5095,3,"^Scotts$","1","",1,c238
-r5096,3,"^Average$","1","",1,c238
-r5097,3,"^2022$","1","",1,c238
-r5098,3,"^Somewhat confident$","1","",1,c238
-r5099,3,"^Somewhat important$","1","",1,c238
-r5100,3,"^I'm willing to pay significantly more$","1","",1,c238
-r5101,3,"^Specialty plant store or website$","1","",1,c238
-r5102,3,"^Farm Supply Store \(e\.g\., Farm & Fleet, Tractor Supply, etc\.\)$","1","",1,c238
-r5103,3,"^Online Only Retailer \(e\.g\., Amazon\)$","1","",1,c238
-r5104,3,"^Single family detached home$","1","",1,c238
-r5105,3,"^Outdoor Annuals Flowering decorative plants$","1","",1,c238
-r5106,3,"^Somewhat Interested$","1","",1,c238
-r5107,3,"^Push Lawn Mower$","","",1,c238
-r5108,3,"^Somewhat prefer in-store$","1","",1,c238
-r5109,3,"^A financial services / accounting firm or department$","1","",1,c238
 r5110,3,"^I am completely responsible for all the grocery shopping/brand decision making for my household$","1","",1,c239
 r5111,3,"^Fresh Bread \(sold in the store bakery\)$","1","",1,c239
 r5112,3,"^Shelf Stable Bread \(sold in main grocery aisle\)$","1","",1,c239
@@ -5321,6 +5291,36 @@ r5391,3,"^Laundry detergents$","1","",1,c399
 r5392,3,"^Somewhat Agree$","1","",1,c399
 r5393,3,"^Very Open$","1","",1,c399
 r5394,3,"^Use it occasionally$","1","",1,c399
+r5080,3,"^Own$","1","",1,c238
+r5081,3,"^We do not have an area/ feature like this in or around my home$","1","",1,c238
+r5082,3,"^I am the primary decision maker$","1","",1,c238
+r5083,3,"^Dragon$","1","",1,c238
+r5084,3,"^Amazon$","1","",1,c238
+r5085,3,"^Grocery Store or Chain \(Kroger, Publix, Whole Foods, Local grocery, etc\.\)$","1","",1,c238
+r5086,3,"^Walmart$","1","",1,c238
+r5087,3,"^Target$","1","",1,c238
+r5088,3,"^Sam’s Club$","1","",1,c238
+r5089,3,"^Costco$","1","",1,c238
+r5090,3,"^The Home Depot$","1","",1,c238
+r5091,3,"^Single-family detached home$","1","",1,c238
+r5092,3,"^Metropolitan \(large city or densely populated urban area\)$","1","",1,c238
+r5093,3,"^Grass seed$","1","",1,c238
+r5094,3,"^Live flowers/decorative plants$","1","",1,c238
+r5095,3,"^Scotts$","1","",1,c238
+r5096,3,"^Average$","1","",1,c238
+r5097,3,"^2022$","1","",1,c238
+r5098,3,"^Somewhat confident$","1","",1,c238
+r5099,3,"^Somewhat important$","1","",1,c238
+r5100,3,"^I'm willing to pay significantly more$","1","",1,c238
+r5101,3,"^Specialty plant store or website$","1","",1,c238
+r5102,3,"^Farm Supply Store \(e\.g\., Farm & Fleet, Tractor Supply, etc\.\)$","1","",1,c238
+r5103,3,"^Online Only Retailer \(e\.g\., Amazon\)$","1","",1,c238
+r5104,3,"^Single family detached home$","1","",1,c238
+r5105,3,"^Outdoor Annuals Flowering decorative plants$","1","",1,c238
+r5106,3,"^Somewhat Interested$","1","",1,c238
+r5107,3,"^Push Lawn Mower$","1","",1,c238
+r5108,3,"^Somewhat prefer in-store$","1","",1,c238
+r5109,3,"^A financial services / accounting firm or department$","1","",1,c238
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
