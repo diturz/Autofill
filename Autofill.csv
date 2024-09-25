@@ -4627,21 +4627,6 @@ r4987,3,"^Skin Care Treatments$","1","",1,c233
 r4988,3,"^Vitamins and Supplements$","1","",1,c233
 r4989,3,"^Digestive Health Products$","1","",1,c233
 r4990,3,"^Store Brand/Generic$","1","",1,c233
-r4991,3,"^Verizon$","1","",1,c234
-r4992,3,"^iPhone$","1","",1,c234
-r4993,3,"^iPhone 14 Pro Max$","1","",1,c234
-r4994,3,"^I am the primary decision-maker$","1","",1,c234
-r4995,3,"^No$","1","",1,c234
-r4996,3,"^No, but I plan to$","1","",1,c234
-r4997,3,"^Verizon Fios$","1","",1,c234
-r4998,3,"^Somewhat agree$","1","",1,c234
-r4999,3,"^Work/productivity \(File sharing, web programs, etc\.\)$","1","",1,c234
-r5000,3,"^Alone$","1","",1,c234
-r5001,3,"^31 – 40 years old$","1","",1,c234
-r5002,3,"^Mostly office / on-site$","1","",1,c234
-r5003,3,"^I use the plan$","1","",1,c234
-r5004,3,"^Yellow$","1","",1,c234
-r5005,3,"^Spider$","1","",1,c234
 r5007,3,"^Watching sports$","1","",1,c235
 r5008,3,"^Watching TV or movies$","1","",1,c235
 r5009,3,"^Listening to music$","1","",1,c235
@@ -5321,6 +5306,20 @@ r5106,3,"^Somewhat Interested$","1","",1,c238
 r5107,3,"^Push Lawn Mower$","1","",1,c238
 r5108,3,"^Somewhat prefer in-store$","1","",1,c238
 r5109,3,"^A financial services / accounting firm or department$","1","",1,c238
+r4991,3,"^Verizon$","1","",1,c234
+r4992,3,"^iPhone$","1","",1,c234
+r4993,3,"^iPhone 14 Pro Max$","1","",1,c234
+r4994,3,"^I am the primary decision-maker$","1","",1,c234
+r4995,3,"^No$","1","",1,c234
+r4996,3,"^No, but I plan to$","1","",1,c234
+r4997,3,"^Verizon Fios$","1","",1,c234
+r4998,3,"^Somewhat agree$","1","",1,c234
+r4999,3,"^Work/productivity \(File sharing, web programs, etc\.\)$","1","",1,c234
+r5000,3,"^Alone$","1","",1,c234
+r5001,3,"^31 – 40 years old$","1","",1,c234
+r5002,3,"^Mostly office / on-site$","1","",1,c234
+r5003,3,"^I use the plan$","1","",1,c234
+r5005,3,"^Spider$","1","",1,c234
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
