@@ -5201,41 +5201,6 @@ r5524,3,"^I like this band$","1","",1,c5
 r5525,3,"^21079$","1","",1,c5
 r5526,3,"^37055$","1","",1,c5
 r5527,3,"^85301$","1","",1,c5
-r5528,3,"^I am the primary shopper in my household for routine household items\.$","1","",1,c404
-r5529,3,"^Once a week or more$","1","",1,c404
-r5530,3,"^Amazon$","1","",1,c404
-r5531,3,"^Target$","1","",1,c404
-r5532,3,"^Costco$","1","",1,c404
-r5533,3,"^Sam’s Club$","1","",1,c404
-r5534,3,"^Kroger$","1","",1,c404
-r5535,3,"^Walmart$","1","",1,c404
-r5536,3,"^Home Depot$","1","",1,c404
-r5537,3,"^Best Buy$","1","",1,c404
-r5538,3,"^10 - extremely positive$","1","",1,c404
-r5539,3,"^Weekly or more$","1","",1,c404
-r5540,3,"^Food and groceries$","1","",1,c404
-r5541,3,"^Household supplies$","1","",1,c404
-r5542,3,"^Health and beauty$","1","",1,c404
-r5543,3,"^Home & kitchen$","1","",1,c404
-r5544,3,"^Patio and garden$","1","",1,c404
-r5545,3,"^Electronics$","1","",1,c404
-r5546,3,"^Toys & games$","1","",1,c404
-r5547,3,"^Sporting goods$","1","",1,c404
-r5548,3,"^Fashion apparel$","1","",1,c404
-r5549,3,"^A mix of app and computer$","1","",1,c404
-r5550,3,"^In-store pickup$","1","",1,c404
-r5551,3,"^Scan and go$","1","",1,c404
-r5552,3,"^Amazon Prime$","1","",1,c404
-r5553,3,"^DashPass \(DoorDash\)$","1","",1,c404
-r5554,3,"^Uber Eats$","1","",1,c404
-r5555,3,"^Instacart\+$","1","",1,c404
-r5556,3,"^Walmart\+$","1","",1,c404
-r5557,3,"^Pet supplies \(i\.e\. Chewy, BarkBox\)$","1","",1,c404
-r5558,3,"^1- I will pay more money in order to save time\.$","1","",1,c404
-r5559,3,"^5- I typically buy the product I want, even if it’s not on sale or I don’t have a coupon\.$","1","",1,c404
-r5560,3,"^1- I typically plan and/or work from a list for my routine shop\.$","1","",1,c404
-r5561,3,"^1 - I am excited by the impact artificial intelligence \(AI\) will have on my life, personally$","1","",1,c404
-r5562,3,"^About once a week$","1","",1,c404
 r5573,3,"^Ate at a fast food restaurant \(dine-in, takeout, or delivery\)$","1","",1,c406
 r5574,3,"^A few times a week$","1","",1,c406
 r5575,3,"^I have multiple fast food restaurants’ apps on my mobile device$","1","",1,c406
@@ -5587,6 +5552,41 @@ r5060,3,"^Coca-Cola$","1","",1,c23
 r5061,3,"^Minute Maid$","1","",1,c23
 r5062,3,"^Coca-Cola Zero Sugar$","1","",1,c23
 r5063,3,"^Somewhat agree$","1","",1,c23
+r5528,3,"^I am the primary shopper in my household for routine household items\.$","1","",1,c404
+r5529,3,"^Once a week or more$","1","",1,c404
+r5530,3,"^Amazon$","1","",1,c404
+r5531,3,"^Target$","1","",1,c404
+r5532,3,"^Costco$","1","",1,c404
+r5533,3,"^Sam’s Club$","1","",1,c404
+r5534,3,"^Kroger$","1","",1,c404
+r5535,3,"^Walmart$","1","",1,c404
+r5536,3,"^Home Depot$","1","",1,c404
+r5537,3,"^Best Buy$","1","",1,c404
+r5538,3,"^9$","1","",1,c404
+r5539,3,"^Weekly or more$","1","",1,c404
+r5540,3,"^Food and groceries$","1","",1,c404
+r5541,3,"^Household supplies$","1","",1,c404
+r5542,3,"^Health and beauty$","1","",1,c404
+r5543,3,"^Home & kitchen$","1","",1,c404
+r5544,3,"^Patio and garden$","1","",1,c404
+r5545,3,"^Electronics$","1","",1,c404
+r5546,3,"^Toys & games$","1","",1,c404
+r5547,3,"^Sporting goods$","1","",1,c404
+r5548,3,"^Fashion apparel$","1","",1,c404
+r5549,3,"^A mix of app and computer$","1","",1,c404
+r5550,3,"^In-store pickup$","1","",1,c404
+r5551,3,"^Scan and go$","1","",1,c404
+r5552,3,"^Amazon Prime$","1","",1,c404
+r5553,3,"^DashPass \(DoorDash\)$","1","",1,c404
+r5554,3,"^Uber Eats$","1","",1,c404
+r5555,3,"^Instacart\+$","1","",1,c404
+r5556,3,"^Walmart\+$","1","",1,c404
+r5557,3,"^Pet supplies \(i\.e\. Chewy, BarkBox\)$","1","",1,c404
+r5558,3,"^1- I will pay more money in order to save time\.$","1","",1,c404
+r5559,3,"^5- I typically buy the product I want, even if it’s not on sale or I don’t have a coupon\.$","1","",1,c404
+r5560,3,"^1- I typically plan and/or work from a list for my routine shop\.$","1","",1,c404
+r5561,3,"^1 - I am excited by the impact artificial intelligence \(AI\) will have on my life, personally$","1","",1,c404
+r5562,3,"^About once a week$","1","",1,c404
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
