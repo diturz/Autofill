@@ -2797,49 +2797,6 @@ r3561,3,"^Home Decor$","1","",1,c66
 r3562,3,"^Vitamins and Supplements$","1","",1,c66
 r3563,3,"^More than \$500$","1","",1,c66
 r3564,3,"^Prestige Brands \(e\.g\., Drunk Elephant, Tatcha, Fresh, Charlotte Tillbury\) \$45-70$","1","",1,c66
-r3565,3,"^Men's All Over Deodorant$","1","",1,c171
-r3566,3,"^Men's Beard Care/Facial Hair Care$","1","",1,c171
-r3567,3,"^Men's Skincare$","1","",1,c171
-r3568,3,"^Men's Fragrance/Cologne$","1","",1,c171
-r3569,3,"^Men's Bath & Body$","1","",1,c171
-r3570,3,"^Men's Hair Removal & Shave$","1","",1,c171
-r3571,3,"^Men's Deodorant$","1","",1,c171
-r3572,3,"^Men's Hair Care$","1","",1,c171
-r3573,3,"^2 in 1 Shampoo \+ Conditioner$","1","",1,c171
-r3574,3,"^Shampoo$","1","",1,c171
-r3575,3,"^Conditioner$","1","",1,c171
-r3576,3,"^Serums and/or Treatments$","1","",1,c171
-r3577,3,"^Spot Treatment \(Blemishes or Acne\)$","1","",1,c171
-r3578,3,"^Sun Care$","1","",1,c171
-r3579,3,"^Beard Wash/Conditioner$","1","",1,c171
-r3580,3,"^Beard Trimmer/Razor/Shaver$","1","",1,c171
-r3581,3,"^Beard and Face Lotion$","1","",1,c171
-r3582,3,"^Amazon$","1","",1,c171
-r3583,3,"^Mass Merchandiser \(e\.g\., Walmart, Target, etc\.\)$","1","",1,c171
-r3584,3,"^Club Warehouse \(e\.g\., Costco, Sam's Club, BJ's, etc\.\)$","1","",1,c171
-r3585,3,"^Personal Care Retailer \(e\.g\., Sephora, Ulta, etc\.\)$","1","",1,c171
-r3586,3,"^Target$","1","",1,c171
-r3587,3,"^Sam’s Club$","1","",1,c171
-r3588,3,"^Walmart$","1","",1,c171
-r3589,3,"^Axe$","1","",1,c171
-r3590,3,"^Native$","1","",1,c171
-r3591,3,"^Every Man Jack$","1","",1,c171
-r3592,3,"^No$","1","",1,c171
-r3593,3,"^\$21\+$","1","",1,c171
-r3594,3,"^Acne$","1","",1,c171
-r3595,3,"^Snapchat$","1","",1,c171
-r3596,3,"^Discord$","1","",1,c171
-r3597,3,"^Facebook$","1","",1,c171
-r3598,3,"^Twitter$","1","",1,c171
-r3599,3,"^Reddit$","1","",1,c171
-r3600,3,"^TikTok$","1","",1,c171
-r3601,3,"^Pinterest$","1","",1,c171
-r3602,3,"^Twitch$","1","",1,c171
-r3603,3,"^Instagram$","1","",1,c171
-r3604,3,"^LinkedIn$","1","",1,c171
-r3605,3,"^Urban$","1","",1,c171
-r3606,3,"^Using natural personal care products is nice, but not necessary$","1","",1,c171
-r3607,3,"^Somewhat agree$","1","",1,c171
 r3632,3,"^Same$","1","",1,c172
 r3633,3,"^Capsule$","1","",1,c172
 r3634,3,"^Physical stores$","1","",1,c172
@@ -6455,6 +6412,50 @@ r5415,3,"^Multiple times per week$","1","",1,c400
 r5416,3,"^I only use an air fryer\.$","1","",1,c400
 r5417,3,"^I prefer to use an air fryer\.$","1","",1,c400
 r6547,3,"^I handle all of the grocery shopping for my household\.$","1","",1,c400
+r3565,3,"^Men's All Over Deodorant$","1","",1,c171
+r3566,3,"^Men's Beard Care/Facial Hair Care$","1","",1,c171
+r3567,3,"^Men's Skincare$","1","",1,c171
+r3568,3,"^Men's Fragrance/Cologne$","1","",1,c171
+r3569,3,"^Men's Bath & Body$","1","",1,c171
+r3570,3,"^Men's Hair Removal & Shave$","1","",1,c171
+r3571,3,"^Men's Deodorant$","1","",1,c171
+r3572,3,"^Men's Hair Care$","1","",1,c171
+r3573,3,"^2 in 1 Shampoo \+ Conditioner$","1","",1,c171
+r3574,3,"^Shampoo$","1","",1,c171
+r3575,3,"^Conditioner$","1","",1,c171
+r3576,3,"^Serums and/or Treatments$","1","",1,c171
+r3577,3,"^Spot Treatment \(Blemishes or Acne\)$","1","",1,c171
+r3578,3,"^Sun Care$","1","",1,c171
+r3579,3,"^Beard Wash/Conditioner$","1","",1,c171
+r3580,3,"^Beard Trimmer/Razor/Shaver$","1","",1,c171
+r3581,3,"^Beard and Face Lotion$","1","",1,c171
+r3582,3,"^Amazon$","1","",1,c171
+r3583,3,"^Mass Merchandiser \(e\.g\., Walmart, Target, etc\.\)$","1","",1,c171
+r3584,3,"^Club Warehouse \(e\.g\., Costco, Sam's Club, BJ's, etc\.\)$","1","",1,c171
+r3585,3,"^Personal Care Retailer \(e\.g\., Sephora, Ulta, etc\.\)$","1","",1,c171
+r3586,3,"^Target$","1","",1,c171
+r3587,3,"^Sam’s Club$","1","",1,c171
+r3588,3,"^Walmart$","1","",1,c171
+r3589,3,"^Axe$","1","",1,c171
+r3590,3,"^Native$","1","",1,c171
+r3591,3,"^Every Man Jack$","1","",1,c171
+r3592,3,"^No$","1","",1,c171
+r3593,3,"^\$21\+$","1","",1,c171
+r3594,3,"^Acne$","1","",1,c171
+r3595,3,"^Snapchat$","1","",1,c171
+r3596,3,"^Discord$","1","",1,c171
+r3597,3,"^Facebook$","1","",1,c171
+r3598,3,"^Twitter$","1","",1,c171
+r3599,3,"^Reddit$","1","",1,c171
+r3600,3,"^TikTok$","1","",1,c171
+r3601,3,"^Pinterest$","1","",1,c171
+r3602,3,"^Twitch$","1","",1,c171
+r3603,3,"^Instagram$","1","",1,c171
+r3604,3,"^LinkedIn$","1","",1,c171
+r3605,3,"^Urban$","1","",1,c171
+r3606,3,"^Using natural personal care products is nice, but not necessary$","1","",1,c171
+r3607,3,"^Somewhat agree$","1","",1,c171
+r6548,3,"^Men's Below-the-Waist Grooming$","1","",1,c171
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
