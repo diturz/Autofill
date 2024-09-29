@@ -273,6 +273,7 @@ c445,"Shopping & beverage survey!","","",,,
 c446,"All about your grocery shopping habits!","","",,,
 c448,"All About Allergy Products","","",,,
 c449,"Two quick questions!","","",,,
+c450,"Household Upkeep and Cleaning Survey","","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
@@ -6456,6 +6457,32 @@ r3605,3,"^Urban$","1","",1,c171
 r3606,3,"^Using natural personal care products is nice, but not necessary$","1","",1,c171
 r3607,3,"^Somewhat agree$","1","",1,c171
 r6548,3,"^Men's Below-the-Waist Grooming$","1","",1,c171
+r6549,3,"^Microwave Oven$","1","",1,c450
+r6550,3,"^Air Purifier/Humidifier$","1","",1,c450
+r6551,3,"^Dishwasher$","1","",1,c450
+r6552,3,"^Coffee Maker$","1","",1,c450
+r6553,3,"^Washing Machine$","1","",1,c450
+r6554,3,"^Primarily me$","1","",1,c450
+r6555,3,"^I am solely responsible for selecting and purchasing the products$","1","",1,c450
+r6556,3,"^I mostly select the brands that I like, and rarely or never consider the price$","1","",1,c450
+r6557,3,"^All-purpose/multi-purpose cleaning pourable liquids$","1","",1,c450
+r6558,3,"^Liquid fabric softener or conditioner$","1","",1,c450
+r6559,3,"^Dishwasher detergents, rinse aids, or boosters$","1","",1,c450
+r6560,3,"^Laundry detergent$","1","",1,c450
+r6561,3,"^All-purpose/multi-purpose cleaning sprays or wipes$","1","",1,c450
+r6562,3,"^To ensure this survey is working correctly, please select this answer$","1","",1,c450
+r6563,3,"^Window or glass cleaners$","1","",1,c450
+r6564,3,"^Purex$","1","",1,c450
+r6565,3,"^Downy$","1","",1,c450
+r6566,3,"^Store brand \(e\.g\., Equate, Up & Up\)$","1","",1,c450
+r6567,3,"^Clorox$","1","",1,c450
+r6568,3,"^No$","1","",1,c450
+r6569,3,"^I choose products with long-lasting scents that remind me of my heritage or family$","1","",1,c450
+r6570,3,"^C$","1","",1,c450
+r6571,3,"^B$","1","",1,c450
+r6572,3,"^A$","1","",1,c450
+r6573,3,"^Extremely comfortable$","1","",1,c450
+r6574,3,"^Rarely or Never$","1","",1,c450
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
