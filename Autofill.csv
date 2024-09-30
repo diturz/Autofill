@@ -4960,8 +4960,6 @@ r5803,3,"^Medium-Small \(26-35 lbs\.\)$","1","",1,c24
 r5804,3,"^Wet dog food \(cans, pouches, cups, trays, etc\.\)$","1","",1,c24
 r5805,3,"^Frozen dog food \(sold from in-store freezer\)$","1","",1,c24
 r5806,3,"^Dry dog food$","1","",1,c24
-r5807,3,"^Happy$","1","",1,c416
-r5808,3,"^4$","1","",1,c416
 r5809,3,"^Target$","1","",1,c417
 r5810,3,"^Amazon$","1","",1,c417
 r5811,3,"^Home Depot$","1","",1,c417
@@ -6310,54 +6308,6 @@ r6453,3,"^Pain medication \( i\.e, Advil, Tylenol etc\.\)$","1","",1,c45
 r6454,3,"^Allergy relief medication \(ie\., Claritin, Zyrtec,etc\.\)$","1","",1,c45
 r6455,3,"^Claritin$","1","",1,c45
 r6456,3,"^Pharmacist$","1","",1,c45
-r6457,3,"^Child: 10-12 Years Old$","1","",1,c445
-r6458,3,"^Teenager: 13-17 Years Old$","1","",1,c445
-r6460,3,"^I buy most of my groceries in-store, and some online$","1","",1,c445
-r6461,3,"^Walmart$","1","",1,c445
-r6462,3,"^Whole Foods$","1","",1,c445
-r6463,3,"^Target$","1","",1,c445
-r6464,3,"^Kroger$","1","",1,c445
-r6465,3,"^Amazon / Amazon Fresh$","1","",1,c445
-r6466,3,"^Costco$","1","",1,c445
-r6467,3,"^Sam’s Club$","1","",1,c445
-r6468,3,"^Bottled/flat water \(Dasani, Aquafina, Poland Spring, etc\.\)$","1","",1,c445
-r6469,3,"^Enhanced water \(Smart Water, vitaminwater, Propel, etc\.\)$","1","",1,c445
-r6470,3,"^Tea$","1","",1,c445
-r6471,3,"^Sports drinks \(Gatorade, Powerade, etc\.\)$","1","",1,c445
-r6472,3,"^Alcoholic beverages$","1","",1,c445
-r6473,3,"^Energy drinks \(Red Bull, Monster, 5 Hour Energy, etc\.\)$","1","",1,c445
-r6474,3,"^Hydration drink powders/mix \(Liquid I\.V\., Nuun, etc\.\)$","1","",1,c445
-r6475,3,"^Sparkling water \(La Croix, Perrier, Polar, etc\.\)$","1","",1,c445
-r6476,3,"^Coffee$","1","",1,c445
-r6477,3,"^Enhanced sparkling water \(Recess, Bubly Bounce, Yerbae, etc\.\)$","1","",1,c445
-r6478,3,"^Alani Nu$","1","",1,c445
-r6479,3,"^Prime$","1","",1,c445
-r6480,3,"^Liquid I\.V\.$","1","",1,c445
-r6481,3,"^Gatorade$","1","",1,c445
-r6482,3,"^Sam’s Club / Samsclub\.com$","1","",1,c445
-r6483,3,"^Target / Target\.com$","1","",1,c445
-r6484,3,"^Amazon\.com$","1","",1,c445
-r6485,3,"^Walmart / Walmart\.com$","1","",1,c445
-r6486,3,"^Hydration Multiplier$","1","",1,c445
-r6487,3,"^Energy Multiplier$","1","",1,c445
-r6488,3,"^Myself$","1","",1,c445
-r6489,3,"^Somewhat likely$","1","",1,c445
-r6490,3,"^I care a lot about my health and wellness, and significantly adjust my life to stay healthy$","1","",1,c445
-r6491,3,"^I care about the environment, and try to reduce my impact when possible$","1","",1,c445
-r6492,3,"^Health and wellness is an important part of my identity$","1","",1,c445
-r6493,3,"^I like to try new drink/hydration brands and/or flavors$","1","",1,c445
-r6494,3,"^It is really important that I keep fit, I exercise regularly$","1","",1,c445
-r6495,3,"^I regularly take vitamins and supplements to help support my health and wellness$","1","",1,c445
-r6496,3,"^Good hydration is vital for my energy levels$","1","",1,c445
-r6497,3,"^Good hydration is vital for my gut health/digestion$","1","",1,c445
-r6498,3,"^Good hydration is important for my immune system$","1","",1,c445
-r6499,3,"^Good hydration is vital for my brain and memory$","1","",1,c445
-r6500,3,"^Good hydration is vital for my stress management$","1","",1,c445
-r6501,3,"^Basketball$","1","",1,c445
-r6502,3,"^Walking$","1","",1,c445
-r6503,3,"^Cycling$","1","",1,c445
-r6504,3,"^Running$","1","",1,c445
-r6505,3,"^Somewhat agree$","1","",1,c445
 r6506,3,"^I am the primary purchaser of groceries for my household$","1","",1,c446
 r6507,3,"^Healthy - I have money left at the end of the month for a few luxuries or to add to my savings$","1","",1,c446
 r6508,3,"^10-12 years old$","1","",1,c446
@@ -6483,6 +6433,61 @@ r6571,3,"^B$","1","",1,c450
 r6572,3,"^A$","1","",1,c450
 r6573,3,"^Extremely comfortable$","1","",1,c450
 r6574,3,"^Rarely or Never$","1","",1,c450
+r5807,3,"^Happy$","1","",1,c416
+r5808,3,"^4$","1","",1,c416
+r6575,3,"^Wireless headphones$","1","",1,c416
+r6576,3,"^Wireless speaker$","1","",1,c416
+r6577,3,"^Handheld vacuum$","1","",1,c416
+r6578,3,"^Air purifier$","1","",1,c416
+r6457,3,"^Child: 10-12 Years Old$","1","",1,c445
+r6458,3,"^Teenager: 13-17 Years Old$","1","",1,c445
+r6460,3,"^I buy most of my groceries in-store, and some online$","1","",1,c445
+r6461,3,"^Walmart$","1","",1,c445
+r6462,3,"^Whole Foods$","1","",1,c445
+r6463,3,"^Target$","1","",1,c445
+r6464,3,"^Kroger$","1","",1,c445
+r6465,3,"^Amazon / Amazon Fresh$","1","",1,c445
+r6466,3,"^Costco$","1","",1,c445
+r6467,3,"^Sam’s Club$","1","",1,c445
+r6468,3,"^Bottled/flat water \(Dasani, Aquafina, Poland Spring, etc\.\)$","1","",1,c445
+r6469,3,"^Enhanced water \(Smart Water, vitaminwater, Propel, etc\.\)$","1","",1,c445
+r6470,3,"^Tea$","1","",1,c445
+r6471,3,"^Sports drinks \(Gatorade, Powerade, etc\.\)$","1","",1,c445
+r6472,3,"^Alcoholic beverages$","1","",1,c445
+r6473,3,"^Energy drinks \(Red Bull, Monster, 5 Hour Energy, etc\.\)$","1","",1,c445
+r6474,3,"^Hydration drink powders/mix \(Liquid I\.V\., Nuun, etc\.\)$","1","",1,c445
+r6475,3,"^Sparkling water \(La Croix, Perrier, Polar, etc\.\)$","1","",1,c445
+r6476,3,"^Coffee$","1","",1,c445
+r6477,3,"^Enhanced sparkling water \(Recess, Bubly Bounce, Yerbae, etc\.\)$","1","",1,c445
+r6478,3,"^Alani Nu$","1","",1,c445
+r6479,3,"^Prime$","1","",1,c445
+r6480,3,"^Liquid I\.V\.$","1","",1,c445
+r6481,3,"^Gatorade$","1","",1,c445
+r6482,3,"^Sam’s Club / Samsclub\.com$","1","",1,c445
+r6483,3,"^Target / Target\.com$","1","",1,c445
+r6484,3,"^Amazon\.com$","1","",1,c445
+r6485,3,"^Walmart / Walmart\.com$","1","",1,c445
+r6486,3,"^Hydration Multiplier$","1","",1,c445
+r6487,3,"^Energy Multiplier$","1","",1,c445
+r6488,3,"^Myself$","1","",1,c445
+r6489,3,"^Somewhat likely$","1","",1,c445
+r6490,3,"^I care a lot about my health and wellness, and significantly adjust my life to stay healthy$","1","",1,c445
+r6491,3,"^I care about the environment, and try to reduce my impact when possible$","1","",1,c445
+r6492,3,"^Health and wellness is an important part of my identity$","1","",1,c445
+r6493,3,"^I like to try new drink/hydration brands and/or flavors$","1","",1,c445
+r6494,3,"^It is really important that I keep fit, I exercise regularly$","1","",1,c445
+r6495,3,"^I regularly take vitamins and supplements to help support my health and wellness$","1","",1,c445
+r6496,3,"^Good hydration is vital for my energy levels$","1","",1,c445
+r6497,3,"^Good hydration is vital for my gut health/digestion$","1","",1,c445
+r6498,3,"^Good hydration is important for my immune system$","1","",1,c445
+r6499,3,"^Good hydration is vital for my brain and memory$","1","",1,c445
+r6500,3,"^Good hydration is vital for my stress management$","1","",1,c445
+r6501,3,"^Basketball$","1","",1,c445
+r6502,3,"^Walking$","1","",1,c445
+r6503,3,"^Cycling$","1","",1,c445
+r6504,3,"^Running$","1","",1,c445
+r6505,3,"^Somewhat agree$","1","",1,c445
+r6579,3,"^Another adult aged 18\+$","1","",1,c445
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
