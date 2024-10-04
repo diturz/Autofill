@@ -3721,30 +3721,6 @@ r4658,3,"^No$","1","",1,c132
 r4659,3,"^No, but I plan to$","1","",1,c132
 r4696,3,"^Mostly onsite$","1","",1,c132
 r4697,3,"^Someone else is the primary person responsible for setting up printers for my business$","1","",1,c132
-r891,3,"^Bank of America$","1","",1,c44
-r892,3,"^\$10,001 - \$25,000$","1","",1,c44
-r896,0,"^launcher$","","",1,c44
-r4698,3,"^Green bricks$","1","",1,c44
-r4699,3,"^Going to concerts/festivals$","1","",1,c44
-r4700,3,"^Eating out$","1","",1,c44
-r4701,3,"^Going to football games/events$","1","",1,c44
-r4702,3,"^Going to movie theaters$","1","",1,c44
-r4703,3,"^Playing video games$","1","",1,c44
-r4704,3,"^Watching football games/events$","1","",1,c44
-r4705,3,"^Watching video gaming content$","1","",1,c44
-r4706,3,"^MLB$","1","",1,c44
-r4707,3,"^NFL$","1","",1,c44
-r4708,3,"^NHL$","1","",1,c44
-r4709,3,"^NBA$","1","",1,c44
-r4710,3,"^MLS$","1","",1,c44
-r4711,3,"^I am primarily responsible for buying snacks for my household$","1","",1,c44
-r4712,3,"^String cheese / cheese sticks$","1","",1,c44
-r4713,3,"^Savory spreads and dips$","1","",1,c44
-r4714,3,"^Protein shakes$","1","",1,c44
-r4715,3,"^Sports / Energy drinks$","1","",1,c44
-r4716,3,"^Ice cream and/or frozen novelties$","1","",1,c44
-r4717,3,"^Yogurt cups$","1","",1,c44
-r4718,3,"^Fruit snacks$","1","",1,c44
 r397,3,"^Being open to new ideas and experiences$","1","",1,c20
 r398,3,"^Enjoying relationships that give my life meaning$","1","",1,c20
 r399,3,"^DESCRIBES ME: Authentic$","1","",1,c20
@@ -6165,27 +6141,6 @@ r6828,3,"^Saving for retirement$","1","",1,c178
 r6845,3,"^I’ve heard of it, but don’t know much$","1","",1,c468
 r6846,3,"^Breakouts or acne$","1","",1,c468
 r6847,3,"^I would pay the same for both$","1","",1,c468
-r6920,3,"^Healthy snacks$","1","",1,c471
-r6921,3,"^Meat and poultry$","1","",1,c471
-r6922,3,"^Juice$","1","",1,c471
-r6923,3,"^Cereal or Oat Meal$","1","",1,c471
-r6924,3,"^Milk$","1","",1,c471
-r6925,3,"^Frozen foods$","1","",1,c471
-r6926,3,"^Dairy products$","1","",1,c471
-r6927,3,"^Chips/ Popcorn$","1","",1,c471
-r6928,3,"^Pasta or Rice$","1","",1,c471
-r6929,3,"^Fresh fruits and vegetables$","1","",1,c471
-r6932,3,"^Natural Grocery stores \(e\.g\., Whole Foods, Trader Joe's, Sprouts\)$","1","",1,c471
-r6933,3,"^Club stores \(e\.g\., Costco, Sam's Club\)$","1","",1,c471
-r6934,3,"^Mass retailers \(e\.g\., Walmart, Target\)$","1","",1,c471
-r6935,3,"^Several times a week$","1","",1,c471
-r6936,3,"^Regularly \(Multiple times a week\)$","1","",1,c471
-r6937,3,"^Clean Ingredients$","1","",1,c471
-r6938,3,"^Protein amount$","1","",1,c471
-r6939,3,"^Calories$","1","",1,c471
-r6940,3,"^Online-only \(shipping\) \(e\.g\., Amazon\.com, Target\.com, Thrive Market\)$","1","",1,c471
-r6941,3,"^Mass retailers \(e\.g\., Target, Walmart\)$","1","",1,c471
-r6942,3,"^Kind$","1","",1,c471
 r101,3,"^Smartphone$","1","",1,c5
 r102,3,"^Smartwatch$","1","",1,c5
 r103,3,"^Laptop / desktop computer$","1","",1,c5
@@ -7056,6 +7011,53 @@ r6917,3,"^Cappuccino$","1","",1,c55
 r6918,3,"^Kroger$","1","",1,c55
 r6919,3,"^Convenience Store/Gas Station \(e\.g\., 7-Eleven, AM PM\)$","1","",1,c55
 r7188,3,"^I am the primary grocery shopper for my household$","1","",1,c55
+r891,3,"^Bank of America$","1","",1,c44
+r892,3,"^\$10,001 - \$25,000$","1","",1,c44
+r896,0,"^launcher$","","",1,c44
+r4698,3,"^Green bricks$","1","",1,c44
+r4699,3,"^Going to concerts/festivals$","1","",1,c44
+r4700,3,"^Eating out$","1","",1,c44
+r4701,3,"^Going to football games/events$","1","",1,c44
+r4702,3,"^Going to movie theaters$","1","",1,c44
+r4703,3,"^Playing video games$","1","",1,c44
+r4704,3,"^Watching football games/events$","1","",1,c44
+r4705,3,"^Watching video gaming content$","1","",1,c44
+r4706,3,"^MLB$","1","",1,c44
+r4707,3,"^NFL$","1","",1,c44
+r4708,3,"^NHL$","1","",1,c44
+r4709,3,"^NBA$","1","",1,c44
+r4710,3,"^MLS$","1","",1,c44
+r4711,3,"^I am primarily responsible for buying snacks for my household$","1","",1,c44
+r4712,3,"^String cheese / cheese sticks$","1","",1,c44
+r4713,3,"^Savory spreads and dips$","1","",1,c44
+r4714,3,"^Protein shakes$","1","",1,c44
+r4715,3,"^Sports / Energy drinks$","1","",1,c44
+r4716,3,"^Ice cream and/or frozen novelties$","1","",1,c44
+r4717,3,"^Yogurt cups$","1","",1,c44
+r4718,3,"^Fruit snacks$","1","",1,c44
+r7189,3,"^Several times a week$","1","",1,c44
+r6920,3,"^Healthy snacks$","1","",1,c471
+r6921,3,"^Meat and poultry$","1","",1,c471
+r6922,3,"^Juice$","1","",1,c471
+r6923,3,"^Cereal or Oat Meal$","1","",1,c471
+r6924,3,"^Milk$","1","",1,c471
+r6925,3,"^Frozen foods$","1","",1,c471
+r6926,3,"^Dairy products$","1","",1,c471
+r6927,3,"^Chips/ Popcorn$","1","",1,c471
+r6928,3,"^Pasta or Rice$","1","",1,c471
+r6929,3,"^Fresh fruits and vegetables$","1","",1,c471
+r6932,3,"^Natural Grocery stores \(e\.g\., Whole Foods, Trader Joe's, Sprouts\)$","1","",1,c471
+r6933,3,"^Club stores \(e\.g\., Costco, Sam's Club\)$","1","",1,c471
+r6934,3,"^Mass retailers \(e\.g\., Walmart, Target\)$","1","",1,c471
+r6935,3,"^Several times a week$","1","",1,c471
+r6936,3,"^Regularly \(Multiple times a week\)$","1","",1,c471
+r6937,3,"^Clean Ingredients$","1","",1,c471
+r6938,3,"^Protein amount$","1","",1,c471
+r6939,3,"^Calories$","1","",1,c471
+r6940,3,"^Online-only \(shipping\) \(e\.g\., Amazon\.com, Target\.com, Thrive Market\)$","1","",1,c471
+r6941,3,"^Mass retailers \(e\.g\., Target, Walmart\)$","1","",1,c471
+r6942,3,"^Kind$","1","",1,c471
+r7190,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c471
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
