@@ -315,7 +315,6 @@ c506,"Grocery Habits","","",,,
 c507,"A few questions about your skincare routine","","",,,
 c508,"Health & wellness purchases","","",,,
 c509,"Grocery Shopping Habits & Preferences","","",,,
-c510,"Let’s talk about skincare!!","","",,,
 c512,"All About Your Recent Purchases!","","",,,
 c513,"Tell Us About Your Home!","","",,,
 c514,"Recent Food Shopping Purchases","","",,,
@@ -6801,22 +6800,6 @@ r7514,3,"^Hulu Streaming \(no ads\)$","1","",1,c504
 r7515,3,"^Cable TV \(Verizon, Comcast, Direct TV, etc\)$","1","",1,c504
 r7516,3,"^Disney \+$","1","",1,c504
 r7517,3,"^Amazon Prime Video$","1","",1,c504
-r7519,3,"^Cinnabon$","1","",1,c505
-r7520,3,"^Jamba Juice$","1","",1,c505
-r7521,3,"^Buffalo Wild Wings$","1","",1,c505
-r7522,3,"^Burger King$","1","",1,c505
-r7523,3,"^Subway$","1","",1,c505
-r7524,3,"^Wendy's$","1","",1,c505
-r7525,3,"^Pizza Hut$","1","",1,c505
-r7526,3,"^Taco Bell$","1","",1,c505
-r7527,3,"^Cinnamon$","1","",1,c505
-r7528,3,"^Frosting$","1","",1,c505
-r7529,3,"^Baked Goods$","1","",1,c505
-r7530,3,"^Juice$","1","",1,c505
-r7531,3,"^Fruity$","1","",1,c505
-r7532,3,"^Smoothies$","1","",1,c505
-r7533,3,"^Cinnabon Mini Rolls at Pizza Hut$","1","",1,c505
-r7534,3,"^Once a day or more often$","1","",1,c505
 r7535,3,"^I am primarily responsible$","1","",1,c506
 r7536,3,"^50% in-store / 50% online$","1","",1,c506
 r7537,3,"^Costco$","1","",1,c506
@@ -7288,25 +7271,6 @@ r7634,3,"^Traditional Retail \(e\.g\. Kroger, Cub, Albertson's, Publix\)$","1","
 r7635,3,"^Target$","1","",1,c509
 r7636,3,"^Costco$","1","",1,c509
 r7637,3,"^Whole Foods$","1","",1,c509
-r7638,3,"^I do not currently use any anti-aging products but am open to it$","1","",1,c510
-r7639,3,"^Serums$","1","",1,c510
-r7640,3,"^Sunscreen$","1","",1,c510
-r7641,3,"^Lotion$","1","",1,c510
-r7642,3,"^Face$","1","",1,c510
-r7643,3,"^Arms/legs$","1","",1,c510
-r7644,3,"^Shoulders/back$","1","",1,c510
-r7645,3,"^Morning$","1","",1,c510
-r7646,3,"^Daily$","1","",1,c510
-r7647,3,"^Topical treatments \(e\.g\., creams, serums\)$","1","",1,c510
-r7648,3,"^Want to improve overall skin health and appearance$","1","",1,c510
-r7649,3,"^Positive review from friends/families$","1","",1,c510
-r7650,3,"^Notice the appearance of fine lines or wrinkles$","1","",1,c510
-r7651,3,"^Clinically proven$","1","",1,c510
-r7652,3,"^Good for daily use$","1","",1,c510
-r7653,3,"^Moisturizing/hydrating$","1","",1,c510
-r7654,3,"^Online reviews$","1","",1,c510
-r7655,3,"^Social media$","1","",1,c510
-r7656,3,"^Online research$","1","",1,c510
 r7675,3,"^Nike$","1","",1,c512
 r7676,3,"^New Balance$","1","",1,c512
 r7677,3,"^Adidas$","1","",1,c512
@@ -7558,6 +7522,46 @@ r7708,3,"^Conditioner$","1","",1,c515
 r7709,3,"^3-4 times per week$","1","",1,c515
 r7710,3,"^Higher Quality ingredients$","1","",1,c515
 r7711,3,"^Shampoo and conditioner offerings$","1","",1,c515
+r7519,3,"^Cinnabon$","1","",1,c505
+r7520,3,"^Jamba Juice$","1","",1,c505
+r7521,3,"^Buffalo Wild Wings$","1","",1,c505
+r7522,3,"^Burger King$","1","",1,c505
+r7523,3,"^Subway$","1","",1,c505
+r7524,3,"^Wendy's$","1","",1,c505
+r7525,3,"^Pizza Hut$","1","",1,c505
+r7526,3,"^Taco Bell$","1","",1,c505
+r7527,3,"^Cinnamon$","1","",1,c505
+r7528,3,"^Frosting$","1","",1,c505
+r7529,3,"^Baked Goods$","1","",1,c505
+r7530,3,"^Juice$","1","",1,c505
+r7531,3,"^Fruity$","1","",1,c505
+r7532,3,"^Smoothies$","1","",1,c505
+r7533,3,"^Cinnabon Mini Rolls at Pizza Hut$","1","",1,c505
+r7534,3,"^Once a day or more often$","1","",1,c505
+r7712,3,"^Walmart$","1","",1,c505
+r7713,3,"^Kroger$","1","",1,c505
+r7714,3,"^Target$","1","",1,c505
+r7715,3,"^Costco$","1","",1,c505
+r7716,3,"^Sam's Club$","1","",1,c505
+r7717,3,"^Mass merchandise store \(Target, etc\.\)$","1","",1,c505
+r7718,3,"^Club store \(Costco, etc\.\)$","1","",1,c505
+r7719,3,"^Online Delivery \(Amazon, InstaCart, etc\)$","1","",1,c505
+r7720,3,"^Convenience store \(7-11, etc\.\)$","1","",1,c505
+r7721,3,"^Online Retailer Websites \(Walmart\.com, Kroger\.com, etc\)$","1","",1,c505
+r7722,3,"^Supermarket/grocery \(Wegmans, Kroger, etc\.\)$","1","",1,c505
+r7723,3,"^TikTok$","1","",1,c505
+r7724,3,"^Instagram$","1","",1,c505
+r7725,3,"^Twitter$","1","",1,c505
+r7726,3,"^Linkedin$","1","",1,c505
+r7727,3,"^Snapchat$","1","",1,c505
+r7728,3,"^Pinterest$","1","",1,c505
+r7729,3,"^Facebook$","1","",1,c505
+r7730,3,"^International Delight Cinnabon Creamer$","1","",1,c505
+r7731,3,"^Jamba Frozen Fruit$","1","",1,c505
+r7732,3,"^7Eleven$","1","",1,c505
+r7733,3,"^Weekly$","1","",1,c505
+r7734,3,"^Just Bare$","1","",1,c505
+r7735,3,"^Pillsbury$","1","",1,c505
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
