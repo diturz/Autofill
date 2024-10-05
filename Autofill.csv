@@ -319,6 +319,7 @@ c510,"Let’s talk about skincare!!","","",,,
 c512,"All About Your Recent Purchases!","","",,,
 c513,"Tell Us About Your Home!","","",,,
 c514,"Recent Food Shopping Purchases","","",,,
+c515,"Hair Care Product Usage & Needs","","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
@@ -7552,6 +7553,11 @@ r7703,3,"^Auto insurance$","1","",1,c119
 r7704,3,"^I am the sole decision maker in case of buying insurance$","1","",1,c119
 r7705,3,"^State Farm$","1","",1,c119
 r7706,3,"^Accident response$","1","",1,c119
+r7707,3,"^Shampoo$","1","",1,c515
+r7708,3,"^Conditioner$","1","",1,c515
+r7709,3,"^3-4 times per week$","1","",1,c515
+r7710,3,"^Higher Quality ingredients$","1","",1,c515
+r7711,3,"^Shampoo and conditioner offerings$","1","",1,c515
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
