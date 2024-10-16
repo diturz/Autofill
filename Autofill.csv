@@ -4839,68 +4839,6 @@ r17127,3,"^Olly$","1","",1,c17
 r17128,3,"^Amazon$","1","",1,c17
 r17129,3,"^Local pharmacy \(e\.g\., CVS, Walgreens\)$","1","",1,c17
 r17130,3,"^Green$","1","",1,c17
-r2389,3,"^Personal Finance Topics$","1","",1,c119
-r2390,3,"^Alcohol purchase and usage$","1","",1,c119
-r2391,3,"^Prescription medicine purchase and usage$","1","",1,c119
-r2392,3,"^Gender identity and sexual preference$","1","",1,c119
-r2393,3,"^Tobacco purchase and usage$","1","",1,c119
-r2394,3,"^\$100,000 - \$150,000$","1","",1,c119
-r2395,3,"^Somewhat disagree$","1","",1,c119
-r7700,3,"^Life insurance$","1","",1,c119
-r7701,3,"^Home insurance$","1","",1,c119
-r7702,3,"^Health insurance$","1","",1,c119
-r7703,3,"^Auto insurance$","1","",1,c119
-r7704,3,"^I am the sole decision maker in case of buying insurance$","1","",1,c119
-r7705,3,"^State Farm$","1","",1,c119
-r7706,3,"^Accident response$","1","",1,c119
-r9236,3,"^Urban / City$","1","",1,c119
-r9237,3,"^Yes, I am the solo decision-maker$","1","",1,c119
-r9238,3,"^I love it$","1","",1,c119
-r9239,3,"^Lawn mowers$","1","",1,c119
-r9240,3,"^DeWalt$","1","",1,c119
-r9241,3,"^Big box retailers \(e\.g\., Home Depot, Lowe’s\)$","1","",1,c119
-r9242,3,"^Online retailers \(e\.g\., Amazon, eBay\)$","1","",1,c119
-r9243,3,"^Home Depot$","1","",1,c119
-r13143,3,"^Urban / City$","1","",1,c119
-r13144,3,"^Yes, I am the solo decision-maker$","1","",1,c119
-r13145,3,"^I love it$","1","",1,c119
-r13146,3,"^Lawn mowers$","1","",1,c119
-r13147,3,"^DeWalt$","1","",1,c119
-r13148,3,"^Big box retailers \(e\.g\., Home Depot, Lowe’s\)$","1","",1,c119
-r13149,3,"^Online retailers \(e\.g\., Amazon, eBay\)$","1","",1,c119
-r13150,3,"^Home Depot$","1","",1,c119
-r13369,3,"^Dog$","1","",1,c119
-r13370,3,"^Cat$","1","",1,c119
-r13371,3,"^In the last quarter$","1","",1,c119
-r13372,3,"^In the next quarter$","1","",1,c119
-r16611,3,"^Urban / City$","1","",1,c119
-r16612,3,"^Yes, I am the solo decision-maker$","1","",1,c119
-r16613,3,"^I love it$","1","",1,c119
-r16614,3,"^Lawn mowers$","1","",1,c119
-r16615,3,"^DeWalt$","1","",1,c119
-r16616,3,"^Big box retailers \(e\.g\., Home Depot, Lowe’s\)$","1","",1,c119
-r16617,3,"^Online retailers \(e\.g\., Amazon, eBay\)$","1","",1,c119
-r16618,3,"^Home Depot$","1","",1,c119
-r17131,3,"^Urban / City$","1","",1,c119
-r17132,3,"^Yes, I am the solo decision-maker$","1","",1,c119
-r17133,3,"^I love it$","1","",1,c119
-r17134,3,"^Lawn mowers$","1","",1,c119
-r17135,3,"^DeWalt$","1","",1,c119
-r17136,3,"^Big box retailers \(e\.g\., Home Depot, Lowe’s\)$","1","",1,c119
-r17137,3,"^Home Depot$","1","",1,c119
-r17138,3,"^Panera$","1","",1,c119
-r17139,3,"^McDonalds$","1","",1,c119
-r17140,3,"^Domino's Pizza$","1","",1,c119
-r17141,3,"^Subway$","1","",1,c119
-r17142,3,"^Taco Bell$","1","",1,c119
-r17143,3,"^Chick-fil-A$","1","",1,c119
-r17144,3,"^In-N-Out$","1","",1,c119
-r17145,3,"^Wendy's$","1","",1,c119
-r17146,3,"^Starbucks$","1","",1,c119
-r17147,3,"^Ordered for dine-in in person at the restaurant$","1","",1,c119
-r17148,3,"^Ordered delivery through a restaurant's app/website$","1","",1,c119
-r17149,3,"^Ordered delivery through a 3rd party app/website \(e\.g\. DoorDash, Postmates, Ubereats\)$","1","",1,c119
-r17150,3,"^Ordered take-out in-person at the restaurant$","1","",1,c119
 r17151,3,"^Green bricks$","1","",1,c337
 r17152,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c337
 r17153,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c337
@@ -8935,6 +8873,66 @@ r19700,3,"^Frozen family meals like lasagna, casseroles, mac & cheese, pot pies 
 r19701,3,"^Refrigerated lunch/snack combos like cracker/meat/meat plates/trays, meat/cheese/nut packs \(i\.e\., Lunchables, Hillshire Snacking, P3\)$","1","",1,c480
 r20733,3,"^Ketchup \(i\.e\., Heinz, Hunt's\)$","1","",1,c480
 r20734,3,"^Pasta sauce \(i\.e\., Classico, Rao's\)$","1","",1,c480
+r2389,3,"^Personal Finance Topics$","1","",1,c119
+r2390,3,"^Alcohol purchase and usage$","1","",1,c119
+r2391,3,"^Prescription medicine purchase and usage$","1","",1,c119
+r2392,3,"^Gender identity and sexual preference$","1","",1,c119
+r2393,3,"^Tobacco purchase and usage$","1","",1,c119
+r2394,3,"^\$100,000 - \$150,000$","1","",1,c119
+r2395,3,"^Somewhat disagree$","1","",1,c119
+r7700,3,"^Life insurance$","1","",1,c119
+r7701,3,"^Home insurance$","1","",1,c119
+r7702,3,"^Health insurance$","1","",1,c119
+r7703,3,"^Auto insurance$","1","",1,c119
+r7704,3,"^I am the sole decision maker in case of buying insurance$","1","",1,c119
+r7705,3,"^State Farm$","1","",1,c119
+r7706,3,"^Accident response$","1","",1,c119
+r9236,3,"^Urban / City$","1","",1,c119
+r9237,3,"^Yes, I am the solo decision-maker$","1","",1,c119
+r9238,3,"^I love it$","1","",1,c119
+r9239,3,"^Lawn mowers$","1","",1,c119
+r9240,3,"^DeWalt$","1","",1,c119
+r9241,3,"^Big box retailers \(e\.g\., Home Depot, Lowe’s\)$","1","",1,c119
+r9242,3,"^Online retailers \(e\.g\., Amazon, eBay\)$","1","",1,c119
+r9243,3,"^Home Depot$","1","",1,c119
+r13143,3,"^Urban / City$","1","",1,c119
+r13144,3,"^Yes, I am the solo decision-maker$","1","",1,c119
+r13145,3,"^I love it$","1","",1,c119
+r13146,3,"^Lawn mowers$","1","",1,c119
+r13147,3,"^DeWalt$","1","",1,c119
+r13148,3,"^Big box retailers \(e\.g\., Home Depot, Lowe’s\)$","1","",1,c119
+r13149,3,"^Online retailers \(e\.g\., Amazon, eBay\)$","1","",1,c119
+r13150,3,"^Home Depot$","1","",1,c119
+r13371,3,"^In the last quarter$","1","",1,c119
+r13372,3,"^In the next quarter$","1","",1,c119
+r16611,3,"^Urban / City$","1","",1,c119
+r16612,3,"^Yes, I am the solo decision-maker$","1","",1,c119
+r16613,3,"^I love it$","1","",1,c119
+r16614,3,"^Lawn mowers$","1","",1,c119
+r16615,3,"^DeWalt$","1","",1,c119
+r16616,3,"^Big box retailers \(e\.g\., Home Depot, Lowe’s\)$","1","",1,c119
+r16617,3,"^Online retailers \(e\.g\., Amazon, eBay\)$","1","",1,c119
+r16618,3,"^Home Depot$","1","",1,c119
+r17131,3,"^Urban / City$","1","",1,c119
+r17132,3,"^Yes, I am the solo decision-maker$","1","",1,c119
+r17133,3,"^I love it$","1","",1,c119
+r17134,3,"^Lawn mowers$","1","",1,c119
+r17135,3,"^DeWalt$","1","",1,c119
+r17136,3,"^Big box retailers \(e\.g\., Home Depot, Lowe’s\)$","1","",1,c119
+r17137,3,"^Home Depot$","1","",1,c119
+r17138,3,"^Panera$","1","",1,c119
+r17139,3,"^McDonalds$","1","",1,c119
+r17140,3,"^Domino's Pizza$","1","",1,c119
+r17141,3,"^Subway$","1","",1,c119
+r17142,3,"^Taco Bell$","1","",1,c119
+r17143,3,"^Chick-fil-A$","1","",1,c119
+r17144,3,"^In-N-Out$","1","",1,c119
+r17145,3,"^Wendy's$","1","",1,c119
+r17146,3,"^Starbucks$","1","",1,c119
+r17147,3,"^Ordered for dine-in in person at the restaurant$","1","",1,c119
+r17148,3,"^Ordered delivery through a restaurant's app/website$","1","",1,c119
+r17149,3,"^Ordered delivery through a 3rd party app/website \(e\.g\. DoorDash, Postmates, Ubereats\)$","1","",1,c119
+r17150,3,"^Ordered take-out in-person at the restaurant$","1","",1,c119
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
