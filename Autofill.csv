@@ -386,6 +386,21 @@ c550,"Tell us about your beauty routine!","","",,,
 c551,"Learning about you!","","",,,
 c552,"We’d like to hear your opinion on shopping","","",,,
 c553,"Let's chat about snacks!","","",,,
+c555,"Tell us a bit more about what you use!","","",,,
+c556,"All about you","","",,,
+c557,"Tell us more about the work that you do!","","",,,
+c558,"Work work work work","","",,,
+c559,"Just a couple of health-related questions for you!","","",,,
+c560,"Let's talk about movies!","","",,,
+c561,"We would like to learn more about your habits","","",,,
+c562,"Tell us about the household products you use!","","",,,
+c563,"Answer a few questions about your household!","","",,,
+c564,"Tell us about what you do!","","",,,
+c565,"Let’s talk about how you shop.","","",,,
+c566,"What’s in your cart?","","",,,
+c567,"All about you and your favorite foods!","","",,,
+c568,"Hearing From You About the Food You Eat","","",,,
+c569,"Purchasing habits!","","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
@@ -3688,74 +3703,6 @@ r6234,3,"^Energy drinks \(i\.e\., Monster, Red Bull, Celcius, Alani Nu\)$","1","
 r6235,3,"^Marinades \(i\.e\., Lawry's, McCormick Grill Mates\)$","1","",1,c19
 r10462,3,"^Driveways, patios, walkways or sidewalks$","1","",1,c19
 r10463,3,"^Fences or retaining walls$","1","",1,c19
-r304,3,"^Migraines or cluster headaches$","1","",1,c15
-r989,3,"^Employee 401\(k\)$","1","",1,c15
-r990,3,"^Cryptocurrency \(bitcoin, etc\.\)$","1","",1,c15
-r991,3,"^Life insurance$","1","",1,c15
-r992,3,"^Credit card$","1","",1,c15
-r993,3,"^Personal loan \(i\.e\. car loan, etc\.\)$","1","",1,c15
-r994,3,"^Checking account$","1","",1,c15
-r995,3,"^Debit card$","1","",1,c15
-r996,3,"^Savings account \(not high-yield\)$","1","",1,c15
-r997,3,"^I love new technologies and am among the first to experiment with and use them$","1","",1,c15
-r998,3,"^\$100,000 - \$149,999$","1","",1,c15
-r999,3,"^Robinhood$","1","",1,c15
-r1000,3,"^Somewhat familiar$","1","",1,c15
-r1001,3,"^10 Outstanding quality$","1","",1,c15
-r1002,3,"^Possibly$","1","",1,c15
-r1003,3,"^I occasionally purchase/use products or services of this brand$","1","",1,c15
-r1004,3,"^Cryptocurrency \(i\.e\. Bitcoin, Dogecoin, etc\.\)$","1","",1,c15
-r1987,3,"^Luxury apparel \(e\.g\. Hermès, Versace, Dior, Chanel\)$","1","",1,c15
-r1988,3,"^Gourmet edibles \(e\.g\. cheese, ground coffee\) and food packs \(e\.g\. Goldbelly, Formaggio Food Packs\)$","1","",1,c15
-r1989,3,"^Gourmet gift baskets \(e\.g\. Harry & David\)$","1","",1,c15
-r1990,3,"^Premium Skincare, Beauty and Fragrances$","1","",1,c15
-r1991,3,"^Luxury accessories \(e\.g\. Handbags, Watches, Jewelry\)$","1","",1,c15
-r1992,3,"^Luxury chocolates$","1","",1,c15
-r1993,3,"^High-end wine or spirits$","1","",1,c15
-r1994,3,"^Both Online and In-Store$","1","",1,c15
-r1995,3,"^Desktop/Laptop/Tablet$","1","",1,c15
-r2104,3,"^For personal indulgence$","1","",1,c15
-r2105,3,"^As a gift for others$","1","",1,c15
-r2106,3,"^For special occasions / celebrations$","1","",1,c15
-r5489,3,"^Facebook$","1","",1,c15
-r5490,3,"^Netflix$","1","",1,c15
-r5491,3,"^Instagram$","1","",1,c15
-r5492,3,"^Google Search$","1","",1,c15
-r5493,3,"^TikTok$","1","",1,c15
-r5494,3,"^YouTube$","1","",1,c15
-r5495,3,"^Apple Maps$","1","",1,c15
-r5496,3,"^Google Maps$","1","",1,c15
-r5497,3,"^Own a single-family, detached home$","1","",1,c15
-r5498,3,"^Between 0-10°F$","1","",1,c15
-r5499,3,"^Somewhat likely to purchase a car$","1","",1,c15
-r5500,3,"^Like the variety of trying new products$","1","",1,c15
-r5501,3,"^Usually try new products before others do$","1","",1,c15
-r5502,3,"^Like being able to tell others about new brands and products I have tried$","1","",1,c15
-r5503,3,"^I am interested in learning more about home solar$","1","",1,c15
-r5504,3,"^I am interested in learning more about smart thermostats$","1","",1,c15
-r5505,3,"^I am interested in learning more about heat pumps$","1","",1,c15
-r5506,3,"^I am interested in learning more about electric vehicles$","1","",1,c15
-r5507,3,"^I am interested in learning more about alternate transportation methods$","1","",1,c15
-r5508,3,"^I am interested in learning more about shopping alternatives$","1","",1,c15
-r5509,3,"^I am interested in learning more about alternate protein choices$","1","",1,c15
-r5510,3,"^I am interested in learning more about food composting$","1","",1,c15
-r5511,3,"^Somewhat important$","1","",1,c15
-r5512,3,"^Somewhat worried$","1","",1,c15
-r5513,3,"^A moderate amount$","1","",1,c15
-r5514,3,"^Read a book$","1","",1,c15
-r5515,3,"^Donated money to an organization$","1","",1,c15
-r5516,3,"^Walked or biked to a destination instead of driving$","1","",1,c15
-r5517,3,"^Recycled aluminum or glass$","1","",1,c15
-r5518,3,"^Read a magazine$","1","",1,c15
-r5519,3,"^Environmentally-focused organization$","1","",1,c15
-r5677,3,"^Apple iPhone$","1","",1,c15
-r6968,3,"^Employer-Sponsored/Provided Insurance$","1","",1,c15
-r7023,3,"^I am the primary decision maker for financial and real estate decisions\.$","1","",1,c15
-r7024,3,"^I own my primary residence \(house or apartment\)$","1","",1,c15
-r7025,3,"^Likely$","1","",1,c15
-r10464,3,"^Buying a home/property$","1","",1,c15
-r10465,3,"^Getting promoted$","1","",1,c15
-r10466,3,"^Starting a family$","1","",1,c15
 r3022,3,"^Non Alcoholic Cocktails \(Mocktails\)$","1","",1,c153
 r3023,3,"^Energy Drinks$","1","",1,c153
 r3024,3,"^Non Alcoholic Wine$","1","",1,c153
@@ -5593,39 +5540,6 @@ r18705,3,"^Twitter$","1","",1,c429
 r18706,3,"^Facebook$","1","",1,c429
 r18707,3,"^TikTok$","1","",1,c429
 r18708,3,"^No preference$","1","",1,c429
-r18709,3,"^I am the primary purchaser of groceries for my household$","1","",1,c431
-r18710,3,"^Healthy - I have money left at the end of the month for a few luxuries or to add to my savings$","1","",1,c431
-r18711,3,"^10-12 years old$","1","",1,c431
-r18712,3,"^Warehouse/club stores \(ex: Costco, Sam’s Club, BJ’s\)$","1","",1,c431
-r18713,3,"^Coffee shop$","1","",1,c431
-r18714,3,"^Mass merchandise/discount department store \(ex: Walmart, Target, Kmart\)$","1","",1,c431
-r18715,3,"^Natural/specialty food store \(ex: Whole Foods, Trader Joe’s\)$","1","",1,c431
-r18716,3,"^Online \(ex: Amazon\.com\)$","1","",1,c431
-r18717,3,"^Refrigerated Cheese Snacks \(e\.g\., Sargento Balanced Breaks, Babybel\)$","1","",1,c431
-r18718,3,"^Pre-Packaged Snack Cakes \(e\.g\. Little Debbie cakes, other sweet soft cakes, brownies, etc\.\)$","1","",1,c431
-r18719,3,"^Salty Snacks \(e\.g\., Potato Chips, Pretzels, Popcorn\)$","1","",1,c431
-r18720,3,"^Yogurt$","1","",1,c431
-r18721,3,"^Crackers$","1","",1,c431
-r18722,3,"^Confectionery \(e\.g\., Chocolate bars, candy, etc\.\)$","1","",1,c431
-r18723,3,"^Snack Bars \(e\.g\., Nutrition bars, protein bars, granola bars, etc\.\)$","1","",1,c431
-r18724,3,"^Cookies - Prepackaged, Ready-To-Eat$","1","",1,c431
-r18725,3,"^Sweet Baked Goods \(e\.g\., Donuts, Scones, Brownies, Cupcakes, etc\.\)$","1","",1,c431
-r18726,3,"^Baking Chocolate Chips$","1","",1,c431
-r18727,3,"^Snacks that require refrigeration \(ex\. refrigerated bars, fruit cups, pudding, etc\.\)$","1","",1,c431
-r18728,3,"^Packaged Pastries \(e\.g\., Hostess, Little Debbie’s, etc\.\)$","1","",1,c431
-r18729,3,"^Granola and/or Cereal$","1","",1,c431
-r18730,3,"^Snacks that require freezing \(e\.g\.,\. ice cream, pizza rolls, etc\.\)$","1","",1,c431
-r18731,3,"^Single-serve$","1","",1,c431
-r18732,3,"^Full size$","1","",1,c431
-r18733,3,"^Chips Ahoy!$","1","",1,c431
-r18734,3,"^OREO$","1","",1,c431
-r18735,3,"^Pepperidge Farm \(e\.g Milano, Farmhouse, Chocolate Chunk Classic\)$","1","",1,c431
-r18736,3,"^Several times a week$","1","",1,c431
-r18737,3,"^Cheez-It$","1","",1,c431
-r18738,3,"^Ritz Original$","1","",1,c431
-r18739,3,"^Lays$","1","",1,c431
-r18740,3,"^Pringles$","1","",1,c431
-r18741,3,"^Ruffles$","1","",1,c431
 r18742,3,"^Probably Would Buy$","1","",1,c432
 r18743,3,"^Chocolate$","1","",1,c433
 r18744,3,"^Cookies$","1","",1,c433
@@ -6801,7 +6715,6 @@ r20031,3,"^I want a healthy way to get energy$","1","",1,c501
 r20032,3,"^120mg$","1","",1,c501
 r20033,3,"^Slightly important$","1","",1,c501
 r20034,3,"^A morning energy boost$","1","",1,c501
-r20035,3,"^Accounting and finance \(e\.g\., accountant, financial advisor, banker\)$","1","",1,c403
 r20036,3,"^Chick-Fil-A$","1","",1,c502
 r20037,3,"^Taco Bell$","1","",1,c502
 r20038,3,"^KFC$","1","",1,c502
@@ -7198,80 +7111,6 @@ r20504,3,"^Dermatologist$","1","",1,c527
 r20505,3,"^3-4$","1","",1,c527
 r20506,3,"^Sunscreen with SPF$","1","",1,c527
 r20507,3,"^Bar soap$","1","",1,c527
-r18845,3,"^Four$","1","",1,c358
-r18846,3,"^Yes, I have shopped for Halloween already this year and have more shopping to do$","1","",1,c358
-r18847,3,"^In both physical stores and online$","1","",1,c358
-r18848,3,"^Smartphone$","1","",1,c358
-r18849,3,"^Laptop or desktop computer$","1","",1,c358
-r18850,3,"^Open to buying$","1","",1,c358
-r18851,3,"^Myself$","1","",1,c358
-r18852,3,"^Another adult in my household$","1","",1,c358
-r18853,3,"^Child\(ren\) in my household$","1","",1,c358
-r18854,3,"^I put in a little of effort into planning my costume, decorating and/or activities$","1","",1,c358
-r18855,3,"^Probably will$","1","",1,c358
-r18856,3,"^Target$","1","",1,c358
-r18857,3,"^Amazon$","1","",1,c358
-r18858,3,"^Walmart$","1","",1,c358
-r18859,3,"^Within the last month$","1","",1,c358
-r18860,3,"^Yes$","1","",1,c358
-r18861,3,"^With my personal account$","1","",1,c358
-r18862,3,"^I would not like to participate\.$","1","",1,c358
-r18863,3,"^Toaster$","1","",1,c358
-r18864,3,"^Microwave oven$","1","",1,c358
-r18865,3,"^Coffee Maker/Keurig$","1","",1,c358
-r18866,3,"^Dishwasher$","1","",1,c358
-r18867,3,"^Air Fryer$","1","",1,c358
-r18868,3,"^Food Processor$","1","",1,c358
-r18869,3,"^I am the primary decision-maker$","1","",1,c358
-r18870,3,"^1-3 years$","1","",1,c358
-r18871,3,"^Whirlpool$","1","",1,c358
-r18872,3,"^Hamilton Beach$","1","",1,c358
-r18873,3,"^\$500 or more$","1","",1,c358
-r18874,3,"^Countertop$","1","",1,c358
-r18875,3,"^Energy efficiency$","1","",1,c358
-r18876,3,"^Warranty and customer service$","1","",1,c358
-r18877,3,"^Overall design$","1","",1,c358
-r18878,3,"^Three days$","1","",1,c358
-r18879,3,"Agree","1","",1,c358
-r18880,3,"^\$100,000 - \$149,999$","1","",1,c358
-r18881,3,"^Married / live with partner$","1","",1,c358
-r18882,3,"^Employed full-time$","1","",1,c358
-r18883,3,"^T$","1","",1,c358
-r18884,3,"^Several times a week$","1","",1,c358
-r18885,3,"^TV or streaming platforms$","1","",1,c358
-r18886,3,"^In-store displays$","1","",1,c358
-r18887,3,"^Friends and family$","1","",1,c358
-r19428,3,"^Yes$","1","",1,c358
-r19429,3,"^8-12 years$","1","",1,c358
-r19430,3,"^13 years old or older$","1","",1,c358
-r19431,3,"^Allergies$","1","",1,c358
-r19895,3,"^Yes$","1","",1,c358
-r19896,3,"^8-12 years$","1","",1,c358
-r19897,3,"^13 years or older$","1","",1,c358
-r19898,3,"^Allergies$","1","",1,c358
-r20323,3,"^Yes$","1","",1,c358
-r20324,3,"^8-12 years$","1","",1,c358
-r20325,3,"^13 years old or older$","1","",1,c358
-r20326,3,"^Allergies$","1","",1,c358
-r20508,3,"^Windows-based desktop$","1","",1,c358
-r20509,3,"^Every day$","1","",1,c358
-r20510,3,"^Playing video games \(e\.g\., competitive, casual, or multiplayer gaming\)$","1","",1,c358
-r20511,3,"^Managing spreadsheets \(e\.g\., in-game data tracking, finance\)$","1","",1,c358
-r20512,3,"^Participating in online gaming communities \(e\.g\., Discord, forums\)$","1","",1,c358
-r20513,3,"^Browsing the internet \(e\.g\., forums, social media, research\)$","1","",1,c358
-r20514,3,"^Experimenting with AI-powered software \(e\.g\., AI-based game features, voice assistants\)$","1","",1,c358
-r20515,3,"^Listening to music or podcasts \(e\.g\., while gaming or working\)$","1","",1,c358
-r20516,3,"^Video conferencing \(e\.g\., for work, gaming, or social interactions\)$","1","",1,c358
-r20517,3,"^Streaming or watching gameplay \(e\.g\., Twitch, YouTube Gaming\)$","1","",1,c358
-r20518,3,"^Monitoring system performance \(e\.g\., hardware performance, PC optimization\)$","1","",1,c358
-r20519,3,"^Online shopping \(e\.g\., for gaming accessories, PC hardware\)$","1","",1,c358
-r20520,3,"^16-20 hours per week$","1","",1,c358
-r20521,3,"^First-person shooter \(FPS\)$","1","",1,c358
-r20522,3,"^Role-playing \(RPG\)$","1","",1,c358
-r20523,3,"^Action/Adventure$","1","",1,c358
-r20524,3,"^Sports$","1","",1,c358
-r20525,3,"^Strategy \(e\.g\., real-time strategy\)$","1","",1,c358
-r20526,3,"^I am an avid gamer$","1","",1,c358
 r20539,3,"^Nintendo Switch$","1","",1,c528
 r20540,3,"^Xbox Series X$","1","",1,c528
 r20541,3,"^PlayStation 5$","1","",1,c528
@@ -7283,31 +7122,6 @@ r20546,3,"^Satisfied$","1","",1,c528
 r20547,3,"^Often$","1","",1,c528
 r20548,3,"^Discord$","1","",1,c528
 r20549,3,"^I would not like to participate$","1","",1,c528
-r3713,3,"^Strength training / weightlifting$","1","",1,c178
-r3714,3,"^Running$","1","",1,c178
-r3715,3,"^Walking$","1","",1,c178
-r3716,3,"^Moderate intensity \(i\.e\., some effort, but manageable\)$","1","",1,c178
-r3717,3,"^4-6 times per week$","1","",1,c178
-r3718,3,"^Somewhat agree$","1","",1,c178
-r3719,3,"^Provides an energy boost before workout$","1","",1,c178
-r3720,3,"^Helps speed up muscle repair and recovery$","1","",1,c178
-r5237,3,"^4-5 times a week$","1","",1,c178
-r5238,3,"^Soft drinks$","1","",1,c178
-r5239,3,"^Non-alcoholic beer$","1","",1,c178
-r5240,3,"^Juices$","1","",1,c178
-r5241,3,"^Non-alcoholic spirits$","1","",1,c178
-r5242,3,"^Non-alcoholic wine$","","",1,c178
-r5243,3,"^Alcoholic beverages$","","",1,c178
-r5244,3,"^Driving/work responsibilities$","1","",1,c178
-r5245,3,"^Sometimes$","1","",1,c178
-r6824,3,"^My home is fully paid off$","1","",1,c178
-r6825,3,"^Higher income$","1","",1,c178
-r6826,3,"^Improved credit score$","1","",1,c178
-r6827,3,"^Not much$","1","",1,c178
-r6828,3,"^Saving for retirement$","1","",1,c178
-r8689,3,"^5 or more times$","1","",1,c178
-r8690,3,"^Non-alcoholic wines$","1","",1,c178
-r20550,3,"^No symptoms of this kind$","1","",1,c178
 r20638,3,"^Protein bar$","1","",1,c529
 r20639,3,"^Protein drink \(pre-made\)$","1","",1,c529
 r20640,3,"^Protein powder$","1","",1,c529
@@ -7811,356 +7625,6 @@ r17130,3,"^Green$","1","",1,c17
 r20764,3,"^Finance$","1","",1,c17
 r20765,3,"^DirecTV Stream$","1","",1,c17
 r20766,3,"^Somewhat likely$","1","",1,c17
-r3808,3,"^Cat$","1","",1,c185
-r3809,3,"^Sparkling Sodas$","1","",1,c185
-r3810,3,"^Water$","1","",1,c185
-r3811,3,"^Coffee$","1","",1,c185
-r3812,3,"^Smoothies$","1","",1,c185
-r3813,3,"^Milk$","1","",1,c185
-r3814,3,"^Energy drinks$","1","",1,c185
-r3815,3,"^Tea / Iced Tea$","1","",1,c185
-r3816,3,"^Juice$","1","",1,c185
-r3817,3,"^I make coffee at home$","1","",1,c185
-r3818,3,"^I buy packaged/ready-to-drink coffee to keep at home \(i\.e\. in a can, in a bottle, etc\.\)$","1","",1,c185
-r3819,3,"^I buy coffee when I’m out/on-the-go \(i\.e\. Starbucks, 7-Eleven, etc\.\)$","1","",1,c185
-r3820,3,"^Starbucks$","1","",1,c185
-r3821,3,"^Dunkin$","1","",1,c185
-r3822,3,"^Most of the time$","1","",1,c185
-r3823,3,"^Iced drinks$","1","",1,c185
-r3824,3,"^Food$","1","",1,c185
-r3825,3,"^Kids beverages$","1","",1,c185
-r3826,3,"^On the go snack in between meals$","1","",1,c185
-r3827,3,"^Special treat$","1","",1,c185
-r3828,3,"^Convenience \(location proximity\)$","1","",1,c185
-r3829,3,"^Breakfast item \(i\.e bagel, breakfast sandwich, etc\.\)$","1","",1,c185
-r3830,3,"^Sweet treat \(i\.e\. chocolate, candy bar, gummies, etc\.\)$","1","",1,c185
-r3831,3,"^Pastry \(i\.e\. muffin, donut, chocolate chip cookie, etc\.\)$","1","",1,c185
-r3832,3,"^Snack \(i\.e\. chips, nuts, sunflower seeds, etc\.\)$","1","",1,c185
-r3833,3,"^Lunch item \(i\.e\. sandwich/sub, salad, etc\.\)$","1","",1,c185
-r3834,3,"^Myself$","1","",1,c185
-r3835,3,"^Partner$","1","",1,c185
-r3836,3,"^Kids$","1","",1,c185
-r3837,3,"^Flavored Coffee$","1","",1,c185
-r3838,3,"^Multiple times/day$","1","",1,c185
-r3839,3,"^Morning$","1","",1,c185
-r3840,3,"^K-cups / Coffee Pods$","1","",1,c185
-r3841,3,"^From a Café or Coffeeshop$","1","",1,c185
-r3842,3,"^Espresso Pods \(example: Nespresso\)$","1","",1,c185
-r3843,3,"^Ready to drink latte in a bottle or can$","1","",1,c185
-r3844,3,"^Ready to drink cold brew or iced coffee in a bottle or can$","1","",1,c185
-r3845,3,"^Instant coffee$","1","",1,c185
-r3846,3,"^A few times a week$","1","",1,c185
-r3847,3,"^Club Store \(Costco/BJ's\)$","1","",1,c185
-r3848,3,"^Convenience store or gas station$","1","",1,c185
-r3849,3,"^Grocery store$","1","",1,c185
-r3850,3,"^From a can or bottle$","1","",1,c185
-r3851,3,"^As an iced beverage mixed with flavor$","1","",1,c185
-r3852,3,"^Before a workout$","1","",1,c185
-r3853,3,"^Mid Morning pick me up$","1","",1,c185
-r3854,3,"^Gaming$","1","",1,c185
-r3873,3,"^Desktop Computer$","1","",1,c185
-r3874,3,"^Laptop$","1","",1,c185
-r3875,3,"^Smartphone$","1","",1,c185
-r3876,3,"^Tablet$","1","",1,c185
-r3877,3,"^2in1 \(laptop with detachable keyboard\)$","1","",1,c185
-r3878,3,"^Monitor$","1","",1,c185
-r3879,3,"^Desktop$","1","",1,c185
-r3880,3,"^Printer$","1","",1,c185
-r3882,3,"Windows","1","",1,c185
-r3883,3,"^77$","1","",1,c185
-r3884,3,"^41$","1","",1,c185
-r3885,3,"^53$","1","",1,c185
-r3886,3,"^Apple$","1","",1,c185
-r3887,3,"^Samsung$","1","",1,c185
-r3888,3,"^HP$","1","",1,c185
-r3889,3,"^Google Chromebook$","1","",1,c185
-r3890,3,"^Microsoft Surface$","1","",1,c185
-r3891,3,"^\$800\+$","1","",1,c185
-r3892,3,"^Product reviews$","1","",1,c185
-r3893,3,"^Brand reputation$","1","",1,c185
-r3894,3,"^Recommendations of friends/family$","1","",1,c185
-r3895,3,"^Green$","1","",1,c185
-r3896,3,"^Online shopping$","1","",1,c185
-r3897,3,"^Streaming Videos$","1","",1,c185
-r3898,3,"^Social Media$","1","",1,c185
-r3899,3,"^Streaming/Listening to Music$","1","",1,c185
-r3900,3,"^Posting/Managing Videos$","1","",1,c185
-r3901,3,"^Communication \(Texting, Calls, or Email\)$","1","",1,c185
-r3902,3,"^Web Browsing$","1","",1,c185
-r3903,3,"^Posting/Managing Photos$","1","",1,c185
-r3904,3,"^School/Work$","1","",1,c185
-r3905,3,"^Microsoft \(Microsoft 365\)$","1","",1,c185
-r3906,3,"^Google One$","1","",1,c185
-r3907,3,"^Apple \(iCloud / Apple One\)$","1","",1,c185
-r3908,3,"^Netflix$","1","",1,c185
-r3909,3,"^Microsoft 365/Office 365 \(Microsoft Word, Excel, PowerPoint, Teams, etc\.\)$","1","",1,c185
-r3910,3,"^Google Drive$","1","",1,c185
-r3911,3,"^Amazon Prime$","1","",1,c185
-r3912,3,"^Google Play$","1","",1,c185
-r3913,3,"^Apple One$","1","",1,c185
-r3914,3,"^Spotify$","1","",1,c185
-r3915,3,"^Firefox$","1","",1,c185
-r3916,3,"^Internet Explorer$","1","",1,c185
-r3917,3,"^Safari$","1","",1,c185
-r3918,3,"^Microsoft Edge$","1","",1,c185
-r3919,3,"^Google Chrome$","1","",1,c185
-r3920,3,"^Daily or almost daily$","1","",1,c185
-r3921,3,"^Somewhat Excited$","1","",1,c185
-r3922,3,"^ChatGPT$","1","",1,c185
-r3923,3,"^Copilot$","1","",1,c185
-r3924,3,"^Sometimes$","1","",1,c185
-r4566,3,"^Currently trying to lose weight$","1","",1,c185
-r4567,3,"^Focused on improving my general health and wellbeing$","1","",1,c185
-r4568,3,"^Interested in gaining muscle$","1","",1,c185
-r4569,3,"^Regular exercise$","1","",1,c185
-r4570,3,"^Making healthier food choices$","1","",1,c185
-r4571,3,"^Tracking my food choices \(e\.g\., calories, fat, etc\.\)$","1","",1,c185
-r5680,3,"^I am the primary grocery shopper in my household$","1","",1,c185
-r5731,3,"^Apple Photos/iCloud$","1","",1,c185
-r5833,3,"^Gone to a movie theater$","1","",1,c185
-r5834,3,"^Gone to a sporting event$","1","",1,c185
-r5835,3,"^Gone to a concert/festival$","1","",1,c185
-r5836,3,"^Played video games$","1","",1,c185
-r5837,3,"^Dined out at a restaurant$","1","",1,c185
-r5838,3,"^Played board games$","1","",1,c185
-r5839,3,"^Party Games \(e\.g\., Super Mario Party, Overcooked\)$","1","",1,c185
-r5840,3,"^Battle Royale \(e\.g\., Fortnite, Apex Legends, PUBG, Call of Duty Warzone\)$","1","",1,c185
-r5841,3,"^Third-Person Shooters \(e\.g\., Grand Theft Auto, Red Dead Redemption\)$","1","",1,c185
-r5842,3,"^Role Playing Games/RPGs \(e\.g\., Genshin Impact, Mass Effect, Elder Scrolls, Fallout\)$","1","",1,c185
-r5843,3,"^Horror \(e\.g\., Resident Evil, Dead by Daylight\)$","1","",1,c185
-r5844,3,"^Strategy Games \(e\.g\., Civilization, Age of Empires\)$","1","",1,c185
-r5845,3,"^First-Person Shooters \(e\.g\., Call of Duty, Halo, Counter-Strike, Valorant\)$","1","",1,c185
-r5846,3,"^Action Adventure Games \(e\.g\., Assassin’s Creed, Far Cry, Back 4 Blood\)$","1","",1,c185
-r5847,3,"^Platformer Games \(e\.g\., Super Mario, Crash Bandicoot\)$","1","",1,c185
-r5848,3,"^Sandbox Games \(e\.g\., Minecraft, Terraria\)$","1","",1,c185
-r5849,3,"^Sports Games \(e\.g\., NBA 2K, Madden\)$","1","",1,c185
-r5850,3,"^NBA 2K$","1","",1,c185
-r5851,3,"^5 - Very Open$","1","",1,c185
-r5893,3,"^Online/E-Commerce \(Amazon, Thrive, etc\)$","1","",1,c185
-r5894,3,"^Club Store \(Costco, Sam's, BJs\)$","1","",1,c185
-r5895,3,"^Mass Merchandisers \(Walmart, Target, etc\)$","1","",1,c185
-r5896,3,"^Convenience Stores \(7-Eleven, Casey's, etc\)$","1","",1,c185
-r5897,3,"^Conventional Grocery Stores \(Kroger, Albertsons, Publix, etc\)$","1","",1,c185
-r5898,3,"^Natural/Specialty Grocery Stores \(Whole Foods, Sprouts, The Fresh Market, etc\.\)$","1","",1,c185
-r5899,3,"^Kroger \(including Kroger banner stores - Bakers, City Market, Mariano’s, etc\)$","1","",1,c185
-r5900,3,"^Instacart$","1","",1,c185
-r5901,3,"^Walmart$","1","",1,c185
-r5902,3,"^Amazon$","1","",1,c185
-r5903,3,"^Whole Foods$","1","",1,c185
-r5904,3,"^Sam’s Club$","1","",1,c185
-r5905,3,"^Costco$","1","",1,c185
-r5906,3,"^Target$","1","",1,c185
-r5907,3,"^Meats$","1","",1,c185
-r5908,3,"^Skin care serums, lotions, or ointments$","1","",1,c185
-r5909,3,"^Nut butters$","1","",1,c185
-r5910,3,"^Eggs$","1","",1,c185
-r5911,3,"^Sauces \(BBQ, buffalo, pasta, pizza, etc\.\)$","1","",1,c185
-r5912,3,"^Vegetables$","1","",1,c185
-r5913,3,"^Dips/spreads$","1","",1,c185
-r5914,3,"^Protein powders$","1","",1,c185
-r5915,3,"^Cheeses$","1","",1,c185
-r5916,3,"^Spices/seasonings$","1","",1,c185
-r5917,3,"^Salad dressings$","1","",1,c185
-r5918,3,"^Cooking Oils \(olive oil, avocado oil, etc\.\)$","1","",1,c185
-r5919,3,"^Condiments \(ketchup, mustard, mayo, etc\.\)$","1","",1,c185
-r5920,3,"^Fruits$","1","",1,c185
-r5921,3,"^Dipping sauces \(e\.g\.Chick-Fil-A Sauce, Sweet Baby Ray’s Dipping Sauce, etc\.\)$","1","",1,c185
-r5922,3,"^Olive oil$","1","",1,c185
-r5923,3,"^Ketchup$","1","",1,c185
-r5924,3,"^BBQ sauce$","1","",1,c185
-r5925,3,"^Cooking sauce$","1","",1,c185
-r5926,3,"^Germany$","1","",1,c185
-r5927,3,"^Heinz$","1","",1,c185
-r5928,3,"^Kraft$","1","",1,c185
-r5929,3,"^Hellmann’s$","1","",1,c185
-r5930,3,"^Seven$","1","",1,c185
-r7242,3,"^Productivity apps \(e\.g\., note taking, to do lists, calendars, etc\.\)$","1","",1,c185
-r7243,3,"^Food delivery apps$","1","",1,c185
-r7244,3,"^TV / Video streaming apps \(e\.g\., Netflix, Hulu, Peacock, etc\.\)$","1","",1,c185
-r7245,3,"^Social media apps \(e\.g\., Instagram, Facebook, TikTok, Snapchat, etc\.\)$","1","",1,c185
-r7246,3,"^Music streaming apps \(e\.g\., Spotify, Apple Music, Pandora, etc\.\)$","1","",1,c185
-r7247,3,"^Health & wellness apps \(e\.g\., overall health tracking, fitness tracking, sleep tracking, weight management, meditation, menstrual tracking, etc\.\)$","1","",1,c185
-r7248,3,"^Learning Apps \(e\.g\. Duolingo\)$","1","",1,c185
-r7249,3,"^Gaming apps$","1","",1,c185
-r7250,3,"^Travel / Rideshare apps \(e\.g\., Uber, Lyft, JetBlue, etc\.\)$","1","",1,c185
-r7251,3,"^Sleep tracking$","1","",1,c185
-r7252,3,"^Exercise tracking$","1","",1,c185
-r7253,3,"^Diet/nutrition tracking$","1","",1,c185
-r7254,3,"^Weekly$","1","",1,c185
-r7255,3,"^Somewhat satisfied$","1","",1,c185
-r7256,3,"^MyFitnessPal$","1","",1,c185
-r7257,3,"^Watching what you eat / meal planning / cooking$","1","",1,c185
-r7258,3,"^Taking vitamins, supplements \(non-prescription\)$","1","",1,c185
-r7259,3,"^Individual exercise$","1","",1,c185
-r7260,3,"^when I have already made a commitment to the task$","1","",1,c185
-r7261,3,"^I find it difficult to stay present in the moment$","1","",1,c185
-r7262,3,"^I often choose not to track my behavior because it is stressful$","1","",1,c185
-r7263,3,"^Exercise and workouts$","1","",1,c185
-r7264,3,"^Sleep$","1","",1,c185
-r7265,3,"^Weight$","1","",1,c185
-r7266,3,"^Excess weight / Overweight$","1","",1,c185
-r7267,3,"^Commercial insurance \(i\.e\., insured by my employer or union\)$","1","",1,c185
-r7268,3,"^I am not a caregiver$","1","",1,c185
-r7269,3,"^Slightly comfortable$","1","",1,c185
-r7270,3,"^I prioritize achieving specific and measurable goals$","1","",1,c185
-r7271,3,"^I seek personal recognition for my work or actions$","1","",1,c185
-r7272,3,"^I prefer consistency and independence$","1","",1,c185
-r7273,3,"^I focus on mastering skills quickly and efficiently$","1","",1,c185
-r8739,3,"^I do all or most of the decision making$","1","",1,c185
-r8740,3,"^Banking/Finance$","1","",1,c185
-r8741,3,"^25-34$","1","",1,c185
-r8742,3,"^13-17$","1","",1,c185
-r8743,3,"^6-12$","1","",1,c185
-r8744,3,"^Cosmetics Retailer \(ex: Sephora, Ulta\)$","1","",1,c185
-r8745,3,"^Mass merchandiser \(ex: Walmart, Target\)$","1","",1,c185
-r8746,3,"^Club \(ex: BJs, Costco, Sam's Club\)$","1","",1,c185
-r8747,3,"^Home Improvement \(ex: Home Depot, Lowe's\)$","1","",1,c185
-r8748,3,"^Amazon$","1","",1,c185
-r8749,3,"^Convenience \(ex: 7-Eleven, Kwik Shop\)$","1","",1,c185
-r8750,3,"^Grocery Store$","1","",1,c185
-r8751,3,"^Costco$","1","",1,c185
-r8752,3,"^Sam's Club$","1","",1,c185
-r8753,3,"^Amazon$","1","",1,c185
-r8754,3,"^Home Depot$","1","",1,c185
-r8755,3,"^Walmart$","1","",1,c185
-r8756,3,"^Kroger$","1","",1,c185
-r8757,3,"^Target$","1","",1,c185
-r8758,3,"^Whole Foods$","1","",1,c185
-r8759,3,"^CVS$","1","",1,c185
-r8760,3,"^Skin Care or Cleansing Products \(ex: Facial Cleaners, Hand soap, Moisturizer\)$","1","",1,c185
-r8761,3,"^Oral Care Products \(ex: Toothbrushes, Toothpaste, Mouthwash\)$","1","",1,c185
-r8762,3,"^Laundry Care Products \(ex: Laundry Detergent, Fabric Softener, Dryer Sheets or Beads\)$","1","",1,c185
-r8763,3,"^Floor, Surface, or Multi-Purpose Cleaning Products \(ex: Countertop cleaning spray, bathroom all-purpose cleaning solution\)$","1","",1,c185
-r8764,3,"^Toothpaste$","1","",1,c185
-r8765,3,"^Laundry Detergent$","1","",1,c185
-r8766,3,"^Dryer Sheets$","1","",1,c185
-r8767,3,"^Bar Soap$","1","",1,c185
-r8768,3,"^Toothbrush \(rechargeable, battery, or manual\)$","1","",1,c185
-r8769,3,"^Colgate$","1","",1,c185
-r8770,3,"^Olay$","1","",1,c185
-r8771,3,"^I have never tried at-home teeth whitening products$","1","",1,c185
-r13191,3,"^Cooking or Baking$","1","",1,c185
-r13192,3,"^Playing Games \(Video Games, Board Games, Puzzles, etc\.\)$","1","",1,c185
-r13194,3,"^Exercising \(Gym Workouts, Dancing, Yoga, Cycling, Walking, etc\.\)$","1","",1,c185
-r13311,3,"^Smart TV$","1","",1,c185
-r13312,3,"^Laptop/desktop$","1","",1,c185
-r13313,3,"^Smartwatch or smart wrist band$","1","",1,c185
-r16442,3,"^I do all or most of the decision making$","1","",1,c185
-r16443,3,"^Banking/Finance$","1","",1,c185
-r16444,3,"^25-34$","1","",1,c185
-r16445,3,"^6-12$","1","",1,c185
-r16446,3,"^13-17$","1","",1,c185
-r16447,3,"^Home Improvement \(ex: Home Depot, Lowe's\)$","1","",1,c185
-r16448,3,"^Mass merchandiser \(ex: Walmart, Target\)$","1","",1,c185
-r16449,3,"^Amazon$","1","",1,c185
-r16450,3,"^Club \(ex: BJs, Costco, Sam's Club\)$","1","",1,c185
-r16451,3,"^Convenience \(ex: 7-Eleven, Kwik Shop\)$","1","",1,c185
-r16452,3,"^Grocery Store$","1","",1,c185
-r16453,3,"^Direct to consumer/brand website$","1","",1,c185
-r16454,3,"^Cosmetics Retailer \(ex: Sephora, Ulta\)$","1","",1,c185
-r16455,3,"^Drug Store \(ex: CVS, Walgreens\)$","1","",1,c185
-r16456,3,"^Dollar Store$","1","",1,c185
-r16457,3,"^Costco$","1","",1,c185
-r16458,3,"^Whole Foods$","1","",1,c185
-r16459,3,"^Kroger$","1","",1,c185
-r16460,3,"^CVS$","1","",1,c185
-r16461,3,"^Dollar General$","1","",1,c185
-r16462,3,"^Target$","1","",1,c185
-r16463,3,"^Walmart$","1","",1,c185
-r16464,3,"^Sam's Club$","1","",1,c185
-r16465,3,"^Home Depot$","1","",1,c185
-r16466,3,"^Skin Care or Cleansing Products \(ex: Facial Cleaners, Hand soap, Moisturizer\)$","1","",1,c185
-r16467,3,"^Laundry Care Products \(ex: Laundry Detergent, Fabric Softener, Dryer Sheets or Beads\)$","1","",1,c185
-r16468,3,"^Oral Care Products \(ex: Toothbrushes, Toothpaste, Mouthwash\)$","1","",1,c185
-r16469,3,"^Floor, Surface, or Multi-Purpose Cleaning Products \(ex: Countertop cleaning spray, bathroom all-purpose cleaning solution\)$","1","",1,c185
-r16470,3,"^Laundry Detergent$","1","",1,c185
-r16471,3,"^Bar Soap$","1","",1,c185
-r16472,3,"^Toothpaste$","1","",1,c185
-r16473,3,"^Colgate$","1","",1,c185
-r16474,3,"^Olay$","1","",1,c185
-r16475,3,"^I have never tried at-home teeth whitening products$","1","",1,c185
-r16955,3,"^Laptop / desktop computer$","1","",1,c185
-r16956,3,"^Smartwatch$","1","",1,c185
-r16957,3,"^\$1200\+$","1","",1,c185
-r16958,3,"^Snapchat$","1","",1,c185
-r16959,3,"^Instagram$","1","",1,c185
-r16960,3,"^Twitter$","1","",1,c185
-r16961,3,"^YouTube$","1","",1,c185
-r16962,3,"^Facebook$","1","",1,c185
-r16963,3,"^TikTok$","1","",1,c185
-r16964,3,"^LinkedIn$","1","",1,c185
-r16965,3,"^Post/upload content$","1","",1,c185
-r16966,3,"^Watch content$","1","",1,c185
-r16967,3,"^I post content to share only with my friends, family, and/or colleagues$","1","",1,c185
-r16968,3,"^Personal$","1","",1,c185
-r17005,3,"^I do all or most of the decision making$","1","",1,c185
-r17006,3,"^Banking/Finance$","1","",1,c185
-r17007,3,"^6-12$","1","",1,c185
-r17008,3,"^13-17$","1","",1,c185
-r17009,3,"^25-34$","1","",1,c185
-r17010,3,"^Home Improvement \(ex: Home Depot, Lowe's\)$","1","",1,c185
-r17011,3,"^Mass merchandiser \(ex: Walmart, Target\)$","1","",1,c185
-r17012,3,"^Grocery Store$","1","",1,c185
-r17013,3,"^Club \(ex: BJs, Costco, Sam's Club\)$","1","",1,c185
-r17014,3,"^Direct to consumer/brand website$","1","",1,c185
-r17015,3,"^Amazon$","1","",1,c185
-r17016,3,"^Convenience \(ex: 7-Eleven, Kwik Shop\)$","1","",1,c185
-r17017,3,"^Cosmetics Retailer \(ex: Sephora, Ulta\)$","1","",1,c185
-r17018,3,"^Dollar Store$","1","",1,c185
-r17019,3,"^Drug Store \(ex: CVS, Walgreens\)$","1","",1,c185
-r17020,3,"^Costco$","1","",1,c185
-r17021,3,"^Amazon$","1","",1,c185
-r17022,3,"^Walmart$","1","",1,c185
-r17023,3,"^Target$","1","",1,c185
-r17024,3,"^Sam's Club$","1","",1,c185
-r17025,3,"^Whole Foods$","1","",1,c185
-r17026,3,"^Kroger$","1","",1,c185
-r17027,3,"^Home Depot$","1","",1,c185
-r17028,3,"^Dollar General$","1","",1,c185
-r17029,3,"^Costco$","1","",1,c185
-r17030,3,"^CVS$","1","",1,c185
-r17031,3,"^Skin Care or Cleansing Products \(ex: Facial Cleaners, Hand soap, Moisturizer\)$","1","",1,c185
-r17032,3,"^Oral Care Products \(ex: Toothbrushes, Toothpaste, Mouthwash\)$","1","",1,c185
-r17033,3,"^Laundry Care Products \(ex: Laundry Detergent, Fabric Softener, Dryer Sheets or Beads\)$","1","",1,c185
-r17034,3,"^Floor, Surface, or Multi-Purpose Cleaning Products \(ex: Countertop cleaning spray, bathroom all-purpose cleaning solution\)$","1","",1,c185
-r17035,3,"^Laundry Detergent$","1","",1,c185
-r17036,3,"^Bar Soap$","1","",1,c185
-r17037,3,"^Toothpaste$","1","",1,c185
-r17038,3,"^Colgate$","1","",1,c185
-r17039,3,"^Olay$","1","",1,c185
-r17040,3,"^I have never tried at-home teeth whitening products$","1","",1,c185
-r20469,3,"^\$100,000 - \$149,999$","1","",1,c185
-r20470,3,"^I am a parent or guardian of at least one child under 18$","1","",1,c185
-r20471,3,"^10-12 years$","1","",1,c185
-r20472,3,"^13-15 years$","1","",1,c185
-r20473,3,"^Finance$","1","",1,c185
-r20474,3,"^Anxiety$","1","",1,c185
-r20475,3,"^Yes, multiple times$","1","",1,c185
-r20476,3,"^Location or distance of the therapist$","1","",1,c185
-r20477,3,"^Health insurance through an employer$","1","",1,c185
-r20478,3,"^1 to 3 years ago$","1","",1,c185
-r20479,3,"^In-person therapy$","1","",1,c185
-r20480,3,"^Very Open$","1","",1,c185
-r20481,3,"^Primarily through in-person sessions$","1","",1,c185
-r20482,3,"^25 to 34$","1","",1,c185
-r20483,3,"^Male$","1","",1,c185
-r20527,3,"^Personal recommendation$","1","",1,c185
-r20528,3,"^2-4 weeks$","1","",1,c185
-r20529,3,"^Somewhat quick but time-consuming$","1","",1,c185
-r20530,3,"^In person at the clinic$","1","",1,c185
-r20531,3,"^Fully covered by insurance$","1","",1,c185
-r20532,3,"^To message my therapist$","1","",1,c185
-r20533,3,"^To complete self-care exercises$","1","",1,c185
-r20534,3,"^To schedule appointments$","1","",1,c185
-r20535,3,"^In-app messaging with a therapist$","1","",1,c185
-r20536,3,"^Community or peer support$","1","",1,c185
-r20537,3,"^Dashboard to see progress$","1","",1,c185
-r20538,3,"^Somewhat comfortable$","1","",1,c185
-r20642,3,"^9 - 12 years old$","1","",1,c185
-r20643,3,"^13 - 17 years old$","1","",1,c185
-r20767,3,"^I personally own an Apple Vision Pro headset$","1","",1,c185
-r20768,3,"^Within the last week$","","",1,c185
-r20769,3,"^No, I’m not willing to participate for multiple weeks$","1","",1,c185
 r1005,3,"^I am primarily responsible for purchasing grocery items$","1","",1,c52
 r1006,3,"^Club stores \(e\.g\., Sam’s Club, Costco\)$","1","",1,c52
 r1007,3,"^Grocery stores$","1","",1,c52
@@ -8385,226 +7849,6 @@ r13603,3,"^Somewhat spicy$","1","",1,c58
 r13604,3,"^Chips$","1","",1,c58
 r13605,3,"^Nutrition Bars$","1","",1,c58
 r20804,3,"^Primal Kitchen$","1","",1,c58
-r101,3,"^Smartphone$","1","",1,c5
-r102,3,"^Smartwatch$","1","",1,c5
-r103,3,"^Laptop / desktop computer$","1","",1,c5
-r104,3,"^Tablet$","1","",1,c5
-r105,3,"^Apple$","1","",1,c5
-r106,3,"^No$","1","",1,c5
-r1028,3,"detached house","1","",1,c5
-r1029,3,"^Grass Lawn$","1","",1,c5
-r1030,3,"^Outdoor Garden/Plants \(flowers, vegetables, herbs, etc\.\)$","1","",1,c5
-r1031,3,"^Garage \(fully enclosed\)$","1","",1,c5
-r1032,3,"^Bathroom$","1","",1,c5
-r1033,3,"^Basement$","1","",1,c5
-r1034,3,"^Fence$","1","",1,c5
-r1035,3,"^Driveway$","1","",1,c5
-r1036,3,"^Sidewalk/walkway$","1","",1,c5
-r1037,3,"^I am solely responsible for my home's lawn maintenance$","1","",1,c5
-r1038,3,"^Lawnmower$","1","",1,c5
-r1225,3,"^You$","1","",1,c5
-r1226,3,"^\$100,000-\$149,999$","1","",1,c5
-r1227,3,"^Own$","1","",1,c5
-r1228,3,"^I'm more than able to make ends meet each month and am learning or already know how to maximize the value of my money\.$","1","",1,c5
-r1229,3,"^The same$","1","",1,c5
-r1230,3,"^660 to 719$","1","",1,c5
-r1231,3,"^Quarterly$","1","",1,c5
-r1233,3,"^Haven’t used but familiar$","1","",1,c5
-r1234,3,"^I don't use this company$","1","",1,c5
-r1235,3,"^I am certain Credit Karma does offer this$","1","",1,c5
-r1236,3,"^Credit Card$","1","",1,c5
-r1237,3,"^Personal Loan / Line of Credit$","1","",1,c5
-r1238,3,"^Savings Account / Money Market$","1","",1,c5
-r1239,3,"^Checking Account$","1","",1,c5
-r1240,3,"^Cryptocurrency holdings in any exchange platform \(e\.g\., Coinbase, Binance, etc\.\)$","1","",1,c5
-r1241,3,"^Debit Card$","1","",1,c5
-r1242,3,"^Improving your credit score$","1","",1,c5
-r1243,3,"^Becoming financially stable$","1","",1,c5
-r1244,3,"^Setting up an emergency fund$","1","",1,c5
-r1245,3,"^Saving for retirement$","1","",1,c5
-r1246,3,"^Growing your savings or investments$","1","",1,c5
-r1247,3,"^Apply for a credit card$","1","",1,c5
-r1248,3,"^File your taxes online$","1","",1,c5
-r1249,3,"^Somewhat likely$","1","",1,c5
-r2863,3,"^Online \(e\.g\., Amazon, Fresh Direct\)$","1","",1,c5
-r2864,3,"^Club stores \(e\.g\., Sam’s Club, BJ’s, Costco\)$","1","",1,c5
-r2865,3,"^Convenience stores \(e\.g\., Wawa, 7Eleven\)$","1","",1,c5
-r2866,3,"^Grocery stores$","1","",1,c5
-r2867,3,"^Dollar stores \(e\.g\., Family Dollar, Dollar General\)$","","",1,c5
-r2868,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c5
-r2901,3,"^Costco$","1","",1,c5
-r2902,3,"^Sam’s Club$","1","",1,c5
-r2903,3,"^Nuts/Mixed nuts/Trail mix$","1","",1,c5
-r2904,3,"^Café \(e\.g\., pizza, hot dog, pretzel, sundae, beverage\)$","1","",1,c5
-r2905,3,"^Snack bars \(e\.g\., granola bars, protein bars, cereal bars\)$","","",1,c5
-r2906,3,"^Dips \(e\.g\., ranch, queso, bean\)$","1","",1,c5
-r2907,3,"^Bottled non-alcoholic beverages$","1","",1,c5
-r2908,3,"^Salty snacks \(e\.g\., chips, cheese puffs, pretzels\)$","1","",1,c5
-r2909,3,"^Cookies$","1","",1,c5
-r2910,3,"^Canned goods$","1","",1,c5
-r2911,3,"^Beverage$","1","",1,c5
-r2912,3,"^Pizza slice$","1","",1,c5
-r2913,3,"^Pretzel$","1","",1,c5
-r5520,3,"^Safari$","1","",1,c5
-r5521,3,"^Chrome$","1","",1,c5
-r5522,3,"^Firefox$","1","",1,c5
-r5523,3,"^Edge$","1","",1,c5
-r5524,3,"^I like this band$","1","",1,c5
-r5525,3,"^21079$","1","",1,c5
-r5526,3,"^37055$","1","",1,c5
-r5527,3,"^85301$","1","",1,c5
-r5678,3,"^Apple Phone \(iPhone\)$","1","",1,c5
-r5733,3,"^10-13 years old$","1","",1,c5
-r5734,3,"^13-17 years old$","1","",1,c5
-r6032,3,"^Groceries$","1","",1,c5
-r6033,3,"^Toys/video games$","1","",1,c5
-r6034,3,"^Pet food/care$","1","",1,c5
-r6035,3,"^Personal care items$","1","",1,c5
-r6036,3,"^Office/school supplies$","1","",1,c5
-r6037,3,"^Books$","1","",1,c5
-r6038,3,"^Home décor/furniture$","1","",1,c5
-r6039,3,"^Jewelry$","1","",1,c5
-r6040,3,"^Clothing/apparel$","1","",1,c5
-r6041,3,"^I am primarily responsible$","1","",1,c5
-r6042,3,"^Not at all difficult$","1","",1,c5
-r6043,3,"^I am somewhat concerned about my weight and I AM taking actions to change it$","1","",1,c5
-r6044,3,"^I am taking supplements$","1","",1,c5
-r6045,3,"^I am exercising more$","1","",1,c5
-r6046,3,"^I AM CURRENTLY taking an injectable weight loss medication \(i\.e\. Ozempic, Wegovey, Mounjaro, Semglutide, or generic equivalent\)$","1","",1,c5
-r6047,3,"^I am drinking more water$","1","",1,c5
-r6048,3,"^I am eating healthier$","1","",1,c5
-r6049,3,"^8 - 10 days$","1","",1,c5
-r6050,3,"^50% in-store / 50% online$","1","",1,c5
-r6051,3,"^Whole Foods$","1","",1,c5
-r6052,3,"^Walmart$","1","",1,c5
-r6053,3,"^Kroger \(Kroger, Fred Meyer, Harris Teeter, Ralph’s, King Soopers, Fry’s, Dillons, QFC\)$","1","",1,c5
-r6054,3,"^Target$","1","",1,c5
-r6055,3,"^Sam's Club$","1","",1,c5
-r6056,3,"^Amazon\.com$","1","",1,c5
-r6057,3,"^Instacart$","1","",1,c5
-r6058,3,"^DoorDash$","1","",1,c5
-r6059,3,"^Uber Eats$","1","",1,c5
-r6060,3,"^\$101\+$","1","",1,c5
-r6061,3,"^Hello Fresh$","1","",1,c5
-r6062,3,"^Beverages or drink mixes \(e\.g\., milk, water, coffee, soda\)$","1","",1,c5
-r6063,3,"^Premium still water$","1","",1,c5
-r6064,3,"^Refrigerated mac & cheese \(for preparation in microwave or oven\)$","1","",1,c5
-r6065,3,"^Shelf-stable \(powder, or liquid\) coffee creamers$","1","",1,c5
-r6066,3,"^Frozen foods$","1","",1,c5
-r6067,3,"^Baking items \(e\.g\. flour, sugar, chocolate chips, dough, mix, evaporated milk\)$","1","",1,c5
-r6068,3,"^Dairy \(e\.g\., cheese, butter, yogurt, etc\.\), and/or eggs$","1","",1,c5
-r6069,3,"^Shelf-stable spaghetti or pasta dishes$","1","",1,c5
-r6070,3,"^Refrigerated coffee creamers$","1","",1,c5
-r6071,3,"^Fresh meat & seafood$","1","",1,c5
-r6072,3,"^Sparkling \(unsweetened\) water$","1","",1,c5
-r6073,3,"^Pantry items \(e\.g\., seasoning, canned goods, condiments\)$","1","",1,c5
-r6074,3,"^Snacks \(e\.g\., chips, dips, cookies\)$","1","",1,c5
-r6075,3,"^Shelf-stable mac & cheese \(sold in a box, non-refrigerated, non-frozen\)$","1","",1,c5
-r6076,3,"^Fresh produce$","1","",1,c5
-r6077,3,"^Candy$","1","",1,c5
-r6078,3,"^Frozen fruit$","1","",1,c5
-r6079,3,"^Frozen desserts, whipped cream, pie/pie crusts, or frozen cakes$","1","",1,c5
-r6080,3,"^Frozen breakfast meals, bowls, burritos$","1","",1,c5
-r6081,3,"^Frozen pre-cooked breaded or fried chicken \(e\.g\. buffalo chicken wings, tenders, or strips$","1","",1,c5
-r6082,3,"^Frozen waffles, pancakes, toaster pastries$","1","",1,c5
-r6083,3,"^Frozen pizza$","1","",1,c5
-r6084,3,"^Ice cream, sherbet, & novelties \(cones, bars, popsicles, sandwiches\)$","1","",1,c5
-r6085,3,"^Frozen potatoes or onions \(e\.g\. French fries, tater tots, onion rings, etc\.\)$","1","",1,c5
-r6086,3,"^Frozen regular single-serve meals \(e\.g\. Banquet, Devour, Hungry-Man, Stouffer's\)$","1","",1,c5
-r6087,3,"^Frozen appetizers or snacks \(e\.g\. egg rolls, pot stickers, cheese sticks, potato skins, pizza bites, etc\.\)$","1","",1,c5
-r6088,3,"^Frozen raw or uncooked chicken \(e\.g\. breasts, thighs, etc\.\)$","1","",1,c5
-r6089,3,"^Frozen family-size, or multi-serve, meals or entrees$","1","",1,c5
-r6090,3,"^Frozen 'better for you' single-serve meals \(e\.g\. Healthy Choice, Lean Cuisine, Vital Pursuit, etc\.\)$","1","",1,c5
-r6091,3,"^Lean Cuisine$","1","",1,c5
-r6092,3,"^I would like to see more unique brands$","1","",1,c5
-r6093,3,"^High quality ingredients$","1","",1,c5
-r6094,3,"^Tastes great$","1","",1,c5
-r6095,3,"^Satisfies my health and wellness goals$","1","",1,c5
-r6096,3,"^Stouffer's$","1","",1,c5
-r6097,3,"^As a money-saving meal option$","1","",1,c5
-r6098,3,"^To have a snack option readily available$","1","",1,c5
-r6099,3,"^To have a quick and easy dinner option readily available$","1","",1,c5
-r6100,3,"^Product reviews$","1","",1,c5
-r6101,3,"^Social media$","1","",1,c5
-r6102,3,"^Internet search$","1","",1,c5
-r6103,3,"^Compared prices across stores more often$","1","",1,c5
-r6104,3,"^Saved for a possible emergency$","1","",1,c5
-r6105,3,"^Somewhat Agree$","1","",1,c5
-r6106,3,"^Walmart\+$","1","",1,c5
-r6107,3,"^3 retailers$","1","",1,c5
-r6108,3,"^Exclusively for weight loss$","1","",1,c5
-r6109,3,"^Rice cooker$","1","",1,c5
-r6110,3,"^Multi-cooker \(e\.g\., Instant Pot\)$","1","",1,c5
-r6111,3,"^Coffee maker$","1","",1,c5
-r6112,3,"^Air fryer$","1","",1,c5
-r6113,3,"^Microwave$","1","",1,c5
-r6114,3,"^Full-time Employment$","1","",1,c5
-r6115,3,"^VARIETY and love experimenting with new flavors and cuisines\.$","1","",1,c5
-r6261,3,"^Harvest Grain Salad$","1","",1,c5
-r6262,3,"^3-5 times per week$","1","",1,c5
-r6263,3,"^Lunch$","1","",1,c5
-r6264,3,"^Dinner$","1","",1,c5
-r6265,3,"^\$11-\$15$","1","",1,c5
-r6266,3,"^Club Store \(Costco/Sams Club\)$","1","",1,c5
-r6267,3,"^Family Size \(feeds 3-6\)$","1","",1,c5
-r6268,3,"^Potatoes$","1","",1,c5
-r6269,3,"^Seafood$","1","",1,c5
-r6270,3,"^Eggs$","1","",1,c5
-r6271,3,"^Chicken$","1","",1,c5
-r6272,3,"^Plant Based nutritional shakes \(e\.g\. OWYN, Soylent, Ripple etc\.\)$","1","",1,c5
-r6273,3,"^Performance nutritional shakes \(e\.g\., Premier Protein, Core Power, Muscle Milk, etc\.\)$","1","",1,c5
-r6274,3,"^Multivitamins/Supplements$","1","",1,c5
-r6275,3,"^Weight loss shakes \(e\.g\. SlimFast, Atkins, etc\.\)$","1","",1,c5
-r6276,3,"^Nutrition/Protein Bars \(e\.g\. Clif, KIND, Quest, etc\.\)$","1","",1,c5
-r6277,3,"^Adult nutritional shakes \(e\.g\., Ensure, Boost\)$","1","",1,c5
-r6279,3,"^Green bricks$","1","",1,c5
-r6280,3,"^Wholesale club \(such as Sam’s Club or Costco\)$","1","",1,c5
-r6281,3,"^Amazon$","1","",1,c5
-r6943,3,"^Spouse/partner$","1","",1,c5
-r6944,3,"^Child\(ren\) under 18$","1","",1,c5
-r6945,3,"^Females 6-12 years old$","1","",1,c5
-r6946,3,"^Snack bars \(granola bars, protein bars\)$","1","",1,c5
-r6947,3,"^Sweet snacks \(snack cakes, etc\.\)$","1","",1,c5
-r6948,3,"^Fruit snacks \(Motts, Welch’s, Gushers, Fruit Roll Ups, etc\.\)$","1","",1,c5
-r6949,3,"^Yogurt$","1","",1,c5
-r6950,3,"^Salty snacks \(pretzels, potato chips, etc\.\)$","1","",1,c5
-r6951,3,"^Desserts \(cakes, ice cream, etc\.\)$","1","",1,c5
-r6952,3,"^Ready-to-Eat Cereal$","1","",1,c5
-r6953,3,"^Chocolate candy \(gummy candy, chocolate bars, etc\.\)$","1","",1,c5
-r6954,3,"^Frozen breakfast foods \(breakfast sandwiches, frozen waffles/pancakes, etc\.\)$","1","",1,c5
-r6955,3,"^Frozen snacks and/or appetizers \(pizza rolls, Uncrustables, mozzarella sticks, Mexican or Asian appetizers, etc\.\)$","1","",1,c5
-r6956,3,"^Motts Fruit Snacks$","1","",1,c5
-r6957,3,"^Totino’s Pizza Rolls$","1","",1,c5
-r6958,3,"^El Monterey$","1","",1,c5
-r6959,3,"^California Pizza Kitchen$","1","",1,c5
-r6960,3,"^Nature Valley$","1","",1,c5
-r6961,3,"^KIND$","1","",1,c5
-r6962,3,"^Nutella & Go$","1","",1,c5
-r6963,3,"^All of it$","1","",1,c5
-r6964,3,"^Kroger$","1","",1,c5
-r6965,3,"^Target/Super Target$","1","",1,c5
-r6966,3,"^Walmart/Walmart Supercenter$","1","",1,c5
-r6967,3,"^Walmart Neighborhood Market$","1","",1,c5
-r7594,3,"^Males 13 – 17 years old$","1","",1,c5
-r20805,3,"^Employed full time$","1","",1,c5
-r20806,3,"^Banking and finance$","1","",1,c5
-r20807,3,"^Manager$","1","",1,c5
-r20808,3,"^300-999$","1","",1,c5
-r20809,3,"^I have no decision-making authority around technology purchases at my place of work$","1","",1,c5
-r20810,3,"^I am primarily responsible for buying technology for my household$","1","",1,c5
-r20811,3,"^HP$","1","",1,c5
-r20812,3,"^Sony$","1","",1,c5
-r20813,3,"^Microsoft Xbox$","1","",1,c5
-r20814,3,"^Sony Playstation$","1","",1,c5
-r20815,3,"^Nintendo Switch$","1","",1,c5
-r20816,3,"^Display size$","1","",1,c5
-r20817,3,"^Brand$","1","",1,c5
-r20818,3,"^Processing power$","1","",1,c5
-r20819,3,"^Work$","1","",1,c5
-r20820,3,"^Streaming/listening to music$","1","",1,c5
-r20821,3,"^Online shopping$","1","",1,c5
-r20822,3,"^Communication \(texting, calls, or email\)$","1","",1,c5
-r20823,3,"^Gaming$","1","",1,c5
 r20824,3,"^Chocolate chip cookies$","1","",1,c544
 r20825,3,"^Brownies$","1","",1,c544
 r20826,3,"^Candy$","1","",1,c544
@@ -8757,216 +8001,6 @@ r20842,3,"^Allergy medication$","1","",1,c547
 r20843,3,"^Dietary supplement \(e\.g\., vitamins, minerals, herbs\)$","1","",1,c547
 r20844,3,"^Oral over the counter pain relief medication$","1","",1,c547
 r20845,3,"^5-6 times a week$","1","",1,c547
-r857,3,"^\$3,000 or more$","1","",1,c41
-r858,3,"^Personal loan from a bank/financial institution$","1","",1,c41
-r859,3,"^Debit card from a bank/financial institution$","1","",1,c41
-r860,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal\)$","1","",1,c41
-r861,3,"^""Buy Now, Pay Later"" service \(e\.g\., Klarna, Affirm\)$","1","",1,c41
-r862,3,"^Mobile/digital wallet \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c41
-r863,3,"^Savings account from a bank/financial institution$","1","",1,c41
-r864,3,"^Credit card from a bank/financial institution$","1","",1,c41
-r865,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1,c41
-r866,3,"^Very open$","1","",1,c41
-r867,3,"^IKEA$","1","",1,c41
-r868,3,"^Target$","1","",1,c41
-r869,3,"^Amazon$","1","",1,c41
-r870,3,"^Walmart$","1","",1,c41
-r871,3,"^The Home Depot$","1","",1,c41
-r872,3,"^Within the past month$","1","",1,c41
-r873,3,"^I have a Home Depot credit card$","1","",1,c41
-r874,3,"^Lamp$","1","",1,c41
-r875,3,"^Pink, Light Blue, Dark Blue$","1","",1,c41
-r2172,3,"^Outdoor garden or bed with edible plants \(i\.e\., vegetables, fruits, herbs, etc\.\)$","1","",1,c41
-r2173,3,"^Outdoor entertainment spaces \(i\.e\., deck, patio, firepit, tables, etc\.\)$","1","",1,c41
-r2174,3,"^Grass lawn \(full or partial\)$","1","",1,c41
-r2175,3,"^Handyman or repair services \(e\.g\., plumbing, electrical, general repairs\)$","1","",1,c41
-r2176,3,"^Home Cleaning Products$","1","",1,c41
-r2177,3,"^A few times a month$","1","",1,c41
-r2178,3,"^Spectracide$","1","",1,c41
-r2179,3,"^Off$","1","",1,c41
-r2180,3,"^Kitchen \(counters, stove tops and other raised surfaces\)$","1","",1,c41
-r2181,3,"^Multipurpose Cleaner \(general surfaces, multiple areas\)$","1","",1,c41
-r2182,3,"^Bathrooms \(toilet, bathtub, sinks, etc\.\)$","1","",1,c41
-r2183,3,"^Outdoor Cleaner \(patio, deck, driveway, etc\.\)$","1","",1,c41
-r2184,3,"^Reflective Surfaces \(glass features, windows, mirrors, etc\.\)$","1","",1,c41
-r2185,3,"^Clorox$","1","",1,c41
-r2186,3,"^Own$","1","",1,c41
-r2604,3,"^I am primarily responsible for shopping for my household$","1","",1,c41
-r2809,3,"^Single-family detached home under 2,000 square feet$","1","",1,c41
-r2810,3,"^Children aged 0-12$","1","",1,c41
-r2811,3,"^Teenagers aged 13-17$","1","",1,c41
-r2812,3,"^Adults aged 25-44$","1","",1,c41
-r2813,3,"^Pets - Dogs$","1","",1,c41
-r2814,3,"^Pets - Cats$","1","",1,c41
-r2860,3,"^I am primarily responsible for purchasing grocery items$","1","",1,c41
-r2874,3,"^Online \(e\.g\., Amazon, Fresh Direct\)$","1","",1,c41
-r2875,3,"^Convenience stores \(e\.g\., Wawa, 7Eleven\)$","1","",1,c41
-r2876,3,"^Club stores \(e\.g\., Sam’s Club, BJ’s, Costco\)$","1","",1,c41
-r2877,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c41
-r2878,3,"^Sam’s Club$","1","",1,c41
-r2879,3,"^Costco$","1","",1,c41
-r2880,3,"^Nuts/Mixed nuts/Trail mix$","1","",1,c41
-r2881,3,"^Vegetables$","1","",1,c41
-r2882,3,"^Salty snacks \(e\.g\., chips, cheese puffs, pretzels\)$","1","",1,c41
-r2883,3,"^Snack bars \(e\.g\., granola bars, protein bars, cereal bars\)$","1","",1,c41
-r2884,3,"^Fruit$","1","",1,c41
-r2885,3,"^Bottled non-alcoholic beverages$","1","",1,c41
-r2886,3,"^Crackers$","1","",1,c41
-r2887,3,"^Dips \(e\.g\., ranch, queso, bean\)$","1","",1,c41
-r2888,3,"^Meat$","1","",1,c41
-r2889,3,"^Fruit snacks$","1","",1,c41
-r2890,3,"^Cookies$","1","",1,c41
-r2891,3,"^Canned goods$","1","",1,c41
-r2892,3,"^Pastries$","1","",1,c41
-r2893,3,"^Single-serve size for individual consumption$","1","",1,c41
-r2894,3,"^Multipack/Straight pack of same flavor \(i\.e\., a pack with multiple bags of the same item\)$","1","",1,c41
-r2895,3,"^Lays$","1","",1,c41
-r2896,3,"^Doritos$","1","",1,c41
-r2897,3,"^Ruffles$","1","",1,c41
-r2898,3,"^Cheetos$","1","",1,c41
-r2899,3,"^Tostitos$","1","",1,c41
-r2991,3,"^Robinhood$","1","",1,c41
-r2992,3,"^I invest in industries that I believe will grow$","1","",1,c41
-r2993,3,"^Futures trading$","1","",1,c41
-r3104,3,"^Somewhat useful$","1","",1,c41
-r6236,3,"^Own my home$","1","",1,c41
-r6237,3,"^Interior home decor$","1","",1,c41
-r6238,3,"^Smart home devices and accessories$","1","",1,c41
-r6239,3,"^Home improvement products$","1","",1,c41
-r6240,3,"^Entertainment and media devices$","1","",1,c41
-r6241,3,"^School or home office furniture and supplies$","1","",1,c41
-r6242,3,"^Disposable household goods and cleaning supplies$","1","",1,c41
-r6243,3,"^Personal care products$","1","",1,c41
-r6244,3,"^I live with my child/children$","1","",1,c41
-r6245,3,"^I live with a partner/spouse$","1","",1,c41
-r6246,3,"^9-10 years$","1","",1,c41
-r6247,3,"^13-15 years$","1","",1,c41
-r6248,3,"^Video games$","1","",1,c41
-r6249,3,"^Outdoor play$","1","",1,c41
-r7437,3,"^150\+ grams$","1","",1,c41
-r7438,3,"^Protein Power Muffins$","1","",1,c41
-r7464,3,"^I own a pet$","1","",1,c41
-r7465,3,"^Dog$","1","",1,c41
-r7466,3,"^Cat$","1","",1,c41
-r7467,3,"^I am primarily responsible for purchasing food for my dog\(s\)$","1","",1,c41
-r7468,3,"^Wet or canned dog food$","1","",1,c41
-r7469,3,"^Dry dog food \(kibble\)$","1","",1,c41
-r7470,3,"^Fresh or refrigerated dog food$","1","",1,c41
-r7471,3,"^Online retailers \(e\.g\., Chewy, Amazon\)$","1","",1,c41
-r7472,3,"^Specialty pet stores \(e\.g\., Petco, PetSmart, local pet stores\)$","1","",1,c41
-r7473,3,"^Mass merchandisers \(e\.g\., Target, Walmart\)$","1","",1,c41
-r7474,3,"^Pedigree$","1","",1,c41
-r7475,3,"^Purina \(Pro Plan, ONE, Dog Chow\)$","1","",1,c41
-r7476,3,"^Taste of the Wild$","1","",1,c41
-r13412,3,"^I am an employee$","1","",1,c41
-r13413,3,"^Chief Financial Officer \(CFO\)$","1","",1,c41
-r13414,3,"^\$500,000 - \$999,999$","1","",1,c41
-r13415,3,"^6 - 10 years$","1","",1,c41
-r13416,3,"^100 or more employees$","1","",1,c41
-r16893,3,"^\$100,000 - \$199,999$","1","",1,c41
-r16894,3,"^Upper respiratory allergies$","1","",1,c41
-r16895,3,"^Itchy nose$","1","",1,c41
-r16896,3,"^No impact at all, they don’t affect my life, sometimes I forget I even have them$","1","",1,c41
-r20551,3,"^9 - 12 years old$","1","",1,c41
-r20552,3,"^13 - 17 years old$","1","",1,c41
-r20553,3,"^Urban$","1","",1,c41
-r20554,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c41
-r20555,3,"^I shop in-store and online equally$","1","",1,c41
-r20556,3,"^Whole Foods Market$","1","",1,c41
-r20557,3,"^Sam's Club$","1","",1,c41
-r20558,3,"^Kroger \(includes City Market, Dillons, Fred Meyer, Fry’s, Harris Teeter, King Soopers, QFC, Ralphs, Roundy’s/Mariano’s, Smith’s\)$","1","",1,c41
-r20559,3,"^Amazon \(includes Amazon Fresh and Amazon Prime\)$","1","",1,c41
-r20560,3,"^DoorDash \(Via DoorDash\.com or DoorDash App\)$","1","",1,c41
-r20561,3,"^Amazon \(Via Amazon\.com or Amazon App\)$","1","",1,c41
-r20562,3,"^UberEats \(Via UberEats\.com or Ubereats App\)$","1","",1,c41
-r20563,3,"^Instacart \(Via Instacart\.com or Instacart App\)$","1","",1,c41
-r20564,3,"^Fresh fruits and vegetables$","1","",1,c41
-r20565,3,"^Canned goods \(soup, vegetables, etc\)$","1","",1,c41
-r20566,3,"^Meat and poultry$","1","",1,c41
-r20567,3,"^Dairy products \(cheese, sour cream, milk, etc\)$","1","",1,c41
-r20568,3,"^Bakery items$","1","",1,c41
-r20569,3,"^Frozen foods \(Ice cream, frozen treats, fruit, vegetables, frozen meals, etc\)$","1","",1,c41
-r20570,3,"^Snacks and/or candies$","1","",1,c41
-r20571,3,"^Soda$","1","",1,c41
-r20572,3,"^Bottled and/or sparkling water$","1","",1,c41
-r20573,3,"^Juice and/or Milk$","1","",1,c41
-r20574,3,"^Pasta and/or rice$","1","",1,c41
-r20575,3,"^Condiments and/or sauces$","1","",1,c41
-r20576,3,"^Breakfast cereals and/or oats$","1","",1,c41
-r20577,3,"^Alcoholic beverages$","1","",1,c41
-r20578,3,"^Rao’s$","1","",1,c41
-r20579,3,"^I use it as an ingredient in dishes$","1","",1,c41
-r20580,3,"^Nutritional value$","1","",1,c41
-r20581,3,"^Great Taste$","1","",1,c41
-r20582,3,"^Kraft$","1","",1,c41
-r20583,3,"^Cracker Barrel$","1","",1,c41
-r20584,3,"^The Packaging$","1","",1,c41
-r20585,3,"^The Texture$","1","",1,c41
-r20586,3,"^Breyer’s$","1","",1,c41
-r20587,3,"^Chips Ahoy$","1","",1,c41
-r20588,3,"^Oreo$","1","",1,c41
-r20589,3,"^Pepperidge Farm$","1","",1,c41
-r20590,3,"^Ritz$","1","",1,c41
-r20591,3,"^Cheez-It$","1","",1,c41
-r20592,3,"^Utz$","1","",1,c41
-r20593,3,"^I snack often$","1","",1,c41
-r20594,3,"^I often use recipes when preparing a meal$","1","",1,c41
-r20595,3,"^Food is a comfort to me$","1","",1,c41
-r20596,3,"^I am primarily responsible for shopping at drug stores/pharmacies for my household$","1","",1,c41
-r20597,3,"^CVS$","1","",1,c41
-r20598,3,"^Medication \(over-the-counter, prescription, etc\.\)$","1","",1,c41
-r20599,3,"^Supplements \(e\.g\., vitamins\)$","1","",1,c41
-r20600,3,"^I am primarily responsible for buying larger purchases for my household$","1","",1,c41
-r20601,3,"^Yes$","1","",1,c41
-r20602,3,"^Somewhat likely$","1","",1,c41
-r20603,3,"^Hilton Resorts$","1","",1,c41
-r20604,3,"^Somewhat favorable$","1","",1,c41
-r20605,3,"^Spending time with my family is my top priority$","1","",1,c41
-r20606,3,"^I frequently wish I had more time to spend with my family$","1","",1,c41
-r20607,3,"^It's important to me that my children continue my family's cultural traditions$","1","",1,c41
-r20608,3,"^Ambition: Aspiring to get ahead$","1","",1,c41
-r20609,3,"^Creativity: Being creative, imaginative$","1","",1,c41
-r20610,3,"^Curiosity: Wanting to explore and learn about new things$","1","",1,c41
-r20611,3,"^I like to try new things$","1","",1,c41
-r20612,3,"^I am optimistic and easy going$","1","",1,c41
-r20613,3,"^​​I like to live a lifestyle that impresses others$","1","",1,c41
-r20614,3,"^Exercise$","1","",1,c41
-r20615,3,"^Listening to music$","1","",1,c41
-r20616,3,"^Going to the movies$","1","",1,c41
-r20617,3,"^PC gaming$","1","",1,c41
-r20618,3,"^Console gaming$","1","",1,c41
-r20619,3,"^Television – Cable \(e\.g\., ABC, Fox, NBC, CBS\)$","1","",1,c41
-r20620,3,"^Television – Streaming \(e\.g\., Netflix, Hulu, Max\)$","1","",1,c41
-r20621,3,"^Social Media \(e\.g\., Facebook, Twitter/X, Instagram, TikTok\)$","1","",1,c41
-r20622,3,"^Cinema – Out of Home \(e\.g\., Regal, AMC, Cinemark\)$","1","",1,c41
-r20623,3,"^Music streaming \(e\.g\., Spotify, Apple Music, Pandora\)$","1","",1,c41
-r20624,3,"^Podcasts \(e\.g\., Apple Podcasts, Spotify, Pocket Casts, Audible\)$","1","",1,c41
-r20625,3,"^Pinterest$","1","",1,c41
-r20626,3,"^Facebook \(including Messenger\)$","1","",1,c41
-r20627,3,"^TikTok$","1","",1,c41
-r20628,3,"^LinkedIn$","1","",1,c41
-r20629,3,"^Threads$","1","",1,c41
-r20630,3,"^YouTube$","1","",1,c41
-r20631,3,"^Snapchat$","1","",1,c41
-r20632,3,"^Instagram$","1","",1,c41
-r20633,3,"^Reddit$","1","",1,c41
-r20634,3,"^Twitter/X$","1","",1,c41
-r20635,3,"^Twitch$","1","",1,c41
-r20636,3,"^Discord$","1","",1,c41
-r20637,3,"^Multiple times a day$","1","",1,c41
-r20670,3,"^750 - 799$","1","",1,c41
-r20846,3,"^BBQ$","1","",1,c41
-r20847,3,"^Hiking$","1","",1,c41
-r20848,3,"^Recreational Sports$","1","",1,c41
-r20849,3,"^Sleeping Bag$","1","",1,c41
-r20850,3,"^Both$","1","",1,c41
-r20851,3,"^Online Retailer \(Amazon\)$","1","",1,c41
-r20852,3,"^National Retailer \(Target, Walmart, etc\.\)$","1","",1,c41
-r20853,3,"^Sporting Goods Retailer \(Dick's Sporting Goods, REI, Cabela's, etc\.\)$","1","",1,c41
-r20854,3,"^Dick's Sporting goods$","1","",1,c41
-r20855,3,"^SUV$","1","",1,c41
-r20856,3,"^Novice$","1","",1,c41
-r20857,3,"^Family$","1","",1,c41
 r20859,3,"^I keep facial hair \(beard, mustache, goatee, etc\) at all times$","1","",1,c549
 r20860,3,"^Short Beard \(less than 1\.5 inches\)$","1","",1,c549
 r20861,3,"^Full$","1","",1,c549
@@ -9370,6 +8404,1125 @@ r19919,3,"^Yes, I am currently taking medications or supplements for weight mana
 r19920,3,"^Dietary supplements for weight loss$","1","",1,c495
 r19921,3,"^No, I am not under a professional supervision for weight management$","1","",1,c495
 r20668,3,"No, I am not under a professional supervision for weight management","1","",1,c495
+r21168,3,"^Homeowner$","1","",1,c555
+r21169,3,"^Single-family home$","1","",1,c555
+r21170,3,"^\$100,000 - \$149,999$","1","",1,c555
+r21171,3,"^Urban$","1","",1,c555
+r21172,3,"^I am responsible for deciding which services to use$","1","",1,c555
+r21173,3,"^Pest Control Services \(i\.e\., ants, rodents, mosquitos, roaches\)$","1","",1,c555
+r21174,3,"^Plumbing Services$","1","",1,c555
+r21175,3,"^House Painting Services$","1","",1,c555
+r21176,3,"^Electrical Repair Services$","1","",1,c555
+r21177,3,"^CVS$","1","",1,c556
+r3808,3,"^Cat$","1","",1,c185
+r3809,3,"^Sparkling Sodas$","1","",1,c185
+r3810,3,"^Water$","1","",1,c185
+r3811,3,"^Coffee$","1","",1,c185
+r3812,3,"^Smoothies$","1","",1,c185
+r3813,3,"^Milk$","1","",1,c185
+r3814,3,"^Energy drinks$","1","",1,c185
+r3815,3,"^Tea / Iced Tea$","1","",1,c185
+r3816,3,"^Juice$","1","",1,c185
+r3817,3,"^I make coffee at home$","1","",1,c185
+r3818,3,"^I buy packaged/ready-to-drink coffee to keep at home \(i\.e\. in a can, in a bottle, etc\.\)$","1","",1,c185
+r3819,3,"^I buy coffee when I’m out/on-the-go \(i\.e\. Starbucks, 7-Eleven, etc\.\)$","1","",1,c185
+r3820,3,"^Starbucks$","1","",1,c185
+r3821,3,"^Dunkin$","1","",1,c185
+r3822,3,"^Most of the time$","1","",1,c185
+r3823,3,"^Iced drinks$","1","",1,c185
+r3824,3,"^Food$","1","",1,c185
+r3825,3,"^Kids beverages$","1","",1,c185
+r3826,3,"^On the go snack in between meals$","1","",1,c185
+r3827,3,"^Special treat$","1","",1,c185
+r3828,3,"^Convenience \(location proximity\)$","1","",1,c185
+r3829,3,"^Breakfast item \(i\.e bagel, breakfast sandwich, etc\.\)$","1","",1,c185
+r3830,3,"^Sweet treat \(i\.e\. chocolate, candy bar, gummies, etc\.\)$","1","",1,c185
+r3831,3,"^Pastry \(i\.e\. muffin, donut, chocolate chip cookie, etc\.\)$","1","",1,c185
+r3832,3,"^Snack \(i\.e\. chips, nuts, sunflower seeds, etc\.\)$","1","",1,c185
+r3833,3,"^Lunch item \(i\.e\. sandwich/sub, salad, etc\.\)$","1","",1,c185
+r3834,3,"^Myself$","1","",1,c185
+r3835,3,"^Partner$","1","",1,c185
+r3836,3,"^Kids$","1","",1,c185
+r3837,3,"^Flavored Coffee$","1","",1,c185
+r3838,3,"^Multiple times/day$","1","",1,c185
+r3839,3,"^Morning$","1","",1,c185
+r3840,3,"^K-cups / Coffee Pods$","1","",1,c185
+r3841,3,"^From a Café or Coffeeshop$","1","",1,c185
+r3842,3,"^Espresso Pods \(example: Nespresso\)$","1","",1,c185
+r3843,3,"^Ready to drink latte in a bottle or can$","1","",1,c185
+r3844,3,"^Ready to drink cold brew or iced coffee in a bottle or can$","1","",1,c185
+r3845,3,"^Instant coffee$","1","",1,c185
+r3846,3,"^A few times a week$","1","",1,c185
+r3847,3,"^Club Store \(Costco/BJ's\)$","1","",1,c185
+r3848,3,"^Convenience store or gas station$","1","",1,c185
+r3849,3,"^Grocery store$","1","",1,c185
+r3850,3,"^From a can or bottle$","1","",1,c185
+r3851,3,"^As an iced beverage mixed with flavor$","1","",1,c185
+r3852,3,"^Before a workout$","1","",1,c185
+r3853,3,"^Mid Morning pick me up$","1","",1,c185
+r3854,3,"^Gaming$","1","",1,c185
+r3873,3,"^Desktop Computer$","1","",1,c185
+r3874,3,"^Laptop$","1","",1,c185
+r3875,3,"^Smartphone$","1","",1,c185
+r3876,3,"^Tablet$","1","",1,c185
+r3877,3,"^2in1 \(laptop with detachable keyboard\)$","1","",1,c185
+r3878,3,"^Monitor$","1","",1,c185
+r3879,3,"^Desktop$","1","",1,c185
+r3880,3,"^Printer$","1","",1,c185
+r3882,3,"Windows","1","",1,c185
+r3883,3,"^77$","1","",1,c185
+r3884,3,"^41$","1","",1,c185
+r3885,3,"^53$","1","",1,c185
+r3886,3,"^Apple$","1","",1,c185
+r3887,3,"^Samsung$","1","",1,c185
+r3888,3,"^HP$","1","",1,c185
+r3889,3,"^Google Chromebook$","1","",1,c185
+r3890,3,"^Microsoft Surface$","1","",1,c185
+r3891,3,"^\$800\+$","1","",1,c185
+r3892,3,"^Product reviews$","1","",1,c185
+r3893,3,"^Brand reputation$","1","",1,c185
+r3894,3,"^Recommendations of friends/family$","1","",1,c185
+r3895,3,"^Green$","1","",1,c185
+r3896,3,"^Online shopping$","1","",1,c185
+r3897,3,"^Streaming Videos$","1","",1,c185
+r3898,3,"^Social Media$","1","",1,c185
+r3899,3,"^Streaming/Listening to Music$","1","",1,c185
+r3900,3,"^Posting/Managing Videos$","1","",1,c185
+r3901,3,"^Communication \(Texting, Calls, or Email\)$","1","",1,c185
+r3902,3,"^Web Browsing$","1","",1,c185
+r3903,3,"^Posting/Managing Photos$","1","",1,c185
+r3904,3,"^School/Work$","1","",1,c185
+r3905,3,"^Microsoft \(Microsoft 365\)$","1","",1,c185
+r3906,3,"^Google One$","1","",1,c185
+r3907,3,"^Apple \(iCloud / Apple One\)$","1","",1,c185
+r3908,3,"^Netflix$","1","",1,c185
+r3909,3,"^Microsoft 365/Office 365 \(Microsoft Word, Excel, PowerPoint, Teams, etc\.\)$","1","",1,c185
+r3910,3,"^Google Drive$","1","",1,c185
+r3911,3,"^Amazon Prime$","1","",1,c185
+r3912,3,"^Google Play$","1","",1,c185
+r3913,3,"^Apple One$","1","",1,c185
+r3914,3,"^Spotify$","1","",1,c185
+r3915,3,"^Firefox$","1","",1,c185
+r3916,3,"^Internet Explorer$","1","",1,c185
+r3917,3,"^Safari$","1","",1,c185
+r3918,3,"^Microsoft Edge$","1","",1,c185
+r3919,3,"^Google Chrome$","1","",1,c185
+r3920,3,"^Daily or almost daily$","1","",1,c185
+r3921,3,"^Somewhat Excited$","1","",1,c185
+r3922,3,"^ChatGPT$","1","",1,c185
+r3923,3,"^Copilot$","1","",1,c185
+r3924,3,"^Sometimes$","1","",1,c185
+r4566,3,"^Currently trying to lose weight$","1","",1,c185
+r4567,3,"^Focused on improving my general health and wellbeing$","1","",1,c185
+r4568,3,"^Interested in gaining muscle$","1","",1,c185
+r4569,3,"^Regular exercise$","1","",1,c185
+r4570,3,"^Making healthier food choices$","1","",1,c185
+r4571,3,"^Tracking my food choices \(e\.g\., calories, fat, etc\.\)$","1","",1,c185
+r5680,3,"^I am the primary grocery shopper in my household$","1","",1,c185
+r5731,3,"^Apple Photos/iCloud$","1","",1,c185
+r5833,3,"^Gone to a movie theater$","1","",1,c185
+r5834,3,"^Gone to a sporting event$","1","",1,c185
+r5835,3,"^Gone to a concert/festival$","1","",1,c185
+r5836,3,"^Played video games$","1","",1,c185
+r5837,3,"^Dined out at a restaurant$","1","",1,c185
+r5838,3,"^Played board games$","1","",1,c185
+r5839,3,"^Party Games \(e\.g\., Super Mario Party, Overcooked\)$","1","",1,c185
+r5840,3,"^Battle Royale \(e\.g\., Fortnite, Apex Legends, PUBG, Call of Duty Warzone\)$","1","",1,c185
+r5841,3,"^Third-Person Shooters \(e\.g\., Grand Theft Auto, Red Dead Redemption\)$","1","",1,c185
+r5842,3,"^Role Playing Games/RPGs \(e\.g\., Genshin Impact, Mass Effect, Elder Scrolls, Fallout\)$","1","",1,c185
+r5843,3,"^Horror \(e\.g\., Resident Evil, Dead by Daylight\)$","1","",1,c185
+r5844,3,"^Strategy Games \(e\.g\., Civilization, Age of Empires\)$","1","",1,c185
+r5845,3,"^First-Person Shooters \(e\.g\., Call of Duty, Halo, Counter-Strike, Valorant\)$","1","",1,c185
+r5846,3,"^Action Adventure Games \(e\.g\., Assassin’s Creed, Far Cry, Back 4 Blood\)$","1","",1,c185
+r5847,3,"^Platformer Games \(e\.g\., Super Mario, Crash Bandicoot\)$","1","",1,c185
+r5848,3,"^Sandbox Games \(e\.g\., Minecraft, Terraria\)$","1","",1,c185
+r5849,3,"^Sports Games \(e\.g\., NBA 2K, Madden\)$","1","",1,c185
+r5850,3,"^NBA 2K$","1","",1,c185
+r5851,3,"^5 - Very Open$","1","",1,c185
+r5893,3,"^Online/E-Commerce \(Amazon, Thrive, etc\)$","1","",1,c185
+r5894,3,"^Club Store \(Costco, Sam's, BJs\)$","1","",1,c185
+r5895,3,"^Mass Merchandisers \(Walmart, Target, etc\)$","1","",1,c185
+r5896,3,"^Convenience Stores \(7-Eleven, Casey's, etc\)$","1","",1,c185
+r5897,3,"^Conventional Grocery Stores \(Kroger, Albertsons, Publix, etc\)$","1","",1,c185
+r5898,3,"^Natural/Specialty Grocery Stores \(Whole Foods, Sprouts, The Fresh Market, etc\.\)$","1","",1,c185
+r5899,3,"^Kroger \(including Kroger banner stores - Bakers, City Market, Mariano’s, etc\)$","1","",1,c185
+r5900,3,"^Instacart$","1","",1,c185
+r5901,3,"^Walmart$","1","",1,c185
+r5902,3,"^Amazon$","1","",1,c185
+r5903,3,"^Whole Foods$","1","",1,c185
+r5904,3,"^Sam’s Club$","1","",1,c185
+r5905,3,"^Costco$","1","",1,c185
+r5906,3,"^Target$","1","",1,c185
+r5907,3,"^Meats$","1","",1,c185
+r5908,3,"^Skin care serums, lotions, or ointments$","1","",1,c185
+r5909,3,"^Nut butters$","1","",1,c185
+r5910,3,"^Eggs$","1","",1,c185
+r5911,3,"^Sauces \(BBQ, buffalo, pasta, pizza, etc\.\)$","1","",1,c185
+r5912,3,"^Vegetables$","1","",1,c185
+r5913,3,"^Dips/spreads$","1","",1,c185
+r5914,3,"^Protein powders$","1","",1,c185
+r5915,3,"^Cheeses$","1","",1,c185
+r5916,3,"^Spices/seasonings$","1","",1,c185
+r5917,3,"^Salad dressings$","1","",1,c185
+r5918,3,"^Cooking Oils \(olive oil, avocado oil, etc\.\)$","1","",1,c185
+r5919,3,"^Condiments \(ketchup, mustard, mayo, etc\.\)$","1","",1,c185
+r5920,3,"^Fruits$","1","",1,c185
+r5921,3,"^Dipping sauces \(e\.g\.Chick-Fil-A Sauce, Sweet Baby Ray’s Dipping Sauce, etc\.\)$","1","",1,c185
+r5922,3,"^Olive oil$","1","",1,c185
+r5923,3,"^Ketchup$","1","",1,c185
+r5924,3,"^BBQ sauce$","1","",1,c185
+r5925,3,"^Cooking sauce$","1","",1,c185
+r5926,3,"^Germany$","1","",1,c185
+r5927,3,"^Heinz$","1","",1,c185
+r5928,3,"^Kraft$","1","",1,c185
+r5929,3,"^Hellmann’s$","1","",1,c185
+r5930,3,"^Seven$","1","",1,c185
+r7242,3,"^Productivity apps \(e\.g\., note taking, to do lists, calendars, etc\.\)$","1","",1,c185
+r7243,3,"^Food delivery apps$","1","",1,c185
+r7244,3,"^TV / Video streaming apps \(e\.g\., Netflix, Hulu, Peacock, etc\.\)$","1","",1,c185
+r7245,3,"^Social media apps \(e\.g\., Instagram, Facebook, TikTok, Snapchat, etc\.\)$","1","",1,c185
+r7246,3,"^Music streaming apps \(e\.g\., Spotify, Apple Music, Pandora, etc\.\)$","1","",1,c185
+r7247,3,"^Health & wellness apps \(e\.g\., overall health tracking, fitness tracking, sleep tracking, weight management, meditation, menstrual tracking, etc\.\)$","1","",1,c185
+r7248,3,"^Learning Apps \(e\.g\. Duolingo\)$","1","",1,c185
+r7249,3,"^Gaming apps$","1","",1,c185
+r7250,3,"^Travel / Rideshare apps \(e\.g\., Uber, Lyft, JetBlue, etc\.\)$","1","",1,c185
+r7251,3,"^Sleep tracking$","1","",1,c185
+r7252,3,"^Exercise tracking$","1","",1,c185
+r7253,3,"^Diet/nutrition tracking$","1","",1,c185
+r7254,3,"^Weekly$","1","",1,c185
+r7255,3,"^Somewhat satisfied$","1","",1,c185
+r7256,3,"^MyFitnessPal$","1","",1,c185
+r7257,3,"^Watching what you eat / meal planning / cooking$","1","",1,c185
+r7258,3,"^Taking vitamins, supplements \(non-prescription\)$","1","",1,c185
+r7259,3,"^Individual exercise$","1","",1,c185
+r7260,3,"^when I have already made a commitment to the task$","1","",1,c185
+r7261,3,"^I find it difficult to stay present in the moment$","1","",1,c185
+r7262,3,"^I often choose not to track my behavior because it is stressful$","1","",1,c185
+r7263,3,"^Exercise and workouts$","1","",1,c185
+r7264,3,"^Sleep$","1","",1,c185
+r7265,3,"^Weight$","1","",1,c185
+r7266,3,"^Excess weight / Overweight$","1","",1,c185
+r7267,3,"^Commercial insurance \(i\.e\., insured by my employer or union\)$","1","",1,c185
+r7268,3,"^I am not a caregiver$","1","",1,c185
+r7269,3,"^Slightly comfortable$","1","",1,c185
+r7270,3,"^I prioritize achieving specific and measurable goals$","1","",1,c185
+r7271,3,"^I seek personal recognition for my work or actions$","1","",1,c185
+r7272,3,"^I prefer consistency and independence$","1","",1,c185
+r7273,3,"^I focus on mastering skills quickly and efficiently$","1","",1,c185
+r8739,3,"^I do all or most of the decision making$","1","",1,c185
+r8740,3,"^Banking/Finance$","1","",1,c185
+r8741,3,"^25-34$","1","",1,c185
+r8742,3,"^13-17$","1","",1,c185
+r8743,3,"^6-12$","1","",1,c185
+r8744,3,"^Cosmetics Retailer \(ex: Sephora, Ulta\)$","1","",1,c185
+r8745,3,"^Mass merchandiser \(ex: Walmart, Target\)$","1","",1,c185
+r8746,3,"^Club \(ex: BJs, Costco, Sam's Club\)$","1","",1,c185
+r8747,3,"^Home Improvement \(ex: Home Depot, Lowe's\)$","1","",1,c185
+r8748,3,"^Amazon$","1","",1,c185
+r8749,3,"^Convenience \(ex: 7-Eleven, Kwik Shop\)$","1","",1,c185
+r8750,3,"^Grocery Store$","1","",1,c185
+r8751,3,"^Costco$","1","",1,c185
+r8752,3,"^Sam's Club$","1","",1,c185
+r8753,3,"^Amazon$","1","",1,c185
+r8754,3,"^Home Depot$","1","",1,c185
+r8755,3,"^Walmart$","1","",1,c185
+r8756,3,"^Kroger$","1","",1,c185
+r8757,3,"^Target$","1","",1,c185
+r8758,3,"^Whole Foods$","1","",1,c185
+r8759,3,"^CVS$","1","",1,c185
+r8760,3,"^Skin Care or Cleansing Products \(ex: Facial Cleaners, Hand soap, Moisturizer\)$","1","",1,c185
+r8761,3,"^Oral Care Products \(ex: Toothbrushes, Toothpaste, Mouthwash\)$","1","",1,c185
+r8762,3,"^Laundry Care Products \(ex: Laundry Detergent, Fabric Softener, Dryer Sheets or Beads\)$","1","",1,c185
+r8763,3,"^Floor, Surface, or Multi-Purpose Cleaning Products \(ex: Countertop cleaning spray, bathroom all-purpose cleaning solution\)$","1","",1,c185
+r8764,3,"^Toothpaste$","1","",1,c185
+r8765,3,"^Laundry Detergent$","1","",1,c185
+r8766,3,"^Dryer Sheets$","1","",1,c185
+r8767,3,"^Bar Soap$","1","",1,c185
+r8768,3,"^Toothbrush \(rechargeable, battery, or manual\)$","1","",1,c185
+r8769,3,"^Colgate$","1","",1,c185
+r8770,3,"^Olay$","1","",1,c185
+r8771,3,"^I have never tried at-home teeth whitening products$","1","",1,c185
+r13191,3,"^Cooking or Baking$","1","",1,c185
+r13192,3,"^Playing Games \(Video Games, Board Games, Puzzles, etc\.\)$","1","",1,c185
+r13194,3,"^Exercising \(Gym Workouts, Dancing, Yoga, Cycling, Walking, etc\.\)$","1","",1,c185
+r13311,3,"^Smart TV$","1","",1,c185
+r13312,3,"^Laptop/desktop$","1","",1,c185
+r13313,3,"^Smartwatch or smart wrist band$","1","",1,c185
+r16442,3,"^I do all or most of the decision making$","1","",1,c185
+r16443,3,"^Banking/Finance$","1","",1,c185
+r16444,3,"^25-34$","1","",1,c185
+r16445,3,"^6-12$","1","",1,c185
+r16446,3,"^13-17$","1","",1,c185
+r16447,3,"^Home Improvement \(ex: Home Depot, Lowe's\)$","1","",1,c185
+r16448,3,"^Mass merchandiser \(ex: Walmart, Target\)$","1","",1,c185
+r16449,3,"^Amazon$","1","",1,c185
+r16450,3,"^Club \(ex: BJs, Costco, Sam's Club\)$","1","",1,c185
+r16451,3,"^Convenience \(ex: 7-Eleven, Kwik Shop\)$","1","",1,c185
+r16452,3,"^Grocery Store$","1","",1,c185
+r16453,3,"^Direct to consumer/brand website$","1","",1,c185
+r16454,3,"^Cosmetics Retailer \(ex: Sephora, Ulta\)$","1","",1,c185
+r16455,3,"^Drug Store \(ex: CVS, Walgreens\)$","1","",1,c185
+r16456,3,"^Dollar Store$","1","",1,c185
+r16457,3,"^Costco$","1","",1,c185
+r16458,3,"^Whole Foods$","1","",1,c185
+r16459,3,"^Kroger$","1","",1,c185
+r16460,3,"^CVS$","1","",1,c185
+r16461,3,"^Dollar General$","1","",1,c185
+r16462,3,"^Target$","1","",1,c185
+r16463,3,"^Walmart$","1","",1,c185
+r16464,3,"^Sam's Club$","1","",1,c185
+r16465,3,"^Home Depot$","1","",1,c185
+r16466,3,"^Skin Care or Cleansing Products \(ex: Facial Cleaners, Hand soap, Moisturizer\)$","1","",1,c185
+r16467,3,"^Laundry Care Products \(ex: Laundry Detergent, Fabric Softener, Dryer Sheets or Beads\)$","1","",1,c185
+r16468,3,"^Oral Care Products \(ex: Toothbrushes, Toothpaste, Mouthwash\)$","1","",1,c185
+r16469,3,"^Floor, Surface, or Multi-Purpose Cleaning Products \(ex: Countertop cleaning spray, bathroom all-purpose cleaning solution\)$","1","",1,c185
+r16470,3,"^Laundry Detergent$","1","",1,c185
+r16471,3,"^Bar Soap$","1","",1,c185
+r16472,3,"^Toothpaste$","1","",1,c185
+r16473,3,"^Colgate$","1","",1,c185
+r16474,3,"^Olay$","1","",1,c185
+r16475,3,"^I have never tried at-home teeth whitening products$","1","",1,c185
+r16955,3,"^Laptop / desktop computer$","1","",1,c185
+r16956,3,"^Smartwatch$","1","",1,c185
+r16957,3,"^\$1200\+$","1","",1,c185
+r16958,3,"^Snapchat$","1","",1,c185
+r16959,3,"^Instagram$","1","",1,c185
+r16960,3,"^Twitter$","1","",1,c185
+r16961,3,"^YouTube$","1","",1,c185
+r16962,3,"^Facebook$","1","",1,c185
+r16963,3,"^TikTok$","1","",1,c185
+r16964,3,"^LinkedIn$","1","",1,c185
+r16965,3,"^Post/upload content$","1","",1,c185
+r16966,3,"^Watch content$","1","",1,c185
+r16967,3,"^I post content to share only with my friends, family, and/or colleagues$","1","",1,c185
+r16968,3,"^Personal$","1","",1,c185
+r17005,3,"^I do all or most of the decision making$","1","",1,c185
+r17006,3,"^Banking/Finance$","1","",1,c185
+r17007,3,"^6-12$","1","",1,c185
+r17008,3,"^13-17$","1","",1,c185
+r17009,3,"^25-34$","1","",1,c185
+r17010,3,"^Home Improvement \(ex: Home Depot, Lowe's\)$","1","",1,c185
+r17011,3,"^Mass merchandiser \(ex: Walmart, Target\)$","1","",1,c185
+r17012,3,"^Grocery Store$","1","",1,c185
+r17013,3,"^Club \(ex: BJs, Costco, Sam's Club\)$","1","",1,c185
+r17014,3,"^Direct to consumer/brand website$","1","",1,c185
+r17015,3,"^Amazon$","1","",1,c185
+r17016,3,"^Convenience \(ex: 7-Eleven, Kwik Shop\)$","1","",1,c185
+r17017,3,"^Cosmetics Retailer \(ex: Sephora, Ulta\)$","1","",1,c185
+r17018,3,"^Dollar Store$","1","",1,c185
+r17019,3,"^Drug Store \(ex: CVS, Walgreens\)$","1","",1,c185
+r17020,3,"^Costco$","1","",1,c185
+r17021,3,"^Amazon$","1","",1,c185
+r17022,3,"^Walmart$","1","",1,c185
+r17023,3,"^Target$","1","",1,c185
+r17024,3,"^Sam's Club$","1","",1,c185
+r17025,3,"^Whole Foods$","1","",1,c185
+r17026,3,"^Kroger$","1","",1,c185
+r17027,3,"^Home Depot$","1","",1,c185
+r17028,3,"^Dollar General$","1","",1,c185
+r17029,3,"^Costco$","1","",1,c185
+r17030,3,"^CVS$","1","",1,c185
+r17031,3,"^Skin Care or Cleansing Products \(ex: Facial Cleaners, Hand soap, Moisturizer\)$","1","",1,c185
+r17032,3,"^Oral Care Products \(ex: Toothbrushes, Toothpaste, Mouthwash\)$","1","",1,c185
+r17033,3,"^Laundry Care Products \(ex: Laundry Detergent, Fabric Softener, Dryer Sheets or Beads\)$","1","",1,c185
+r17034,3,"^Floor, Surface, or Multi-Purpose Cleaning Products \(ex: Countertop cleaning spray, bathroom all-purpose cleaning solution\)$","1","",1,c185
+r17035,3,"^Laundry Detergent$","1","",1,c185
+r17036,3,"^Bar Soap$","1","",1,c185
+r17037,3,"^Toothpaste$","1","",1,c185
+r17038,3,"^Colgate$","1","",1,c185
+r17039,3,"^Olay$","1","",1,c185
+r17040,3,"^I have never tried at-home teeth whitening products$","1","",1,c185
+r20469,3,"^\$100,000 - \$149,999$","1","",1,c185
+r20470,3,"^I am a parent or guardian of at least one child under 18$","1","",1,c185
+r20471,3,"^10-12 years$","1","",1,c185
+r20472,3,"^13-15 years$","1","",1,c185
+r20473,3,"^Finance$","1","",1,c185
+r20474,3,"^Anxiety$","1","",1,c185
+r20475,3,"^Yes, multiple times$","1","",1,c185
+r20476,3,"^Location or distance of the therapist$","1","",1,c185
+r20477,3,"^Health insurance through an employer$","1","",1,c185
+r20478,3,"^1 to 3 years ago$","1","",1,c185
+r20479,3,"^In-person therapy$","1","",1,c185
+r20480,3,"^Very Open$","1","",1,c185
+r20481,3,"^Primarily through in-person sessions$","1","",1,c185
+r20482,3,"^25 to 34$","1","",1,c185
+r20483,3,"^Male$","1","",1,c185
+r20527,3,"^Personal recommendation$","1","",1,c185
+r20528,3,"^2-4 weeks$","1","",1,c185
+r20529,3,"^Somewhat quick but time-consuming$","1","",1,c185
+r20530,3,"^In person at the clinic$","1","",1,c185
+r20531,3,"^Fully covered by insurance$","1","",1,c185
+r20532,3,"^To message my therapist$","1","",1,c185
+r20533,3,"^To complete self-care exercises$","1","",1,c185
+r20534,3,"^To schedule appointments$","1","",1,c185
+r20535,3,"^In-app messaging with a therapist$","1","",1,c185
+r20536,3,"^Community or peer support$","1","",1,c185
+r20537,3,"^Dashboard to see progress$","1","",1,c185
+r20538,3,"^Somewhat comfortable$","1","",1,c185
+r20642,3,"^9 - 12 years old$","1","",1,c185
+r20643,3,"^13 - 17 years old$","1","",1,c185
+r20767,3,"^I personally own an Apple Vision Pro headset$","1","",1,c185
+r20768,3,"^Within the last week$","1","",1,c185
+r20769,3,"^No, I’m not willing to participate for multiple weeks$","1","",1,c185
+r21178,3,"^Yes, I have a smartphone$","1","",1,c185
+r21190,3,"^300 to 999$","1","",1,c557
+r21191,3,"^Provide services online or over the phone \(e\.g\. consulting, tutoring\)$","1","",1,c557
+r21192,3,"^I work as an employee of a business$","1","",1,c557
+r21193,3,"^I have influence but I am not the final decision-maker for the business’s digital tools$","1","",1,c557
+r21194,3,"^Improve internal systems \(e\.g\., Accounting or Finance, Legal, HR\)$","1","",1,c557
+r21197,3,"^Working full-time \(30 or more hrs\. per week\)$","1","",1,c558
+r21198,3,"^I am an employee$","1","",1,c558
+r21199,3,"^I am not the sole decision maker but am somewhat involved in the decision-making$","1","",1,c558
+r21200,3,"^Laptop or desktop computer with webcam$","1","",1,c558
+r21201,3,"^Tablet$","1","",1,c558
+r21202,3,"^Smartphone$","1","",1,c558
+r857,3,"^\$3,000 or more$","1","",1,c41
+r858,3,"^Personal loan from a bank/financial institution$","1","",1,c41
+r859,3,"^Debit card from a bank/financial institution$","1","",1,c41
+r860,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal\)$","1","",1,c41
+r861,3,"^""Buy Now, Pay Later"" service \(e\.g\., Klarna, Affirm\)$","1","",1,c41
+r862,3,"^Mobile/digital wallet \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c41
+r863,3,"^Savings account from a bank/financial institution$","1","",1,c41
+r864,3,"^Credit card from a bank/financial institution$","1","",1,c41
+r865,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1,c41
+r866,3,"^Very open$","1","",1,c41
+r867,3,"^IKEA$","1","",1,c41
+r868,3,"^Target$","1","",1,c41
+r869,3,"^Amazon$","1","",1,c41
+r870,3,"^Walmart$","1","",1,c41
+r871,3,"^The Home Depot$","1","",1,c41
+r872,3,"^Within the past month$","1","",1,c41
+r873,3,"^I have a Home Depot credit card$","1","",1,c41
+r874,3,"^Lamp$","1","",1,c41
+r875,3,"^Pink, Light Blue, Dark Blue$","1","",1,c41
+r2172,3,"^Outdoor garden or bed with edible plants \(i\.e\., vegetables, fruits, herbs, etc\.\)$","1","",1,c41
+r2173,3,"^Outdoor entertainment spaces \(i\.e\., deck, patio, firepit, tables, etc\.\)$","1","",1,c41
+r2174,3,"^Grass lawn \(full or partial\)$","1","",1,c41
+r2175,3,"^Handyman or repair services \(e\.g\., plumbing, electrical, general repairs\)$","1","",1,c41
+r2176,3,"^Home Cleaning Products$","1","",1,c41
+r2177,3,"^A few times a month$","1","",1,c41
+r2178,3,"^Spectracide$","1","",1,c41
+r2179,3,"^Off$","1","",1,c41
+r2180,3,"^Kitchen \(counters, stove tops and other raised surfaces\)$","1","",1,c41
+r2181,3,"^Multipurpose Cleaner \(general surfaces, multiple areas\)$","1","",1,c41
+r2182,3,"^Bathrooms \(toilet, bathtub, sinks, etc\.\)$","1","",1,c41
+r2183,3,"^Outdoor Cleaner \(patio, deck, driveway, etc\.\)$","1","",1,c41
+r2184,3,"^Reflective Surfaces \(glass features, windows, mirrors, etc\.\)$","1","",1,c41
+r2185,3,"^Clorox$","1","",1,c41
+r2186,3,"^Own$","1","",1,c41
+r2604,3,"^I am primarily responsible for shopping for my household$","1","",1,c41
+r2809,3,"^Single-family detached home under 2,000 square feet$","1","",1,c41
+r2810,3,"^Children aged 0-12$","1","",1,c41
+r2811,3,"^Teenagers aged 13-17$","1","",1,c41
+r2812,3,"^Adults aged 25-44$","1","",1,c41
+r2813,3,"^Pets - Dogs$","1","",1,c41
+r2814,3,"^Pets - Cats$","1","",1,c41
+r2860,3,"^I am primarily responsible for purchasing grocery items$","1","",1,c41
+r2874,3,"^Online \(e\.g\., Amazon, Fresh Direct\)$","1","",1,c41
+r2875,3,"^Convenience stores \(e\.g\., Wawa, 7Eleven\)$","1","",1,c41
+r2876,3,"^Club stores \(e\.g\., Sam’s Club, BJ’s, Costco\)$","1","",1,c41
+r2877,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c41
+r2878,3,"^Sam’s Club$","1","",1,c41
+r2879,3,"^Costco$","1","",1,c41
+r2880,3,"^Nuts/Mixed nuts/Trail mix$","1","",1,c41
+r2881,3,"^Vegetables$","1","",1,c41
+r2882,3,"^Salty snacks \(e\.g\., chips, cheese puffs, pretzels\)$","1","",1,c41
+r2883,3,"^Snack bars \(e\.g\., granola bars, protein bars, cereal bars\)$","1","",1,c41
+r2884,3,"^Fruit$","1","",1,c41
+r2885,3,"^Bottled non-alcoholic beverages$","1","",1,c41
+r2886,3,"^Crackers$","1","",1,c41
+r2887,3,"^Dips \(e\.g\., ranch, queso, bean\)$","1","",1,c41
+r2888,3,"^Meat$","1","",1,c41
+r2889,3,"^Fruit snacks$","1","",1,c41
+r2890,3,"^Cookies$","1","",1,c41
+r2891,3,"^Canned goods$","1","",1,c41
+r2892,3,"^Pastries$","1","",1,c41
+r2893,3,"^Single-serve size for individual consumption$","1","",1,c41
+r2894,3,"^Multipack/Straight pack of same flavor \(i\.e\., a pack with multiple bags of the same item\)$","1","",1,c41
+r2895,3,"^Lays$","1","",1,c41
+r2896,3,"^Doritos$","1","",1,c41
+r2897,3,"^Ruffles$","1","",1,c41
+r2898,3,"^Cheetos$","1","",1,c41
+r2899,3,"^Tostitos$","1","",1,c41
+r2991,3,"^Robinhood$","1","",1,c41
+r2992,3,"^I invest in industries that I believe will grow$","1","",1,c41
+r2993,3,"^Futures trading$","1","",1,c41
+r3104,3,"^Somewhat useful$","1","",1,c41
+r6236,3,"^Own my home$","1","",1,c41
+r6237,3,"^Interior home decor$","1","",1,c41
+r6238,3,"^Smart home devices and accessories$","1","",1,c41
+r6239,3,"^Home improvement products$","1","",1,c41
+r6240,3,"^Entertainment and media devices$","1","",1,c41
+r6241,3,"^School or home office furniture and supplies$","1","",1,c41
+r6242,3,"^Disposable household goods and cleaning supplies$","1","",1,c41
+r6243,3,"^Personal care products$","1","",1,c41
+r6244,3,"^I live with my child/children$","1","",1,c41
+r6245,3,"^I live with a partner/spouse$","1","",1,c41
+r6246,3,"^9-10 years$","1","",1,c41
+r6247,3,"^13-15 years$","1","",1,c41
+r6248,3,"^Video games$","1","",1,c41
+r6249,3,"^Outdoor play$","1","",1,c41
+r7437,3,"^150\+ grams$","1","",1,c41
+r7438,3,"^Protein Power Muffins$","1","",1,c41
+r7464,3,"^I own a pet$","1","",1,c41
+r7465,3,"^Dog$","1","",1,c41
+r7466,3,"^Cat$","1","",1,c41
+r7467,3,"^I am primarily responsible for purchasing food for my dog\(s\)$","1","",1,c41
+r7468,3,"^Wet or canned dog food$","1","",1,c41
+r7469,3,"^Dry dog food \(kibble\)$","1","",1,c41
+r7470,3,"^Fresh or refrigerated dog food$","1","",1,c41
+r7471,3,"^Online retailers \(e\.g\., Chewy, Amazon\)$","1","",1,c41
+r7472,3,"^Specialty pet stores \(e\.g\., Petco, PetSmart, local pet stores\)$","1","",1,c41
+r7473,3,"^Mass merchandisers \(e\.g\., Target, Walmart\)$","1","",1,c41
+r7474,3,"^Pedigree$","1","",1,c41
+r7475,3,"^Purina \(Pro Plan, ONE, Dog Chow\)$","1","",1,c41
+r7476,3,"^Taste of the Wild$","1","",1,c41
+r13412,3,"^I am an employee$","1","",1,c41
+r13413,3,"^Chief Financial Officer \(CFO\)$","1","",1,c41
+r13414,3,"^\$500,000 - \$999,999$","1","",1,c41
+r13415,3,"^6 - 10 years$","1","",1,c41
+r13416,3,"^100 or more employees$","1","",1,c41
+r16893,3,"^\$100,000 - \$199,999$","1","",1,c41
+r16894,3,"^Upper respiratory allergies$","1","",1,c41
+r16895,3,"^Itchy nose$","1","",1,c41
+r16896,3,"^No impact at all, they don’t affect my life, sometimes I forget I even have them$","1","",1,c41
+r20551,3,"^9 - 12 years old$","1","",1,c41
+r20552,3,"^13 - 17 years old$","1","",1,c41
+r20553,3,"^Urban$","1","",1,c41
+r20554,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c41
+r20555,3,"^I shop in-store and online equally$","1","",1,c41
+r20556,3,"^Whole Foods Market$","1","",1,c41
+r20557,3,"^Sam's Club$","1","",1,c41
+r20558,3,"^Kroger \(includes City Market, Dillons, Fred Meyer, Fry’s, Harris Teeter, King Soopers, QFC, Ralphs, Roundy’s/Mariano’s, Smith’s\)$","1","",1,c41
+r20559,3,"^Amazon \(includes Amazon Fresh and Amazon Prime\)$","1","",1,c41
+r20560,3,"^DoorDash \(Via DoorDash\.com or DoorDash App\)$","1","",1,c41
+r20561,3,"^Amazon \(Via Amazon\.com or Amazon App\)$","1","",1,c41
+r20562,3,"^UberEats \(Via UberEats\.com or Ubereats App\)$","1","",1,c41
+r20563,3,"^Instacart \(Via Instacart\.com or Instacart App\)$","1","",1,c41
+r20564,3,"^Fresh fruits and vegetables$","1","",1,c41
+r20565,3,"^Canned goods \(soup, vegetables, etc\)$","1","",1,c41
+r20566,3,"^Meat and poultry$","1","",1,c41
+r20567,3,"^Dairy products \(cheese, sour cream, milk, etc\)$","1","",1,c41
+r20568,3,"^Bakery items$","1","",1,c41
+r20569,3,"^Frozen foods \(Ice cream, frozen treats, fruit, vegetables, frozen meals, etc\)$","1","",1,c41
+r20570,3,"^Snacks and/or candies$","1","",1,c41
+r20571,3,"^Soda$","1","",1,c41
+r20572,3,"^Bottled and/or sparkling water$","1","",1,c41
+r20573,3,"^Juice and/or Milk$","1","",1,c41
+r20574,3,"^Pasta and/or rice$","1","",1,c41
+r20575,3,"^Condiments and/or sauces$","1","",1,c41
+r20576,3,"^Breakfast cereals and/or oats$","1","",1,c41
+r20577,3,"^Alcoholic beverages$","1","",1,c41
+r20578,3,"^Rao’s$","1","",1,c41
+r20579,3,"^I use it as an ingredient in dishes$","1","",1,c41
+r20580,3,"^Nutritional value$","1","",1,c41
+r20581,3,"^Great Taste$","1","",1,c41
+r20582,3,"^Kraft$","1","",1,c41
+r20583,3,"^Cracker Barrel$","1","",1,c41
+r20584,3,"^The Packaging$","1","",1,c41
+r20585,3,"^The Texture$","1","",1,c41
+r20586,3,"^Breyer’s$","1","",1,c41
+r20587,3,"^Chips Ahoy$","1","",1,c41
+r20588,3,"^Oreo$","1","",1,c41
+r20589,3,"^Pepperidge Farm$","1","",1,c41
+r20590,3,"^Ritz$","1","",1,c41
+r20591,3,"^Cheez-It$","1","",1,c41
+r20592,3,"^Utz$","1","",1,c41
+r20593,3,"^I snack often$","1","",1,c41
+r20594,3,"^I often use recipes when preparing a meal$","1","",1,c41
+r20595,3,"^Food is a comfort to me$","1","",1,c41
+r20596,3,"^I am primarily responsible for shopping at drug stores/pharmacies for my household$","1","",1,c41
+r20597,3,"^CVS$","1","",1,c41
+r20598,3,"^Medication \(over-the-counter, prescription, etc\.\)$","1","",1,c41
+r20599,3,"^Supplements \(e\.g\., vitamins\)$","1","",1,c41
+r20600,3,"^I am primarily responsible for buying larger purchases for my household$","1","",1,c41
+r20601,3,"^Yes$","1","",1,c41
+r20602,3,"^Somewhat likely$","1","",1,c41
+r20603,3,"^Hilton Resorts$","1","",1,c41
+r20604,3,"^Somewhat favorable$","1","",1,c41
+r20605,3,"^Spending time with my family is my top priority$","1","",1,c41
+r20606,3,"^I frequently wish I had more time to spend with my family$","1","",1,c41
+r20607,3,"^It's important to me that my children continue my family's cultural traditions$","1","",1,c41
+r20608,3,"^Ambition: Aspiring to get ahead$","1","",1,c41
+r20609,3,"^Creativity: Being creative, imaginative$","1","",1,c41
+r20610,3,"^Curiosity: Wanting to explore and learn about new things$","1","",1,c41
+r20611,3,"^I like to try new things$","1","",1,c41
+r20612,3,"^I am optimistic and easy going$","1","",1,c41
+r20613,3,"^​​I like to live a lifestyle that impresses others$","1","",1,c41
+r20614,3,"^Exercise$","1","",1,c41
+r20615,3,"^Listening to music$","1","",1,c41
+r20616,3,"^Going to the movies$","1","",1,c41
+r20617,3,"^PC gaming$","1","",1,c41
+r20618,3,"^Console gaming$","1","",1,c41
+r20619,3,"^Television – Cable \(e\.g\., ABC, Fox, NBC, CBS\)$","1","",1,c41
+r20620,3,"^Television – Streaming \(e\.g\., Netflix, Hulu, Max\)$","1","",1,c41
+r20621,3,"^Social Media \(e\.g\., Facebook, Twitter/X, Instagram, TikTok\)$","1","",1,c41
+r20622,3,"^Cinema – Out of Home \(e\.g\., Regal, AMC, Cinemark\)$","1","",1,c41
+r20623,3,"^Music streaming \(e\.g\., Spotify, Apple Music, Pandora\)$","1","",1,c41
+r20624,3,"^Podcasts \(e\.g\., Apple Podcasts, Spotify, Pocket Casts, Audible\)$","1","",1,c41
+r20625,3,"^Pinterest$","1","",1,c41
+r20626,3,"^Facebook \(including Messenger\)$","1","",1,c41
+r20627,3,"^TikTok$","1","",1,c41
+r20628,3,"^LinkedIn$","1","",1,c41
+r20629,3,"^Threads$","1","",1,c41
+r20630,3,"^YouTube$","1","",1,c41
+r20631,3,"^Snapchat$","1","",1,c41
+r20632,3,"^Instagram$","1","",1,c41
+r20633,3,"^Reddit$","1","",1,c41
+r20634,3,"^Twitter/X$","1","",1,c41
+r20635,3,"^Twitch$","1","",1,c41
+r20636,3,"^Discord$","1","",1,c41
+r20637,3,"^Multiple times a day$","1","",1,c41
+r20670,3,"^750 - 799$","1","",1,c41
+r20846,3,"^BBQ$","1","",1,c41
+r20847,3,"^Hiking$","1","",1,c41
+r20848,3,"^Recreational Sports$","1","",1,c41
+r20849,3,"^Sleeping Bag$","1","",1,c41
+r20850,3,"^Both$","1","",1,c41
+r20851,3,"^Online Retailer \(Amazon\)$","1","",1,c41
+r20852,3,"^National Retailer \(Target, Walmart, etc\.\)$","1","",1,c41
+r20853,3,"^Sporting Goods Retailer \(Dick's Sporting Goods, REI, Cabela's, etc\.\)$","1","",1,c41
+r20854,3,"^Dick's Sporting goods$","1","",1,c41
+r20855,3,"^SUV$","1","",1,c41
+r20856,3,"^Novice$","1","",1,c41
+r20857,3,"^Family$","1","",1,c41
+r21195,3,"^Working full-time \(30 or more hrs\. per week\)$","1","",1,c41
+r21196,3,"^I am not the sole decision maker but am somewhat involved in the decision-making$","1","",1,c41
+r21203,3,"^Finance$","1","",1,c41
+r21204,3,"^I am primarily responsible$","1","",1,c41
+r21205,3,"^Sound bar$","1","",1,c41
+r21206,3,"^Laptop/ tablet$","1","",1,c41
+r21207,3,"^Sony$","1","",1,c41
+r21208,3,"^Samsung$","1","",1,c41
+r21209,3,"^Hardcore Gamer: I play video games often\. It is my primary hobby\.$","1","",1,c41
+r101,3,"^Smartphone$","1","",1,c5
+r102,3,"^Smartwatch$","1","",1,c5
+r103,3,"^Laptop / desktop computer$","1","",1,c5
+r104,3,"^Tablet$","1","",1,c5
+r105,3,"^Apple$","1","",1,c5
+r106,3,"^No$","1","",1,c5
+r1028,3,"detached house","1","",1,c5
+r1029,3,"^Grass Lawn$","1","",1,c5
+r1030,3,"^Outdoor Garden/Plants \(flowers, vegetables, herbs, etc\.\)$","1","",1,c5
+r1031,3,"^Garage \(fully enclosed\)$","1","",1,c5
+r1032,3,"^Bathroom$","1","",1,c5
+r1033,3,"^Basement$","1","",1,c5
+r1034,3,"^Fence$","1","",1,c5
+r1035,3,"^Driveway$","1","",1,c5
+r1036,3,"^Sidewalk/walkway$","1","",1,c5
+r1037,3,"^I am solely responsible for my home's lawn maintenance$","1","",1,c5
+r1038,3,"^Lawnmower$","1","",1,c5
+r1225,3,"^You$","1","",1,c5
+r1226,3,"^\$100,000-\$149,999$","1","",1,c5
+r1227,3,"^Own$","1","",1,c5
+r1228,3,"^I'm more than able to make ends meet each month and am learning or already know how to maximize the value of my money\.$","1","",1,c5
+r1229,3,"^The same$","1","",1,c5
+r1230,3,"^660 to 719$","1","",1,c5
+r1231,3,"^Quarterly$","1","",1,c5
+r1233,3,"^Haven’t used but familiar$","1","",1,c5
+r1234,3,"^I don't use this company$","1","",1,c5
+r1235,3,"^I am certain Credit Karma does offer this$","1","",1,c5
+r1236,3,"^Credit Card$","1","",1,c5
+r1237,3,"^Personal Loan / Line of Credit$","1","",1,c5
+r1238,3,"^Savings Account / Money Market$","1","",1,c5
+r1239,3,"^Checking Account$","1","",1,c5
+r1240,3,"^Cryptocurrency holdings in any exchange platform \(e\.g\., Coinbase, Binance, etc\.\)$","1","",1,c5
+r1241,3,"^Debit Card$","1","",1,c5
+r1242,3,"^Improving your credit score$","1","",1,c5
+r1243,3,"^Becoming financially stable$","1","",1,c5
+r1244,3,"^Setting up an emergency fund$","1","",1,c5
+r1245,3,"^Saving for retirement$","1","",1,c5
+r1246,3,"^Growing your savings or investments$","1","",1,c5
+r1247,3,"^Apply for a credit card$","1","",1,c5
+r1248,3,"^File your taxes online$","1","",1,c5
+r1249,3,"^Somewhat likely$","1","",1,c5
+r2863,3,"^Online \(e\.g\., Amazon, Fresh Direct\)$","1","",1,c5
+r2864,3,"^Club stores \(e\.g\., Sam’s Club, BJ’s, Costco\)$","1","",1,c5
+r2865,3,"^Convenience stores \(e\.g\., Wawa, 7Eleven\)$","1","",1,c5
+r2866,3,"^Grocery stores$","1","",1,c5
+r2867,3,"^Dollar stores \(e\.g\., Family Dollar, Dollar General\)$","","",1,c5
+r2868,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c5
+r2901,3,"^Costco$","1","",1,c5
+r2902,3,"^Sam’s Club$","1","",1,c5
+r2903,3,"^Nuts/Mixed nuts/Trail mix$","1","",1,c5
+r2904,3,"^Café \(e\.g\., pizza, hot dog, pretzel, sundae, beverage\)$","1","",1,c5
+r2905,3,"^Snack bars \(e\.g\., granola bars, protein bars, cereal bars\)$","","",1,c5
+r2906,3,"^Dips \(e\.g\., ranch, queso, bean\)$","1","",1,c5
+r2907,3,"^Bottled non-alcoholic beverages$","1","",1,c5
+r2908,3,"^Salty snacks \(e\.g\., chips, cheese puffs, pretzels\)$","1","",1,c5
+r2909,3,"^Cookies$","1","",1,c5
+r2910,3,"^Canned goods$","1","",1,c5
+r2911,3,"^Beverage$","1","",1,c5
+r2912,3,"^Pizza slice$","1","",1,c5
+r2913,3,"^Pretzel$","1","",1,c5
+r5520,3,"^Safari$","1","",1,c5
+r5521,3,"^Chrome$","1","",1,c5
+r5522,3,"^Firefox$","1","",1,c5
+r5523,3,"^Edge$","1","",1,c5
+r5524,3,"^I like this band$","1","",1,c5
+r5525,3,"^21079$","1","",1,c5
+r5526,3,"^37055$","1","",1,c5
+r5527,3,"^85301$","1","",1,c5
+r5678,3,"^Apple Phone \(iPhone\)$","1","",1,c5
+r5733,3,"^10-13 years old$","1","",1,c5
+r5734,3,"^13-17 years old$","1","",1,c5
+r6032,3,"^Groceries$","1","",1,c5
+r6033,3,"^Toys/video games$","1","",1,c5
+r6034,3,"^Pet food/care$","1","",1,c5
+r6035,3,"^Personal care items$","1","",1,c5
+r6036,3,"^Office/school supplies$","1","",1,c5
+r6037,3,"^Books$","1","",1,c5
+r6038,3,"^Home décor/furniture$","1","",1,c5
+r6039,3,"^Jewelry$","1","",1,c5
+r6040,3,"^Clothing/apparel$","1","",1,c5
+r6041,3,"^I am primarily responsible$","1","",1,c5
+r6042,3,"^Not at all difficult$","1","",1,c5
+r6043,3,"^I am somewhat concerned about my weight and I AM taking actions to change it$","1","",1,c5
+r6044,3,"^I am taking supplements$","1","",1,c5
+r6045,3,"^I am exercising more$","1","",1,c5
+r6046,3,"^I AM CURRENTLY taking an injectable weight loss medication \(i\.e\. Ozempic, Wegovey, Mounjaro, Semglutide, or generic equivalent\)$","1","",1,c5
+r6047,3,"^I am drinking more water$","1","",1,c5
+r6048,3,"^I am eating healthier$","1","",1,c5
+r6049,3,"^8 - 10 days$","1","",1,c5
+r6050,3,"^50% in-store / 50% online$","1","",1,c5
+r6051,3,"^Whole Foods$","1","",1,c5
+r6052,3,"^Walmart$","1","",1,c5
+r6053,3,"^Kroger \(Kroger, Fred Meyer, Harris Teeter, Ralph’s, King Soopers, Fry’s, Dillons, QFC\)$","1","",1,c5
+r6054,3,"^Target$","1","",1,c5
+r6055,3,"^Sam's Club$","1","",1,c5
+r6056,3,"^Amazon\.com$","1","",1,c5
+r6057,3,"^Instacart$","1","",1,c5
+r6058,3,"^DoorDash$","1","",1,c5
+r6059,3,"^Uber Eats$","1","",1,c5
+r6060,3,"^\$101\+$","1","",1,c5
+r6061,3,"^Hello Fresh$","1","",1,c5
+r6062,3,"^Beverages or drink mixes \(e\.g\., milk, water, coffee, soda\)$","1","",1,c5
+r6063,3,"^Premium still water$","1","",1,c5
+r6064,3,"^Refrigerated mac & cheese \(for preparation in microwave or oven\)$","1","",1,c5
+r6065,3,"^Shelf-stable \(powder, or liquid\) coffee creamers$","1","",1,c5
+r6066,3,"^Frozen foods$","1","",1,c5
+r6067,3,"^Baking items \(e\.g\. flour, sugar, chocolate chips, dough, mix, evaporated milk\)$","1","",1,c5
+r6068,3,"^Dairy \(e\.g\., cheese, butter, yogurt, etc\.\), and/or eggs$","1","",1,c5
+r6069,3,"^Shelf-stable spaghetti or pasta dishes$","1","",1,c5
+r6070,3,"^Refrigerated coffee creamers$","1","",1,c5
+r6071,3,"^Fresh meat & seafood$","1","",1,c5
+r6072,3,"^Sparkling \(unsweetened\) water$","1","",1,c5
+r6073,3,"^Pantry items \(e\.g\., seasoning, canned goods, condiments\)$","1","",1,c5
+r6074,3,"^Snacks \(e\.g\., chips, dips, cookies\)$","1","",1,c5
+r6075,3,"^Shelf-stable mac & cheese \(sold in a box, non-refrigerated, non-frozen\)$","1","",1,c5
+r6076,3,"^Fresh produce$","1","",1,c5
+r6077,3,"^Candy$","1","",1,c5
+r6078,3,"^Frozen fruit$","1","",1,c5
+r6079,3,"^Frozen desserts, whipped cream, pie/pie crusts, or frozen cakes$","1","",1,c5
+r6080,3,"^Frozen breakfast meals, bowls, burritos$","1","",1,c5
+r6081,3,"^Frozen pre-cooked breaded or fried chicken \(e\.g\. buffalo chicken wings, tenders, or strips$","1","",1,c5
+r6082,3,"^Frozen waffles, pancakes, toaster pastries$","1","",1,c5
+r6083,3,"^Frozen pizza$","1","",1,c5
+r6084,3,"^Ice cream, sherbet, & novelties \(cones, bars, popsicles, sandwiches\)$","1","",1,c5
+r6085,3,"^Frozen potatoes or onions \(e\.g\. French fries, tater tots, onion rings, etc\.\)$","1","",1,c5
+r6086,3,"^Frozen regular single-serve meals \(e\.g\. Banquet, Devour, Hungry-Man, Stouffer's\)$","1","",1,c5
+r6087,3,"^Frozen appetizers or snacks \(e\.g\. egg rolls, pot stickers, cheese sticks, potato skins, pizza bites, etc\.\)$","1","",1,c5
+r6088,3,"^Frozen raw or uncooked chicken \(e\.g\. breasts, thighs, etc\.\)$","1","",1,c5
+r6089,3,"^Frozen family-size, or multi-serve, meals or entrees$","1","",1,c5
+r6090,3,"^Frozen 'better for you' single-serve meals \(e\.g\. Healthy Choice, Lean Cuisine, Vital Pursuit, etc\.\)$","1","",1,c5
+r6091,3,"^Lean Cuisine$","1","",1,c5
+r6092,3,"^I would like to see more unique brands$","1","",1,c5
+r6093,3,"^High quality ingredients$","1","",1,c5
+r6094,3,"^Tastes great$","1","",1,c5
+r6095,3,"^Satisfies my health and wellness goals$","1","",1,c5
+r6096,3,"^Stouffer's$","1","",1,c5
+r6097,3,"^As a money-saving meal option$","1","",1,c5
+r6098,3,"^To have a snack option readily available$","1","",1,c5
+r6099,3,"^To have a quick and easy dinner option readily available$","1","",1,c5
+r6100,3,"^Product reviews$","1","",1,c5
+r6101,3,"^Social media$","1","",1,c5
+r6102,3,"^Internet search$","1","",1,c5
+r6103,3,"^Compared prices across stores more often$","1","",1,c5
+r6104,3,"^Saved for a possible emergency$","1","",1,c5
+r6105,3,"^Somewhat Agree$","1","",1,c5
+r6106,3,"^Walmart\+$","1","",1,c5
+r6107,3,"^3 retailers$","1","",1,c5
+r6108,3,"^Exclusively for weight loss$","1","",1,c5
+r6109,3,"^Rice cooker$","1","",1,c5
+r6110,3,"^Multi-cooker \(e\.g\., Instant Pot\)$","1","",1,c5
+r6111,3,"^Coffee maker$","1","",1,c5
+r6112,3,"^Air fryer$","1","",1,c5
+r6113,3,"^Microwave$","1","",1,c5
+r6114,3,"^Full-time Employment$","1","",1,c5
+r6115,3,"^VARIETY and love experimenting with new flavors and cuisines\.$","1","",1,c5
+r6261,3,"^Harvest Grain Salad$","1","",1,c5
+r6262,3,"^3-5 times per week$","1","",1,c5
+r6263,3,"^Lunch$","1","",1,c5
+r6264,3,"^Dinner$","1","",1,c5
+r6265,3,"^\$11-\$15$","1","",1,c5
+r6266,3,"^Club Store \(Costco/Sams Club\)$","1","",1,c5
+r6267,3,"^Family Size \(feeds 3-6\)$","1","",1,c5
+r6268,3,"^Potatoes$","1","",1,c5
+r6269,3,"^Seafood$","1","",1,c5
+r6270,3,"^Eggs$","1","",1,c5
+r6271,3,"^Chicken$","1","",1,c5
+r6272,3,"^Plant Based nutritional shakes \(e\.g\. OWYN, Soylent, Ripple etc\.\)$","1","",1,c5
+r6273,3,"^Performance nutritional shakes \(e\.g\., Premier Protein, Core Power, Muscle Milk, etc\.\)$","1","",1,c5
+r6274,3,"^Multivitamins/Supplements$","1","",1,c5
+r6275,3,"^Weight loss shakes \(e\.g\. SlimFast, Atkins, etc\.\)$","1","",1,c5
+r6276,3,"^Nutrition/Protein Bars \(e\.g\. Clif, KIND, Quest, etc\.\)$","1","",1,c5
+r6277,3,"^Adult nutritional shakes \(e\.g\., Ensure, Boost\)$","1","",1,c5
+r6279,3,"^Green bricks$","1","",1,c5
+r6280,3,"^Wholesale club \(such as Sam’s Club or Costco\)$","1","",1,c5
+r6281,3,"^Amazon$","1","",1,c5
+r6943,3,"^Spouse/partner$","1","",1,c5
+r6944,3,"^Child\(ren\) under 18$","1","",1,c5
+r6945,3,"^Females 6-12 years old$","1","",1,c5
+r6946,3,"^Snack bars \(granola bars, protein bars\)$","1","",1,c5
+r6947,3,"^Sweet snacks \(snack cakes, etc\.\)$","1","",1,c5
+r6948,3,"^Fruit snacks \(Motts, Welch’s, Gushers, Fruit Roll Ups, etc\.\)$","1","",1,c5
+r6949,3,"^Yogurt$","1","",1,c5
+r6950,3,"^Salty snacks \(pretzels, potato chips, etc\.\)$","1","",1,c5
+r6951,3,"^Desserts \(cakes, ice cream, etc\.\)$","1","",1,c5
+r6952,3,"^Ready-to-Eat Cereal$","1","",1,c5
+r6953,3,"^Chocolate candy \(gummy candy, chocolate bars, etc\.\)$","1","",1,c5
+r6954,3,"^Frozen breakfast foods \(breakfast sandwiches, frozen waffles/pancakes, etc\.\)$","1","",1,c5
+r6955,3,"^Frozen snacks and/or appetizers \(pizza rolls, Uncrustables, mozzarella sticks, Mexican or Asian appetizers, etc\.\)$","1","",1,c5
+r6956,3,"^Motts Fruit Snacks$","1","",1,c5
+r6957,3,"^Totino’s Pizza Rolls$","1","",1,c5
+r6958,3,"^El Monterey$","1","",1,c5
+r6959,3,"^California Pizza Kitchen$","1","",1,c5
+r6960,3,"^Nature Valley$","1","",1,c5
+r6961,3,"^KIND$","1","",1,c5
+r6962,3,"^Nutella & Go$","1","",1,c5
+r6963,3,"^All of it$","1","",1,c5
+r6964,3,"^Kroger$","1","",1,c5
+r6965,3,"^Target/Super Target$","1","",1,c5
+r6966,3,"^Walmart/Walmart Supercenter$","1","",1,c5
+r6967,3,"^Walmart Neighborhood Market$","1","",1,c5
+r7594,3,"^Males 13 – 17 years old$","1","",1,c5
+r20805,3,"^Employed full time$","1","",1,c5
+r20806,3,"^Banking and finance$","1","",1,c5
+r20807,3,"^Manager$","1","",1,c5
+r20808,3,"^300-999$","1","",1,c5
+r20809,3,"^I have no decision-making authority around technology purchases at my place of work$","1","",1,c5
+r20810,3,"^I am primarily responsible for buying technology for my household$","1","",1,c5
+r20811,3,"^HP$","1","",1,c5
+r20812,3,"^Sony$","1","",1,c5
+r20813,3,"^Microsoft Xbox$","1","",1,c5
+r20814,3,"^Sony Playstation$","1","",1,c5
+r20815,3,"^Nintendo Switch$","1","",1,c5
+r20816,3,"^Display size$","1","",1,c5
+r20817,3,"^Brand$","1","",1,c5
+r20818,3,"^Processing power$","1","",1,c5
+r20819,3,"^Work$","1","",1,c5
+r20820,3,"^Streaming/listening to music$","1","",1,c5
+r20821,3,"^Online shopping$","1","",1,c5
+r20822,3,"^Communication \(texting, calls, or email\)$","1","",1,c5
+r20823,3,"^Gaming$","1","",1,c5
+r21179,3,"^Employed full-time \(working 30 hours or more per week\)$","1","",1,c5
+r21180,3,"^300 to 999$","1","",1,c5
+r21181,3,"^Provide services online or over the phone \(e\.g\. consulting, tutoring\)$","1","",1,c5
+r21182,3,"^I work as an employee of a business$","1","",1,c5
+r21183,3,"^I have influence but I am not the final decision-maker for the business’s digital tools$","1","",1,c5
+r21184,3,"^Google Workspace \(formerly G Suite\)$","1","",1,c5
+r21185,3,"^Microsoft 365 \(formerly Office 365\)$","1","",1,c5
+r21186,3,"^Internal \(e\.g\., primarily working with colleagues within your organization\)$","1","",1,c5
+r21187,3,"^Multiple times per week$","1","",1,c5
+r21188,3,"^Microsoft Teams$","1","",1,c5
+r21189,3,"^Improve internal systems \(e\.g\., Accounting or Finance, Legal, HR\)$","1","",1,c5
+r21210,3,"^A few times a week$","1","",1,c5
+r21211,3,"^Once a month$","1","",1,c5
+r21212,3,"^Office supplies or stationery$","1","",1,c5
+r21213,3,"^Toys, games, or hobby supplies$","1","",1,c5
+r21214,3,"^Clothing, shoes, or accessories$","1","",1,c5
+r21215,3,"^Beauty and personal care products$","1","",1,c5
+r21216,3,"^Sporting goods or outdoor equipment$","1","",1,c5
+r21217,3,"^Home décor or furniture$","1","",1,c5
+r21218,3,"^Health and wellness products \(e\.g\., supplements, fitness equipment\)$","1","",1,c5
+r21219,3,"^Groceries and household essentials$","1","",1,c5
+r21220,3,"^Electronics and gadgets \(e\.g\., smartphones, laptops, TVs\)$","1","",1,c5
+r21221,3,"^Laptop$","1","",1,c5
+r21222,3,"^Television$","1","",1,c5
+r20035,3,"^Accounting and finance \(e\.g\., accountant, financial advisor, banker\)$","1","",1,c403
+r21223,3,"^Gasoline powered vehicle$","1","",1,c403
+r21224,3,"^I am the sole decision maker$","1","",1,c403
+r21225,3,"^2023-2022 \(1-2 years old\)$","1","",1,c403
+r21226,3,"^2 vehicles$","1","",1,c403
+r21227,3,"^SUV$","1","",1,c403
+r21228,3,"^Went directly to a mechanic, quick lube, car dealership, or similar and purchased and had them do an oil change$","1","",1,c403
+r21229,3,"^Seasonal Allergies$","1","",1,c559
+r18709,3,"^I am the primary purchaser of groceries for my household$","1","",1,c431
+r18710,3,"^Healthy - I have money left at the end of the month for a few luxuries or to add to my savings$","1","",1,c431
+r18711,3,"^10-12 years old$","1","",1,c431
+r18712,3,"^Warehouse/club stores \(ex: Costco, Sam’s Club, BJ’s\)$","1","",1,c431
+r18713,3,"^Coffee shop$","1","",1,c431
+r18714,3,"^Mass merchandise/discount department store \(ex: Walmart, Target, Kmart\)$","1","",1,c431
+r18715,3,"^Natural/specialty food store \(ex: Whole Foods, Trader Joe’s\)$","1","",1,c431
+r18716,3,"^Online \(ex: Amazon\.com\)$","1","",1,c431
+r18717,3,"^Refrigerated Cheese Snacks \(e\.g\., Sargento Balanced Breaks, Babybel\)$","1","",1,c431
+r18718,3,"^Pre-Packaged Snack Cakes \(e\.g\. Little Debbie cakes, other sweet soft cakes, brownies, etc\.\)$","1","",1,c431
+r18719,3,"^Salty Snacks \(e\.g\., Potato Chips, Pretzels, Popcorn\)$","1","",1,c431
+r18720,3,"^Yogurt$","1","",1,c431
+r18721,3,"^Crackers$","1","",1,c431
+r18722,3,"^Confectionery \(e\.g\., Chocolate bars, candy, etc\.\)$","1","",1,c431
+r18723,3,"^Snack Bars \(e\.g\., Nutrition bars, protein bars, granola bars, etc\.\)$","1","",1,c431
+r18724,3,"^Cookies - Prepackaged, Ready-To-Eat$","1","",1,c431
+r18725,3,"^Sweet Baked Goods \(e\.g\., Donuts, Scones, Brownies, Cupcakes, etc\.\)$","1","",1,c431
+r18726,3,"^Baking Chocolate Chips$","1","",1,c431
+r18727,3,"^Snacks that require refrigeration \(ex\. refrigerated bars, fruit cups, pudding, etc\.\)$","1","",1,c431
+r18728,3,"^Packaged Pastries \(e\.g\., Hostess, Little Debbie’s, etc\.\)$","1","",1,c431
+r18729,3,"^Granola and/or Cereal$","1","",1,c431
+r18730,3,"^Snacks that require freezing \(e\.g\.,\. ice cream, pizza rolls, etc\.\)$","1","",1,c431
+r18731,3,"^Single-serve$","1","",1,c431
+r18732,3,"^Full size$","1","",1,c431
+r18733,3,"^Chips Ahoy!$","1","",1,c431
+r18734,3,"^OREO$","1","",1,c431
+r18735,3,"^Pepperidge Farm \(e\.g Milano, Farmhouse, Chocolate Chunk Classic\)$","1","",1,c431
+r18736,3,"^Several times a week$","1","",1,c431
+r18737,3,"^Cheez-It$","1","",1,c431
+r18738,3,"^Ritz Original$","1","",1,c431
+r18739,3,"^Lays$","1","",1,c431
+r18740,3,"^Pringles$","1","",1,c431
+r18741,3,"^Ruffles$","1","",1,c431
+r21230,3,"^Store Brand$","1","",1,c431
+r21231,3,"^Marvel \(Avengers, Spider-Man\)$","1","",1,c560
+r21232,3,"^Toy Story$","1","",1,c560
+r21233,3,"^Star Wars$","1","",1,c560
+r21234,3,"^Marvel Snack Pack$","1","",1,c560
+r21235,3,"^TV$","1","",1,c561
+r21236,3,"^Cell Phone$","1","",1,c561
+r21237,3,"^Fridge$","1","",1,c561
+r21238,3,"^Apples$","1","",1,c561
+r21239,3,"^Strawberries$","1","",1,c561
+r21240,3,"^Yes I can recall the brand name of my TV$","1","",1,c561
+r21241,3,"^Samsung$","1","",1,c561
+r21242,3,"^Yes I can recall the brand name of my fridge$","1","",1,c561
+r21243,3,"^No I cannot recall the brand name of the strawberries I consume most often$","1","",1,c561
+r21244,3,"^Laundry detergent \(liquid, pods, powder\)$","1","",1,c562
+r21245,3,"^Four people$","1","",1,c563
+r21246,3,"^Neither$","1","",1,c563
+r21247,3,"^Full-time$","1","",1,c564
+r21248,3,"^I am a payroll employee$","1","",1,c564
+r21249,3,"^I have no decision-making authority around purchases at my place of work$","1","",1,c564
+r3713,3,"^Strength training / weightlifting$","1","",1,c178
+r3714,3,"^Running$","1","",1,c178
+r3715,3,"^Walking$","1","",1,c178
+r3716,3,"^Moderate intensity \(i\.e\., some effort, but manageable\)$","1","",1,c178
+r3717,3,"^4-6 times per week$","1","",1,c178
+r3718,3,"^Somewhat agree$","1","",1,c178
+r3719,3,"^Provides an energy boost before workout$","1","",1,c178
+r3720,3,"^Helps speed up muscle repair and recovery$","1","",1,c178
+r5237,3,"^4-5 times a week$","1","",1,c178
+r5238,3,"^Soft drinks$","1","",1,c178
+r5239,3,"^Non-alcoholic beer$","1","",1,c178
+r5240,3,"^Juices$","1","",1,c178
+r5241,3,"^Non-alcoholic spirits$","1","",1,c178
+r5242,3,"^Non-alcoholic wine$","","",1,c178
+r5243,3,"^Alcoholic beverages$","","",1,c178
+r5244,3,"^Driving/work responsibilities$","1","",1,c178
+r5245,3,"^Sometimes$","1","",1,c178
+r6824,3,"^My home is fully paid off$","1","",1,c178
+r6825,3,"^Higher income$","1","",1,c178
+r6826,3,"^Improved credit score$","1","",1,c178
+r6827,3,"^Not much$","1","",1,c178
+r6828,3,"^Saving for retirement$","1","",1,c178
+r8689,3,"^5 or more times$","1","",1,c178
+r8690,3,"^Non-alcoholic wines$","1","",1,c178
+r20550,3,"^No symptoms of this kind$","1","",1,c178
+r21250,3,"^I have children living in my household$","1","",1,c178
+r21251,3,"^Cats$","1","",1,c178
+r21252,3,"^Dogs$","1","",1,c178
+r21253,3,"^I have medium size breed dog\(s\)$","1","",1,c178
+r21254,3,"^My dog is my companion$","1","",1,c178
+r21255,3,"^1-2 years$","1","",1,c178
+r21256,3,"^From a friend or family member$","1","",1,c178
+r21257,3,"^Chewy$","1","",1,c178
+r21258,3,"^I regularly buy dog treats$","1","",1,c178
+r21259,3,"^Soft and chewy treats$","1","",1,c178
+r21260,3,"^Vet-Recommended$","1","",1,c178
+r21261,3,"^Light chewer$","1","",1,c178
+r21262,3,"^I have a slightly positive perception of it$","1","",1,c178
+r18845,3,"^Four$","1","",1,c358
+r18846,3,"^Yes, I have shopped for Halloween already this year and have more shopping to do$","1","",1,c358
+r18847,3,"^In both physical stores and online$","1","",1,c358
+r18848,3,"^Smartphone$","1","",1,c358
+r18849,3,"^Laptop or desktop computer$","1","",1,c358
+r18850,3,"^Open to buying$","1","",1,c358
+r18851,3,"^Myself$","1","",1,c358
+r18852,3,"^Another adult in my household$","1","",1,c358
+r18853,3,"^Child\(ren\) in my household$","1","",1,c358
+r18854,3,"^I put in a little of effort into planning my costume, decorating and/or activities$","1","",1,c358
+r18855,3,"^Probably will$","1","",1,c358
+r18856,3,"^Target$","1","",1,c358
+r18857,3,"^Amazon$","1","",1,c358
+r18858,3,"^Walmart$","1","",1,c358
+r18859,3,"^Within the last month$","1","",1,c358
+r18860,3,"^Yes$","1","",1,c358
+r18861,3,"^With my personal account$","1","",1,c358
+r18862,3,"^I would not like to participate\.$","1","",1,c358
+r18863,3,"^Toaster$","1","",1,c358
+r18864,3,"^Microwave oven$","1","",1,c358
+r18865,3,"^Coffee Maker/Keurig$","1","",1,c358
+r18866,3,"^Dishwasher$","1","",1,c358
+r18867,3,"^Air Fryer$","1","",1,c358
+r18868,3,"^Food Processor$","1","",1,c358
+r18869,3,"^I am the primary decision-maker$","1","",1,c358
+r18870,3,"^1-3 years$","1","",1,c358
+r18871,3,"^Whirlpool$","1","",1,c358
+r18872,3,"^Hamilton Beach$","1","",1,c358
+r18873,3,"^\$500 or more$","1","",1,c358
+r18874,3,"^Countertop$","1","",1,c358
+r18875,3,"^Energy efficiency$","1","",1,c358
+r18876,3,"^Warranty and customer service$","1","",1,c358
+r18877,3,"^Overall design$","1","",1,c358
+r18878,3,"^Three days$","1","",1,c358
+r18879,3,"Agree","1","",1,c358
+r18880,3,"^\$100,000 - \$149,999$","1","",1,c358
+r18881,3,"^Married / live with partner$","1","",1,c358
+r18882,3,"^Employed full-time$","1","",1,c358
+r18883,3,"^T$","1","",1,c358
+r18884,3,"^Several times a week$","1","",1,c358
+r18885,3,"^TV or streaming platforms$","1","",1,c358
+r18886,3,"^In-store displays$","1","",1,c358
+r18887,3,"^Friends and family$","1","",1,c358
+r19428,3,"^Yes$","1","",1,c358
+r19429,3,"^8-12 years$","1","",1,c358
+r19430,3,"^13 years old or older$","1","",1,c358
+r19431,3,"^Allergies$","1","",1,c358
+r19895,3,"^Yes$","1","",1,c358
+r19896,3,"^8-12 years$","1","",1,c358
+r19897,3,"^13 years or older$","1","",1,c358
+r19898,3,"^Allergies$","1","",1,c358
+r20323,3,"^Yes$","1","",1,c358
+r20324,3,"^8-12 years$","1","",1,c358
+r20325,3,"^13 years old or older$","1","",1,c358
+r20326,3,"^Allergies$","1","",1,c358
+r20508,3,"^Windows-based desktop$","1","",1,c358
+r20509,3,"^Every day$","1","",1,c358
+r20510,3,"^Playing video games \(e\.g\., competitive, casual, or multiplayer gaming\)$","1","",1,c358
+r20511,3,"^Managing spreadsheets \(e\.g\., in-game data tracking, finance\)$","1","",1,c358
+r20512,3,"^Participating in online gaming communities \(e\.g\., Discord, forums\)$","1","",1,c358
+r20513,3,"^Browsing the internet \(e\.g\., forums, social media, research\)$","1","",1,c358
+r20514,3,"^Experimenting with AI-powered software \(e\.g\., AI-based game features, voice assistants\)$","1","",1,c358
+r20515,3,"^Listening to music or podcasts \(e\.g\., while gaming or working\)$","1","",1,c358
+r20516,3,"^Video conferencing \(e\.g\., for work, gaming, or social interactions\)$","1","",1,c358
+r20517,3,"^Streaming or watching gameplay \(e\.g\., Twitch, YouTube Gaming\)$","1","",1,c358
+r20518,3,"^Monitoring system performance \(e\.g\., hardware performance, PC optimization\)$","1","",1,c358
+r20519,3,"^Online shopping \(e\.g\., for gaming accessories, PC hardware\)$","1","",1,c358
+r20520,3,"^16-20 hours per week$","1","",1,c358
+r20521,3,"^First-person shooter \(FPS\)$","1","",1,c358
+r20522,3,"^Role-playing \(RPG\)$","1","",1,c358
+r20523,3,"^Action/Adventure$","1","",1,c358
+r20524,3,"^Sports$","1","",1,c358
+r20525,3,"^Strategy \(e\.g\., real-time strategy\)$","1","",1,c358
+r20526,3,"^I am an avid gamer$","1","",1,c358
+r21263,3,"^I am primarily responsible for making decisions related to home improvement projects and purchases$","1","",1,c358
+r21264,3,"^Four times$","1","",1,c565
+r21265,3,"^Left$","1","",1,c565
+r21266,3,"^Wearable Fitness Tracker \(e\.g\., Fitbit, Oura, etc\.\)$","1","",1,c565
+r21267,3,"^TV streaming service \(e\.g\., Hulu, Netflix, etc\.\)$","1","",1,c565
+r21268,3,"^Smart Assistant \(e\.g\., Alexa, Google Assistant, etc\.\)$","1","",1,c565
+r21269,3,"^Tablet \(e\.g\., iPad, Microsoft Surface, etc\.\)$","1","",1,c565
+r21270,3,"^Cakes and Pies \(ex\. cheesecake, apple pie\)$","1","",1,c566
+r21271,3,"^Ice cream$","1","",1,c566
+r21272,3,"^Protein drinks \(ex: ready to drink protein shake\)$","1","",1,c566
+r21273,3,"^Nuts \(ex\. cashews, almonds, pecans\)$","1","",1,c566
+r21274,3,"^Shelf-stable tuna fish \(in a can, pouch, kit, etc\)$","1","",1,c566
+r21275,3,"^Spreads and Dips \(ex\. fresh salsa, guac, spinach artichoke dip, hummus\)$","1","",1,c566
+r21276,3,"^Breakfast cereal$","1","",1,c566
+r21277,3,"^Vitamins/supplements \(ex: multivitamins\)$","1","",1,c566
+r21278,3,"^Plant-based milk$","1","",1,c566
+r21279,3,"^Trail Mix \(fruit and nut blends\)$","1","",1,c566
+r21280,3,"^Bars \(ex: energy bars, nutritional bars, granola bars\)$","1","",1,c566
+r21281,3,"^Chicken of the Sea$","1","",1,c566
+r21282,3,"^Private Label$","1","",1,c566
+r21283,3,"^6$","1","",1,c566
+r21284,3,"^Pizza Hut$","1","",1,c567
+r21285,3,"^Wendy’s$","1","",1,c567
+r21286,3,"^Chick Fil A$","1","",1,c567
+r21287,3,"^Burger King$","1","",1,c567
+r21288,3,"^Subway$","1","",1,c567
+r21289,3,"^Domino’s$","1","",1,c567
+r21290,3,"^Taco Bell$","1","",1,c567
+r21291,3,"^McDonald’s$","1","",1,c567
+r21292,3,"^Once a Week$","1","",1,c568
+r21293,3,"^This Week$","1","",1,c568
+r304,3,"^Migraines or cluster headaches$","1","",1,c15
+r989,3,"^Employee 401\(k\)$","1","",1,c15
+r990,3,"^Cryptocurrency \(bitcoin, etc\.\)$","1","",1,c15
+r991,3,"^Life insurance$","1","",1,c15
+r992,3,"^Credit card$","1","",1,c15
+r993,3,"^Personal loan \(i\.e\. car loan, etc\.\)$","1","",1,c15
+r994,3,"^Checking account$","1","",1,c15
+r995,3,"^Debit card$","1","",1,c15
+r996,3,"^Savings account \(not high-yield\)$","1","",1,c15
+r997,3,"^I love new technologies and am among the first to experiment with and use them$","1","",1,c15
+r998,3,"^\$100,000 - \$149,999$","1","",1,c15
+r999,3,"^Robinhood$","1","",1,c15
+r1000,3,"^Somewhat familiar$","1","",1,c15
+r1001,3,"^10 Outstanding quality$","1","",1,c15
+r1002,3,"^Possibly$","1","",1,c15
+r1003,3,"^I occasionally purchase/use products or services of this brand$","1","",1,c15
+r1004,3,"^Cryptocurrency \(i\.e\. Bitcoin, Dogecoin, etc\.\)$","1","",1,c15
+r1987,3,"^Luxury apparel \(e\.g\. Hermès, Versace, Dior, Chanel\)$","1","",1,c15
+r1988,3,"^Gourmet edibles \(e\.g\. cheese, ground coffee\) and food packs \(e\.g\. Goldbelly, Formaggio Food Packs\)$","1","",1,c15
+r1989,3,"^Gourmet gift baskets \(e\.g\. Harry & David\)$","1","",1,c15
+r1990,3,"^Premium Skincare, Beauty and Fragrances$","1","",1,c15
+r1991,3,"^Luxury accessories \(e\.g\. Handbags, Watches, Jewelry\)$","1","",1,c15
+r1992,3,"^Luxury chocolates$","1","",1,c15
+r1993,3,"^High-end wine or spirits$","1","",1,c15
+r1994,3,"^Both Online and In-Store$","1","",1,c15
+r1995,3,"^Desktop/Laptop/Tablet$","1","",1,c15
+r2104,3,"^For personal indulgence$","1","",1,c15
+r2105,3,"^As a gift for others$","1","",1,c15
+r2106,3,"^For special occasions / celebrations$","1","",1,c15
+r5489,3,"^Facebook$","1","",1,c15
+r5490,3,"^Netflix$","1","",1,c15
+r5491,3,"^Instagram$","1","",1,c15
+r5492,3,"^Google Search$","1","",1,c15
+r5493,3,"^TikTok$","1","",1,c15
+r5494,3,"^YouTube$","1","",1,c15
+r5495,3,"^Apple Maps$","1","",1,c15
+r5496,3,"^Google Maps$","1","",1,c15
+r5497,3,"^Own a single-family, detached home$","1","",1,c15
+r5498,3,"^Between 0-10°F$","1","",1,c15
+r5499,3,"^Somewhat likely to purchase a car$","1","",1,c15
+r5500,3,"^Like the variety of trying new products$","1","",1,c15
+r5501,3,"^Usually try new products before others do$","1","",1,c15
+r5502,3,"^Like being able to tell others about new brands and products I have tried$","1","",1,c15
+r5503,3,"^I am interested in learning more about home solar$","1","",1,c15
+r5504,3,"^I am interested in learning more about smart thermostats$","1","",1,c15
+r5505,3,"^I am interested in learning more about heat pumps$","1","",1,c15
+r5506,3,"^I am interested in learning more about electric vehicles$","1","",1,c15
+r5507,3,"^I am interested in learning more about alternate transportation methods$","1","",1,c15
+r5508,3,"^I am interested in learning more about shopping alternatives$","1","",1,c15
+r5509,3,"^I am interested in learning more about alternate protein choices$","1","",1,c15
+r5510,3,"^I am interested in learning more about food composting$","1","",1,c15
+r5511,3,"^Somewhat important$","1","",1,c15
+r5512,3,"^Somewhat worried$","1","",1,c15
+r5513,3,"^A moderate amount$","1","",1,c15
+r5514,3,"^Read a book$","1","",1,c15
+r5515,3,"^Donated money to an organization$","1","",1,c15
+r5516,3,"^Walked or biked to a destination instead of driving$","1","",1,c15
+r5517,3,"^Recycled aluminum or glass$","1","",1,c15
+r5518,3,"^Read a magazine$","1","",1,c15
+r5519,3,"^Environmentally-focused organization$","1","",1,c15
+r5677,3,"^Apple iPhone$","1","",1,c15
+r6968,3,"^Employer-Sponsored/Provided Insurance$","1","",1,c15
+r7023,3,"^I am the primary decision maker for financial and real estate decisions\.$","1","",1,c15
+r7024,3,"^I own my primary residence \(house or apartment\)$","1","",1,c15
+r7025,3,"^Likely$","1","",1,c15
+r10464,3,"^Buying a home/property$","1","",1,c15
+r10465,3,"^Getting promoted$","1","",1,c15
+r10466,3,"^Starting a family$","1","",1,c15
+r21294,3,"^McDonald’s$","1","",1,c15
+r21295,3,"^Wendy’s$","1","",1,c15
+r21296,3,"^Taco Bell$","1","",1,c15
+r21297,3,"^Burger King$","1","",1,c15
+r21298,3,"^KFC$","1","",1,c15
+r21299,3,"^Chick-fil-a$","1","",1,c15
+r21300,3,"^Laptop or Desktop Computer$","1","",1,c569
+r21301,3,"^Sunscreen$","1","",1,c569
+r21302,3,"^Shoes$","1","",1,c569
+r21303,3,"^Personal only$","1","",1,c569
+r21304,3,"^Apple$","1","",1,c569
+r21305,3,"^In-store$","1","",1,c569
 ### POCHACCO - AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
