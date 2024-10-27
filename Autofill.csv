@@ -373,6 +373,7 @@ c535,"Fan of Protein Drinks? We Want to Hear From You!","","",,,
 c536,"Let’s Talk About You!","","",,,
 c537,"Tell Us About Yourself!","","",,,
 c538,"Test de autoimport!","","",,,
+c539,"Test de autoimport 2 AL FIN","","",,,
 ### POCHACCO - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1,3,"^Costco$","1","",1,c1
