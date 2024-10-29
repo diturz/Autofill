@@ -121,6 +121,21 @@ c1729922316432,"What do you do for fun?","","",,,
 c1729922418969,"Grocery shopping behavior with focus on Costco & Yogurt","","",,,
 c1729980882634,"Let's talk about you!","","",,,
 c173,"Tell Us About Your Beauty Purchases","","",,,
+c1730174785812,"Flavor Options and Usage for Pre-Grilled Burgers","",,,,
+c1730175793794,"My space.","",,,,
+c1730175953108,"A Survey About Drinks","",,,,
+c1730176216082,"Calling All Cat Parents!","",,,,
+c1730176396189,"All about wet cat food!","",,,,
+c1730176471710,"All About OTC Medicine Purchasing","",,,,
+c1730176781056,"Food Shopping!","",,,,
+c1730177285426,"Hydration!","",,,,
+c1730177558205,"Over-The-Counter (OTC) Medications","",,,,
+c1730178072457,"Tell us about your personal care products!","",,,,
+c1730178262703,"Bar Soap Survey","",,,,
+c1730178304448,"Athletic Tapes & Wraps Color Preferences","",,,,
+c1730178417001,"Parenting","",,,,
+c1730179079893,"Beacons of Safety","",,,,
+c1730179624173,"Treat Yourself!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -2347,6 +2362,124 @@ r1730012321625,3,"^6-10$","1","",1,c377
 r1730012330504,3,"^3-4$","1","",1,c377
 r1730089009447,3,"^Store Brand$","1","",1,c119
 r17301,0,"input\[_ngcontent-ljo-c77\]","400","",1,c343
+r1730173812485,3,"^I have shopped for home improvement products multiple times$","1","",1,c40
+r1730174008569,3,"^More rewards variety$","1","",1,c1729908143538
+r1730174020581,3,"^Very satisfied$","1","",1,c1729908143538
+r1730174036317,3,"^Tea$","1","",1,c1729908143538
+r1730174791841,3,"^Conventional oven$","1","",1,c1730174785812
+r1730174795596,3,"^Microwave oven$","1","",1,c1730174785812
+r1730174802450,3,"^Air fryer$","1","",1,c1730174785812
+r1730174851329,3,"^Unseasoned raw burger patties$","1","",1,c1730174785812
+r1730174882343,3,"^Grilled Spicy Southwest-Style Burger Patties$","1","",1,c1730174785812
+r1730174886542,3,"^Grilled Smoky Chili Seasoned Burger Patties$","1","",1,c1730174785812
+r1730174889765,3,"^Grilled Bold Hickory Seasoned Burger Patties$","1","",1,c1730174785812
+r1730174895074,3,"^Grilled Applewood & Herbs Seasoned Burger Patties$","1","",1,c1730174785812
+r1730174898726,3,"^Grilled Steakhouse Seasoned Burger Patties$","1","",1,c1730174785812
+r1730174945742,3,"^Hot sauce \(i\.e\., Frank's, Tabasco\)$","1","",1,c480
+r1730174997803,3,"^Packaged rice, grain side dishes \(i\.e\., Rice-A-Roni, Knorr, etc\.\)$","1","",1,c480
+r1730175047285,3,"^Frozen pizza & flatbreads \(i\.e\., Red Baron, DiGirono\)$","1","",1,c480
+r1730175348260,3,"^Male$","1","",1,c41
+r1730175357913,3,"^28 – 39$","1","",1,c41
+r1730175377591,3,"^White$","1","",1,c41
+r1730175393736,3,"^\$100,000 – \$149,999$","1","",1,c41
+r1730175420549,3,"^I have never participated in a weight loss program$","1","",1,c41
+r1730175430787,3,"^Somewhat willing$","1","",1,c41
+r1730175539981,3,"^I have used GLP-1 medication for weight loss in the past$","1","",1,c41
+r1730175559595,3,"^GLP-1 medication \(Wegovy, Ozempic, Zepbound, Mounjaro, etc\.\)$","1","",1,c41
+r1730175580857,3,"^Optimistic$","1","",1,c178
+r1730175586092,3,"^Happy$","1","",1,c178
+r1730175594231,3,"^Motivated$","1","",1,c178
+r1730175798690,3,"^Urban$","1","",1,c1730175793794
+r1730175809422,3,"^The living space in my home average$","1","",1,c1730175793794
+r1730175820954,3,"^Chicago$","1","",1,c1730175793794
+r1730175860589,3,"^Place for my books, music, entertainment, general stuff$","1","",1,c1730175793794
+r1730175866319,3,"^Storage space$","1","",1,c1730175793794
+r1730175958081,3,"^Beer$","1","",1,c1730175953108
+r1730175962197,3,"^Flavored alcoholic beverages \(e\.g\., Mike's Hard Lemonade, Twisted Tea\)$","1","",1,c1730175953108
+r1730175966543,3,"^Wine$","1","",1,c1730175953108
+r1730175970624,3,"^Canned Cocktails \(e\.g\., Cutwater, BuzzBallz\)$","1","",1,c1730175953108
+r1730175977306,3,"^Hard Seltzers \(e\.g\., White Claw, Truly, High Noon\)$","1","",1,c1730175953108
+r1730175988647,3,"^The color of the package$","1","",1,c1730175953108
+r1730175995482,3,"^The specific flavors included \(e\.g\., cherry, lime, etc\.\)$","1","",1,c1730175953108
+r1730176016120,3,"^I don't pay attention to the name when purchasing a variety pack$","1","",1,c1730175953108
+r1730176234266,3,"^Package 1$","1","",1,c1730176216082
+r1730176403089,3,"^3-6 times a week$","1","",1,c1730176396189
+r1730176415871,3,"^I use wet food in combination with dry food$","1","",1,c1730176396189
+r1730176420628,3,"^It is a treat for my cat\(s\)$","1","",1,c1730176396189
+r1730176429520,3,"^Wet food offered more hydration$","1","",1,c1730176396189
+r1730176434168,3,"^Healthier wet food options come out$","1","",1,c1730176396189
+r1730176478557,3,"^Ibuprofen \(i\.e\. Motrin and Private Label comparisons\)$","1","",1,c1730176471710
+r1730176490966,3,"^I would expect to find this product with Asprin Powders$","1","",1,c1730176471710
+r1730176789056,3,"^I am the primary grocery shopper for my household\.$","1","",1,c1730176781056
+r1730176798600,3,"^Traditional Grocery Store \(e\.g\. Kroger, Publix, Safeway, Albertsons\)$","1","",1,c1730176781056
+r1730176803103,3,"^Ecommerce Store \(e\.g\. Amazon Fresh, Thrive Market, etc\.\)$","1","",1,c1730176781056
+r1730176806702,3,"^Mass Merchandise Store or Supercenter \(e\.g\. Walmart, Target\)$","1","",1,c1730176781056
+r1730176811449,3,"^Manufacturer/Brand Website \(e\.g\. direct shipping from the brand\)$","1","",1,c1730176781056
+r1730176815946,3,"^Dollar Store \(e\.g\. Dollar General, Dollar Tree\)$","1","",1,c1730176781056
+r1730176819619,3,"^Natural Foods Store \(e\.g\. Whole Foods, Sprouts, Trader Joe's\)$","1","",1,c1730176781056
+r1730176825030,3,"^Warehouse Club Store \(e\.g\. Costco, BJs, Sam’s Club\)$","1","",1,c1730176781056
+r1730176843192,3,"^Walmart$","1","",1,c1730176781056
+r1730176926897,3,"^Sardines$","1","",1,c1730176781056
+r1730176939357,3,"^Non-alcoholic beer$","1","",1,c1730176781056
+r1730176970357,3,"^Kombucha$","1","",1,c1730176781056
+r1730176975485,3,"^Pickles$","1","",1,c1730176781056
+r1730176979407,3,"^Olives$","1","",1,c1730176781056
+r1730177004655,3,"^Condiments \(pickles, relish, mayo, etc\.\)$","1","",1,c1730176781056
+r1730177013407,3,"^Produce$","1","",1,c1730176781056
+r1730177018082,3,"^Dairy \(milk, butter, cream cheese, etc\)$","1","",1,c1730176781056
+r1730177021624,3,"^Meat or fish \(raw, deli, etc\.\)$","1","",1,c1730176781056
+r1730177026151,3,"^Plant-based Alternatives \(milk, meat, cheese, tofu\)$","1","",1,c1730176781056
+r1730177047257,3,"^Ketchup$","1","",1,c1730176781056
+r1730177051128,3,"^Pickles \(pickled cucumbers\)$","1","",1,c1730176781056
+r1730177055888,3,"^Salad Dressing$","1","",1,c1730176781056
+r1730177063055,3,"^Sriracha/Hot Sauce$","1","",1,c1730176781056
+r1730177067711,3,"^Pickled Vegetables \(red onions, beets, jalapenos, carrots, etc\.\)$","1","",1,c1730176781056
+r1730177092483,3,"^Cleveland Kitchen$","1","",1,c1730176781056
+r1730177126382,3,"^Refrigerated Aisle$","1","",1,c1730176781056
+r1730177137090,3,"^Plastic tub/container$","1","",1,c1730176781056
+r1730177291719,3,"^Complete Hydration$","1","",1,c1730177285426
+r1730177296715,3,"^Refreshing Hydration$","1","",1,c1730177285426
+r1730177301844,3,"^Enhanced Hydration$","1","",1,c1730177285426
+r1730177440791,3,"^Flavor/Variety$","1","",1,c1730177285426
+r1730177447532,3,"^Functional benefits \(vitamins, antioxidants\)$","1","",1,c1730177285426
+r1730177451890,3,"^Hydration benefits \(electrolytes\)$","1","",1,c1730177285426
+r1730177564433,3,"^Headache$","1","",1,c1730177558205
+r1730177655945,3,"^Topical pain medication \(Bengay, Icy-Hot, Voltaren, etc\.\)$","1","",1,c1730177558205
+r1730177661557,3,"^Oral pain medication \(Advil, Tylenol, Aleve, Bayer Aspirin, etc\.\)$","1","",1,c1730177558205
+r1730177666818,3,"^Adult vitamins or supplements \(One-A-Day, Nature’s Bounty, Nature’s Made, etc\.\)$","1","",1,c1730177558205
+r1730177672244,3,"^Adult allergy medication \(Claritin, Flonase, Xyzal, Zyrtec, etc\.\)$","1","",1,c1730177558205
+r1730177731840,3,"^CVS$","1","",1,c1730177558205
+r1730177740922,3,"^CVS website or app$","1","",1,c1730177558205
+r1730177747668,3,"^Myself$","1","",1,c1730177558205
+r1730177751707,3,"^My spouse or partner$","1","",1,c1730177558205
+r1730177756267,3,"^My children$","1","",1,c1730177558205
+r1730177773029,3,"^Pain episodes typically last less than 6 hours$","1","",1,c1730177558205
+r1730177847025,3,"^7-10 days per month$","1","",1,c1730177558205
+r1730177869457,3,"^Advil$","1","",1,c1730177558205
+r1730177888898,3,"^I am comfortable consuming all of the above ingredients$","1","",1,c1730177558205
+r1730177903375,3,"^Brands / companies I like$","1","",1,c1730177558205
+r1730177910165,3,"^Social media ads / suggested posts$","1","",1,c1730177558205
+r1730177917053,3,"^Google or other search engine$","1","",1,c1730177558205
+r1730177924923,3,"^Pill or tablet$","1","",1,c1730177558205
+r1730177934581,3,"^Topical application \(cream, gel, ointment, etc\.\)$","1","",1,c1730177558205
+r1730177940993,3,"^Chewable tablet$","1","",1,c1730177558205
+r1730177950635,3,"^Overall mental health$","1","",1,c1730177558205
+r1730177956751,3,"^Overall health$","1","",1,c1730177558205
+r1730177960817,3,"^Exercise habits$","1","",1,c1730177558205
+r1730177973069,3,"^Well-known and trusted brand$","1","",1,c1730177558205
+r1730177977657,3,"^Positive reviews from others$","1","",1,c1730177558205
+r1730177982638,3,"^Positive recommendations from healthcare professionals$","1","",1,c1730177558205
+r1730177991533,3,"^10-12$","1","",1,c1730177558205
+r1730177995707,3,"^13-15$","1","",1,c1730177558205
+r1730178031673,3,"^No, my child/children have not yet had their first period$","1","",1,c1730177558205
+r1730178081924,3,"^Clothing and accessories$","1","",1,c1730178072457
+r1730178101577,3,"^In-store \(e\.g\., Walmart, Target, drugstores\)$","1","",1,c1730178072457
+r1730178271649,3,"^Method Men$","1","",1,c1730178262703
+r1730178337625,3,"^For general injury prevention during workouts or sports activities$","1","",1,c1730178304448
+r1730178423377,3,"^7-12$","1","",1,c1730178417001
+r1730178428936,3,"^13-17$","1","",1,c1730178417001
+r1730179086109,3,"^Agree$","1","",1,c1730179079893
+r1730179631931,3,"^a dessert \(cookies, cake, brownies, etc\.\)$","1","",1,c1730179624173
 r17302,3,"^I don’t pay attention to price when making my purchases$","1","",1,c343
 r17303,3,"^4$","1","",1,c343
 r17304,3,"^Green bricks$","1","",1,c344
