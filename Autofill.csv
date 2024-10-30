@@ -136,6 +136,7 @@ c1730178304448,"Athletic Tapes & Wraps Color Preferences","",,,,
 c1730178417001,"Parenting","",,,,
 c1730179079893,"Beacons of Safety","",,,,
 c1730179624173,"Treat Yourself!","",,,,
+c1730257837819,"XD","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -2481,6 +2482,7 @@ r1730178428936,3,"^13-17$","1","",1,c1730178417001
 r1730179086109,3,"^Agree$","1","",1,c1730179079893
 r1730179631931,3,"^a dessert \(cookies, cake, brownies, etc\.\)$","1","",1,c1730179624173
 r17302,3,"^I don’t pay attention to price when making my purchases$","1","",1,c343
+r1730257843344,3,"asdasdasd","1","",1,c1730257837819
 r17303,3,"^4$","1","",1,c343
 r17304,3,"^Green bricks$","1","",1,c344
 r17305,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c344
