@@ -136,6 +136,15 @@ c1730178304448,"Athletic Tapes & Wraps Color Preferences","",,,,
 c1730178417001,"Parenting","",,,,
 c1730179079893,"Beacons of Safety","",,,,
 c1730179624173,"Treat Yourself!","",,,,
+c1730261658553,"Mouthwash Purchasing Habits","",,,,
+c1730262115672,"Let's Talk About Your Eating Habits!","",,,,
+c1730262549775,"Virtual Shelf Survey","",,,,
+c1730263251216,"Let's talk about new food products!","",,,,
+c1730263451709,"Questions for You","",,,,
+c1730282136097,"Holidays you celebrate!","",,,,
+c1730282815342,"Dining Out Preferences","",,,,
+c1730282937213,"^Calling all cookie lovers!$","",,,,
+c1730283046355,"Tell us about your habits!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -2481,6 +2490,71 @@ r1730178428936,3,"^13-17$","1","",1,c1730178417001
 r1730179086109,3,"^Agree$","1","",1,c1730179079893
 r1730179631931,3,"^a dessert \(cookies, cake, brownies, etc\.\)$","1","",1,c1730179624173
 r17302,3,"^I don’t pay attention to price when making my purchases$","1","",1,c343
+r1730261202635,3,"^Costco$","1","",1,c358
+r1730261207539,3,"^Walmart\+$","1","",1,c358
+r1730261218392,3,"^Sam’s Club$","1","",1,c358
+r1730261227749,3,"^Amazon Prime$","1","",1,c358
+r1730261672909,3,"^I currently purchase mouthwash regularly$","1","",1,c1730261658553
+r1730261697440,3,"^Crest$","1","",1,c1730261658553
+r1730261705472,3,"^Listerine$","1","",1,c1730261658553
+r1730261737521,3,"^Walmart$","1","",1,c1730261658553
+r1730261852477,3,"^The variety of surveys$","1","",1,c1729908143538
+r1730261873014,3,"^More frequent surveys$","1","",1,c1729908143538
+r1730261892605,3,"^Absolutely, I love them!$","1","",1,c1729908143538
+r1730262131600,3,"^I have 2 or more child under 18 living in my home$","1","",1,c1730262115672
+r1730262153761,3,"^I am primarily responsible for grocery shopping for my household\.$","1","",1,c1730262115672
+r1730262183309,3,"^Salty snacks \(e\.g\., chips, pretzels, crackers\)$","1","",1,c1730262115672
+r1730262192674,3,"^Candy \(e\.g\., chocolate bars, lollipops, gummy bears\)$","1","",1,c1730262115672
+r1730262202387,3,"^Granola or cereal bars$","1","",1,c1730262115672
+r1730262215298,3,"^Frozen fruits or vegetables$","1","",1,c1730262115672
+r1730262221149,3,"^Carbonated beverages$","1","",1,c1730262115672
+r1730262227131,3,"^Nuts/Nut Mixes$","1","",1,c1730262115672
+r1730262235284,3,"^Frozen meals$","1","",1,c1730262115672
+r1730262273394,3,"^Crackers$","1","",1,c1730262115672
+r1730262278418,3,"^Potato chips$","1","",1,c1730262115672
+r1730262284300,3,"^Puffs \(e\.g\., cheese puffs, wheat puffs\)$","1","",1,c1730262115672
+r1730262289611,3,"^Veggie straws$","1","",1,c1730262115672
+r1730262296386,3,"^Tortilla chips$","1","",1,c1730262115672
+r1730262324366,3,"^Snack Mixes \(Chex Mix, Pub Mix, Gardetto's\)$","1","",1,c1730262115672
+r1730262355087,3,"^Ruffles$","1","",1,c1730262115672
+r1730262359844,3,"^Cheetos$","1","",1,c1730262115672
+r1730262365570,3,"^Lays$","1","",1,c1730262115672
+r1730262370683,3,"^Doritos$","1","",1,c1730262115672
+r1730262376547,3,"^Pringles$","1","",1,c1730262115672
+r1730262421074,3,"^I tend to avoid less healthy options and ingredients when buying salty snacks\.$","1","",1,c1730262115672
+r1730262566570,3,"^Seen it before in stores but never purchased$","1","",1,c1730262549775
+r1730263260572,3,"^Cheezy Poppers$","1","",1,c1730263251216
+r1730263465080,3,"^I always make time to cook$","1","",1,c1730263451709
+r1730263478648,3,"^I love trying out new recipes$","1","",1,c1730263451709
+r1730263500488,3,"^Cooking is pure enjoyment$","1","",1,c1730263451709
+r1730263518734,3,"^I’m passionate about cooking$","1","",1,c1730263451709
+r1730263539158,3,"^Myself and 3 other people$","1","",1,c1730263451709
+r1730263560069,3,"^Yes, I cook for children under 18 years old$","1","",1,c1730263451709
+r1730282195341,3,"^A spouse or partner$","1","",1,c1730282136097
+r1730282200510,3,"^Children age 12 or under$","1","",1,c1730282136097
+r1730282206550,3,"^Children ages 13-18$","1","",1,c1730282136097
+r1730282229003,3,"^Easter$","1","",1,c1730282136097
+r1730282234646,3,"^Halloween$","1","",1,c1730282136097
+r1730282240004,3,"^Christmas$","1","",1,c1730282136097
+r1730282247638,3,"^Fourth of July$","1","",1,c1730282136097
+r1730282255031,3,"^New Years Eve$","1","",1,c1730282136097
+r1730282261932,3,"^Mother's Day$","1","",1,c1730282136097
+r1730282377051,3,"^Flowers$","1","",1,c1730282136097
+r1730282381517,3,"^Chocolates$","1","",1,c1730282136097
+r1730282387205,3,"^Spa Gifts$","1","",1,c1730282136097
+r1730282395026,3,"^Homemade Gifts$","1","",1,c1730282136097
+r1730282400610,3,"^Perfume$","1","",1,c1730282136097
+r1730282510673,3,"^Gasoline powered vehicle$","1","",1,c541
+r1730282823246,3,"^Japanese$","1","",1,c1730282815342
+r1730282829016,3,"^Vietnamese$","1","",1,c1730282815342
+r1730282833608,3,"^American$","1","",1,c1730282815342
+r1730282838255,3,"^Italian$","1","",1,c1730282815342
+r1730282844151,3,"^Chinese$","1","",1,c1730282815342
+r1730282951646,3,"^Chips Ahoy!$","1","",1,c1730282937213
+r1730282965869,3,"^Crumbl$","1","",1,c1730282937213
+r1730282989960,3,"^Lotus$","1","",1,c1730282937213
+r1730283057256,3,"^Online retailers \(e\.g\., Amazon\)$","1","",1,c1730283046355
+r1730283071836,3,"^Big-box retailers \(e\.g\., Walmart, Target\)$","1","",1,c1730283046355
 r17303,3,"^4$","1","",1,c343
 r17304,3,"^Green bricks$","1","",1,c344
 r17305,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c344
