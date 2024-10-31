@@ -2723,7 +2723,6 @@ r1730354721537,3,"^I own a home$","1","",1,c15
 r1730354732419,3,"^I own 1 residential home$","1","",1,c15
 r1730354801989,3,"^More than 3 months ago$","1","",1,c15
 r1730354807927,3,"^Very Good \(740 – 799\)$","1","",1,c15
-r1730354917906,3,"^Same for self and others$","1","",1,c1729980882634
 r1730354923169,3,"^A different brand seems like it will work faster$","1","",1,c1729980882634
 r1730354927263,3,"^A different brand seems to offer the latest in technology$","1","",1,c1729980882634
 r1730354931039,3,"^A different brand seems to be better for the environment$","1","",1,c1729980882634
@@ -2787,6 +2786,8 @@ r1730361648097,3,"^THC$","1","",1,c41
 r1730361652674,3,"^CBD$","1","",1,c41
 r1730361664576,3,"^Canna-Novice: Recently started using cannabis and interested in learning more about different types$","1","",1,c41
 r1730361677545,3,"^Social media \(Twitter, Instagram, Facebook, etc\.\)$","1","",1,c41
+r1730363600562,3,"^Different for self vs others$","1","",1,c1729980882634
+r1730364814610,3,"^I decide primarily alone$","1","",1,c1730355349243
 r17304,3,"^Green bricks$","1","",1,c344
 r17305,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c344
 r17306,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c344
