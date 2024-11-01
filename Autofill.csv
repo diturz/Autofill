@@ -166,6 +166,7 @@ c1730417630062,"President Cheese Tagline Survey","",,,,
 c1730418006713,"Cruise Lines","",,,,
 c1730418392581,"What Do You Use to Work From Home?","",,,,
 c1730418676961,"Which do you use?","",,,,
+c1730427910426,"The tech in your life","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -2849,6 +2850,32 @@ r1730418776482,3,"^Credit card$","1","",1,c1730418676961
 r1730418808555,3,"^Checking account$","1","",1,c1730418676961
 r1730419179086,3,"^10$","1","",1,c377
 r1730419329316,3,"^Headache$","1","",1,c377
+r1730427948781,3,"^Somewhat agree$","1","",1,c1730427910426
+r1730428022741,3,"^I’ve heard of it, but I don’t know much about it$","1","",1,c1730427910426
+r1730428043876,3,"^Yes$","1","",1,c1730427910426
+r1730428055068,3,"^Ages 9-12$","1","",1,c1730427910426
+r1730428061152,3,"^Ages 13-17$","1","",1,c1730427910426
+r1730428076940,3,"^Smartphone$","1","",1,c1730427910426
+r1730428085262,3,"^Windows desktop / laptop computer specifically for gaming$","1","",1,c1730427910426
+r1730428092181,3,"^Desktop computer$","1","",1,c1730427910426
+r1730428106667,3,"^Television$","1","",1,c1730427910426
+r1730428125131,3,"^Smartwatch \(e\.g\., Apple Watch, Samsung Galaxy Watch\)$","1","",1,c1730427910426
+r1730428159131,3,"^iPhone / Apple$","1","",1,c1730427910426
+r1730428185604,3,"^Once a year or more$","1","",1,c1730427910426
+r1730428204554,3,"^iPhone 15 Pro$","1","",1,c1730427910426
+r1730428246801,3,"^Screen protector$","1","",1,c1730427910426
+r1730428255460,3,"^Smartphone case$","1","",1,c1730427910426
+r1730428265100,3,"^Wireless headphones or earbuds$","1","",1,c1730427910426
+r1730428346265,3,"^Multiple times per week$","1","",1,c1730427910426
+r1730428373067,3,"^Apple Watch$","1","",1,c1730427910426
+r1730428410650,3,"^Smart air purifier$","1","",1,c1730427910426
+r1730428564033,3,"^Apple Watch Series 6$","1","",1,c1730427910426
+r1730428591199,3,"^Game console$","1","",1,c1730427910426
+r1730428612223,3,"^Apple Watch \(smartwatch\)$","1","",1,c1730427910426
+r1730428617801,3,"^iPhone \(smartphone\)$","1","",1,c1730427910426
+r1730428629241,3,"^AirPods \(truly wireless earbuds\)$","1","",1,c1730427910426
+r1730428651593,3,"^Apple Music$","1","",1,c1730427910426
+r1730428667144,3,"^Apple Pay$","1","",1,c1730427910426
 r17305,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c344
 r17306,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c344
 r17307,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c344
