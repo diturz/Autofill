@@ -167,6 +167,11 @@ c1730418006713,"Cruise Lines","",,,,
 c1730418392581,"What Do You Use to Work From Home?","",,,,
 c1730418676961,"Which do you use?","",,,,
 c1730427910426,"The tech in your life","",,,,
+c1730573132867,"A quick chat!","",,,,
+c1730573428499,"Getting to know you","",,,,
+c1730576215856,"Modes on your Smartwatch","",,,,
+c1730578125032,"Your experiences shopping for retail goods.","",,,,
+c1730579663209,"!Holiday Shopping!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -2876,6 +2881,90 @@ r1730428629241,3,"^AirPods \(truly wireless earbuds\)$","1","",1,c1730427910426
 r1730428651593,3,"^Apple Music$","1","",1,c1730427910426
 r1730428667144,3,"^Apple Pay$","1","",1,c1730427910426
 r17305,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c344
+r1730572943525,3,"^Home cleaning products \(e\.g\., laundry detergent, disinfectants, cleaning sprays\)$","1","",1,c383
+r1730572948170,3,"^Electronics \(e\.g\., smartphones, laptops, headphones\)$","1","",1,c383
+r1730572952696,3,"^Personal care items \(e\.g\., shampoo, deodorant, skincare products\)$","1","",1,c383
+r1730572956233,3,"^Office supplies \(e\.g\., notebooks, pens, printers\)$","1","",1,c383
+r1730572960926,3,"^Clothing and accessories \(e\.g\., shoes, jewelry, outerwear\)$","1","",1,c383
+r1730572965462,3,"^Pet supplies \(e\.g\., pet food, grooming products, pet toys\)$","1","",1,c383
+r1730572977384,3,"^Gym equipment \(e\.g\., dumbbells, yoga mats, treadmills\)$","1","",1,c383
+r1730572983594,3,"^Health and wellness products \(e\.g\., vitamins, supplements, fitness trackers\)$","1","",1,c383
+r1730573141566,3,"^Smartwatch$","1","",1,c1730573132867
+r1730573148130,3,"^Smartphone$","1","",1,c1730573132867
+r1730573156320,3,"^Laptop / desktop computer$","1","",1,c1730573132867
+r1730573160911,3,"^Tablet$","1","",1,c1730573132867
+r1730573171180,3,"^Apple iPhone$","1","",1,c1730573132867
+r1730573435400,3,"^Desktop computer$","1","",1,c1730573428499
+r1730573440897,3,"^Tablet$","1","",1,c1730573428499
+r1730573444847,3,"^Smartwatch$","1","",1,c1730573428499
+r1730573449425,3,"^Smartphone$","1","",1,c1730573428499
+r1730573453837,3,"^Laptop$","1","",1,c1730573428499
+r1730573475927,3,"^Microsoft Surface$","1","",1,c1730573428499
+r1730573480820,3,"^HP$","1","",1,c1730573428499
+r1730573485919,3,"^Apple MacBook$","1","",1,c1730573428499
+r1730573562017,3,"^Windows$","1","",1,c1730573428499
+r1730573566994,3,"^macOS \(e\.g\., MacBook\)$","1","",1,c1730573428499
+r1730573614311,3,"^\$1200\+$","1","",1,c1730573428499
+r1730573632811,3,"^Listening to music$","1","",1,c1730573428499
+r1730573638474,3,"^Watching movies or TV$","1","",1,c1730573428499
+r1730573649184,3,"^Home decor/improvement$","1","",1,c1730573428499
+r1730573654787,3,"^Exercising and fitness$","1","",1,c1730573428499
+r1730573662365,3,"^Gaming$","1","",1,c1730573428499
+r1730575683425,3,"^Online \(e\.g\., Amazon, Fresh Direct, etc\.\)$","1","",1,c52
+r1730575689737,3,"^Convenience stores \(e\.g\., WaWa, 7Eleven, etc\.\)$","1","",1,c52
+r1730575693658,3,"^Grocery Stores$","1","",1,c52
+r1730575698586,3,"^Club stores \(e\.g\., Sam’s Club, BJ’s, Costco, etc\.\)$","1","",1,c52
+r1730576220171,3,"^Focus mode$","1","",1,c1730576215856
+r1730576246177,3,"^Never$","1","",1,c1730576215856
+r1730576391586,3,"^Club stores \(e\.g\., Sam’s Club, BJ’s, Costco\)$","1","",1,c409
+r1730576396277,3,"^Grocery stores$","1","",1,c409
+r1730576401427,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c409
+r1730576405224,3,"^Online \(e\.g\., Amazon, Fresh Direct\)$","1","",1,c409
+r1730577573217,3,"^I am the primary decision maker for purchasing wireless \(cellular\) service for my household$","1","",1,c384
+r1730577596844,3,"^8-10 years old$","1","",1,c384
+r1730577602630,3,"^Older than 13$","1","",1,c384
+r1730577666166,3,"^I purchased a smart watch and/or tablet with a monthly connectivity service for my child in the past but no longer have it\.$","1","",1,c384
+r1730578128571,3,"^TikTok$","1","",1,c1730578125032
+r1730578189616,3,"^X \(formerly Twitter\)$","1","",1,c1730578125032
+r1730578194061,3,"^Facebook$","1","",1,c1730578125032
+r1730578197796,3,"^Snapchat$","1","",1,c1730578125032
+r1730578201756,3,"^YouTube$","1","",1,c1730578125032
+r1730578206351,3,"^Pinterest$","1","",1,c1730578125032
+r1730578211419,3,"^Instagram$","1","",1,c1730578125032
+r1730578258555,3,"^Within the past month$","1","",1,c1730578125032
+r1730579254635,3,"^I currently use Duolingo$","1","",1,c1730404061464
+r1730579280191,3,"^Great, I'm ready!$","1","",1,c1730404061464
+r1730579670717,3,"^Yes, I made holiday shopping purchases$","1","",1,c1730579663209
+r1730579683926,3,"^Yes, and I have already purchased it$","1","",1,c1730579663209
+r1730579704012,3,"^In the first half of November$","1","",1,c1730579663209
+r1730579721383,3,"^Xbox Series X/S$","1","",1,c1730579663209
+r1730579725909,3,"^PlayStation 5$","1","",1,c1730579663209
+r1730579730040,3,"^Nintendo Switch$","1","",1,c1730579663209
+r1730579746056,3,"^No, I didn't have a specific model/bundle in mind$","1","",1,c1730579663209
+r1730579764985,3,"^Myself$","1","",1,c1730579663209
+r1730579827599,3,"^C\) Nintendo Switch Lite: Hyrule Edition with Bonus Nintendo Switch Online \+ Expansion Pack$","1","",1,c1730579663209
+r1730579847343,3,"^C\) Nintendo Switch Lite: Hyrule Edition with Bonus Nintendo Switch Online \+ Expansion Pack \(MSRP \$209\.99\)$","1","",1,c1730579663209
+r1730579950245,3,"^2 to 4 times a week$","1","",1,c1730579663209
+r1730579982342,3,"^Eat breakfast on the run \(e\.g\., in a car, on a train, etc\.\)$","1","",1,c1730579663209
+r1730579986500,3,"^Make dinner together$","1","",1,c1730579663209
+r1730579993170,3,"^Sit down for a family dinner$","1","",1,c1730579663209
+r1730580002647,3,"^10-12$","1","",1,c1730579663209
+r1730580006033,3,"^13-15$","1","",1,c1730579663209
+r1730580111743,3,"^New item browser$","1","",1,c1730579663209
+r1730580116048,3,"^Tries new things$","1","",1,c1730579663209
+r1730580119988,3,"^Impulse buyer$","1","",1,c1730579663209
+r1730580933237,3,"^Impulse buyer$","1","",1,c47
+r1730580938384,3,"^Washer and/or dryer$","1","",1,c47
+r1730580942633,3,"^Bluetooth speakers$","1","",1,c47
+r1730581229445,3,"^Air fryer$","1","",1,c47
+r1730581234023,3,"^2-in-1 computer \(convertible or detachable\)$","1","",1,c47
+r1730581238445,3,"^Outdoor grill / Barbecue$","1","",1,c47
+r1730581246885,3,"^Tablet$","1","",1,c47
+r1730581252595,3,"^Laptop computer$","1","",1,c47
+r1730581256400,3,"^Gaming console \(e\.g\., Xbox, PlayStation, etc\.\)$","1","",1,c47
+r1730581260872,3,"^AI Virtual assistant \(e\.g\., Google Home, Alexa, etc\.\)$","1","",1,c47
+r1730581390357,3,"^30-44$","1","",1,c5
+r1730584459521,3,"^Microsoft – Windows$","1","",1,c1729980882634
 r17306,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c344
 r17307,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c344
 r17308,3,"^Target$","1","",1,c344
