@@ -172,6 +172,17 @@ c1730573428499,"Getting to know you","",,,,
 c1730576215856,"Modes on your Smartwatch","",,,,
 c1730578125032,"Your experiences shopping for retail goods.","",,,,
 c1730579663209,"!Holiday Shopping!","",,,,
+c1730726896862,"Your Financial Products!","",,,,
+c1730728565542,"Beverage Preferences","",,,,
+c1730728869250,"Encouraging Safter Roads","",,,,
+c1730731664879,"Financial Decision Makers","",,,,
+c1730735172424,"Calling all parents!","",,,,
+c1730735700013,"Tell us about your beauty and self care routine!","",,,,
+c1730736086465,"Let's Talk Motorcycles!","",,,,
+c1730741950531,"Holiday Beverages","",,,,
+c1730742036337,"Personal Care Deodorant Survey","",,,,
+c1730742194762,"LAUNDRY DAY!","",,,,
+c1730742348575,"Getting to know you!!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -2967,6 +2978,65 @@ r1730581390357,3,"^30-44$","1","",1,c5
 r1730584459521,3,"^Microsoft – Windows$","1","",1,c1729980882634
 r17306,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c344
 r17307,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c344
+r1730726921637,3,"^Slept$","1","",1,c1730726896862
+r1730726934104,3,"^Used social media$","1","",1,c1730726896862
+r1730726941540,3,"^Bought groceries$","1","",1,c1730726896862
+r1730726951701,3,"^Breathed$","1","",1,c1730726896862
+r1730726961648,3,"^Brushed your teeth$","1","",1,c1730726896862
+r1730727039697,3,"^I own my living space$","1","",1,c1729915508164
+r1730727592915,3,"^Rockford, IL$","1","",1,c401
+r1730727879245,3,"^Within the past 3 months$","1","",1,c15
+r1730728576954,3,"^Coffee$","1","",1,c1730728565542
+r1730728817142,3,"^Left$","1","",1,c47
+r1730728879365,3,"^Drive Safe & Save® by State Farm®$","1","",1,c1730728869250
+r1730729305314,3,"^Medium breed \(26-60 lbs\)$","1","",1,c1730410618977
+r1730730040712,3,"^\$60,000\+$","1","",1,c23
+r1730730060618,3,"^Over-the-counter Cough/congestion, Cold/flu, Sinus, or Sore throat relief products$","1","",1,c23
+r1730730641159,3,"^Fried pickles$","1","",1,c1729918259152
+r1730730651675,3,"^Pickle juice slushies$","1","",1,c1729918259152
+r1730730663743,3,"^Spiced pickles \(e\.g\. using chamoy sauce or chili lime seasoning\)$","1","",1,c1729918259152
+r1730730876442,3,"^Combination$","1","",1,c1729919191613
+r1730731693628,3,"^I am PRIMARILY responsible for managing finances$","1","",1,c1730731664879
+r1730731730948,3,"^Credit card$","1","",1,c1730731664879
+r1730731741343,3,"^Debit card$","1","",1,c1730731664879
+r1730731748966,3,"^Checking account$","1","",1,c1730731664879
+r1730731765946,3,"^Bank of America$","1","",1,c1730731664879
+r1730731802906,3,"^Travel rewards credit card $","1","",1,c1730731664879
+r1730731828080,3,"^Weekly$","1","",1,c1730731664879
+r1730731845312,3,"^Security features$","1","",1,c1730731664879
+r1730731856675,3,"^Customer service$","1","",1,c1730731664879
+r1730731873010,3,"^Credit limit$","1","",1,c1730731664879
+r1730731886955,3,"^I use my credit card for ALL types of purchases\.$","1","",1,c1730731664879
+r1730731905431,3,"^Groceries$","1","",1,c1730731664879
+r1730731915352,3,"^Large purchases$","1","",1,c1730731664879
+r1730731922937,3,"^Online shopping$","1","",1,c1730731664879
+r1730731930923,3,"^Travel$","1","",1,c1730731664879
+r1730731950554,3,"^PayPal$","1","",1,c1730731664879
+r1730731958626,3,"^Zelle$","1","",1,c1730731664879
+r1730731982927,3,"^Likely$","1","",1,c1730731664879
+r1730731998621,3,"^Cashback$","1","",1,c1730731664879
+r1730732016922,3,"^3$","1","",1,c1730731664879
+r1730732035528,3,"^Somewhat important$","1","",1,c1730731664879
+r1730732068228,3,"^ing full-time \(30 or more hrs\. per week\)$","1","",1,c1730731664879
+r1730732080352,3,"^I am an employee$","1","",1,c1730731664879
+r1730735182679,3,"^10 years old$","1","",1,c1730735172424
+r1730735189060,3,"^14 years old$","1","",1,c1730735172424
+r1730735710534,3,"^3-4$","1","",1,c1730735700013
+r1730735734989,3,"^Somewhat Easy$","1","",1,c1730735700013
+r1730736112756,3,"^Weekend touring$","1","",1,c1730736086465
+r1730736131690,3,"^I do not participate in motorcycle culture, news, or events$","1","",1,c1730736086465
+r1730736147749,3,"^Touring$","1","",1,c1730736086465
+r1730741978001,3,"^CBD or THC-infused beverages$","1","",1,c1730741950531
+r1730741986540,3,"^Alcoholic beverages \(e\.g\. beer, wine, or spirits\)$","1","",1,c1730741950531
+r1730741999033,3,"^Non-alcoholic beverages \(e\.g\., sparkling water, mocktails\)$","1","",1,c1730741950531
+r1730742049326,3,"^Stayed the same$","1","",1,c1730742036337
+r1730742207058,3,"^Liquid Laundry Detergent$","1","",1,c1730742194762
+r1730742258959,3,"^No$","1","",1,c1730742194762
+r1730742287653,3,"^LAUNDRY SCENT BOOSTER$","1","",1,c1730742194762
+r1730742313076,3,"^Walmart$","1","",1,c1730742194762
+r1730742356889,3,"^YES - I consider myself a fan of Alex Cooper's$","1","",1,c1730742348575
+r1730742377739,3,"^Social/Moderate Drinker - I consume alcohol during social situations and celebrations$","1","",1,c1730742348575
+r1730742396560,3,"^Yes$","1","",1,c1730742348575
 r17308,3,"^Target$","1","",1,c344
 r17309,3,"^Walmart$","1","",1,c344
 r1731,3,"^A romantic occasion with a partner$","1","",1,c90
