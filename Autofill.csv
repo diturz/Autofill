@@ -183,6 +183,8 @@ c1730741950531,"Holiday Beverages","",,,,
 c1730742036337,"Personal Care Deodorant Survey","",,,,
 c1730742194762,"LAUNDRY DAY!","",,,,
 c1730742348575,"Getting to know you!!","",,,,
+c1730764743656,"Crowdtap 101: Question Types","",,,,
+c1730765788320,"Crowdtap 101: Tips and Tricks","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -3037,6 +3039,19 @@ r1730742313076,3,"^Walmart$","1","",1,c1730742194762
 r1730742356889,3,"^YES - I consider myself a fan of Alex Cooper's$","1","",1,c1730742348575
 r1730742377739,3,"^Social/Moderate Drinker - I consume alcohol during social situations and celebrations$","1","",1,c1730742348575
 r1730742396560,3,"^Yes$","1","",1,c1730742348575
+r1730764824382,3,"^Strongly Agree$","1","",1,c1730764743656
+r1730765069830,3,"^I plan to take my time and provide thoughtful, meaningful answers\.$","1","",1,c353
+r1730765430700,3,"^I only plan on using Crowdtap on the web\.$","1","",1,c353
+r1730765601697,3,"^A pencil$","1","",1,c353
+r1730765792475,3,"^I’m excited to track my streak and participate daily!$","1","",1,c1730765788320
+r1730765809789,3,"^Facebook$","1","",1,c1730765788320
+r1730765812955,3,"^LinkedIn$","1","",1,c1730765788320
+r1730765816377,3,"^TikTok$","1","",1,c1730765788320
+r1730765820103,3,"^Instagram$","1","",1,c1730765788320
+r1730765824506,3,"^X \(formerly Twitter\)$","1","",1,c1730765788320
+r1730765828016,3,"^Snapchat$","1","",1,c1730765788320
+r1730766041612,3,"^I don’t know what VPN is\.$","1","",1,c1730765788320
+r1730766336576,3,"^Bird$","1","",1,c1730765788320
 r17308,3,"^Target$","1","",1,c344
 r17309,3,"^Walmart$","1","",1,c344
 r1731,3,"^A romantic occasion with a partner$","1","",1,c90
