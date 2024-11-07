@@ -194,6 +194,15 @@ c1730862210509,"Do you ever go to a bank branch in-person?","",,,,
 c1730863285318,"Nascar and Dollar Stores","",,,,
 c1730863555353,"Let's talk about grocery shopping","",,,,
 c1730865351275,"Let's talk about Frosted Sugar Cookies","",,,,
+c1730958235429,"Your phone habits","",,,,
+c1730960318258,"Let's talk about watch faces!","",,,,
+c1730963388362,"What do you think!","",,,,
+c1730963489809,"2024 Holiday Plans","",,,,
+c1730963967750,"All About AI Glasses!","",,,,
+c1730964286746,"Tell us more about the concerns, symptoms or intent to improve your sexual or reproductive health","",,,,
+c1730966879009,"Tell us more about you & your shopping habits!","",,,,
+c1730968616284,"A few questions about your recent product purchases","",,,,
+c1730969961184,"Understanding Oral Care","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -3157,7 +3166,7 @@ r1730863143581,3,"^Experienced$","1","",1,c15
 r1730863148079,3,"^Accessible$","1","",1,c15
 r1730863310084,3,"^Family Dollar$","1","",1,c1730863285318
 r1730863322977,3,"^A Fan, I watch most of the races$","1","",1,c1730863285318
-r1730863568674,3,"^ I am primarily responsible for buying groceries for my household$","1","",1,c1730863555353
+r1730863568674,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c1730863555353
 r1730863589505,3,"^Pasta and rice$","1","",1,c1730863555353
 r1730863595492,3,"^Canned goods$","1","",1,c1730863555353
 r1730863603748,3,"^Juice$","1","",1,c1730863555353
@@ -3189,6 +3198,225 @@ r1730865393693,3,"^Kids/Family$","1","",1,c1730865351275
 r1730865411570,3,"^It is a good value$","1","",1,c1730865351275
 r1730865425917,3,"^Yes$","1","",1,c1730865351275
 r17309,3,"^Walmart$","1","",1,c344
+r1730956173528,3,"^Eat$","1","",1,c4
+r1730956178156,3,"^Watch a movie$","1","",1,c4
+r1730956182074,3,"^Cook$","1","",1,c4
+r1730956186334,3,"^Sleep$","1","",1,c4
+r1730956190468,3,"^Shop$","1","",1,c4
+r1730958065981,3,"^Financial Services$","1","",1,c119
+r1730958080374,3,"^Finance & Accounting$","1","",1,c119
+r1730958097616,3,"^English$","1","",1,c119
+r1730958199793,3,"^Bicycle$","1","",1,c5
+r1730958203134,3,"^Car$","1","",1,c5
+r1730958243063,3,"^Smartphone$","1","",1,c1730958235429
+r1730958255329,3,"^Yes$","1","",1,c1730958235429
+r1730958324338,3,"^I use note-taking apps for work$","1","",1,c1730958235429
+r1730958328402,3,"^I use note-taking apps for personal things \(e\.g\. hobbies, personal management, etc\.\)$","1","",1,c1730958235429
+r1730958346658,3,"^Moderately influential$","1","",1,c1730958235429
+r1730958359738,3,"^Save photos to the app$","1","",1,c1730958235429
+r1730958365502,3,"^The app free$","1","",1,c1730958235429
+r1730958370249,3,"^The app is fast$","1","",1,c1730958235429
+r1730958415539,3,"^Notion$","1","",1,c1730958235429
+r1730958430820,3,"^Apple iPhone$","1","",1,c1730958235429
+r1730958749765,3,"^\$950 or more$","1","",1,c1730958235429
+r1730958911654,3,"^Employed - Primarily focused on administrative tasks and support$","1","",1,c1730958235429
+r1730959082912,3,"^No, not with any of these$","1","",1,c1730958235429
+r1730959567719,3,"^Pain relief topicals \(ex\. patches, creams, gels, rubs, lotions, sprays\)$","1","",1,c383
+r1730959575431,3,"^Allergy medicine$","1","",1,c383
+r1730959579125,3,"^Skin care \(face lotion, face wash, body lotion, body wash, bar soap\)$","1","",1,c383
+r1730959583675,3,"^Vitamins and supplements$","1","",1,c383
+r1730959591871,3,"^Cough medicine$","1","",1,c383
+r1730959771639,3,"^Beauty specialty stores \(e\.g\., Sephora, Ulta Beauty\)$","1","",1,c383
+r1730959776404,3,"^Wholesale clubs \(e\.g\., Costco, Sam’s Club\)$","1","",1,c383
+r1730959783112,3,"^Online retailers \(e\.g\., Amazon\)$","1","",1,c383
+r1730959797440,3,"^Discount stores \(e\.g\., Walmart, Target\)$","1","",1,c383
+r1730959832232,3,"^Pharmacies \(e\.g\., CVS, Walgreens, Rite Aid\)$","1","",1,c383
+r1730960328787,3,"^A few times a week$","1","",1,c1730960318258
+r1730960771612,3,"^The one that was already installed on the watch when I set it up$","1","",1,c1730960318258
+r1730960789911,3,"^Moderately satisfied$","1","",1,c1730960318258
+r1730960837434,3,"^No, I didn’t know I can do that$","1","",1,c1730960318258
+r1730960842502,3,"^Lack of variety of options$","1","",1,c1730960318258
+r1730960847560,3,"^Didn’t know about it$","1","",1,c1730960318258
+r1730960852567,3,"^Disliked the watch faces that are available for download$","1","",1,c1730960318258
+r1730961426314,3,"^Finance$","1","",1,c1730855985550
+r1730961436336,3,"^2$","1","",1,c1730855985550
+r1730961445209,3,"^9-11$","1","",1,c1730855985550
+r1730961453906,3,"^12-14$","1","",1,c1730855985550
+r1730961737786,3,"^I do all or most of the decision making$","1","",1,c1730350878968
+r1730961768400,3,"^Banking/Finance$","1","",1,c1730350878968
+r1730961867384,3,"^6-12$","1","",1,c1730350878968
+r1730961877222,3,"^13-17$","1","",1,c1730350878968
+r1730961882956,3,"^25-34$","1","",1,c1730350878968
+r1730962198062,3,"^Home Improvement \(ex: Home Depot, Lowe's\)$","1","",1,c1730350878968
+r1730962203045,3,"^Mass merchandiser \(ex: Walmart, Target\)$","1","",1,c1730350878968
+r1730962207672,3,"^Grocery Store$","1","",1,c1730350878968
+r1730962211198,3,"^Amazon$","1","",1,c1730350878968
+r1730962214973,3,"^Club \(ex: BJs, Costco, Sam's Club\)$","1","",1,c1730350878968
+r1730962218927,3,"^Direct to consumer/brand website$","1","",1,c1730350878968
+r1730962223192,3,"^Drug Store \(ex: CVS, Walgreens\)$","1","",1,c1730350878968
+r1730962227528,3,"^Dollar Store$","1","",1,c1730350878968
+r1730962232074,3,"^Convenience \(ex: 7-Eleven, Kwik Shop\)$","1","",1,c1730350878968
+r1730962237111,3,"^Cosmetics Retailer \(ex: Sephora, Ulta\)$","1","",1,c1730350878968
+r1730962643095,3,"^Costco$","1","",1,c1730350878968
+r1730962646481,3,"^Whole Foods$","1","",1,c1730350878968
+r1730962649727,3,"^Target$","1","",1,c1730350878968
+r1730962653875,3,"^Kroger$","1","",1,c1730350878968
+r1730962659123,3,"^CVS$","1","",1,c1730350878968
+r1730962663548,3,"^Sam's Club$","1","",1,c1730350878968
+r1730962669578,3,"^Home Depot$","1","",1,c1730350878968
+r1730962684572,3,"^Walmart$","1","",1,c1730350878968
+r1730962693426,3,"^Dollar General$","1","",1,c1730350878968
+r1730962724328,3,"^Laundry Care Products \(ex: Laundry Detergent, Fabric Softener, Dryer Sheets or Beads\)$","1","",1,c1730350878968
+r1730962728248,3,"^Oral Care Products \(ex: Toothbrushes, Toothpaste, Mouthwash\)$","1","",1,c1730350878968
+r1730962733335,3,"^Skin Care or Cleansing Products \(ex: Facial Cleaners, Hand soap, Moisturizer\)$","1","",1,c1730350878968
+r1730962737877,3,"^Floor, Surface, or Multi-Purpose Cleaning Products \(ex: Countertop cleaning spray, bathroom all-purpose cleaning solution\)$","1","",1,c1730350878968
+r1730962809456,3,"^Laundry Detergent$","1","",1,c1730350878968
+r1730962816236,3,"^Multi-Purpose Cleaners$","1","",1,c1730350878968
+r1730962820816,3,"^Liquid dish soap$","1","",1,c1730350878968
+r1730963231773,3,"^Seventh Generation$","1","",1,c1730350878968
+r1730963255077,3,"^Clorox$","1","",1,c1730350878968
+r1730963300946,3,"^Method$","1","",1,c1730350878968
+r1730963324352,3,"^Once a week or more$","1","",1,c1730350878968
+r1730963336103,3,"^I shop on the Home Depot app for delivery$","1","",1,c1730350878968
+r1730963340753,3,"^I shop with a Home Depot Credit Card$","1","",1,c1730350878968
+r1730963348917,3,"^I shop in store$","1","",1,c1730350878968
+r1730963478622,3,"^7 – Extremely likely$","1","",1,c1730963388362
+r1730963495016,3,"^Spend about the same$","1","",1,c1730963489809
+r1730963627863,3,"^No, the election outcome will NOT impact my spend$","1","",1,c1730963489809
+r1730963691767,3,"^No/minimal impact$","1","",1,c1730963489809
+r1730963829864,3,"^Travel difficulties$","1","",1,c1730963489809
+r1730963848526,3,"^No, it won't affect my decision$","1","",1,c1730963489809
+r1730963880932,3,"^Yes$","1","",1,c1730963489809
+r1730963930914,3,"^Republican Party$","1","",1,c1730963489809
+r1730964000644,3,"^Hiking/Outdoor sports$","1","",1,c1730963967750
+r1730964006828,3,"^Electronics/Gadgets$","1","",1,c1730963967750
+r1730964011653,3,"^Watching TV$","1","",1,c1730963967750
+r1730964015386,3,"^Reading$","1","",1,c1730963967750
+r1730964020246,3,"^Playing/Watching sports$","1","",1,c1730963967750
+r1730964029946,3,"^Cooking/Baking$","1","",1,c1730963967750
+r1730964038062,3,"^Fashion/Beauty$","1","",1,c1730963967750
+r1730964073401,3,"^Yes, 6-10 years old$","1","",1,c1730963967750
+r1730964078297,3,"^Yes, 11-15 years old$","1","",1,c1730963967750
+r1730964097325,3,"^Prescription Glasses$","1","",1,c1730963967750
+r1730964295704,3,"^Increase stamina or energy$","1","",1,c1730964286746
+r1730964312647,3,"^Sexual performance$","1","",1,c1730964286746
+r1730964320269,3,"^Premature or delayed ejaculation$","1","",1,c1730964286746
+r1730964330119,3,"^Exercise$","1","",1,c1730964286746
+r1730964334890,3,"^Personal care products \(e\.g\., lubricant, etc\.\)$","1","",1,c1730964286746
+r1730964340679,3,"^Diet/nutrition$","1","",1,c1730964286746
+r1730964350559,3,"^Capsules$","1","",1,c1730964286746
+r1730964354502,3,"^Pills$","1","",1,c1730964286746
+r1730964358909,3,"^Tablets$","1","",1,c1730964286746
+r1730964369734,3,"^Social media \(e\.g\. influencers, TikTok, Instagram\)$","1","",1,c1730964286746
+r1730964376666,3,"^The internet \(Google searches, websites, etc\.\)$","1","",1,c1730964286746
+r1730964390136,3,"^Sometimes$","1","",1,c1730964286746
+r1730964654868,3,"^Effectiveness$","1","",1,c1730964286746
+r1730964658571,3,"^Quality$","1","",1,c1730964286746
+r1730964663164,3,"^Brand recognition/reputation$","1","",1,c1730964286746
+r1730964800132,3,"^No$","1","",1,c1730964286746
+r1730966105174,3,"^Digestive problems$","1","",1,c1730859040492
+r1730966306918,3,"^Diet/low-calorie soda/pop$","1","",1,c3
+r1730966310523,3,"^Sparkling water - unflavored/ seltzer water / club soda \(e\.g\., Perrier\)$","1","",1,c3
+r1730966315539,3,"^Fresh coffee$","1","",1,c3
+r1730966318952,3,"^Energy drinks$","1","",1,c3
+r1730966322324,3,"^Fruit Juice$","1","",1,c3
+r1730966326337,3,"^Sparkling water - flavored and/or enhanced with vitamins / minerals / electrolytes / antioxidants \(e\.g\., La Croix or Sparkling Ice\)$","1","",1,c3
+r1730966330541,3,"^Regular soda/pop \(excluding diet soda\)$","1","",1,c3
+r1730966575830,3,"^Somewhat Agree$","1","",1,c4
+r1730966650571,3,"^Currently/recently taking steps to PREVENT future problems$","1","",1,c4
+r1730966696658,3,"^Yes, I understand and wish to continue$","1","",1,c4
+r1730966885076,3,"^I am primarily responsible for grocery shopping for my household$","1","",1,c1730966879009
+r1730966901053,3,"^Organic$","1","",1,c1730966879009
+r1730966906481,3,"^Natural$","1","",1,c1730966879009
+r1730966972305,3,"^I try to buy organic when possible$","1","",1,c1730966879009
+r1730966983214,3,"^Packaged FROZEN vegetables$","1","",1,c1730966879009
+r1730966986875,3,"^Refrigerated salad dressing$","1","",1,c1730966879009
+r1730966990796,3,"^Fresh fruit \(from the produce section, not packaged\)$","1","",1,c1730966879009
+r1730966995141,3,"^Pre-made salads \(e\.g\., a pre-assembled caesar salad or cobb salad\)$","1","",1,c1730966879009
+r1730967000220,3,"^Fresh vegetables \(from the produce section, not packaged\)$","1","",1,c1730966879009
+r1730967018274,3,"^Costco$","1","",1,c1730966879009
+r1730967022158,3,"^Kroger \(e\.g\., King Soopers, Smith’s, Ralphs, Dillons, etc\.\)$","1","",1,c1730966879009
+r1730967026493,3,"^Target$","1","",1,c1730966879009
+r1730967032684,3,"^Walmart$","1","",1,c1730966879009
+r1730967038324,3,"^Convenience stores \(e\.g\., 7-Eleven\)$","1","",1,c1730966879009
+r1730967043332,3,"^Sam’s Club$","1","",1,c1730966879009
+r1730967049633,3,"^Whole Foods$","1","",1,c1730966879009
+r1730967070948,3,"^Robot$","1","",1,c1730966879009
+r1730968623636,3,"^Club or warehouse store \(e\.g\., Costco, Sam's Club, BJ's, etc\.\)$","1","",1,c1730968616284
+r1730968633151,3,"^Other Drug stores \(e\.g\., CVS, etc\.\)$","1","",1,c1730968616284
+r1730968637593,3,"^Specialty home retailers \(e\.g\. Home Goods etc\.\)$","1","",1,c1730968616284
+r1730968643304,3,"^Liquor stores$","1","",1,c1730968616284
+r1730968649093,3,"^Bodegas \(independent convenience/grocery stores\)$","1","",1,c1730968616284
+r1730968653910,3,"^Kroger$","1","",1,c1730968616284
+r1730968660860,3,"^Home Improvement Stores \(e\.g\. Home Depot, Lowes, etc\.\)$","1","",1,c1730968616284
+r1730968667547,3,"^Convenience store/Gas Station \(e\.g\., 7-Eleven, etc\.\)$","1","",1,c1730968616284
+r1730968672029,3,"^Amazon\.com$","1","",1,c1730968616284
+r1730968677836,3,"^Target$","1","",1,c1730968616284
+r1730968684743,3,"^Walmart$","1","",1,c1730968616284
+r1730968694107,3,"^Correction items \(Correction tape, Correction pen, etc\.\)$","1","",1,c1730968616284
+r1730968699310,3,"^Disposable razors \(razors where you throw away the entire razor after use\)$","1","",1,c1730968616284
+r1730968704147,3,"^Lighters \(Pocket Lighters, Utility Lighters etc\.\)$","1","",1,c1730968616284
+r1730968708736,3,"^Other Stationery supplies \(Glues, Rulers, Pencil sharpeners, etc\.\)$","1","",1,c1730968616284
+r1730968713199,3,"^Other Hair removal products \(Replaceable blade Manual razors, Electric razors, etc\.\)$","1","",1,c1730968616284
+r1730968717116,3,"^Writing Instruments \(pens, pencils, markers, etc\.\)$","1","",1,c1730968616284
+r1730968722083,3,"^Notebooks & Paper$","1","",1,c1730968616284
+r1730968730046,3,"^Erasable pen$","1","",1,c1730968616284
+r1730968738709,3,"^Graphite pencils \(often made of wood and sharpened to expose lead\)$","1","",1,c1730968616284
+r1730968747981,3,"^Permanent markers$","1","",1,c1730968616284
+r1730968752392,3,"^Highlighters$","1","",1,c1730968616284
+r1730968762383,3,"^Ages 7-10$","1","",1,c1730968616284
+r1730968765952,3,"^Ages 13-17$","1","",1,c1730968616284
+r1730968782931,3,"^Middle School$","1","",1,c1730968616284
+r1730968801870,3,"^I work full-time, in an office outside of the home all of the time$","1","",1,c1730968616284
+r1730968835591,3,"^In an office$","1","",1,c1730968616284
+r1730968839111,3,"^At home, personal use$","1","",1,c1730968616284
+r1730968865696,3,"^Home$","1","",1,c1730968616284
+r1730968876970,3,"^Manual disposable razor$","1","",1,c1730968616284
+r1730968884540,3,"^Electric razor$","1","",1,c1730968616284
+r1730968955755,3,"^3 blades$","1","",1,c1730968616284
+r1730968998270,3,"^Pocket lighters$","1","",1,c1730968616284
+r1730969052166,3,"^4 to 5$","1","",1,c1730968616284
+r1730969071232,3,"^Once a week$","1","",1,c1730968616284
+r1730969086133,3,"^To light a grill/BBQ$","1","",1,c1730968616284
+r1730969093905,3,"^To light house candles$","1","",1,c1730968616284
+r1730969098141,3,"^To smoke a cigarette$","1","",1,c1730968616284
+r1730969107727,3,"^Yes, sometimes$","1","",1,c1730968616284
+r1730969146383,3,"^Home Decor$","1","",1,c1730968616284
+r1730969380100,3,"^Buy Now Pay Later Loan or Line of Credit$","1","",1,c1730861467524
+r1730969384309,3,"^Payday Loan$","1","",1,c1730861467524
+r1730969387582,3,"^Home/Mortgage$","1","",1,c1730861467524
+r1730969396059,3,"^0% financing loan for a specific purchase, such as furniture or computer$","1","",1,c1730861467524
+r1730969400063,3,"^Personal Loan$","1","",1,c1730861467524
+r1730969424609,3,"^Somewhat unlikely$","1","",1,c1730861467524
+r1730969457362,3,"^Budget spreadsheet or log book$","1","",1,c1730861467524
+r1730969482563,3,"^Overdraft transfer from another account$","1","",1,c1730861467524
+r1730969505765,3,"^10-12$","1","",1,c1730861467524
+r1730969509374,3,"^13-17$","1","",1,c1730861467524
+r1730969544468,3,"^Banking$","1","",1,c15
+r1730969559859,3,"^Cryptocurrency$","1","",1,c15
+r1730969563583,3,"^Retirement accounts \(e\.g\., 401\(k\), IRA\)$","1","",1,c15
+r1730969581459,3,"^Somewhat confident$","1","",1,c15
+r1730969601332,3,"^Saving for retirement$","1","",1,c15
+r1730969712322,3,"^Snacking nuts$","1","",1,c1730863555353
+r1730969715665,3,"^Trail Mix$","1","",1,c1730863555353
+r1730969756713,3,"^Instant coffee \(powdered\)$","1","",1,c1730863555353
+r1730969971161,3,"^Several Times a Week$","1","",1,c1730969961184
+r1730970014794,3,"^Ingredients$","1","",1,c1730969961184
+r1730970018512,3,"^Flavor$","1","",1,c1730969961184
+r1730970025510,3,"^Breath freshening$","1","",1,c1730969961184
+r1730970041607,3,"^Somewhat Important$","1","",1,c1730969961184
+r1730970070586,3,"^NO oral health conditions and/or concerns$","1","",1,c1730969961184
+r1730970083311,3,"^Slightly Aware$","1","",1,c1730969961184
+r1730970098046,3,"^Somewhat Interested$","1","",1,c1730969961184
+r1730970129028,3,"^Would make me SLIGHTLY MORE interested$","1","",1,c1730969961184
+r1730970140593,3,"^Probiotic$","1","",1,c1730969961184
+r1730970178588,3,"^Cannabis \(THC\) purchase and usage$","1","",1,c4
+r1730970182030,3,"^Tobacco purchase and usage$","1","",1,c4
+r1730970185599,3,"^Prescription medicine purchase and usage$","1","",1,c4
+r1730970189202,3,"^CBD \(Hemp-based cannabidiol\) purchase and usage$","1","",1,c4
+r1730970192345,3,"^Alcohol purchase and usage$","1","",1,c4
+r1730970256424,3,"^Sports Drinks \(e\.g\. Gatorade, PRIME, BodyArmour, etc\.\)$","1","",1,c4
+r1730970261692,3,"^Energy Drinks \(e\.g\. RedBull, Monster, etc\.\)$","1","",1,c4
 r1731,3,"^A romantic occasion with a partner$","1","",1,c90
 r17310,3,"^Shopping experience$","1","",1,c344
 r17311,3,"^Convenient store location$","1","",1,c344
