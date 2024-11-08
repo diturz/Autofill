@@ -203,6 +203,18 @@ c1730964286746,"Tell us more about the concerns, symptoms or intent to improve y
 c1730966879009,"Tell us more about you & your shopping habits!","",,,,
 c1730968616284,"A few questions about your recent product purchases","",,,,
 c1730969961184,"Understanding Oral Care","",,,,
+c1731043577268,"Technology Usage Survey Fall 24","",,,,
+c1731044934122,"Tell us more about yourself!","",,,,
+c1731045189134,"November_Brand Metrics -- Digestive Health v2","",,,,
+c1731046375111,"Tell us about your favorite bread brands!","",,,,
+c1731052846223,"Some questions about “better for you” on-the-go snacks for your children!","",,,,
+c1731053867970,"Are you an adult that likes to color in coloring books? We'd love to ask you a few questions!","",,,,
+c1731055807817,"Let’s get to know you!","",,,,
+c1731056260335,"Just a few general questions!","",,,,
+c1731056592096,"Screener Survey - November 2024","",,,,
+c1731057351868,"Brand Specific Needs for Immunity products","",,,,
+c1731059718493,"Tequila Seltzers","",,,,
+c1731060737025,"How do you prefer your oatmeal?","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -3419,6 +3431,125 @@ r1730970256424,3,"^Sports Drinks \(e\.g\. Gatorade, PRIME, BodyArmour, etc\.\)$"
 r1730970261692,3,"^Energy Drinks \(e\.g\. RedBull, Monster, etc\.\)$","1","",1,c4
 r1731,3,"^A romantic occasion with a partner$","1","",1,c90
 r17310,3,"^Shopping experience$","1","",1,c344
+r1731043593743,3,"^Microsoft Bing$","1","",1,c1731043577268
+r1731043657896,3,"^Firefox$","1","",1,c1731043577268
+r1731043666884,3,"^Google$","1","",1,c1731043577268
+r1731043696930,3,"^iPhone$","1","",1,c1731043577268
+r1731043715257,3,"^Chrome$","1","",1,c1731043577268
+r1731043726602,3,"^Safari$","1","",1,c1731043577268
+r1731043757569,3,"^Windows laptop, or desktop$","1","",1,c1731043577268
+r1731043877621,3,"^DuckDuckGo Search$","1","",1,c1731043577268
+r1731043914816,3,"^Google Bard$","1","",1,c1731043577268
+r1731043987454,3,"^Home security system$","1","",1,c1731043577268
+r1731044005421,3,"^Security suites / antivirus$","1","",1,c1731043577268
+r1731044096669,3,"^Within the past year$","1","",1,c1731043577268
+r1731044126949,3,"^Saw something on TV or YouTube$","1","",1,c1731043577268
+r1731044154146,3,"^Very concerned$","1","",1,c1731043577268
+r1731044203231,3,"^Somewhat agree$","1","",1,c1731043577268
+r1731044268180,3,"^I do not know anyone affected by identity theft, but am concerned about the impact\.$","1","",1,c1731043577268
+r1731044397851,3,"^GNU/Linux/Unix laptop, or desktop$","1","",1,c1731043577268
+r1731044951408,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c1731044934122
+r1731044960262,3,"^Soda$","1","",1,c1731044934122
+r1731044967431,3,"^Fresh Fruit$","1","",1,c1731044934122
+r1731044976030,3,"^Pre-packaged Bread$","1","",1,c1731044934122
+r1731044984046,3,"^Breakfast Cereal$","1","",1,c1731044934122
+r1731044992809,3,"^Frozen Meals$","1","",1,c1731044934122
+r1731045047712,3,"^Chicago, Illinois$","1","",1,c1731044934122
+r1731045077959,3,"^Smart TV apps like YouTube, Amazon Prime Video, NBC$","1","",1,c1731044934122
+r1731045087160,3,"^Streaming services like Peacock TV, Hulu and Disney \+$","1","",1,c1731044934122
+r1731045098231,3,"^Gaming consoles like Xbox and PlayStation$","1","",1,c1731044934122
+r1731045107750,3,"^Music streaming platforms like Spotify and Pandora$","1","",1,c1731044934122
+r1731045225274,3,"^Indigestion$","1","",1,c1731045189134
+r1731046395784,3,"^Nature's Own$","1","",1,c1731046375111
+r1731046402437,3,"^Wonder Bread$","1","",1,c1731046375111
+r1731053019441,3,"^As a meal replacement$","1","",1,c1731052846223
+r1731053029350,3,"^To limit calorie intake$","1","",1,c1731052846223
+r1731053043370,3,"^For something fun to eat$","1","",1,c1731052846223
+r1731053062287,3,"For something that isn't messy to eat","1","",1,c1731052846223
+r1731053078754,3,"^As a healthy alternative to other snacks$","1","",1,c1731052846223
+r1731053877738,3,"^A few times every few months$","1","",1,c1731053867970
+r1731053995719,3,"^Something I do with my family members$","1","",1,c1731053867970
+r1731054007554,3,"^Just for relaxation$","1","",1,c1731053867970
+r1731054211005,3,"^Pets/animals$","1","",1,c1731053867970
+r1731054228510,3,"^Movies/TV Show Franchises \(ie Star Wars\)$","1","",1,c1731053867970
+r1731054405243,3,"^Geometric shapes$","1","",1,c1731053867970
+r1731054437955,3,"^I search on-line$","1","",1,c1731053867970
+r1731054453059,3,"^Oil Pastels$","1","",1,c1731053867970
+r1731054472399,3,"^Gel Pens$","1","",1,c1731053867970
+r1731054478487,3,"^Markers$","1","",1,c1731053867970
+r1731054487119,3,"^Graphite drawing pencils$","1","",1,c1731053867970
+r1731054497142,3,"^Colored Pencils$","1","",1,c1731053867970
+r1731054518381,3,"^Every season I tend to buy new coloring books$","1","",1,c1731053867970
+r1731054541727,3,"^Challenging scenes to color$","1","",1,c1731053867970
+r1731054552550,3,"^Number of pages$","1","",1,c1731053867970
+r1731054560405,3,"^Quality of the paper$","1","",1,c1731053867970
+r1731054574126,3,"^Easy scenes to color$","1","",1,c1731053867970
+r1731054598392,3,"^Amazon$","1","",1,c1731053867970
+r1731054625476,3,"^Unique themes I can't find anywhere else$","1","",1,c1731053867970
+r1731054631949,3,"^Best selection$","1","",1,c1731053867970
+r1731054644796,3,"^Convenience - delivered to my home!$","1","",1,c1731053867970
+r1731055821809,3,"^Playing video games$","1","",1,c1731055807817
+r1731055829393,3,"^Watching football games/events$","1","",1,c1731055807817
+r1731055837682,3,"^Watching video gaming content$","1","",1,c1731055807817
+r1731055850417,3,"^Eating out$","1","",1,c1731055807817
+r1731055895873,3,"^Several times a week$","1","",1,c1731055807817
+r1731055909768,3,"^Playstation$","1","",1,c1731055807817
+r1731055918520,3,"^Steam$","1","",1,c1731055807817
+r1731055926592,3,"^Nintendo Switch$","1","",1,c1731055807817
+r1731055936433,3,"^Mobile \(e\.g\., iOS, Android\)$","1","",1,c1731055807817
+r1731055966332,3,"^Battle Royale Games$","1","",1,c1731055807817
+r1731055979209,3,"^Real-Time Strategy \(RTS\)$","1","",1,c1731055807817
+r1731055986978,3,"^First-Person Shooter \(FPS\)$","1","",1,c1731055807817
+r1731055996400,3,"^Massively Multiplayer Online Role-Playing Games \(MMORPG\)$","1","",1,c1731055807817
+r1731056032905,3,"^Fighting Games$","1","",1,c1731055807817
+r1731056039489,3,"^Simulation Games$","1","",1,c1731055807817
+r1731056272836,3,"^I shop for all products$","1","",1,c1731056260335
+r1731056294734,3,"^Meat \(e\.g\. beef, poultry, fish, etc\.\)$","1","",1,c1731056260335
+r1731056299667,3,"^Milk$","1","",1,c1731056260335
+r1731056306862,3,"^Yogurt$","1","",1,c1731056260335
+r1731056313348,3,"^Energy drinks$","1","",1,c1731056260335
+r1731056321198,3,"^Cookies or pastries$","1","",1,c1731056260335
+r1731056328775,3,"^ Protein products \(bars, powders, ready to drink protein shakes, snacks\)$","1","",1,c1731056260335
+r1731056340404,3,"^Ice cream$","1","",1,c1731056260335
+r1731056366126,3,"^Protein bars$","1","",1,c1731056260335
+r1731056630262,3,"^Own my home$","1","",1,c1731056592096
+r1731056649409,3,"^Couple with children$","1","",1,c1731056592096
+r1731056695200,3,"^Primarily you$","1","",1,c1731056592096
+r1731056711015,3,"^Carbon Monoxide Alarm\(s\)$","1","",1,c1731056592096
+r1731056721360,3,"^Fire Extinguisher\(s\)$","1","",1,c1731056592096
+r1731056731990,3,"^Smoke Alarm\(s\)$","1","",1,c1731056592096
+r1731056769591,3,"^Google Nest$","1","",1,c1731056592096
+r1731056823256,3,"^ Door/Window Sensor\(s\)$","1","",1,c1731056592096
+r1731056829280,3,"^Indoor Security Camera\(s\)$","1","",1,c1731056592096
+r1731056835616,3,"^Walkway Light\(s\)$","1","",1,c1731056592096
+r1731056854125,3,"^Amazon$","1","",1,c1731056592096
+r1731056882734,3,"^Air Filter\(s\)$","1","",1,c1731056592096
+r1731056892041,3,"^Smart/Connected Thermostat\(s\)$","1","",1,c1731056592096
+r1731056898143,3,"^Dehumidifier\(s\)$","1","",1,c1731056592096
+r1731056951631,3,"^Smart home appliance\(s\)$","1","",1,c1731056592096
+r1731056958968,3,"^Smart smoke and carbon monoxide alarm\(s\)$","1","",1,c1731056592096
+r1731056965592,3,"^Smart indoor/outdoor camera\(s\)$","1","",1,c1731056592096
+r1731057361779,3,"^AGREE$","1","",1,c1731057351868
+r1731057444871,3,"^Centrum Multivitamins$","1","",1,c1731057351868
+r1731057451503,3,"^Nature Made Vitamin C$","1","",1,c1731057351868
+r1731057460754,3,"^Olli Multivitamins$","1","",1,c1731057351868
+r1731057511902,3,"^Was a planned, effortless Health & Wellness routine even when I didn’t have any symptoms/conditions to manage\. I did this “Because it was good for me"$","1","",1,c1731057351868
+r1731057536704,3,"^Work as expected$","1","",1,c1731057351868
+r1731057544393,3,"^To feel more in control$","1","",1,c1731057351868
+r1731057556361,3,"^Is something the whole family can use$","1","",1,c1731057351868
+r1731057568578,3,"^Is an innovative brand$","1","",1,c1731057351868
+r1731059728525,3,"^Calories$","1","",1,c1731059718493
+r1731059733948,3,"^Availability$","1","",1,c1731059718493
+r1731059744461,3,"^Price$","1","",1,c1731059718493
+r1731059750452,3,"^Alcohol content$","1","",1,c1731059718493
+r1731059767761,3,"^Balanced Sweetness$","1","",1,c1731059718493
+r1731059773701,3,"^Natural and authentic taste$","1","",1,c1731059718493
+r1731059780565,3,"^Balanced acidity/tartness$","1","",1,c1731059718493
+r1731059801906,3,"^Too sweet$","1","",1,c1731059718493
+r1731059807868,3,"^Metallic taste$","1","",1,c1731059718493
+r1731059818728,3,"^Artificial flavor$","1","",1,c1731059718493
+r1731060753897,3,"^#535 - the oatmeal on the right$","1","",1,c1731060737025
+r1731060771706,3,"^More, smaller raisins$","1","",1,c1731060737025
 r17311,3,"^Convenient store location$","1","",1,c344
 r17312,3,"^Sephora$","1","",1,c344
 r17313,3,"^Amazon$","1","",1,c344
