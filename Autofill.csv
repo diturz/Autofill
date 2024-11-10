@@ -215,6 +215,9 @@ c1731056592096,"Screener Survey - November 2024","",,,,
 c1731057351868,"Brand Specific Needs for Immunity products","",,,,
 c1731059718493,"Tequila Seltzers","",,,,
 c1731060737025,"How do you prefer your oatmeal?","",,,,
+c1731258738806,"We got a fun topic for you!","",,,,
+c1731259293486,"Tell me all about sauces","",,,,
+c1731260231664,"Halloween Season Shopping","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -3552,6 +3555,95 @@ r1731060753897,3,"^#535 - the oatmeal on the right$","1","",1,c1731060737025
 r1731060771706,3,"^More, smaller raisins$","1","",1,c1731060737025
 r17311,3,"^Convenient store location$","1","",1,c344
 r17312,3,"^Sephora$","1","",1,c344
+r1731256280345,3,"^Purina Pro Plan$","1","",1,c24
+r1731256547847,3,"^28-43$","1","",1,c41
+r1731256606439,3,"^Cell phone$","1","",1,c41
+r1731256612347,3,"^Laptop$","1","",1,c41
+r1731256616540,3,"^Tablet$","1","",1,c41
+r1731256621310,3,"^Smart watch$","1","",1,c41
+r1731256632102,3,"^Desktop computer$","1","",1,c41
+r1731256646497,3,"^Verizon$","1","",1,c41
+r1731256674001,3,"^Instagram$","1","",1,c41
+r1731256678873,3,"^Facebook$","1","",1,c41
+r1731256686148,3,"^TikTok$","1","",1,c41
+r1731256706462,3,"^Exceptional customer service$","1","",1,c41
+r1731256725697,3,"^Often$","1","",1,c41
+r1731256745123,3,"^By engaging with their audience on social media$","1","",1,c41
+r1731257065907,3,"^Albertsons$","1","",1,c76
+r1731257082007,3,"^Walmart$","1","",1,c76
+r1731257090281,3,"^Target$","1","",1,c76
+r1731257971346,3,"^Ferrero Rocher$","1","",1,c380
+r1731258023933,3,"^Valentine's Day$","1","",1,c380
+r1731258071823,3,"^Chips Ahoy!$","1","",1,c380
+r1731258097523,3,"^Jif$","1","",1,c380
+r1731258122984,3,"^Trolli$","1","",1,c380
+r1731258152190,3,"^KIND$","1","",1,c380
+r1731258213119,3,"^13-17$","1","",1,c380
+r1731258398989,3,"^Top pink line$","1","",1,c380
+r1731258573875,3,"^I am thinking of buying a home in the next 6 months$","1","",1,c380
+r1731258593316,3,"^No, I’ve bought a home before$","1","",1,c380
+r1731258611577,3,"^I haven’t decided yet$","1","",1,c380
+r1731258630839,3,"^Zillow$","1","",1,c380
+r1731258652913,3,"^Website$","1","",1,c380
+r1731258666745,3,"^I haven’t decided yet$","1","",1,c380
+r1731258764004,3,"2026","1","",1,c1731258738806
+r1731258831743,3,"^USA, Canada, & Mexico$","1","",1,c1731258738806
+r1731258860137,3,"^I’m very excited to watch it$","1","",1,c1731258738806
+r1731258883703,3,"^My favorite national teams’ games throughout the group rounds and elimination rounds$","1","",1,c1731258738806
+r1731258912173,3,"^At home$","1","",1,c1731258738806
+r1731258993697,3,"^Walmart$","1","",1,c1731258738806
+r1731259014348,3,"^With my friends$","1","",1,c1731258738806
+r1731259105777,3,"^My kid\(s\) will be very excited to watch it$","1","",1,c1731258738806
+r1731259124612,3,"^Very likely to buy$","1","",1,c1731258738806
+r1731259162776,3,"^No impact on my likelihood to buy Ferrero products$","1","",1,c1731258738806
+r1731259307798,3,"^DEFINITELY WOULD Buy$","1","",1,c1731259293486
+r1731259328044,3,"^Sweet Onion Teriyaki$","1","",1,c1731259293486
+r1731259376016,3,"^ Fries$","1","",1,c1731259293486
+r1731259383511,3,"^Deli Subs$","1","",1,c1731259293486
+r1731259403621,3,"^McDonald's$","1","",1,c1731259293486
+r1731259410670,3,"^Subway$","1","",1,c1731259293486
+r1731259420586,3,"^TGI Friday's$","1","",1,c1731259293486
+r1731259433326,3,"^Menu variety$","1","",1,c1731259293486
+r1731259448778,3,"^ There is no change to how frequently I eat food from Subway restaurants$","1","",1,c1731259293486
+r1731259544581,3,"^8-10$","1","",1,c3
+r1731259571853,3,"^11-14$","1","",1,c3
+r1731259582376,3,"^You are the person mainly responsible$","1","",1,c3
+r1731259593279,3,"^Fruit cups$","1","",1,c3
+r1731259605135,3,"^Cookies$","1","",1,c3
+r1731259618965,3,"^Snack bars or granola bars$","1","",1,c3
+r1731259626124,3,"^Candy bars$","1","",1,c3
+r1731259636491,3,"^Cheese spread with breadsticks$","1","",1,c3
+r1731259647426,3,"^Yogurt in cups$","1","",1,c3
+r1731259655549,3,"^Applesauce in cups$","1","",1,c3
+r1731259729340,3,"^Easter$","1","",1,c53
+r1731259737740,3,"^Valentine’s Day$","1","",1,c53
+r1731259742849,3,"^Christmas$","1","",1,c53
+r1731259753292,3,"^New Years$","1","",1,c53
+r1731259763987,3,"^Halloween$","1","",1,c53
+r1731259766401,3,"^Thanksgiving$","1","",1,c53
+r1731259780170,3,"^Independence Day$","1","",1,c53
+r1731259793376,3,"^I am the primary grocery shopper in my household\. $","1","",1,c53
+r1731259820632,3,"^Children under 18$","1","",1,c53
+r1731259849672,3,"^Premium Chocolate Candy \(Ghirardelli, Lindt, Ferrero Rocher, etc\.\) $","1","",1,c53
+r1731259873560,3,"^Millennial \(1981-1996\)$","1","",1,c53
+r1731259891493,3,"^Plans will be in line with last year$","1","",1,c53
+r1731259908621,3,"^Yes, seasonal flavors drive my purchase behavior\.$","1","",1,c53
+r1731259920078,3,"^Yes, seasonal shapes drive my purchase behavior\. $","1","",1,c53
+r1731260257278,3,"^In Store$","1","",1,c1731260231664
+r1731260265509,3,"^Weekly$","1","",1,c1731260231664
+r1731260277986,3,"^Online \(Ship to Home\)$","1","",1,c1731260231664
+r1731260305978,3,"^Experience of holiday ambiance and decorations in stores$","1","",1,c1731260231664
+r1731260320322,3,"^ No, I do not care for/ have access to Circle promotions$","1","",1,c1731260231664
+r1731260335790,3,"^Hosting Seasonal Parties$","1","",1,c1731260231664
+r1731260346221,3,"^Gift Giving Purposes$","1","",1,c1731260231664
+r1731260360390,3,"^Children under 10 in the household$","1","",1,c1731260231664
+r1731260373074,3,"^Yes, I wish there was more premium Halloween chocolate offerings \(Lindt, Ghirardelli, Chocolove, etc\.,\)$","1","",1,c1731260231664
+r1731260386270,3,"^ Premium Chocolate Candy \(Ghirardelli, Lindt, Ferrero Rocher, etc\.\) $","1","",1,c1731260231664
+r1731260393012,3,"^Sugar Candy \(Nerds, Skittles, Starburst\)$","1","",1,c1731260231664
+r1731260406157,3,"^Seasonal Aisle$","1","",1,c1731260231664
+r1731260446236,3,"^My trip was planned to purchase Halloween Confections$","1","",1,c1731260231664
+r1731260468155,3,"^Multiple brand chocolate / sugar assorted bags \(E\.g\. Reese’s, Kit Kat, Twizzlers, Jolly Ranchers\)$","1","",1,c1731260231664
+r1731260476711,3,"^Yes, I purchase premium prepackaged cookies \(E\.g\. Royal Dansk, Pepperidge Farm Milanos\)$","1","",1,c1731260231664
 r17313,3,"^Amazon$","1","",1,c344
 r17314,3,"^High-quality products$","1","",1,c344
 r17315,3,"^Convenient$","1","",1,c344
