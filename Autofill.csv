@@ -218,6 +218,12 @@ c1731060737025,"How do you prefer your oatmeal?","",,,,
 c1731258738806,"We got a fun topic for you!","",,,,
 c1731259293486,"Tell me all about sauces","",,,,
 c1731260231664,"Halloween Season Shopping","",,,,
+c1731262468320,"Tell us about yourself! What are you planning on buying soon?","",,,,
+c1731263449390,"Health & Wellness Product Preferences Survey","",,,,
+c1731263752295,"Super Bowl Pizza Ordering 🍕","",,,,
+c1731263790166,"A few Questions about Shopping!","",,,,
+c1731264151429,"Two quick questions","",,,,
+c1731264566320,"All About Video Games!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -3644,6 +3650,88 @@ r1731260406157,3,"^Seasonal Aisle$","1","",1,c1731260231664
 r1731260446236,3,"^My trip was planned to purchase Halloween Confections$","1","",1,c1731260231664
 r1731260468155,3,"^Multiple brand chocolate / sugar assorted bags \(E\.g\. Reese’s, Kit Kat, Twizzlers, Jolly Ranchers\)$","1","",1,c1731260231664
 r1731260476711,3,"^Yes, I purchase premium prepackaged cookies \(E\.g\. Royal Dansk, Pepperidge Farm Milanos\)$","1","",1,c1731260231664
+r1731262267603,3,"^Laptop or Desktop Computer$","1","",1,c569
+r1731262275000,3,"^Tortilla Chips$","1","",1,c569
+r1731262283065,3,"^Sunscreen$","1","",1,c569
+r1731262289684,3,"^Shoes$","1","",1,c569
+r1731262299617,3,"^Smartphone / Cell Phone$","1","",1,c569
+r1731262305408,3,"^Dog Food$","1","",1,c569
+r1731262320662,3,"^Personal only$","1","",1,c569
+r1731262350995,3,"^Windows PC$","1","",1,c569
+r1731262416058,3,"^In-store$","1","",1,c569
+r1731262513109,3,"^Household appliances$","1","",1,c1731262468320
+r1731262521768,3,"^Sporting goods$","1","",1,c1731262468320
+r1731262528659,3,"^Apparel$","1","",1,c1731262468320
+r1731262535414,3,"^Vitamins, minerals, or supplements$","1","",1,c1731262468320
+r1731262540902,3,"^Laundry products$","1","",1,c1731262468320
+r1731262548448,3,"^Oral care products$","1","",1,c1731262468320
+r1731262555108,3,"^Personal hair removal products$","1","",1,c1731262468320
+r1731262572112,3,"^Multivitamins / Single letter vitamins$","1","",1,c1731262468320
+r1731262581135,3,"^Omegas$","1","",1,c1731262468320
+r1731262607483,3,"^Centrum$","1","",1,c1731262468320
+r1731262616298,3,"^Garden of Life$","1","",1,c1731262468320
+r1731262634623,3,"^\$75,000 to \$99,999$","1","",1,c1731262468320
+r1731262696747,3,"^I am the primary purchaser of groceries for my household$","1","",1,c431
+r1731262729305,3,"^ Healthy - I have money left at the end of the month for a few luxuries or to add to my savings$","1","",1,c431
+r1731262777241,3,"^10-12 years old$","1","",1,c431
+r1731262786903,3,"^13-17 years old$","1","",1,c431
+r1731262829298,3,"^ Mass Merchandise/discount department store \(such as Walmart, Target, Kmart\)$","1","",1,c431
+r1731262845619,3,"^Walmart\.com$","1","",1,c431
+r1731262859057,3,"^Chips of any kind \(e\.g\. Potato, Baked, Corn, Pita, Multigrain, Veggie, Tortilla, etc\.\)$","1","",1,c431
+r1731262867714,3,"^Non-Chocolate Candy \(e\.g\. gummies, sour candy, hard candy, etc\.\)$","1","",1,c431
+r1731262876892,3,"^Ice Cream and Frozen Novelties$","1","",1,c431
+r1731262889565,3,"^Nuts, Seeds, or Trail Mix$","1","",1,c431
+r1731262897176,3,"^Chocolate$","1","",1,c431
+r1731262905174,3,"^Multi-pack$","1","",1,c431
+r1731262919380,3,"^Multi-Pack Cookies$","1","",1,c431
+r1731262965618,3,"^Cheetos$","1","",1,c431
+r1731262974270,3,"^Doritos$","1","",1,c431
+r1731263026956,3,"^A financial institution such as banks, loan originators or mortgage holders$","1","",1,c1730863555353
+r1731263039680,3,"^I am the primary shopper for my household$","1","",1,c1730863555353
+r1731263056455,3,"^Annie's$","1","",1,c1730863555353
+r1731263068588,3,"^Mayonnaise$","1","",1,c1730863555353
+r1731263074475,3,"^Salad Dressings$","1","",1,c1730863555353
+r1731263082591,3,"^Cooking oil or spray$","1","",1,c1730863555353
+r1731263090753,3,"^Marinades$","1","",1,c1730863555353
+r1731263100340,3,"^Peanut Butter$","1","",1,c1730863555353
+r1731263120986,3,"^Spray$","1","",1,c1730863555353
+r1731263144604,3,"^Olive oil$","1","",1,c1730863555353
+r1731263156958,3,"^Like eating most avocado/avocado products$","1","",1,c1730863555353
+r1731263167903,3,"^Extra virgin olive oil$","1","",1,c1730863555353
+r1731263184061,3,"^McCormick$","1","",1,c1730863555353
+r1731263207707,3,"McCormick","1","",1,c1730863555353
+r1731263220389,3,"^Jif$","1","",1,c1730863555353
+r1731263242371,3,"^Kraft$","1","",1,c1730863555353
+r1731263270228,3,"^Walmart$","1","",1,c1730863555353
+r1731263462448,3,"^Ready-to-drink shakes \(e\.g\., convenient nutrition\)$","1","",1,c1731263449390
+r1731263469618,3,"^Protein bars \(e\.g\., high-protein snacks for fitness\)$","1","",1,c1731263449390
+r1731263476899,3,"^Energy drinks \(e\.g\., to provide an energy boost\)$","1","",1,c1731263449390
+r1731263486410,3,"^Sports nutrition supplements \(e\.g\. For pre-work out, muscle building, recovery, weight management, etc\.\) $","1","",1,c1731263449390
+r1731263495646,3,"^Vitamins \(e\.g\., for health and nutrition\)$","1","",1,c1731263449390
+r1731263767423,3,"^Yes$","1","",1,c1731263752295
+r1731263805545,3,"^Women’s clothing/apparel$","1","",1,c1731263790166
+r1731263812334,3,"^Men's clothing/apparel $","1","",1,c1731263790166
+r1731263819367,3,"^Children's clothing/apparel$","1","",1,c1731263790166
+r1731263827367,3,"^Jewelry and/or Accessories$","1","",1,c1731263790166
+r1731263834486,3,"^Shoes$","1","",1,c1731263790166
+r1731263845246,3,"^Activewear$","1","",1,c1731263790166
+r1731263851618,3,"^Sleepwear or undergarments $","1","",1,c1731263790166
+r1731263866529,3,"^Walmart$","1","",1,c1731263790166
+r1731263882345,3,"^Victoria’s Secret$","1","",1,c1731263790166
+r1731263930190,3,"^Watched TV$","1","",1,c1731055807817
+r1731263938469,3,"^Ordered takeout or food delivery$","1","",1,c1731055807817
+r1731263945519,3,"^Used an app on your smartphone$","1","",1,c1731055807817
+r1731264174018,3,"^Baseball on TV$","1","",1,c1731264151429
+r1731264298664,3,"^iOS \(Apple\)$","1","",1,c5
+r1731264316690,3,"^Apple Safari$","1","",1,c5
+r1731264321063,3,"^Google Chrome$","1","",1,c5
+r1731264327822,3,"^Mozilla Firefox$","1","",1,c5
+r1731264366863,3,"^Online gaming$","1","",1,c5
+r1731264430715,3,"^Learning about topics$","1","",1,c5
+r1731264476953,3,"^Somewhat excited$","1","",1,c5
+r1731264578086,3,"^World of Warcraft$","1","",1,c1731264566320
+r1731264585042,3,"^Star Wars: The Old Republic$","1","",1,c1731264566320
+r1731264593791,3,"^Guild Wars$","1","",1,c1731264566320
 r17313,3,"^Amazon$","1","",1,c344
 r17314,3,"^High-quality products$","1","",1,c344
 r17315,3,"^Convenient$","1","",1,c344
