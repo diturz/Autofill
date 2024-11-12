@@ -244,6 +244,14 @@ c1731382238475,"Let's learn a little bit about you!","",,,,
 c1731383251238,"Let's Talk About Your Skin","",,,,
 c1731383321189,"Grocery Shopping Habits Survey","",,,,
 c1731383877573,"Question about supplement packaging","",,,,
+c1731448797579,"All About Footwear!","",,,,
+c1731449109661,"Activewear purchases","",,,,
+c1731449582867,"Tell us about your preferred flavors","",,,,
+c1731449829187,"Share Your Thoughts on the New Generation of Sodas!","",,,,
+c1731449896166,"We have a few questions about your health","",,,,
+c1731451554171,"Tell Us What You Think About Oral Care Brands","",,,,
+c1731451618143,"Soup flavors","",,,,
+c1731452154544,"Your recent shopping behavior","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -4001,6 +4009,72 @@ r1731385428393,3,"^Microsoft$","1","",1,c1729921702855
 r1731385443378,3,"^HP$","1","",1,c1729921702855
 r1731385457087,3,"^HP Smart$","1","",1,c1729921702855
 r17314,3,"^High-quality products$","1","",1,c344
+r1731447644684,3,"^I receive recommendations or reviews$","1","",1,c41
+r1731447663059,3,"^When I notice new options on the market$","1","",1,c41
+r1731447687699,3,"^Brand reputation$","1","",1,c41
+r1731447706632,3,"^Boxers$","1","",1,c41
+r1731447730199,3,"^Online on the brand’s website $","1","",1,c41
+r1731447733951,3,"^ Through an online marketplace \(e\.g\., Amazon\)$","1","",1,c41
+r1731448805815,3,"^Nike$","1","",1,c1731448797579
+r1731448815254,3,"^Adidas$","1","",1,c1731448797579
+r1731449124353,3,"^I tend to buy the premium version of products$","1","",1,c1731449109661
+r1731449141759,3,"^It is my responsibility to live a more sustainable and eco-friendly lifestyle$","1","",1,c1731449109661
+r1731449159111,3,"^4 - High activity level: Engage in vigorous exercise or physical activity several times a week$","1","",1,c1731449109661
+r1731449171834,3,"^Walking$","1","",1,c1731449109661
+r1731449200268,3,"^Physical Health based: Becoming fitter, losing weight, keeping in shape$","1","",1,c1731449109661
+r1731449222130,3,"^It is high performing and allows me to do my best in my sport$","1","",1,c1731449109661
+r1731449248002,3,"^Amazon$","1","",1,c1731449109661
+r1731449256223,3,"^Footlocker$","1","",1,c1731449109661
+r1731449276804,3,"^Adidas$","1","",1,c1731449109661
+r1731449285044,3,"^Nike$","1","",1,c1731449109661
+r1731449302446,3,"^No, not planning to make a purchase from this brand$","1","",1,c1731449109661
+r1731449320011,3,"^2-3 times a week$","1","",1,c1731449109661
+r1731449593594,3,"^Caramel$","1","",1,c1731449582867
+r1731449602344,3,"^Milk Chocolate$","1","",1,c1731449582867
+r1731449614705,3,"^Dark Chocolate$","1","",1,c1731449582867
+r1731449628317,3,"^Afternoon$","1","",1,c1731449582867
+r1731449849608,3,"^Regular soda$","1","",1,c1731449829187
+r1731449861346,3,"^Diet/zero-sugar soda$","1","",1,c1731449829187
+r1731449875405,3,"^Sparkling water$","1","",1,c1731449829187
+r1731449877950,3,"^Energy drinks$","1","",1,c1731449829187
+r1731449905824,3,"^Premature ejaculation$","1","",1,c1731449896166
+r1731449910760,3,"^Weight Management$","1","",1,c1731449896166
+r1731449956782,3,"^Ozempic$","1","",1,c1731449896166
+r1731449982702,3,"^Yes$","1","",1,c1731449896166
+r1731450000178,3,"^Weight management/maintenance$","1","",1,c1731449896166
+r1731450072178,3,"^1-2 years$","1","",1,c1731449896166
+r1731450082397,3,"^Very close to my goal$","1","",1,c1731449896166
+r1731450096610,3,"^Airplane$","1","",1,c1731449896166
+r1731450140943,3,"^Thought I would be on it indefinitely$","1","",1,c1731449896166
+r1731450189654,3,"^Your doctor you see in-person$","1","",1,c1731449896166
+r1731450216558,3,"^I am very close to meeting my weight loss goal$","1","",1,c1731449896166
+r1731450238494,3,"^Between 16 and 30 pounds$","1","",1,c1731449896166
+r1731450387384,3,"^To manage/minimize side effects$","1","",1,c1731449896166
+r1731450419704,3,"^Adjusted dosing/frequency to see if I could maintain weight on a lower dose$","1","",1,c1731449896166
+r1731450437202,3,"^9-12 more months$","1","",1,c1731449896166
+r1731450467889,3,"^Take a break/pause for a while and eventually start again$","1","",1,c1731449896166
+r1731450480498,3,"^I'm not sure what will happen$","1","",1,c1731449896166
+r1731450528239,3,"^Maintenance plan after you've reached my weight loss goal by using GLP-1s on an on-and-off basis$","1","",1,c1731449896166
+r1731450542501,3,"^Worried about long term effects/safety$","1","",1,c1731449896166
+r1731450555984,3,"^When I started having side effects $","1","",1,c1731449896166
+r1731450569489,3,"^Healthcare provider recommendation$","1","",1,c1731449896166
+r1731450597780,3,"^I’m just not ready yet$","1","",1,c1731449896166
+r1731450608910,3,"^Your healthcare provider$","1","",1,c1731449896166
+r1731450716072,3,"^Diet plans$","1","",1,c1731449896166
+r1731450733541,3,"^Emails/Newsletters about maintaining a healthy lifestyle$","1","",1,c1731449896166
+r1731450746247,3,"^Better work/life balance$","1","",1,c1731449896166
+r1731450762919,3,"^Yes, my healthcare provider told m$","1","",1,c1731449896166
+r1731450779838,3,"^Information about safety of long-term use from your healthcare provider$","1","",1,c1731449896166
+r1731450853693,3,"^I would not like to participate$","1","",1,c1731449896166
+r1731451119145,3,"^Yes, I like this company$","1","",1,c1731379962287
+r1731451574743,3,"^ Colgate Total$","1","",1,c1731451554171
+r1731451626391,3,"^ French Onion$","1","",1,c1731451618143
+r1731451650109,3,"^Creamy Tomato Tortellini$","1","",1,c1731451618143
+r1731452165275,3,"^Both Online and In-Store$","1","",1,c1731452154544
+r1731452178701,3,"^Walmart\.com$","1","",1,c1731452154544
+r1731452185689,3,"^ Amazon Fresh$","1","",1,c1731452154544
+r1731452206068,3,"^Once every month$","1","",1,c1731452154544
+r1731452223000,3,"^Yes, I have used Amazon Fresh online in the past 3 months for groceries$","1","",1,c1731452154544
 r17315,3,"^Convenient$","1","",1,c344
 r17316,3,"^Private Label$","1","",1,c344
 r17317,3,"^Brand reputation$","1","",1,c344
