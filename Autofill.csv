@@ -252,6 +252,11 @@ c1731449896166,"We have a few questions about your health","",,,,
 c1731451554171,"Tell Us What You Think About Oral Care Brands","",,,,
 c1731451618143,"Soup flavors","",,,,
 c1731452154544,"Your recent shopping behavior","",,,,
+c1731546701422,"School and Art Supplies","",,,,
+c1731550064486,"We want to hear from you.","",,,,
+c1731550850491,"Let’s talk a bit more about you.","",,,,
+c1731551949898,"Some questions about your device usage!","",,,,
+c1731553333783,"Just a few quick questions!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -4076,6 +4081,107 @@ r1731452185689,3,"^ Amazon Fresh$","1","",1,c1731452154544
 r1731452206068,3,"^Once every month$","1","",1,c1731452154544
 r1731452223000,3,"^Yes, I have used Amazon Fresh online in the past 3 months for groceries$","1","",1,c1731452154544
 r17315,3,"^Convenient$","1","",1,c344
+r1731545988404,3,"^Cold Cereal$","1","",1,c166
+r1731546004524,3,"^Baking Mixes$","1","",1,c166
+r1731546009638,3,"^Coffee$","1","",1,c166
+r1731546015774,3,"^Meat Snacks$","1","",1,c166
+r1731546027020,3,"^Protein Beverages$","1","",1,c166
+r1731546034748,3,"^ Salty Snacks$","1","",1,c166
+r1731546040829,3,"^Tea$","1","",1,c166
+r1731546066010,3,"^Big Box Store \(Walmart, Target\)$","1","",1,c166
+r1731546077884,3,"^Club Stores \(Sam's Club, Costco, BJ's\)$","1","",1,c166
+r1731546715468,3,"^I have a child\(ren\) attending school \(PreK - Grade 12\)$","1","",1,c1731546701422
+r1731546767424,3,"^Art Kits$","1","",1,c1731546701422
+r1731546774974,3,"^Wood Pencils$","1","",1,c1731546701422
+r1731546786758,3,"^Colored Pencils$","1","",1,c1731546701422
+r1731546794670,3,"^Crayons$","1","",1,c1731546701422
+r1731546814964,3,"^Watercolor Paint$","1","",1,c1731546701422
+r1731546824607,3,"^Paint Brushes$","1","",1,c1731546701422
+r1731546836981,3,"^Glue$","1","",1,c1731546701422
+r1731546939735,3,"^PaperMate$","1","",1,c1731546701422
+r1731546985949,3,"^Faber-Castell$","1","",1,c1731546701422
+r1731547118875,3,"^Hello Hobby$","1","",1,c1731546701422
+r1731547185843,3,"^Elmer's$","1","",1,c1731546701422
+r1731547206212,3,"^Amazon$","1","",1,c1731546701422
+r1731547212516,3,"^Walmart$","1","",1,c1731546701422
+r1731547221758,3,"^Club Stores \(e\.g\. Costco, Bj’s, Sam’s Club\)$","1","",1,c1731546701422
+r1731547230411,3,"^Target$","1","",1,c1731546701422
+r1731547355696,3,"^9-10 years old$","1","",1,c1731546701422
+r1731547403732,3,"^13-14 years old$","1","",1,c1731546701422
+r1731547407987,3,"^Drawing, Painting, and Coloring$","1","",1,c1731546701422
+r1731547421156,3,"^Playing Board and Card Games$","1","",1,c1731546701422
+r1731547473959,3,"^Sketch/Drawing Paper$","1","",1,c1731546701422
+r1731547508768,3,"^X \(Twitter\)$","1","",1,c1731546701422
+r1731547515676,3,"^WhatsApp$","1","",1,c1731546701422
+r1731547525881,3,"^Pinterest$","1","",1,c1731546701422
+r1731547532936,3,"^Facebook$","1","",1,c1731546701422
+r1731547541130,3,"^Snapchat$","1","",1,c1731546701422
+r1731547554041,3,"^TikTok$","1","",1,c1731546701422
+r1731547559853,3,"^Discord$","1","",1,c1731546701422
+r1731547569487,3,"^Twitch$","1","",1,c1731546701422
+r1731547577240,3,"^Instagram$","1","",1,c1731546701422
+r1731547582664,3,"^YouTube$","1","",1,c1731546701422
+r1731549518198,3,"^Holiday Gifts$","1","",1,c358
+r1731549525449,3,"^New Year’s Eve Party Supplies \(decorations, hats, noisemakers\)$","1","",1,c358
+r1731549556631,3,"^Gift Wrap, Cards, & Packaging Supplies$","1","",1,c358
+r1731549563747,3,"^Holiday-Themed Food & Beverages \(cookies, eggnog, etc\.\)$","1","",1,c358
+r1731549572913,3,"^Holiday-Themed Décor$","1","",1,c358
+r1731549578634,3,"^Clothing for Holiday Events or Gatherings$","1","",1,c358
+r1731549615527,3,"^New Year’s Day$","1","",1,c358
+r1731549623505,3,"^Christmas$","1","",1,c358
+r1731550078349,3,"^Left$","1","",1,c1731550064486
+r1731550096466,3,"^I am the primary purchaser of groceries for my household$","1","",1,c1731550064486
+r1731550115763,3,"^I have a child / children who live at home with me$","1","",1,c1731550064486
+r1731550162707,3,"^Refrigerated Cheese Snacks \(e\.g\., Sargento Balanced Breaks, Babybel\)$","1","",1,c1731550064486
+r1731550172036,3,"^Salty Snacks \(e\.g\., Potato Chips, Pretzels, Popcorn\)$","1","",1,c1731550064486
+r1731550178474,3,"^Yogurt$","1","",1,c1731550064486
+r1731550184947,3,"^Crackers$","1","",1,c1731550064486
+r1731550190788,3,"^Cookies$","1","",1,c1731550064486
+r1731550197274,3,"^Baking Chocolate Chips$","1","",1,c1731550064486
+r1731550334672,3,"^Butter Cookies$","1","",1,c1731550064486
+r1731550345242,3,"^Crispy Cookies$","1","",1,c1731550064486
+r1731550351978,3,"^Chewy Cookies$","1","",1,c1731550064486
+r1731550358378,3,"^Mini Cookies$","1","",1,c1731550064486
+r1731550396123,3,"^Sandwich$","1","",1,c1731550064486
+r1731550402338,3,"^Macarons$","1","",1,c1731550064486
+r1731550409452,3,"^Chocolate Chip$","1","",1,c1731550064486
+r1731550418069,3,"^ Peanut Butter$","1","",1,c1731550064486
+r1731550862053,3,"^Top pink line$","1","",1,c1731550850491
+r1731550881133,3,"^Employed full-time$","1","",1,c1731550850491
+r1731551124306,3,"^USB device / external hard drive$","1","",1,c1731550850491
+r1731551130932,3,"^Headphones / headset$","1","",1,c1731550850491
+r1731551137350,3,"^Bluetooth speaker$","1","",1,c1731550850491
+r1731551143315,3,"^Smartphone / mobile phone$","1","",1,c1731550850491
+r1731551150179,3,"^Desktop computer$","1","",1,c1731550850491
+r1731551233650,3,"^Dell$","1","",1,c1731550850491
+r1731551249539,3,"^I am the sole decision maker$","1","",1,c1731550850491
+r1731551960804,3,"^Smart Appliance \(stove, refrigerator, washer, etc\. connected to the Internet\)$","1","",1,c1731551949898
+r1731551987141,3,"^Smart TV$","1","",1,c1731551949898
+r1731551994109,3,"^Gaming console$","1","",1,c1731551949898
+r1731551999678,3,"^Laptop$","1","",1,c1731551949898
+r1731552006485,3,"^Smartphone$","1","",1,c1731551949898
+r1731552022235,3,"^Samsung$","1","",1,c1731551949898
+r1731552069654,3,"^I use streaming apps$","1","",1,c1731551949898
+r1731552138704,3,"^Disney\+$","1","",1,c1731551949898
+r1731552151641,3,"^Amazon Prime$","1","",1,c1731551949898
+r1731552157986,3,"^Netflix$","1","",1,c1731551949898
+r1731552164907,3,"^HBO Max$","1","",1,c1731551949898
+r1731552173096,3,"^Paramount\+$","1","",1,c1731551949898
+r1731552231733,3,"^Social apps \(i\.e\. Facebook, Instagram, Twitter\)$","1","",1,c1731551949898
+r1731552246436,3,"^Live TV apps \(i\.e\. DirectTV Stream, Sling, Hulu w/ Live TV\)$","1","",1,c1731551949898
+r1731552253619,3,"^Gaming apps \(i\.e\. Candy Crush, Roblox, Minecraft\)$","1","",1,c1731551949898
+r1731552260883,3,"^Subscription-based apps \(i\.e\. Netflix, Apple TV, Peacock\)$","1","",1,c1731551949898
+r1731553343913,3,"^Fiber supplements \(i\.e\., Benefiber, Metamucil, Citrucel, etc\.\)$","1","",1,c1731553333783
+r1731553370169,3,"^Food products \(i\.e\., digestive health benefit cereal or tea, fermented foods, etc\.\)$","1","",1,c1731553333783
+r1731553384849,3,"^Probiotic supplements \(i\.e\., Align, Trubiotics, Culturelle, etc\.\)$","1","",1,c1731553333783
+r1731553516914,3,"^Powders$","1","",1,c1731553333783
+r1731554572032,3,"^Reduce stress$","1","",1,c1731553333783
+r1731554583679,3,"^Be more active$","1","",1,c1731553333783
+r1731554798381,3,"^Vitamins/minerals/supplements$","1","",1,c1731553333783
+r1731555146300,3,"^No, not Hispanic, Latino or Spanish origin$","1","",1,c162
+r1731555542574,3,"^Vitamins and minerals$","1","",1,c162
+r1731555555555,3,"^Pre-workout drinks$","1","",1,c162
+r1731556704151,3,"^I agree much more with statement A$","1","",1,c15
 r17316,3,"^Private Label$","1","",1,c344
 r17317,3,"^Brand reputation$","1","",1,c344
 r17318,3,"^Better quality$","1","",1,c344
