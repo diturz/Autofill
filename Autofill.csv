@@ -257,6 +257,21 @@ c1731550064486,"We want to hear from you.","",,,,
 c1731550850491,"Let’s talk a bit more about you.","",,,,
 c1731551949898,"Some questions about your device usage!","",,,,
 c1731553333783,"Just a few quick questions!","",,,,
+c1731588806271,"We Wanna Show You Something!","",,,,
+c1731591092432,"We'd love your feedback on a new website landing page formatted for mobile phones.","",,,,
+c1731592066986,"Share your feedback about our new ad!","",,,,
+c1731592550159,"Holiday Planning","",,,,
+c1731592888560,"Some Questions for You","",,,,
+c1731592918493,"Cream for your coffee?","",,,,
+c1731595102397,"Cough Syrup","",,,,
+c1731595496598,"We'd love to hear about your net worth","",,,,
+c1731595928692,"Please provide your opinion!","",,,,
+c1731596168614,"All About Travel!","",,,,
+c1731596927126,"Tell us about you today...","",,,,
+c1731607508966,"Brand Awareness","",,,,
+c1731607822977,"Pet food shopping","",,,,
+c1731607933552,"Tell us your opinion about dog treats!","",,,,
+c1731608188258,"Tell us your thoughts!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -4182,7 +4197,240 @@ r1731555146300,3,"^No, not Hispanic, Latino or Spanish origin$","1","",1,c162
 r1731555542574,3,"^Vitamins and minerals$","1","",1,c162
 r1731555555555,3,"^Pre-workout drinks$","1","",1,c162
 r1731556704151,3,"^I agree much more with statement A$","1","",1,c15
+r1731587823442,3,"^Financial Services$","1","",1,c1731380387889
+r1731588534628,3,"^Yes, one or more children under the age of 18 living in my household$","1","",1,c1731380387889
+r1731588603505,3,"^Grade 5$","1","",1,c1731380387889
+r1731588610904,3,"^Grade 8$","1","",1,c1731380387889
+r1731588819330,3,"^Innovative$","1","",1,c1731588806271
+r1731588832447,3,"^Productive$","1","",1,c1731588806271
+r1731588867562,3,"^Visit a physical store that carries the brand$","1","",1,c1731588806271
+r1731588878863,3,"^Look up the brand on social media$","1","",1,c1731588806271
+r1731588910798,3,"^Best network, here and abroad\.$","1","",1,c1731588806271
+r1731589062942,3,"^America’s best network for all your devices\.$","1","",1,c1731588806271
+r1731589310062,3,"^Family, Friend or Neighbor Care$","1","",1,c1731546701422
+r1731589650526,3,"^Finance and banking$","1","",1,c1731550850491
+r1731589951282,3,"^60% - 79%$","1","",1,c1731550850491
+r1731589976598,3,"^Finance or Accounting$","1","",1,c1731550850491
+r1731590004933,3,"^I would not like to participate$","1","",1,c1731550850491
+r1731590264702,3,"^Employed full-time \(30 or more hrs\. per week\)$","1","",1,c1731380387889
+r1731590310870,3,"^Accountancy / banking / finance$","1","",1,c1731380387889
+r1731590408859,3,"^Male$","1","",1,c162
+r1731590424013,3,"^No, not Hispanic, Latino or Spanish origin$","1","",1,c162
+r1731590525110,3,"^Multiple times a week$","1","",1,c162
+r1731590583302,3,"^Pre-workout ready-to-drink shakes$","1","",1,c162
+r1731590597318,3,"^Electrolyte powders/sport drink powders \(mix-ins or tablets\)$","1","",1,c162
+r1731590605014,3,"^Pre-workout drinks$","1","",1,c162
+r1731590616546,3,"^Vitamins and minerals$","1","",1,c162
+r1731590624436,3,"^Weight loss supplements \(e\.g\. Fat Burners, etc\.\)$","1","",1,c162
+r1731590764494,3,"^GHOST$","1","",1,c162
+r1731590869726,3,"^Over the Counter Allergy Tablets/Pills$","1","",1,c1731380387889
+r1731590882264,3,"^Over the Counter cold and cough medications/Tablets/pills$","1","",1,c1731380387889
+r1731590898277,3,"^Benadryl$","1","",1,c1731380387889
+r1731590907485,3,"^Claritin$","1","",1,c1731380387889
+r1731590924152,3,"^Generic Antihistamines \(e\.g\., Cetirizine, Loratadine\)$","1","",1,c1731380387889
+r1731590941757,3,"^Tablets/Pills$","1","",1,c1731380387889
+r1731590959973,3,"^I AGREE$","1","",1,c1731380387889
+r1731591105782,3,"^Motrin$","1","",1,c1731591092432
+r1731591112288,3,"^Tylenol$","1","",1,c1731591092432
+r1731591181736,3,"^Excedrin Option E$","1","",1,c1731591092432
+r1731591301804,3,"^No, I have not seen this clip before$","1","",1,c1731264566320
+r1731591586053,3,"^English$","1","",1,c384
+r1731591602686,3,"^Home furniture$","1","",1,c384
+r1731591609567,3,"^Clothing or footwear$","1","",1,c384
+r1731591622004,3,"^Mobile phone \(trade-in, upgrade, or outright purchase\)$","1","",1,c384
+r1731591630340,3,"^Small or large appliances \(e\.g\., blender, refrigerator\)$","1","",1,c384
+r1731591638166,3,"^Mobile phone accessories \(e\.g\., earbuds, cable / charger, etc\.\)$","1","",1,c384
+r1731591648438,3,"^Food or beverage \(e\.g\., groceries, fast food\)$","1","",1,c384
+r1731591766654,3,"^\$80 to \$99$","1","",1,c384
+r1731591781813,3,"^Agree$","1","",1,c384
+r1731591879991,3,"^Five or more times$","1","",1,c3
+r1731591897973,3,"^Google$","1","",1,c3
+r1731592077349,3,"^V1$","1","",1,c1731592066986
+r1731592093198,3,"^The cherry flavor$","1","",1,c1731592066986
+r1731592114214,3,"^The ad is relevant to me$","1","",1,c1731592066986
+r1731592127010,3,"^The design of the ad is visually appealing$","1","",1,c1731592066986
+r1731592160677,3,"^No changes are needed$","1","",1,c1731592066986
+r1731592379206,3,"^Sparkling Water and Flavored Waters$","1","",1,c372
+r1731592394197,3,"^Pre-workout powders$","1","",1,c372
+r1731592416637,3,"^Vitamins and minerals$","1","",1,c372
+r1731592570375,3,"^Yes, I plan to send holiday greeting cards this year\.$","1","",1,c1731592550159
+r1731592596922,3,"^About the same$","1","",1,c1731592550159
+r1731592618439,3,"^About the same time as last year$","1","",1,c1731592550159
+r1731592634334,3,"^6-10$","1","",1,c1731592550159
+r1731592650802,3,"^Shopped but have not purchased$","1","",1,c1731592550159
+r1731592685309,3,"^Still deciding on quantity$","1","",1,c1731592550159
+r1731592695870,3,"^Waiting for partner/family to approve$","1","",1,c1731592550159
+r1731592709889,3,"^Still working on the card$","1","",1,c1731592550159
+r1731592720884,3,"^A Personalized/Photo Card$","1","",1,c1731592550159
+r1731592733912,3,"^Canva$","1","",1,c1731592550159
+r1731592749253,3,"^Quick delivery$","1","",1,c1731592550159
+r1731592759150,3,"^Quality$","1","",1,c1731592550159
+r1731592772102,3,"^Best designs$","1","",1,c1731592550159
+r1731592874640,3,"^Both gelatin and pudding$","1","",1,c137
+r1731592896826,3,"^Both gelatin and pudding$","1","",1,c1731592888560
+r1731592930116,3,"^Mass merchandisers \(e\.g\., Target, Walmart\)$","1","",1,c1731592918493
+r1731592944325,3,"^Online-only \(e\.g\., Amazon Fresh, FreshDirect\)$","1","",1,c1731592918493
+r1731592953703,3,"^Directly from grocery/food store websites \(e\.g\., Kroger\.com, Publix\.com\)$","1","",1,c1731592918493
+r1731592983254,3,"^Kroger – Kroger\.com$","1","",1,c1731592918493
+r1731592999012,3,"^Amazon Fresh$","1","",1,c1731592918493
+r1731593011589,3,"^Walmart\.com$","1","",1,c1731592918493
+r1731593031574,3,"^Trust in this retailer$","1","",1,c1731592918493
+r1731593040244,3,"^Quick delivery and shipping$","1","",1,c1731592918493
+r1731593050382,3,"^Better quality of items$","1","",1,c1731592918493
+r1731593059031,3,"^Good variety of items$","1","",1,c1731592918493
+r1731593069621,3,"^Personalized product and brand recommendations$","1","",1,c1731592918493
+r1731593080701,3,"^Silk$","1","",1,c1731592918493
+r1731593091814,3,"^International Delight$","1","",1,c1731592918493
+r1731593106605,3,"^So Delicious$","1","",1,c1731592918493
+r1731593117198,3,"^Califia Farms$","1","",1,c1731592918493
+r1731593126669,3,"^Starbucks$","1","",1,c1731592918493
+r1731593147134,3,"^Dunkin'$","1","",1,c1731592918493
+r1731593164846,3,"^I had planned to buy it before visiting the site$","1","",1,c1731592918493
+r1731593192544,3,"^A few hours before shopping$","1","",1,c1731592918493
+r1731593207759,3,"^Made a shopping list$","1","",1,c1731592918493
+r1731593222261,3,"^Read product ratings/reviews$","1","",1,c1731592918493
+r1731593262133,3,"^Someone recommended it to me$","1","",1,c1731592918493
+r1731593275535,3,"^I wanted something with adventurous flavors$","1","",1,c1731592918493
+r1731593296894,3,"^I tried a new flavor/variety of coffee creamer$","1","",1,c1731592918493
+r1731593316653,3,"^Read positive customer reviews or ratings$","1","",1,c1731592918493
+r1731593326735,3,"^Recommended by a friend or family member$","1","",1,c1731592918493
+r1731593336204,3,"^Enjoy trying new things$","1","",1,c1731592918493
+r1731593353119,3,"^Special gathering or event \(e\.g\., brunch, party\)$","1","",1,c1731592918493
+r1731593361885,3,"^Daily coffee at home$","1","",1,c1731592918493
+r1731593394556,3,"^Faster checkout process$","1","",1,c1731592918493
+r1731593424301,3,"^Option to track order progress$","1","",1,c1731592918493
+r1731593433848,3,"^Convenience of home delivery$","1","",1,c1731592918493
+r1731593461781,3,"^I want the convenience of tracking my order$","1","",1,c1731592918493
+r1731593471156,3,"^I need it delivered at a specific time$","1","",1,c1731592918493
+r1731593627126,3,"^The price point is good value for money$","1","",1,c1731449109661
+r1731595108975,3,"^Effective$","1","",1,c1731595102397
+r1731595116499,3,"^High quality$","1","",1,c1731595102397
+r1731595124924,3,"^Easy to use$","1","",1,c1731595102397
+r1731595313633,3,"^ Spend somewhat more$","1","",1,c1730963489809
+r1731595329249,3,"^Food and beverage$","1","",1,c1730963489809
+r1731595339404,3,"^Gifts for others$","1","",1,c1730963489809
+r1731595348984,3,"^Holiday decor$","1","",1,c1730963489809
+r1731595363620,3,"^Gifts for others$","1","",1,c1730963489809
+r1731595386652,3,"^No, the election outcome will NOT impact my spend$","1","",1,c1730963489809
+r1731595403480,3,"^No/minimal impact$","1","",1,c1730963489809
+r1731595439652,3,"^Independent/No Party Affiliation$","1","",1,c1730963489809
+r1731595509108,3,"^\$200,000 - \$299,999$","1","",1,c1731595496598
+r1731595606470,3,"^“Buy Now, Pay Later” service \(e\.g\., Klarna, AfterPay, Affirm\)$","1","",1,c1730726896862
+r1731595616972,3,"^Savings account from a bank/financial institution$","1","",1,c1730726896862
+r1731595624308,3,"^Credit card from a gas company \(e\.g\., BP, ExxonMobil, Sunoco, Shell\)$","1","",1,c1730726896862
+r1731595636384,3,"^Credit card from a retailer/store$","1","",1,c1730726896862
+r1731595643739,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal, Zelle\)$","1","",1,c1730726896862
+r1731595651604,3,"^Mobile/Digital wallet \(e\.g\., Apple Pay, Google Pay, Samsung Pay\)$","1","",1,c1730726896862
+r1731595667120,3,"^Walmart$","1","",1,c1730726896862
+r1731595672988,3,"^Verizon$","1","",1,c1730726896862
+r1731595686524,3,"^Kroger$","1","",1,c1730726896862
+r1731595699349,3,"^Amazon$","1","",1,c1730726896862
+r1731595712252,3,"^Walgreens$","1","",1,c1730726896862
+r1731595734650,3,"^Any retailer that accepts credit cards$","1","",1,c1730726896862
+r1731595771197,3,"^Eagle$","1","",1,c1730726896862
+r1731595938412,3,"^Over-the-counter non-prescription cough, cold, or flu medications \(i\.e\. DayQuil, NyQuil, Mucinex, Robitussin, etc\.\)$","1","",1,c1731595928692
+r1731595946108,3,"^Immunity supplements \(i\.e\. EmergenC, Airborne, Vitamin-C, etc\.\)$","1","",1,c1731595928692
+r1731595958352,3,"^Other Vitamins/Supplements \(i\.e\. daily multi-vitamins, etc\.\)$","1","",1,c1731595928692
+r1731595969984,3,"^Allergy medications \(i\.e\. Flonase, Zyrtec, Claritin, etc\.\)$","1","",1,c1731595928692
+r1731595992485,3,"^Alka-Seltzer Plus Cold$","1","",1,c1731595928692
+r1731595999171,3,"^Robitussin$","1","",1,c1731595928692
+r1731596015820,3,"^Pills / Tablets$","1","",1,c1731595928692
+r1731596026533,3,"^Cough Drops / Lozenges$","1","",1,c1731595928692
+r1731596181869,3,"^Directly with the airline, cruise line, hotel, car rental provider \(American Airlines, Hilton, Carnival Cruise Line, Hertz\)$","1","",1,c1731596168614
+r1731596190590,3,"^Travel websites \(e\.g\., Expedia, Booking\.com, Travelocity, Orbitz, Priceline, Kayak, Trivago\)$","1","",1,c1731596168614
+r1731596207563,3,"^Trivago$","1","",1,c1731596168614
+r1731596219575,3,"^Expedia$","1","",1,c1731596168614
+r1731596228876,3,"^Booking\.com$","1","",1,c1731596168614
+r1731596246355,3,"^Activities \(e\.g\., museums, theater shows, ziplining, rafting\)$","1","",1,c1731596168614
+r1731596252564,3,"^Hotels$","1","",1,c1731596168614
+r1731596262173,3,"^Tours/Sightseeing$","1","",1,c1731596168614
+r1731596282613,3,"^Ease of booking$","1","",1,c1731596168614
+r1731596294412,3,"^Buy now pay later options \(e\.g\., Affirm, Klarna\)$","1","",1,c1731596168614
+r1731596302604,3,"^Ability to use rewards towards a current purchase$","1","",1,c1731596168614
+r1731596344521,3,"^Payment service options \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c1731596168614
+r1731596492231,3,"^I don’t have any pain points when booking$","1","",1,c1731596168614
+r1731596509161,3,"^Yes, I always purchase travel insurance$","1","",1,c1731596168614
+r1731596532763,3,"^It makes me feel secure$","1","",1,c1731596168614
+r1731596606132,3,"^Priority status$","1","",1,c1731596168614
+r1731596613260,3,"^Cashback$","1","",1,c1731596168614
+r1731596657905,3,"^Discounts on entertainment and events$","1","",1,c1731596168614
+r1731596718832,3,"^26%-50%$","1","",1,c1731596168614
+r1731596752400,3,"^Mobile phone$","1","",1,c1731596168614
+r1731596934674,3,"^ Male$","1","",1,c1731596927126
+r1731596949873,3,"^White/Caucasian$","1","",1,c1731596927126
+r1731596965292,3,"^I am at my ideal weight$","1","",1,c1731596927126
+r1731596993725,3,"^Fatigue$","1","",1,c1731596927126
+r1731597004932,3,"^Trouble sleeping$","1","",1,c1731596927126
+r1731597013019,3,"^Morning headaches$","1","",1,c1731596927126
+r1731597045756,3,"^I am not interested in losing weight$","1","",1,c1731596927126
+r1731597070740,3,"^I’m not familiar with any of the listed medications$","1","",1,c1731596927126
+r1731597088556,3,"^I have used a GLP-1 medication \(e\.g\., Ozempic, Wegovy, Zepbound, etc\.\) in the past but do not currently\.$","1","",1,c1731596927126
+r1731597105782,3,"^I learned about GLP-1 medications IN 2024$","1","",1,c1731596927126
+r1731597132280,3,"^I used a GLP-1 prior to 2024 and CONTINUE TO use$","1","",1,c1731596927126
+r1731597163317,3,"^A friend or family member recommended it$","1","",1,c1731596927126
+r1731597196156,3,"^Agree$","1","",1,c1731596927126
+r1731597219810,3,"^I feel the same now \(in 2024\) as I did in 2023$","1","",1,c1731596927126
+r1731597243227,3,"^GLP-1s medications are effective tools for weight loss.$","1","",1,c1731596927126
 r17316,3,"^Private Label$","1","",1,c344
+r1731606561834,3,"^If a friend or family member recommended it$","1","",1,c1731596927126
+r1731606582993,3,"^Married$","1","",1,c1731596927126
+r1731606604249,3,"^I am a parent/guardian with children UNDER 18 years old who live in my household\.$","1","",1,c1731596927126
+r1731606868570,3,"^Financial Services/Insurance$","1","",1,c1731380387889
+r1731606945214,3,"^BelVita$","1","",1,c1731380387889
+r1731606956174,3,"^Oreo Cakesters$","1","",1,c1731380387889
+r1731606965698,3,"^Nutella & Go$","1","",1,c1731380387889
+r1731607021653,3,"^Electronics$","1","",1,c383
+r1731607028172,3,"^Sunscreen$","1","",1,c383
+r1731607033923,3,"^Facial moisturizer$","1","",1,c383
+r1731607040036,3,"^Home cleaning products$","1","",1,c383
+r1731607080746,3,"^Acne control and prevention$","1","",1,c383
+r1731607088204,3,"^Sun protection and skin defense$","1","",1,c383
+r1731607335833,3,"^Independent/No Party Affiliation$","1","",1,c178
+r1731607527701,3,"^Very little$","1","",1,c1731607508966
+r1731607557681,3,"^Magnolia Home$","1","",1,c1731607508966
+r1731607580060,3,"^Target kitchen and home decor products$","1","",1,c1731607508966
+r1731607599828,3,"^Magnolia is a magazine brand\.$","1","",1,c1731607508966
+r1731607831437,3,"^Cat\(s\)$","1","",1,c1731607822977
+r1731607840366,3,"^Dog\(s\)$","1","",1,c1731607822977
+r1731607857067,3,"^At a store \(grocery store, pet store, mass merchandise store etc\.\)$","1","",1,c1731607822977
+r1731607871435,3,"^Online using a computer$","1","",1,c1731607822977
+r1731607896632,3,"^Walmart$","1","",1,c1731607822977
+r1731607903729,3,"^Kroger$","1","",1,c1731607822977
+r1731607909017,3,"^Amazon$","1","",1,c1731607822977
+r1731607950111,3,"^Crunchy/biscuit$","1","",1,c1731607933552
+r1731607957663,3,"^Soft/moist$","1","",1,c1731607933552
+r1731607965235,3,"^Dental/oral care$","1","",1,c1731607933552
+r1731608007497,3,"^Salmon$","1","",1,c1731607933552
+r1731608018810,3,"^Bacon$","1","",1,c1731607933552
+r1731608048208,3,"^Salmon and Apple$","1","",1,c1731607933552
+r1731608196192,3,"^34-43$","1","",1,c1731608188258
+r1731608208934,3,"^Male$","1","",1,c1731608188258
+r1731608219698,3,"^White$","1","",1,c1731608188258
+r1731608240306,3,"^\$100,000 but less than \$125,000$","1","",1,c1731608188258
+r1731608252351,3,"^Urban$","1","",1,c1731608188258
+r1731608265248,3,"^Own$","1","",1,c1731608188258
+r1731608279889,3,"^Single family home$","1","",1,c1731608188258
+r1731608380926,3,"^I am the primary decision maker$","1","",1,c1731608188258
+r1731608395108,3,"^Paid live streaming service \(e\.g\., YouTube TV, Hulu \+ Live TV, etc\.\)$","1","",1,c1731608188258
+r1731608402792,3,"^Home internet/Wi-Fi service$","1","",1,c1731608188258
+r1731608411587,3,"^Paid streaming video service \(e\.g\., Netflix, Disney\+, HBO Max, etc\.\)$","1","",1,c1731608188258
+r1731608427682,3,"^Wireless/mobile phone service$","1","",1,c1731608188258
+r1731608445889,3,"^Traditional paid home television service \(Cable, Satellite, or Fiber Optic TV\)$","1","",1,c1731608188258
+r1731608463186,3,"^Verizon Fios$","1","",1,c1731608188258
+r1731608482721,3,"^The Internet equipment is provided for free by my Internet provider$","1","",1,c1731608188258
+r1731608499805,3,"^Somewhere in between$","1","",1,c1731608188258
+r1731608515760,3,"^6 months to less than 1 year$","1","",1,c1731608188258
+r1731608532768,3,"^Verizon$","1","",1,c1731608188258
+r1731608596418,3,"^Others often ask for my advice on technology products$","1","",1,c1731608188258
+r1731608616337,3,"^Play games on a phone or tablet$","1","",1,c1731608188258
+r1731608626552,3,"^Stream or watch online videos \(e\.g\., Netflix, Amazon Prime, YouTube, etc\.\)$","1","",1,c1731608188258
+r1731608640531,3,"^Listen to streaming music / radio \(e\.g\., Pandora, Spotify\)$","1","",1,c1731608188258
+r1731608656881,3,"^Play video games \(e\.g\., on a PC/laptop, gaming console, portable device, Smart TV, etc\.\)$","1","",1,c1731608188258
+r1731608677246,3,"^10 to 14$","1","",1,c1731608188258
+r1731608690368,3,"^Child$","1","",1,c1731608188258
+r1731608698233,3,"^Partner/spouse$","1","",1,c1731608188258
+r1731608715494,3,"^Highest speed \(the highest speed that was available to me\)$","1","",1,c1731608188258
+r1731608748217,3,"^I would not like to participate$","1","",1,c1731608188258
 r17317,3,"^Brand reputation$","1","",1,c344
 r17318,3,"^Better quality$","1","",1,c344
 r17319,3,"^Left$","1","",1,c344
