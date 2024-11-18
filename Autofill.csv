@@ -317,6 +317,8 @@ c1731782613176,"Habits Q4 2024","",,,,
 c1731783267663,"Warranties and Protection Plans","",,,,
 c1731783339572,"Fragrance Habits Q4 2024","",,,,
 c1731783539819,"Travel","",,,,
+c1731872690680,"Final Body Care Screener","",,,,
+c1731874477027,"Let's Talk Shopping!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -5212,6 +5214,78 @@ r1731783667558,3,"^Four times a year$","1","",1,c1731783539819
 r1731783681691,3,"^Too Busy at Work$","1","",1,c1731783539819
 r1731783688701,3,"^Time$","1","",1,c1731783539819
 r17318,3,"^Better quality$","1","",1,c344
+r1731872144570,3,"^Male$","1","",1,c162
+r1731872160260,3,"^No, not Hispanic, Latino or Spanish origin$","1","",1,c162
+r1731872174002,3,"^Multiple times a week$","1","",1,c162
+r1731872192872,3,"^Have used this product in the past but not currently$","1","",1,c162
+r1731872217586,3,"^Neither likely nor unlikely to consider$","1","",1,c162
+r1731872253752,3,"^Vitamins and minerals$","1","",1,c162
+r1731872264459,3,"^CBD products$","1","",1,c162
+r1731872375155,3,"^Over the Counter cold and cough medications/Tablets/pills$","1","",1,c1731380387889
+r1731872398466,3,"^Over the Counter Allergy Tablets/Pills$","1","",1,c1731380387889
+r1731872410625,3,"^Benadryl$","1","",1,c1731380387889
+r1731872421258,3,"^Generic Antihistamines \(e\.g\., Cetirizine, Loratadine\)$","1","",1,c1731380387889
+r1731872432417,3,"^Tablets/Pills$","1","",1,c1731380387889
+r1731872453985,3,"^I AGREE$","1","",1,c1731380387889
+r1731872707126,3,"^Normal$","1","",1,c1731872690680
+r1731872723841,3,"^Face wash/cleanser$","1","",1,c1731872690680
+r1731872730129,3,"^Body Cream$","1","",1,c1731872690680
+r1731872739593,3,"^Body lotion/moisturizer$","1","",1,c1731872690680
+r1731872745737,3,"^Face lotion/cream$","1","",1,c1731872690680
+r1731872751937,3,"^Bar soap$","1","",1,c1731872690680
+r1731872757809,3,"^Hand lotion/cream$","1","",1,c1731872690680
+r1731872764743,3,"^Body wash/cleanser$","1","",1,c1731872690680
+r1731872782801,3,"^Walgreens$","1","",1,c1731872690680
+r1731872788992,3,"^Walmart$","1","",1,c1731872690680
+r1731872795353,3,"^CVS$","1","",1,c1731872690680
+r1731872816984,3,"^ use body lotion/cream for my body and face lotion/cream for my face$","1","",1,c1731872690680
+r1731872832722,3,"^I use the SAME skin wash/cleanser for my body and face$","1","",1,c1731872690680
+r1731872849342,3,"^7 to 4 times a week$","1","",1,c1731872690680
+r1731872941161,3,"^Combination skin$","1","",1,c1731872690680
+r1731872968681,3,"^Has a pleasant fragrance/scent$","1","",1,c1731872690680
+r1731872977656,3,"^Good for my skin type \(i\.e\., normal, oily, dry, very dry, etc\.\)$","1","",1,c1731872690680
+r1731873030240,3,"^Sunscreen$","1","",1,c383
+r1731873040923,3,"^Home cleaning products$","1","",1,c383
+r1731873047600,3,"^Electronics$","1","",1,c383
+r1731873054506,3,"^ Facial moisturizer$","1","",1,c383
+r1731873097550,3,"^Sun protection and skin defense$","1","",1,c383
+r1731873107798,3,"^Skin hydration and moisture$","1","",1,c383
+r1731874021626,3,"^I am the primary decision maker$","1","",1,c47
+r1731874102445,3,"^Somewhat disagree$","1","",1,c47
+r1731874118922,3,"^Somewhat likely$","1","",1,c47
+r1731874486082,3,"^Groceries$","1","",1,c1731874477027
+r1731874498673,3,"^Personal Care$","1","",1,c1731874477027
+r1731874503882,3,"^Oral Care$","1","",1,c1731874477027
+r1731874510835,3,"^Laundry Care$","1","",1,c1731874477027
+r1731874516251,3,"^Skincare/Beauty Care$","1","",1,c1731874477027
+r1731874521530,3,"^Ulta$","1","",1,c1731874477027
+r1731874528298,3,"^Drug store \(e\.g\., CVS, Walgreens, Rite-Aid, etc\.\)$	","1","",1,c1731874477027
+r1731874571310,3,"^Walmart$","1","",1,c1731874477027
+r1731874587209,3,"^Equal mix of in-store and online$","1","",1,c1731874477027
+r1731874616673,3,"^Sun damage$","1","",1,c1731874477027
+r1731874634583,3,"^Body acne breakouts$","1","",1,c1731874477027
+r1731874647905,3,"^Somewhat Familiar$","1","",1,c1731874477027
+r1731874677167,3,"^Facial Cleanser$","1","",1,c1731874477027
+r1731874689827,3,"^Sunscreen/SPF$","1","",1,c1731874477027
+r1731874705648,3,"^Neutrogena$","1","",1,c1731874477027
+r1731874720520,3,"^B$","1","",1,c1731874477027
+r1731874735208,3,"^Normal$","1","",1,c1731874477027
+r1731874753401,3,"^Blackheads - Dark, filled pores from dead skin cells$","1","",1,c1731874477027
+r1731875889579,3,"^Yes, one or more children under the age of 18 living in my household$","1","",1,c15
+r1731875926025,3,"^Grade 8$","1","",1,c15
+r1731875932944,3,"^Grade 5$","1","",1,c15
+r1731876030698,3,"^Employed full-time \(30 or more hrs\. per week\)$","1","",1,c1731380387889
+r1731876048409,3,"^Accountancy / banking / finance$","1","",1,c1731380387889
+r1731876109305,3,"^Financial Services$","1","",1,c1731380387889
+r1731876247481,3,"^Google Maps$","1","",1,c1731380387889
+r1731876253642,3,"^Apple CarPlay$","1","",1,c1731380387889
+r1731876258907,3,"^Android Auto$","1","",1,c1731380387889
+r1731876297610,3,"^Connect my phone to the car’s built-in display via Wireless \(WIFI\)$","1","",1,c1731380387889
+r1731876318258,3,"^2023$","1","",1,c1731380387889
+r1731876331594,3,"^Chevrolet$","1","",1,c1731380387889
+r1731876344514,3,"^Suburban$","1","",1,c1731380387889
+r1731877334486,3,"^When I started getting close to my goal$","1","",1,c1731449896166
+r1731877466213,3,"^No, I did not know$","1","",1,c1731449896166
 r17319,3,"^Left$","1","",1,c344
 r1732,3,"^When going out to eat for dinner$","1","",1,c90
 r17320,3,"^Buy online$","1","",1,c344
