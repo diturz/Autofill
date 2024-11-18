@@ -319,6 +319,15 @@ c1731783339572,"Fragrance Habits Q4 2024","",,,,
 c1731783539819,"Travel","",,,,
 c1731872690680,"Final Body Care Screener","",,,,
 c1731874477027,"Let's Talk Shopping!","",,,,
+c1731939937225,"Exploring Dolly Parton-Inspired In-Store Bakery Products","",,,,
+c1731940792344,"Are you a Barista Style Plant Milk user??? We have a few questions for you!","",,,,
+c1731941760637,"Are you a Content Creator? Tell us more. If you WERE a content creator in the past, please use your latest experience to answer the questions","",,,,
+c1731942873083,"Calling all Barista Style Plant Milk users!! We want to hear from you!","",,,,
+c1731946759207,"Your Recent Grocery Shopping Behavior","",,,,
+c1731947680112,"Understanding Prescription Medication Usage","",,,,
+c1731948552418,"We'd love your thoughts!","",,,,
+c1731949065610,"Frozen Snack Advertisements","",,,,
+c1731950219197,"What's in Your Wallet?","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -5151,7 +5160,7 @@ r1731781512726,3,"^Youtube TV$","1","",1,c1731781450933
 r1731781519342,3,"^Netflix$","1","",1,c1731781450933
 r1731781526607,3,"^Premium$","1","",1,c1731781450933
 r1731781543660,3,"^Yes$","1","",1,c1731781450933
-r1731781560142,3,"^'ve watched Live stream events on Netflix while the event was happening$","1","",1,c1731781450933
+r1731781560142,3,"^I've watched Live stream events on Netflix while the event was happening$","1","",1,c1731781450933
 r1731781618821,3,"^All$","1","",1,c1731781582068
 r1731781632980,3,"^A financial services / accounting firm or department$","1","",1,c1731781582068
 r1731781645486,3,"^Yogurt$","1","",1,c1731781582068
@@ -5287,6 +5296,146 @@ r1731876344514,3,"^Suburban$","1","",1,c1731380387889
 r1731877334486,3,"^When I started getting close to my goal$","1","",1,c1731449896166
 r1731877466213,3,"^No, I did not know$","1","",1,c1731449896166
 r17319,3,"^Left$","1","",1,c344
+r1731938096720,3,"^Chocolate candy \(gummy candy, chocolate bars, etc\.\)$","1","",1,c1731381250192
+r1731938102293,3,"^Frozen pizza$","1","",1,c1731381250192
+r1731938110005,3,"^Sweet snacks \(snack cakes, etc\.\)$","1","",1,c1731381250192
+r1731938117367,3,"^Frozen breakfast foods \(breakfast sandwiches, frozen waffles/pancakes, etc\.\)$","1","",1,c1731381250192
+r1731938124956,3,"^Frozen snacks and/or appetizers \(pizza rolls, Uncrustables, mozzarella sticks, Mexican or Asian appetizers, etc\.\)$","1","",1,c1731381250192
+r1731938136400,3,"^Salty snacks \(pretzels, potato chips, etc\.\)$","1","",1,c1731381250192
+r1731938142718,3,"^Yogurt$","1","",1,c1731381250192
+r1731938149070,3,"^Cookies$","1","",1,c1731381250192
+r1731938160702,3,"^Ready-to-Eat Cereal$","1","",1,c1731381250192
+r1731938170064,3,"^Fruit snacks \(Motts, Welch’s, Gushers, Fruit Roll Ups, etc\.\)$","1","",1,c1731381250192
+r1731938176269,3,"^Desserts \(cakes, ice cream, etc\.\)$","1","",1,c1731381250192
+r1731938182836,3,"^Cereal$","1","",1,c1731381250192
+r1731938207774,3,"^Nestle Hot Pockets$","1","",1,c1731381250192
+r1731938213349,3,"^Tyson Chicken Nuggets$","1","",1,c1731381250192
+r1731939962749,3,"^Cookies$","1","",1,c1731939937225
+r1731939969205,3,"^Cupcakes$","1","",1,c1731939937225
+r1731939983540,3,"^Holidays$","1","",1,c1731939937225
+r1731939990036,3,"^Special occasions$","1","",1,c1731939937225
+r1731940014583,3,"^High-quality products$","1","",1,c1731939937225
+r1731940045634,3,"^Comfort food nostalgia$","1","",1,c1731939937225
+r1731940069543,3,"^Occasionally \(a few times a year\)$","1","",1,c1731939937225
+r1731940423133,3,"^Beauty products \(e\.g\., skincare, makeup\)$","1","",1,c4
+r1731940430777,3,"^Home goods \(e\.g\., furniture, kitchen appliances\)$","1","",1,c4
+r1731940437637,3,"^Sports shoes \(e\.g\., sneakers, running shoes, basketball shoes\)$","1","",1,c4
+r1731940444469,3,"^Sports clothing \(e\.g\., workout clothes, athletic wear\)$","1","",1,c4
+r1731940452997,3,"^Electronics \(e\.g\., smartphones, laptops\)$","1","",1,c4
+r1731940463012,3,"^General fitness \(e\.g\., walking, casual exercise\)$","1","",1,c4
+r1731940501958,3,"^4\+ times a week$","1","",1,c4
+r1731940517700,3,"^Adidas$","1","",1,c4
+r1731940529916,3,"^Under Armour$","1","",1,c4
+r1731940540764,3,"^Nike$","1","",1,c4
+r1731940828840,3,"^Chobani$","1","",1,c1731940792344
+r1731940836732,3,"^Elmhurst$","1","",1,c1731940792344
+r1731940843748,3,"^Califia Farms$","1","",1,c1731940792344
+r1731940945535,3,"^In a smoothie / protein shake$","1","",1,c1731940792344
+r1731940955604,3,"^n an espresso / specialty drink \(e\.g\. Latte, Matcha\)$","1","",1,c1731940792344
+r1731940962692,3,"^When cooking and baking$","1","",1,c1731940792344
+r1731941032387,3,"^Both Hot and Cold about equally often$","1","",1,c1731940792344
+r1731941047156,3,"^Espresso machine with steam wand$","1","",1,c1731940792344
+r1731941780680,3,"^Yes, I do it personally$","1","",1,c1731941760637
+r1731941802804,3,"^Aspiring Influencer$","1","",1,c1731941760637
+r1731941830479,3,"^Very important$","1","",1,c1731941760637
+r1731941844956,3,"^Average$","1","",1,c1731941760637
+r1731941862668,3,"^I enjoy creating and sharing regularly\. If the opportunity presents itself, I would be interested in profiting from my content and following$","1","",1,c1731941760637
+r1731941879528,3,"^Part-time$","1","",1,c1731941760637
+r1731941896827,3,"^Yes$","1","",1,c1731941760637
+r1731941908960,3,"^500-1,000$","1","",1,c1731941760637
+r1731941921116,3,"^5 - 10 hours$","1","",1,c1731941760637
+r1731941937148,3,"^Editing and post-production$","1","",1,c1731941760637
+r1731941951509,3,"^YouTube$","1","",1,c1731941760637
+r1731941960005,3,"^Instagram$","1","",1,c1731941760637
+r1731941967004,3,"^TikTok$","1","",1,c1731941760637
+r1731941973303,3,"^Twitter/X$","1","",1,c1731941760637
+r1731941991044,3,"^Ease of use$","1","",1,c1731941760637
+r1731941997844,3,"^My number of Followers$","1","",1,c1731941760637
+r1731942004086,3,"^Familiar platform$","1","",1,c1731941760637
+r1731942020308,3,"^1,000 - 10K$","1","",1,c1731941760637
+r1731942032869,3,"^Selling services$","1","",1,c1731941760637
+r1731942038587,3,"^To get and monetize followers$","1","",1,c1731941760637
+r1731942055923,3,"^Personal Photographs$","1","",1,c1731941760637
+r1731942062983,3,"^Personal Short Videos \(<3 mins\)$","1","",1,c1731941760637
+r1731942069372,3,"^Long Videos \(10\+ mins\)$","1","",1,c1731941760637
+r1731942093230,3,"^Tips and ideas on content to create$","1","",1,c1731941760637
+r1731942109846,3,"^Generating text captions$","1","",1,c1731941760637
+r1731942115659,3,"^Technical difficulties$","1","",1,c1731941760637
+r1731942135205,3,"^Motivational$","1","",1,c1731941760637
+r1731942140862,3,"^Fitness and Health$","1","",1,c1731941760637
+r1731942157298,3,"^Less than \$1,000$","1","",1,c1731941760637
+r1731942178156,3,"^Yes, I use free tools$","1","",1,c1731941760637
+r1731942228781,3,"^Filmora$","1","",1,c1731941760637
+r1731942239612,3,"^CapCut$","1","",1,c1731941760637
+r1731942252342,3,"^ChatGPT$","1","",1,c1731941760637
+r1731942745589,3,"^3-4 hours$","1","",1,c1731380387889
+r1731942775797,3,"^Somewhat familiar – I’ve heard of AI and know a little about it\.$","1","",1,c1731380387889
+r1731942886748,3,"^In a brewed coffee or tea$","1","",1,c1731942873083
+r1731942894396,3,"^As a standalone beverage$","1","",1,c1731942873083
+r1731942902435,3,"^When cooking and baking$","1","",1,c1731942873083
+r1731943014041,3,"^Both$","1","",1,c1731942873083
+r1731943026008,3,"^Fill In \(picking up forgotten items or in between routine trips\)$","1","",1,c1731942873083
+r1731943143503,3,"^Shelf-stable / dry milk aisle$","1","",1,c1731942873083
+r1731943173587,3,"^Looked in the refrigerated creamer section$","1","",1,c1731942873083
+r1731943210653,3,"^3 times per week$","1","",1,c1731942873083
+r1731945041835,3,"^Chewable tablet$","1","",1,c1730177558205
+r1731945047915,3,"^Pill or tablet$","1","",1,c1730177558205
+r1731946773199,3,"^Both online and In-store$","1","",1,c1731946759207
+r1731946783907,3,"^Costco\.com$","1","",1,c1731946759207
+r1731946789435,3,"^Samsclub\.com$","1","",1,c1731946759207
+r1731946798789,3,"^Walmart\.com$","1","",1,c1731946759207
+r1731946808062,3,"^Kroger\.com$","1","",1,c1731946759207
+r1731947711292,3,"^Oral \(swallowed by mouth\)$","1","",1,c1731947680112
+r1731947713740,3,"^Cream/ointment$","1","",1,c1731947680112
+r1731947763955,3,"^4- I follow a strict diet and exercise routine to prevent health problems$","1","",1,c15
+r1731947779426,3,"^4- I don’t need an app to help me with my health$","1","",1,c15
+r1731947788151,3,"^1- I am very satisfied with how my health is currently being managed$","1","",1,c15
+r1731947800091,3,"^4- When I feel sick, I go to the doctor as soon as possible$","1","",1,c15
+r1731947812610,3,"^1- I research rating and reviews before scheduling a first-time appointment with a doctor$","1","",1,c15
+r1731947832970,3,"^4- A general practitioner is generally fine to treat whatever ails us$","1","",1,c15
+r1731947851587,3,"^4- I don’t have time to look for lower prices on prescriptions$","1","",1,c15
+r1731947864148,3,"^4- Before reading it, I check to see if wellness information is from an expert or organization I trust$","1","",1,c15
+r1731947876202,3,"^ 4- I prefer wellness information that is brief and hits just the key points$","1","",1,c15
+r1731947889138,3,"^4- I’m comfortable with navigating all the information that is out there$","1","",1,c15
+r1731947901154,3,"^Reduce stress$","1","",1,c15
+r1731947909945,3,"^Eat better$","1","",1,c15
+r1731947925555,3,"^Be more active$","1","",1,c15
+r1731947945511,3,"^It is a top priority for me$","1","",1,c15
+r1731947966714,3,"^Immediate/near-term health benefits$","1","",1,c15
+r1731947976546,3,"^Energy levels$","1","",1,c15
+r1731948003357,3,"^Anxiety$","1","",1,c15
+r1731948019723,3,"^Vitamins/minerals/supplements$","1","",1,c15
+r1731948034410,3,"^Meal delivery services \(e\.g\., HelloFresh\)$","1","",1,c15
+r1731948493154,3,"^Sleep or relaxation$","1","",1,c1731776008266
+r1731948502122,3,"^Omega 3s$","1","",1,c1731776008266
+r1731948509178,3,"^Gut health$","1","",1,c1731776008266
+r1731948647662,3,"^Fits very well$","1","",1,c1731948552418
+r1731948808156,3,"^Easy$","1","",1,c1731948552418
+r1731949075849,3,"^Tasty$","1","",1,c1731949065610
+r1731949084025,3,"^Good Quality$","1","",1,c1731949065610
+r1731949091994,3,"^Great for the family$","1","",1,c1731949065610
+r1731949125658,3,"^Option P$","1","",1,c1731949065610
+r1731949439826,3,"^Heartburn or acid reflux$","1","",1,c4
+r1731949461791,3,"^6-10 years$","1","",1,c4
+r1731949468146,3,"^11-17 years$","1","",1,c4
+r1731950226794,3,"^Man$","1","",1,c1731950219197
+r1731950238313,3,"^\$100,000 - \$149,999$","1","",1,c1731950219197
+r1731950259507,3,"^I’m not aware of anyone in my family ever immigrating to the United States$","1","",1,c1731950219197
+r1731950275729,3,"^Individual Retirement account \(IRA\)$","1","",1,c1731950219197
+r1731950285133,3,"^Savings account$","1","",1,c1731950219197
+r1731950291084,3,"^Debit card$","1","",1,c1731950219197
+r1731950298883,3,"^Traditional investment account \(stocks, bonds, options, etc\.\)$","1","",1,c1731950219197
+r1731950305333,3,"^Life insurance$","1","",1,c1731950219197
+r1731950310418,3,"^Credit card$","1","",1,c1731950219197
+r1731950318300,3,"^Cryptocurrency investment account \(bitcoin, etc\.\)$","1","",1,c1731950219197
+r1731950341364,3,"^Cryptocurrency \(i\.e\. Bitcoin, Dogecoin, etc\.\)$","1","",1,c1731950219197
+r1731950356050,3,"^ Stock / ETF options \(i\.e\. TSLA options, AMZN options, SPY options, etc\.\)$","1","",1,c1731950219197
+r1731950369983,3,"^\$10,000-\$29,999$","1","",1,c1731950219197
+r1731950381401,3,"^7-29$","1","",1,c1731950219197
+r1731950397163,3,"^I love new technologies and am among the first to experiment with and use them$","1","",1,c1731950219197
+r1731950410780,3,"^Coinbase$","1","",1,c1731950219197
+r1731950418099,3,"^Fidelity$","1","",1,c1731950219197
+r1731950434105,3,"^Just know the name$","1","",1,c1731950219197
 r1732,3,"^When going out to eat for dinner$","1","",1,c90
 r17320,3,"^Buy online$","1","",1,c344
 r17321,3,"^The same$","1","",1,c344
