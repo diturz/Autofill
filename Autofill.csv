@@ -328,6 +328,7 @@ c1731947680112,"Understanding Prescription Medication Usage","",,,,
 c1731948552418,"We'd love your thoughts!","",,,,
 c1731949065610,"Frozen Snack Advertisements","",,,,
 c1731950219197,"What's in Your Wallet?","",,,,
+c1732113657525,"Oatmeal!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -5439,6 +5440,16 @@ r1731950434105,3,"^Just know the name$","1","",1,c1731950219197
 r1732,3,"^When going out to eat for dinner$","1","",1,c90
 r17320,3,"^Buy online$","1","",1,c344
 r17321,3,"^The same$","1","",1,c344
+r1732113668921,3,"^Sam’s Club$","1","",1,c1732113657525
+r1732113687505,3,"^Standard \(e\.g\., Quick Oats, Old Fashioned/Rolled Oats, Steel Cut Oats, Organic Oats that are sold in a canister or bag/bags in a box\)$","1","",1,c1732113657525
+r1732113705066,3,"^Instant Packets \(multiple come in a box\)$","1","",1,c1732113657525
+r1732113716185,3,"^Quaker$","1","",1,c1732113657525
+r1732113732115,3,"^I bought it more often this year$","1","",1,c1732113657525
+r1732113751746,3,"^Yes$","1","",1,c1732113657525
+r1732113813345,3,"^Very likely$","1","",1,c1732113657525
+r1732113836190,3,"^Good value for the money$","1","",1,c1732113657525
+r1732113843465,3,"^Bag/Canister/Package is the right size$","1","",1,c1732113657525
+r1732113949786,3,"^Financial Services$","1","",1,c1731380387889
 r17322,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c344
 r17323,0,"input\[_ngcontent-ljo-c77\]","400","",1,c344
 r17324,3,"^I don’t pay attention to price when making my purchases$","1","",1,c344
