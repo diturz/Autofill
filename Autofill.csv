@@ -329,6 +329,16 @@ c1731948552418,"We'd love your thoughts!","",,,,
 c1731949065610,"Frozen Snack Advertisements","",,,,
 c1731950219197,"What's in Your Wallet?","",,,,
 c1732113657525,"Oatmeal!","",,,,
+c1732191984249,"Let's talk tech!","",,,,
+c1732192341848,"Fall Favorites","",,,,
+c1732192784243,"Let’s talk about app-based subscriptions!","",,,,
+c1732193161393,"Lets talk about smartphone shopping!","",,,,
+c1732195087751,"Hello, food lovers!","",,,,
+c1732195296508,"Thank you for taking the time to share your input!","",,,,
+c1732195883297,"A few questions for you","",,,,
+c1732196210787,"Let us know your thoughts!","",,,,
+c1732199204718,"All about Thanksgiving","",,,,
+c1732200357677,"Let's Talk Devices!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -893,7 +903,7 @@ r1216,3,"^Mobile/digital wallet \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c40
 r1217,3,"^Credit card from a bank/financial institution$","1","",1,c40
 r1218,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal\)$","1","",1,c40
 r1219,3,"^""Buy Now, Pay Later"" service \(e\.g\., Klarna, Affirm\)$","1","",1,c40
-r122,3,"^iPhone 14 Pro Max$","1","",1,c6
+r122,3,"^iPhone 15 Pro Max$","1","",1,c6
 r1220,3,"^Savings account from a bank/financial institution$","1","",1,c40
 r1221,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1,c40
 r1222,3,"^Personal loan from a bank/financial institution$","1","",1,c40
@@ -4133,7 +4143,7 @@ r1731450467889,3,"^Take a break/pause for a while and eventually start again$","
 r1731450480498,3,"^I'm not sure what will happen$","1","",1,c1731449896166
 r1731450528239,3,"^Maintenance plan after you've reached my weight loss goal by using GLP-1s on an on-and-off basis$","1","",1,c1731449896166
 r1731450542501,3,"^Worried about long term effects/safety$","1","",1,c1731449896166
-r1731450555984,3,"^When I started having side effects $","1","",1,c1731449896166
+r1731450555984,3,"^When I started having side effects$","1","",1,c1731449896166
 r1731450569489,3,"^Healthcare provider recommendation$","1","",1,c1731449896166
 r1731450597780,3,"^I’m just not ready yet$","1","",1,c1731449896166
 r1731450608910,3,"^Your healthcare provider$","1","",1,c1731449896166
@@ -5450,7 +5460,267 @@ r1732113813345,3,"^Very likely$","1","",1,c1732113657525
 r1732113836190,3,"^Good value for the money$","1","",1,c1732113657525
 r1732113843465,3,"^Bag/Canister/Package is the right size$","1","",1,c1732113657525
 r1732113949786,3,"^Financial Services$","1","",1,c1731380387889
+r1732191611298,3,"^Yes, I have children in the home$","1","",1,c15
+r1732191623246,3,"^7-12 years$","1","",1,c15
+r1732191629762,3,"^13-18 years$","1","",1,c15
+r1732191671995,3,"^More than once a week$","1","",1,c15
+r1732191688994,3,"^I buy games for my kid\(s\) to play with each other$","1","",1,c15
+r1732191696577,3,"^I buy games to play with my kid\(s\)$","1","",1,c15
+r1732191768041,3,"^Full-service \(e\.g\., Applebee’s, Red Lobster\)$","1","",1,c149
+r1732191772993,3,"^Fast food/Quick service \(e\.g\., McDonald’s, Subway\)$","1","",1,c149
+r1732191782386,3,"^Fast casual \(e\.g\., Chipotle, Panera Bread\)$","1","",1,c149
+r1732191848868,3,"^Blue Apron$","1","",1,c1730404061464
+r1732191868377,3,"^A few times a month$","1","",1,c1730404061464
+r1732192013969,3,"^Tablet \(e\.g\. iPad, Surface, Galaxy Tablet, etc\.\)$","1","",1,c1732191984249
+r1732192022985,3,"^Smartwatch \(e\.g\. Apple Watch, Fitbit, etc\.\)$","1","",1,c1732191984249
+r1732192031248,3,"^Desktop or laptop computer$","1","",1,c1732191984249
+r1732192038674,3,"^Smartphone \(e\.g\. iPhone, Android phone, etc\.\)$","1","",1,c1732191984249
+r1732192045848,3,"^Smart speaker$","1","",1,c1732191984249
+r1732192052210,3,"^I am the primary decision maker$","1","",1,c1732191984249
+r1732192063546,3,"^Smart TV \(has built in “apps” - e\.g\., Samsung, Vuze, Sony, etc\.\)$","1","",1,c1732191984249
+r1732192069946,3,"^Smartwatch \(perform multiple functions such as accessing apps, playing music, phone calls, etc\.\)$","1","",1,c1732191984249
+r1732192075804,3,"^Laptop$","1","",1,c1732191984249
+r1732192080505,3,"^Smartphone$","1","",1,c1732191984249
+r1732192091340,3,"^Apple iPhone$","1","",1,c1732191984249
+r1732192102345,3,"^I am the sole decision maker about which wireless service provider plan is chosen$","1","",1,c1732191984249
+r1732192114041,3,"^Very easy$","1","",1,c1732191984249
+r1732192127139,3,"^7 - Very open to switching$","1","",1,c1732191984249
+r1732192142609,3,"^31272$","1","",1,c1732191984249
+r1732192150577,3,"^15492$","1","",1,c1732191984249
+r1732192205736,3,"^Contributed to a campaign \(by donating time, money, etc\.\)$","1","",1,c178
+r1732192228249,3,"^Triangle$","1","",1,c178
+r1732192246902,3,"^I would not like to participate in a video interview$","1","",1,c178
+r1732192287281,3,"^Streaming services \(e\.g\., Netflix, Spotify, YouTube TV\)$","1","",1,c17
+r1732192296648,3,"^Lifestyle & Hobby \(e\.g\., NYT Cooking, TripIt Pro, Fender Play\)$","1","",1,c17
+r1732192309345,3,"^Entertainment & Games \(e\.g\., Apple Arcade, Kindle Unlimited, Xbox Game Pass\)$","1","",1,c17
+r1732192370345,3,"^🏈 Watching football$","1","",1,c1732192341848
+r1732192398387,3,"^Hoodie and leggings$","1","",1,c1732192341848
+r1732192416142,3,"^🍎 Apple crisp$","1","",1,c1732192341848
+r1732192585788,3,"^Brand new$","1","",1,c6
+r1732192798941,3,"^Credit/Debit Card$","1","",1,c1732192784243
+r1732192825729,3,"^Familiarity$","1","",1,c1732192784243
+r1732192833504,3,"^Convenience$","1","",1,c1732192784243
+r1732192847489,3,"^My preferred payment method is typically available as an option$","1","",1,c1732192784243
+r1732192870760,3,"^Recurring monthly payments$","1","",1,c1732192784243
+r1732192883745,3,"^Autopay$","1","",1,c1732192784243
+r1732192902735,3,"^In the app store \(e\.g\., Apple App Store, Google Play Store\)$","1","",1,c1732192784243
+r1732192919337,3,"^Yes$","1","",1,c1732192784243
+r1732192928904,3,"^Payment method was declined$","1","",1,c1732192784243
+r1732192935193,3,"^Difficulty updating payment method$","1","",1,c1732192784243
+r1732193018564,3,"^I received a notification$","1","",1,c1732192784243
+r1732193031368,3,"^Yes, it was clear$","1","",1,c1732192784243
+r1732193047664,3,"^Yes, but I delayed fixing the issue$","1","",1,c1732192784243
+r1732193064978,3,"^Contacted customer support$","1","",1,c1732192784243
+r1732193135233,3,"^Found a more convenient method$","1","",1,c1732192784243
+r1732193174256,3,"^Very likely$","1","",1,c1732193161393
+r1732193186889,3,"^Apple iPhone$","1","",1,c1732193161393
+r1732193199592,3,"^\$1,000- \$1,199$","1","",1,c1732193161393
+r1732193205177,3,"^\$1,200- \$1,399$","1","",1,c1732193161393
+r1732193216656,3,"^Is made by the brand I prefer is much more important$","1","",1,c1732193161393
+r1732193234755,3,"^Love it$","1","",1,c1732193161393
+r1732193250640,3,"^Very easy$","1","",1,c1732193161393
+r1732193365577,3,"^Crocs$","1","",1,c1731448797579
+r1732193425528,3,"^1-2 years ago$","1","",1,c384
+r1732193466145,3,"^I was solely responsible for the decision$","1","",1,c384
+r1732193489799,3,"^This is a personal / family / shared plan$","1","",1,c384
+r1732193508475,3,"^This is a personal / family / shared phone$","1","",1,c384
+r1732195101991,3,"^Bread$","1","",1,c1732195087751
+r1732195109631,3,"^Salty snacks$","1","",1,c1732195087751
+r1732195119498,3,"^Crackers/chips$","1","",1,c1732195087751
+r1732195131135,3,"^Frozen snacks/appetizers$","1","",1,c1732195087751
+r1732195137182,3,"^Pasta$","1","",1,c1732195087751
+r1732195142287,3,"^Cereals$","1","",1,c1732195087751
+r1732195148551,3,"^Cookies, bites, wafers$","1","",1,c1732195087751
+r1732195165903,3,"^I focus on high quality and real ingredients$","1","",1,c1732195087751
+r1732195180798,3,"^Simple Mills$","1","",1,c1732195087751
+r1732195187687,3,"^Oreo$","1","",1,c1732195087751
+r1732195194596,3,"^Nutella Wafer$","1","",1,c1732195087751
+r1732195205276,3,"^Chips Ahoy$","1","",1,c1732195087751
+r1732195311020,3,"^Crocs$","1","",1,c1732195296508
+r1732195323344,3,"^Nike$","1","",1,c1732195296508
+r1732195332822,3,"^Adidas$","1","",1,c1732195296508
+r1732195348472,3,"^Yes$","1","",1,c1732195296508
+r1732195374286,3,"^3 pairs$","1","",1,c1732195296508
+r1732195391284,3,"^Bungee jumping$","1","",1,c1732195296508
+r1732195401088,3,"^Mountain climbing$","1","",1,c1732195296508
+r1732195466995,3,"^Two$","1","",1,c166
+r1732195477032,3,"^9-12 years old$","1","",1,c166
+r1732195482654,3,"^13-17 years old$","1","",1,c166
+r1732195494579,3,"^Cats$","1","",1,c166
+r1732195498798,3,"^Dogs$","1","",1,c166
+r1732195511382,3,"^Shampoo & Conditioner$","1","",1,c166
+r1732195519764,3,"^Stain & Odor Remover$","1","",1,c166
+r1732195529486,3,"^Pet-Safe Floor Cleaner$","1","",1,c166
+r1732195552815,3,"^Personal care products \(shampoo, body wash, etc\.\)$","1","",1,c166
+r1732195559577,3,"^Pet care products \(shampoo, stain remover, etc\.\)$","1","",1,c166
+r1732195571631,3,"^Home fragrance products \(candles, room spray, etc\.\)$","1","",1,c166
+r1732195582678,3,"^Home appliances \(refrigerator, washing machine, etc\.\)$","1","",1,c166
+r1732195592377,3,"^Home cleaning products \(dish soap, laundry detergent etc\.\)$","1","",1,c166
+r1732195603977,3,"^Groceries \(milk, produce, canned goods, etc\)$","1","",1,c166
+r1732195612110,3,"^Target$","1","",1,c166
+r1732195617224,3,"^Walmart$","1","",1,c166
+r1732195622615,3,"^Pharmacy \(e\.g\., CVS, Walgreens\)$","1","",1,c166
+r1732195642954,3,"^Liquid dish soap$","1","",1,c166
+r1732195648687,3,"^Floor cleaner$","1","",1,c166
+r1732195658390,3,"^Laundry detergent powder$","1","",1,c166
+r1732195663806,3,"^Gel hand soap$","1","",1,c166
+r1732195671862,3,"^Bathroom cleaner$","1","",1,c166
+r1732195681310,3,"^Bleach$","1","",1,c166
+r1732195687910,3,"^Laundry detergent pods$","1","",1,c166
+r1732195698174,3,"^Toilet bowl cleaner$","1","",1,c166
+r1732195718310,3,"^Lysol$","1","",1,c166
+r1732195724207,3,"^Tide$","1","",1,c166
+r1732195731638,3,"^Clorox$","1","",1,c166
+r1732195754927,3,"^Tide$","1","",1,c166
+r1732195770383,3,"^Arm & Hammer$","1","",1,c166
+r1732195790175,3,"^Ajax Liquid Dish Soap$","1","",1,c166
+r1732195799070,3,"^Method Liquid Dish Soap$","1","",1,c166
+r1732195827168,3,"^Plug-in Scented Oils$","1","",1,c166
+r1732195833534,3,"^Fabric Spray$","1","",1,c166
+r1732195838199,3,"^Air Spray Aerosols$","1","",1,c166
+r1732195850166,3,"^Glade$","1","",1,c166
+r1732195899814,3,"^Yes$","1","",1,c1732195883297
+r1732195911270,3,"^Crocs$","1","",1,c1732195883297
+r1732195917025,3,"^Adidas$","1","",1,c1732195883297
+r1732195923758,3,"^Nike$","1","",1,c1732195883297
+r1732195972073,3,"^Brand’s online store$","1","",1,c1732195883297
+r1732195980307,3,"^Retail or outlet store$","1","",1,c1732195883297
+r1732195998647,3,"^3 pairs$","1","",1,c1732195883297
+r1732196012539,3,"^Crocs Retail or Outlet store$","1","",1,c1732195883297
+r1732196018398,3,"^Crocs\.com$","1","",1,c1732195883297
+r1732196027958,3,"^Married/with a partner$","1","",1,c1732195883297
+r1732196042940,3,"^Living with partner, with children$","1","",1,c1732195883297
+r1732196054105,3,"^Child\(ren\) age 6-12$","1","",1,c1732195883297
+r1732196060526,3,"^Child\(ren\) age 13-17$","1","",1,c1732195883297
+r1732196092104,3,"^I will always buy them regardless of how much they cost$","1","",1,c1732195883297
+r1732196129640,3,"^Once per month$","1","",1,c1732195883297
+r1732196146454,3,"^Monthly$","1","",1,c1732195883297
+r1732196169081,3,"^4584$","1","",1,c1732195883297
+r1732196178483,3,"^2442$","1","",1,c1732195883297
+r1732196221486,3,"^Very interested$","1","",1,c1732196210787
+r1732196252262,3,"^Fits very well$","1","",1,c1732196210787
+r1732196261279,3,"^1$","1","",1,c1732196210787
+r1732196278328,3,"^Create Your Crocs$","1","",1,c1732196210787
+r1732196285961,3,"^Crocs By You$","1","",1,c1732196210787
+r1732196403327,3,"^None of the above – would purchase any of these brands$","1","",1,c47
+r1732196578931,3,"^Thought I would be on it indefinitely$","1","",1,c1731449896166
+r1732198024712,3,"^I have kids younger than 18 y/o who live with me$","1","",1,c1731380387889
+r1732198044543,3,"^Cryptocurrency investment account \(bitcoin, etc\.\)$","1","",1,c1731380387889
+r1732198055109,3,"^Traditional investment account \(stocks, bonds, options, etc\.\)$","1","",1,c1731380387889
+r1732198065477,3,"^Debit card$","1","",1,c1731380387889
+r1732198080701,3,"^Credit card$","1","",1,c1731380387889
+r1732198087461,3,"^Life insurance$","1","",1,c1731380387889
+r1732198097845,3,"^Individual Retirement account \(IRA\)$","1","",1,c1731380387889
+r1732198104181,3,"^Savings account$","1","",1,c1731380387889
+r1732198140125,3,"^Very interested$","1","",1,c1731380387889
+r1732198156597,3,"^Cryptocurrency \(i\.e\. Bitcoin, Dogecoin, etc\.\)$","1","",1,c1731380387889
+r1732198181570,3,"^\$5,000-\$9,999$","1","",1,c1731380387889
+r1732198192876,3,"^7-29$","1","",1,c1731380387889
+r1732198207109,3,"^\$3,000-\$9,999$","1","",1,c1731380387889
+r1732198224173,3,"^Art, Crafts, & Design$","1","",1,c1731380387889
+r1732198230085,3,"^Betting \(e\.g\., on sports\)$","1","",1,c1731380387889
+r1732198236869,3,"^Exercise, Health, & Wellness$","1","",1,c1731380387889
+r1732198243865,3,"^Food & Cooking$","1","",1,c1731380387889
+r1732198249182,3,"^Philosophy$","1","",1,c1731380387889
+r1732198268389,3,"^Hockey \(e\.g\., NHL\)$","1","",1,c1731380387889
+r1732198273157,3,"^NASCAR Racing$","1","",1,c1731380387889
+r1732198280125,3,"^Pro football \(e\.g\., NFL\)$","1","",1,c1731380387889
+r1732198293398,3,"^Baseball \(e\.g\., MLB\)$","1","",1,c1731380387889
+r1732198307186,3,"^European Soccer \(aka Football - e\.g\., La Liga, Bundesliga, Premier League\)$","1","",1,c1731380387889
+r1732198313512,3,"^Instagram$","1","",1,c1731380387889
+r1732198319700,3,"^YouTube$","1","",1,c1731380387889
+r1732198329797,3,"^Facebook$","1","",1,c1731380387889
+r1732198336117,3,"^TikTok$","1","",1,c1731380387889
+r1732198342731,3,"^X \(formerly Twitter\)$","1","",1,c1731380387889
+r1732198373181,3,"^Multiple times per week, but less than daily$","1","",1,c1731380387889
+r1732198448125,3,"^Fitbit$","1","",1,c1731380387889
+r1732198457206,3,"^Videos on social media \(i\.e\., YouTube, TikTok, Instagram, etc\.\)$","1","",1,c1731380387889
+r1732198476381,3,"^Several times a week$","1","",1,c1731380387889
+r1732198510215,3,"^Spotify$","1","",1,c1731380387889
+r1732198531286,3,"^Somewhat interested$","1","",1,c1731380387889
+r1732198570701,3,"^Balancing attention and needs across several children$","1","",1,c1731380387889
+r1732198582401,3,"^Kids’ health concerns$","1","",1,c1731380387889
+r1732198634480,3,"^Concerns and worries about my kids’ safety$","1","",1,c1731380387889
+r1732198643148,3,"^Finding time for my hobbies and interests$","1","",1,c1731380387889
+r1732198657832,3,"^Going out / partying$","1","",1,c1731380387889
+r1732198673349,3,"^Social life \(e\.g\., spending time with friends\)$","1","",1,c1731380387889
+r1732198721581,3,"^Sharing family traditions with them$","1","",1,c1731380387889
+r1732198732327,3,"^Sharing my own passions and interests with them$","1","",1,c1731380387889
+r1732198745614,3,"^Watching them become independent$","1","",1,c1731380387889
+r1732198778662,3,"^Traditional bank$","1","",1,c1731380387889
+r1732198799490,3,"^I’m not likely to switch, but might consider if an interesting alternative comes along$","1","",1,c1731380387889
+r1732198830149,3,"^Exclusive access to perks & experiences$","1","",1,c1731380387889
+r1732198842276,3,"^Overdraft protection$","1","",1,c1731380387889
+r1732198951852,3,"^Social Media \(e\.g\., Twitter/X, Reddit, YouTube\)$","1","",1,c1731380387889
+r1732198963909,3,"^Crypto trading platforms with social features \(e\.g\., eToro, Crypto\.com\)$","1","",1,c1731380387889
+r1732198972677,3,"^Newsletters$","1","",1,c1731380387889
+r1732199033145,3,"^Recent momentum for crypto \(e\.g\., are crypto markets showing signs of a rally\)$","1","",1,c1731380387889
+r1732199039717,3,"^Portfolio diversification$","1","",1,c1731380387889
+r1732199082007,3,"^In this next section, we'd like to understand better how you think about events like this\. Click here to continue after reviewing the above\.$","1","",1,c1731380387889
+r1732199097438,3,"^Opportunity to grow my trading skills \(e\.g\., via demos or trainings\)$","1","",1,c1731380387889
+r1732199104564,3,"^A chance to win exclusive prizes or swag$","1","",1,c1731380387889
+r1732199117733,3,"^Access to talks and panels with leaders and innovators in the investing world$","1","",1,c1731380387889
+r1732199143894,3,"^I’ve never had a Robinhood Gold subscription$","1","",1,c1731380387889
+r1732199170791,3,"^Continue$","1","",1,c1731380387889
+r1732199216503,3,"^Happy$","1","",1,c1732199204718
+r1732199222535,3,"^Motivated$","1","",1,c1732199204718
+r1732199228470,3,"^Organized$","1","",1,c1732199204718
+r1732199235870,3,"^Optimistic$","1","",1,c1732199204718
+r1732199271703,3,"^I have purchased some Thanksgiving items, but still have more I need to shop for$","1","",1,c1732199204718
+r1732199307237,3,"^My plans for gathering/hosting are not final yet$","1","",1,c1732199204718
+r1732199349797,3,"^Alcoholic beverages$","1","",1,c1732199204718
+r1732199360421,3,"^Cookies and treats$","1","",1,c1732199204718
+r1732199365197,3,"^Turkey$","1","",1,c1732199204718
+r1732199377853,3,"^Amazon$","1","",1,c1732199204718
+r1732199386220,3,"^Target$","1","",1,c1732199204718
+r1732199391414,3,"^Walmart$","1","",1,c1732199204718
+r1732199403901,3,"^Fast shipping$","1","",1,c1732199204718
+r1732199409685,3,"^Fast check out$","1","",1,c1732199204718
+r1732199418829,3,"^Meal Kits$","1","",1,c1732199204718
+r1732199606341,3,"^Male$","1","",1,c4
+r1732199622372,3,"^Urban area$","1","",1,c4
+r1732199688421,3,"^Next$","1","",1,c4
+r1732199700416,3,"^30-34 yrs$","1","",1,c4
+r1732199878316,3,"^Earning Cash Back on top of deals or sales$","1","",1,c1731874477027
+r1732199891040,3,"^Occasionally$","1","",1,c1731874477027
+r1732199899524,3,"^Neutral$","1","",1,c1731874477027
+r1732199912813,3,"^No change in importance$","1","",1,c1731874477027
+r1732199944373,3,"^I am primarily responsible for buying larger purchases for my household$","1","",1,c140
+r1732199960922,3,"^Yes$","1","",1,c140
+r1732199967804,3,"^Somewhat likely$","1","",1,c140
+r1732199980584,3,"^Hilton Resorts$","1","",1,c140
 r17322,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c344
+r1732200000286,3,"^Very favorable$","1","",1,c140
+r1732200099236,3,"^Homeowner$","1","",1,c168
+r1732200144543,3,"^Purchase/lease a used vehicle$","1","",1,c168
+r1732200151116,3,"^Invest or trade stocks$","1","",1,c168
+r1732200157804,3,"^Invest in cryptocurrency$","1","",1,c168
+r1732200167295,3,"^Invest in mutual funds$","1","",1,c168
+r1732200240975,3,"^Somewhat likely$","1","",1,c168
+r1732200253628,3,"^Somewhat likely$","1","",1,c168
+r1732200269872,3,"^Tesla$","1","",1,c168
+r1732200284688,3,"^Dyson$","1","",1,c168
+r1732200289347,3,"^Shark$","1","",1,c168
+r1732200314273,3,"^iRobot$","1","",1,c168
+r1732200318336,3,"^Robot Vacuum$","1","",1,c168
+r1732200368940,3,"^Desktop computer$","1","",1,c1732200357677
+r1732200378020,3,"^Smartwatch$","1","",1,c1732200357677
+r1732200383452,3,"^Smartphone$","1","",1,c1732200357677
+r1732200393187,3,"^Smart TV \(a TV that has a built-in internet connection\)$","1","",1,c1732200357677
+r1732200404356,3,"^Gaming console \(e\.g\., Xbox, Playstation, Nintendo\)$","1","",1,c1732200357677
+r1732200419716,3,"^I have used them in the past$","1","",1,c1732200357677
+r1732200533428,3,"^iPhone$","1","",1,c1732200357677
+r1732200545623,3,"^Very Interested$","1","",1,c1732200357677
+r1732200614590,3,"^Apple$","1","",1,c1732200357677
+r1732200625731,3,"^At a physical retail location$","1","",1,c1732200357677
+r1732200637455,3,"^Every year$","1","",1,c1732200357677
+r1732200649708,3,"^Select to continue$","1","",1,c1732200357677
+r1732200660136,3,"^iMac$","1","",1,c1732200357677
+r1732200664660,3,"^MacBook$","1","",1,c1732200357677
+r1732200673739,3,"^ iPad$","1","",1,c1732200357677
+r1732200680612,3,"^AirPods$","1","",1,c1732200357677
+r1732200685340,3,"^Apple Watch$","1","",1,c1732200357677
+r1732200735660,3,"^Yes, it is possible and I have done it$","1","",1,c1732200357677
 r17323,0,"input\[_ngcontent-ljo-c77\]","400","",1,c344
 r17324,3,"^I don’t pay attention to price when making my purchases$","1","",1,c344
 r17325,3,"^4$","1","",1,c344
@@ -11276,7 +11546,6 @@ r3487,3,"^Allocate budget$","1","",1,c168
 r3488,3,"^Have very little input and would not influence the decision$","1","",1,c168
 r3489,3,"^Other IS/IT or computer-related function$","1","",1,c168
 r349,3,"^Alcoholic Beverages \(e\.g\., Beer, Wine, Spirits\)$","1","",1,c19
-r3490,3,"^Yes$","1","",1,c168
 r3491,3,"^Desktop PC$","1","",1,c168
 r3492,3,"^Console \(Playstation, Xbox, Nintendo, etc\.\)$","1","",1,c168
 r3493,3,"^Handheld console \(Nintendo Switch\)$","1","",1,c168
@@ -13143,7 +13412,6 @@ r918,3,"^Virtual home assistant \(e\.g\., Alexa, Google Home, etc\.\)$","1","",1
 r919,3,"^Printer$","1","",1,c47
 r92,3,"^Wireless headphones$","1","",1,c4
 r920,3,"^Air Fryer$","1","",1,c47
-r922,3,"^HP$","1","",1,c47
 r923,3,"^HP All-In Plan$","1","",1,c47
 r9236,3,"^Urban / City$","1","",1,c119
 r9237,3,"^Yes, I am the solo decision-maker$","1","",1,c119
