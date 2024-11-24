@@ -345,6 +345,14 @@ c1732364782453,"Tell us about your skin!","",,,,
 c1732366312828,"Your Opinions Matter!","",,,,
 c1732379168390,"Autumn Vibes & Dream Days","",,,,
 c1732380923738,"Recent Purchases!","",,,,
+c1732432338172,"We want to know what you think!","",,,,
+c1732433821566,"Your wireless needs","",,,,
+c1732440088226,"Recent Behavior","",,,,
+c1732445206325,"A few questions about clothing.","",,,,
+c1732445681787,"Tell us about you","",,,,
+c1732450066890,"What’s Your Favorite?","",,,,
+c1732456585723,"Which of the following is not a color?","",,,,
+c1732459819621,"Iced Tea at Restaurants!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -5898,6 +5906,122 @@ r1732381749631,3,"^Multiple times a week$","1","",1,c179
 r1732381806676,3,"^Use this product from time to time$","1","",1,c179
 r1732382000743,3,"^Somewhat likely to consider$","1","",1,c179
 r17324,3,"^I don’t pay attention to price when making my purchases$","1","",1,c344
+r1732426439245,3,"^Vitamins and minerals$","1","",1,c179
+r1732426456134,3,"^Protein Powders$","1","",1,c179
+r1732426468745,3,"^Protein Bars$","1","",1,c179
+r1732426928206,3,"^Optimum Nutrition$","1","",1,c179
+r1732426936808,3,"^XTEND$","1","",1,c179
+r1732426944657,3,"^Kaged$","1","",1,c179
+r1732432583468,3,"^Revitalizes skin$","1","",1,c1732432338172
+r1732432588121,3,"^Provides long-lasting hydration$","1","",1,c1732432338172
+r1732433832525,3,"^7-12 months ago$","1","",1,c1732433821566
+r1732436311390,3,"^Started a new plan with my existing provider$","1","",1,c1732433821566
+r1732436575333,3,"^I was solely responsible for the decision$","1","",1,c1732433821566
+r1732436656444,3,"^Verizon$","1","",1,c1732433821566
+r1732436723106,3,"^Verizon Fios$","1","",1,c1732433821566
+r1732436783904,3,"^This is a personal / family / shared plan$","1","",1,c1732433821566
+r1732436841753,3,"^Somewhat agree$","1","",1,c1732433821566
+r1732436873042,3,"^31 – 40 years old$","1","",1,c1732433821566
+r1732436927184,3,"^All office / on-site$","1","",1,c1732433821566
+r1732440102997,3,"^Autoweek$","1","",1,c1732440088226
+r1732440109680,3,"^Best Products$","1","",1,c1732440088226
+r1732440121863,3,"^Bicycling$","1","",1,c1732440088226
+r1732440133007,3,"^Car and Driver$","1","",1,c1732440088226
+r1732440400572,3,"^Autoweek\.com$","1","",1,c1732440088226
+r1732440407270,3,"^Bestproducts\.com$","1","",1,c1732440088226
+r1732440450900,3,"^Bicycling All Access$","1","",1,c1732440088226
+r1732440461004,3,"^Cosmopolitan Unlocked All Access$","1","",1,c1732440088226
+r1732441324709,3,"^3$","1","",1,c1732440088226
+r1732441451061,3,"^Bed & Breakfast/Inn$","1","",1,c1732440088226
+r1732441466490,3,"^Luxury hotel/resort$","1","",1,c1732440088226
+r1732441555006,3,"^3-4$","1","",1,c1732440088226
+r1732441588930,3,"^10% to 19%$","1","",1,c1732440088226
+r1732441668879,3,"^I alone am responsible for all of the financial investments for my household$","1","",1,c1732440088226
+r1732442132284,3,"^Single-family house$","1","",1,c1732440088226
+r1732442199788,3,"^Large city \(population of 500,000 or more\)$","1","",1,c1732440088226
+r1732445271426,3,"^Yes$","1","",1,c1732445206325
+r1732445290388,3,"^PUMA$","1","",1,c1732445206325
+r1732445297163,3,"^Adidas$","1","",1,c1732445206325
+r1732445340134,3,"^Nike$","1","",1,c1732445206325
+r1732445388353,3,"^Used an app on your smartphone$","1","",1,c1732445206325
+r1732445409792,3,"^Ordered takeout or food delivery$","1","",1,c1732445206325
+r1732445691056,3,"^I am a parent/guardian with a child\(ren\) under the age of 18 at home$","1","",1,c1732445681787
+r1732446795398,3,"^I have child\(ren\) aged 8-12 years old$","1","",1,c1732445681787
+r1732446806528,3,"^I have child\(ren\) aged 13-17 years old$","1","",1,c1732445681787
+r1732446829141,3,"^I am the primary shopper for toilet paper in my home$","1","",1,c1732445681787
+r1732446840726,3,"^I feel a sense of calm and satisfaction when my shower/tub is clean$","1","",1,c1732445681787
+r1732446847351,3,"^Tomatoes$","1","",1,c1732445681787
+r1732446852871,3,"^Avocados$","1","",1,c1732445681787
+r1732446857743,3,"^Mushrooms$","1","",1,c1732445681787
+r1732446862678,3,"^Beef$","1","",1,c1732445681787
+r1732446869039,3,"^Oranges$","1","",1,c1732445681787
+r1732446879055,3,"^Home improvement/home care products \(e\.g\., gardening, grilling, etc\)$","1","",1,c1732445681787
+r1732446885888,3,"^Electronics/Technology$","1","",1,c1732445681787
+r1732446893726,3,"^Home cleaning products \(e\.g, surface cleaners, floor care\)$","1","",1,c1732445681787
+r1732446900655,3,"^Single use paper products \(e\.g\., toilet paper, paper towels, facial tissue\)$","1","",1,c1732445681787
+r1732446907725,3,"^Groceries$","1","",1,c1732445681787
+r1732446917055,3,"^Personal care items \(e\.g\., haircare, toothpaste, etc\.\)$","1","",1,c1732445681787
+r1732446925184,3,"^Adult beverages \(e\.g\., beer, wine, spirits\)$","1","",1,c1732445681787
+r1732446936335,3,"^I do laundry$","1","",1,c1732445681787
+r1732446945086,3,"^I fuel up my vehicle$","1","",1,c1732445681787
+r1732446952166,3,"^I clean or tidy my home$","1","",1,c1732445681787
+r1732446957910,3,"^I care for a pet$","1","",1,c1732445681787
+r1732446962758,3,"^I buy groceries$","1","",1,c1732445681787
+r1732447071644,3,"^I buy toilet paper in bulk packaging \(More than 18 rolls at a time\)$","1","",1,c1732445681787
+r1732448287459,3,"^Spring cleaning/clean up$","1","",1,c1732445681787
+r1732448406410,3,"^Agree$","1","",1,c1732445681787
+r1732448454721,3,"^Pfizer$","1","",1,c1732445681787
+r1732448532369,3,"^Likely$","1","",1,c1732445681787
+r1732448653447,3,"^I'm not interested in plant based meat$","1","",1,c1732445681787
+r1732448745830,3,"^2025 is going to be better than 2024$","1","",1,c1732445681787
+r1732450187715,3,"^I would research the avocados and find out more about nutritional benefits$","1","",1,c1732450066890
+r1732450395785,3,"^It makes me feel healthier simply by purchasing this product$","1","",1,c1732450066890
+r1732450441654,3,"^Tagline: "22 Essential Nutrients"$","1","",1,c1732450066890
+r1732451869427,3,"^Fast food/Quick service \(e\.g\., McDonald’s, Subway\)$","1","",1,c52
+r1732451888627,3,"^Convenience store/Gas station$","1","",1,c52
+r1732451904452,3,"^Fast casual \(e\.g\., Chipotle, Panera Bread\)$","1","",1,c52
+r1732452027810,3,"^Soda$","1","",1,c52
+r1732452033603,3,"^Beer$","1","",1,c52
+r1732452040547,3,"^Cocktails$","1","",1,c52
+r1732452122778,3,"^Lemonade$","1","",1,c52
+r1732452136659,3,"^Iced Tea$","1","",1,c52
+r1732452138859,3,"^Wine$","1","",1,c52
+r1732452144588,3,"^Coffee$","1","",1,c52
+r1732452151522,3,"^Water$","1","",1,c52
+r1732452291264,3,"^Canned$","1","",1,c52
+r1732452298945,3,"^Fountain machine$","1","",1,c52
+r1732452382448,3,"^A few times per week$","1","",1,c52
+r1732456024792,3,"^I am the one that primarily purchases groceries for my household$","1","",1,c556
+r1732456050225,3,"^Yogurt$","1","",1,c556
+r1732456059491,3,"^Protein Bars$","1","",1,c556
+r1732456073610,3,"^Cold Cereal$","1","",1,c556
+r1732456180528,3,"^Pancake Mix$","1","",1,c556
+r1732456203137,3,"^Granola \(in box/bag, NOT bars\)$","1","",1,c556
+r1732456625500,3,"^Robot$","1","",1,c1732456585723
+r1732457692755,3,"^I am the one that primarily purchases groceries for my household$","1","",1,c41
+r1732457798121,3,"^Boxed cereal$","1","",1,c41
+r1732457808730,3,"^Salty snack chips$","1","",1,c41
+r1732457850114,3,"^Flavored pasta side$","1","",1,c41
+r1732460323725,3,"^2-3 times per month$","1","",1,c1732459819621
+r1732460329736,3,"Fountain Cup/Glass ","1","",1,c1732459819621
+r1732460769042,3,"^I would be more likely to purchase iced tea$","1","",1,c1732459819621
+r1732460940159,3,"^When ordering delivery$","1","",1,c1732459819621
+r1732461067320,3,"When ordering delivery","1","",1,c1732459819621
+r1732461080407,3,"^When dining in$","1","",1,c1732459819621
+r1732461089055,3,"^When taking my order to go$","1","",1,c1732459819621
+r1732461346094,3,"^I order in the restaurant and eat there$","1","",1,c1732459819621
+r1732461428019,3,"^Yes, I would prefer the iced tea more$","1","",1,c1732459819621
+r1732461455198,3,"^I prefer dining at places with my favorite brand, but it’s not essential$","1","",1,c1732459819621
+r1732461497412,3,"^That it is available from a fountain$","1","",1,c1732459819621
+r1732461625016,3,"^I would be much more likely to purchase$","1","",1,c1732459819621
+r1732461693328,3,"^Lemon$","1","",1,c1732459819621
+r1732461699737,3,"^Blackberry$","1","",1,c1732459819621
+r1732461708067,3,"^Strawberry Tea Lemonade$","1","",1,c1732459819621
+r1732461720942,3,"^Peach$","1","",1,c1732459819621
+r1732461727651,3,"^Raspberry$","1","",1,c1732459819621
+r1732461857417,3,"^A greater variety of flavors$","1","",1,c1732459819621
+r1732461868495,3,"^Better packaging design$","1","",1,c1732459819621
+r1732462010983,3,"^Sealed packaging for hygiene$","1","",1,c1732459819621
 r17325,3,"^4$","1","",1,c344
 r17326,3,"^Green bricks$","1","",1,c345
 r17327,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c345
