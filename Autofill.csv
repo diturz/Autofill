@@ -353,6 +353,15 @@ c1732445681787,"Tell us about you","",,,,
 c1732450066890,"What’s Your Favorite?","",,,,
 c1732456585723,"Which of the following is not a color?","",,,,
 c1732459819621,"Iced Tea at Restaurants!","",,,,
+c1732518075025,"Thinking about Brands","",,,,
+c1732519127068,"All about your perceptions!","",,,,
+c1732524647120,"Personalities and Properties","",,,,
+c1732529244144,"How Do You Shop for Beverages?","",,,,
+c1732529486374,"Calling All Smartphone Owners!","",,,,
+c1732529712879,"We Value Your Feedback!","",,,,
+c1732531908600,"Talk to us about your cat!","",,,,
+c1732532900760,"Talk to us about your dog!","",,,,
+c1732539139320,"We want your opinion! Tell us how you like to shop in this store...","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -6023,6 +6032,88 @@ r1732461857417,3,"^A greater variety of flavors$","1","",1,c1732459819621
 r1732461868495,3,"^Better packaging design$","1","",1,c1732459819621
 r1732462010983,3,"^Sealed packaging for hygiene$","1","",1,c1732459819621
 r17325,3,"^4$","1","",1,c344
+r1732517034093,3,"^Google Maps$","1","",1,c5
+r1732517040073,3,"^Android Auto$","1","",1,c5
+r1732517047248,3,"^Apple CarPlay$","1","",1,c5
+r1732517198947,3,"^Connect my phone to the car’s built-in display via Wireless \(WIFI\)$","1","",1,c5
+r1732517237353,3,"^2023$","1","",1,c5
+r1732517283968,3,"^Toyota$","1","",1,c5
+r1732518085843,3,"^Starburst$","1","",1,c1732518075025
+r1732518819170,3,"^31-40$","1","",1,c23
+r1732518854292,3,"^Yes, I have children in the home$","1","",1,c23
+r1732518925188,3,"^7-12 years$","1","",1,c23
+r1732518932359,3,"^13-18 years$","1","",1,c23
+r1732519135627,3,"^I know what menthol does but not sure where it comes from$","1","",1,c1732519127068
+r1732519551828,3,"^Moderate association$","1","",1,c1732519127068
+r1732521167967,3,"^Past 6-12 months$","1","",1,c1732195296508
+r1732521341039,3,"^Past 6-12 months$","1","",1,c1732195883297
+r1732524659065,3,"^Pitbull$","1","",1,c1732524647120
+r1732524674345,3,"^JK Rowling$","1","",1,c1732524647120
+r1732524714545,3,"^Uber$","1","",1,c1732524647120
+r1732524726297,3,"^Tripadvisor$","1","",1,c1732524647120
+r1732524740357,3,"^Airbnb$","1","",1,c1732524647120
+r1732525193867,3,"^Very Good$","1","",1,c1732524647120
+r1732526149125,3,"^Author$","1","",1,c1732524647120
+r1732526237367,3,"^Famous$","1","",1,c1732524647120
+r1732526511151,3,"^Probably Would Buy$","1","",1,c1732524647120
+r1732526587337,3,"^Somewhat Agree$","1","",1,c1732524647120
+r1732529250938,3,"^100$","1","",1,c1732529244144
+r1732529285617,3,"^15 grams$","1","",1,c1732529244144
+r1732529316703,3,"^Probiotics$","1","",1,c1732529244144
+r1732529323033,3,"^Hydration$","1","",1,c1732529244144
+r1732529380674,3,"^Energy$","1","",1,c1732529244144
+r1732529496311,3,"^iPhone$","1","",1,c1732529486374
+r1732529542959,3,"^A Cell Phone Carrier \(e\.g\., AT&T, Verizon, T-Mobile\)$","1","",1,c1732529486374
+r1732529755453,3,"^My household or family$","1","",1,c1732529712879
+r1732529800507,3,"^Once a month$","1","",1,c1732529712879
+r1732529829811,3,"^For a work or office potluck$","1","",1,c1732529712879
+r1732529840020,3,"^For a family dinner or gathering$","1","",1,c1732529712879
+r1732529861132,3,"^As a quick and easy late night snack$","1","",1,c1732529712879
+r1732530049850,3,"^Medium: 30-40 oz-sharing medium-sized gatherings$","1","",1,c1732529712879
+r1732530084663,3,"^Salsa ranch dip$","1","",1,c1732529712879
+r1732530092898,3,"^Mediterranean hummus$","1","",1,c1732529712879
+r1732530114095,3,"^Ranch dip$","1","",1,c1732529712879
+r1732531838410,3,"^I have used it in the past$","1","",1,c1732200357677
+r1732531942480,3,"^I like to provide my cat with a variety of food flavors\.$","1","",1,c1732531908600
+r1732532008885,3,"^I always follow my vet's recommendation for the food I feed my cat\.$","1","",1,c1732531908600
+r1732532495148,3,"^I am always on the lookout for food that might be better for my cat\.$","1","",1,c1732531908600
+r1732532617930,3,"^I want the best food for my cat so price does not matter\.$","1","",1,c1732531908600
+r1732532678640,3,"^I like to try different brands of food for my cat\.$","1","",1,c1732531908600
+r1732532757581,3,"^I always try to add extra things to make my cat's meal a special experience\.$","1","",1,c1732531908600
+r1732532917450,3,"^I am always on the lookout for food that might be better for my dog\.$","1","",1,c1732532900760
+r1732532970912,3,"^I always follow my vet's recommendation for the food I feed my dog\.$","1","",1,c1732532900760
+r1732533018240,3,"^I want the best food for my dog so price does not matter\.$","1","",1,c1732532900760
+r1732533085318,3,"^I always try to add extra things to make my dog's meal a special experience\.$","1","",1,c1732532900760
+r1732533165550,3,"^It is important that my dog's food/treat packaging is environmentally friendly\.$","1","",1,c1732532900760
+r1732533210318,3,"^I like to provide my dog with a variety of food flavors\.$","1","",1,c1732532900760
+r1732539197289,3,"^I typically browse in the Home Depot$","1","",1,c1732539139320
+r1732539227075,3,"^I shop on homedepot\.com for delivery$","1","",1,c1732539139320
+r1732539236650,3,"^I shop on the Home Depot app for delivery$","1","",1,c1732539139320
+r1732539244676,3,"^I shop in store$","1","",1,c1732539139320
+r1732539418235,3,"^I was going to purchase or research tools or hardware$","1","",1,c1732539139320
+r1732539570382,3,"^Home Decor \(e\.g\.: outdoor furniture, holiday decor\)$","1","",1,c1732539139320
+r1732539581671,3,"^Tools$","1","",1,c1732539139320
+r1732539723606,3,"^Bar Soap$","1","",1,c1732539139320
+r1732539825969,3,"^Cat$","1","",1,c1732539139320
+r1732539849608,3,"^Dove$","1","",1,c1732539139320
+r1732539909691,3,"^Palmolive$","1","",1,c1732539139320
+r1732540253946,3,"^Clean$","1","",1,c1732539139320
+r1732540552781,3,"^Is from a brand I trust$","1","",1,c1732539139320
+r1732540583535,3,"^Cleans hands effectively$","1","",1,c1732539139320
+r1732540684917,3,"^Is dermatologist tested$","1","",1,c1732539139320
+r1732540729431,3,"^Medium Pack \(6-8 Bars\) of Bar Soap$","1","",1,c1732539139320
+r1732540736453,3,"^Small Pack \(3-4 Bars\) of Bar Soap$","1","",1,c1732539139320
+r1732540768008,3,"^Four-pack of individual bottles \(11\.25 oz each\) with pumps, including a variety of scents$","1","",1,c1732539139320
+r1732540808973,3,"^Refreshing \(e\.g\.: eucalyptus, ocean breeze\)$","1","",1,c1732539139320
+r1732540818006,3,"^Floral \(e\.g\.: rose\)$","1","",1,c1732539139320
+r1732540963826,3,"^Multi-pack of two 90 oz\. bottles$","1","",1,c1732539139320
+r1732540980618,3,"^Gel$","1","",1,c1732539139320
+r1732540987100,3,"^Spray$","1","",1,c1732539139320
+r1732541093536,3,"^Is antibacterial$","1","",1,c1732539139320
+r1732541116168,3,"^Kid friendly$","1","",1,c1732539139320
+r1732541321784,3,"^Liquid hand soap$","1","",1,c1732539139320
+r1732541328000,3,"^Foaming hand soap$","1","",1,c1732539139320
+r1732541357632,3,"^Is gentle on hands$","1","",1,c1732539139320
 r17326,3,"^Green bricks$","1","",1,c345
 r17327,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c345
 r17328,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c345
