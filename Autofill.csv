@@ -410,6 +410,10 @@ c1733462231398,"Snacking Habits Survey","",,,,
 c1733462648387,"AI Technology For Work Use","",,,,
 c1733462943937,"A short survey about you!","",,,,
 c1733463488651,"Tech Use","",,,,
+c1733483905414,"Let's talk about your preferences","",,,,
+c1733484502610,"Holiday Shopping 2024","",,,,
+c1733485027145,"Tell Us About You!","",,,,
+c1733485399883,"Wireless Offers","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -7033,6 +7037,62 @@ r1733463798991,3,"^M-series chip$","1","",1,c1733463488651
 r1733463810945,3,"^Tech news websites and blogs$","1","",1,c1733463488651
 r1733463814576,3,"^Social media$","1","",1,c1733463488651
 r1733463825213,3,"^Better/longer product warranty$","1","",1,c1733463488651
+r1733483956584,3,"^Very likely$","1","",1,c1733483905414
+r1733483974606,3,"^Don’t have a preference$","1","",1,c1733483905414
+r1733483996258,3,"^Strongly agree$","1","",1,c1733483905414
+r1733484090022,3,"^Verizon Fios$","1","",1,c1729980882634
+r1733484108510,3,"^Very likely$","1","",1,c1729980882634
+r1733484162557,3,"^Wider channel selection$","1","",1,c1729980882634
+r1733484537266,3,"^More than 75%, but NOT all of it$","1","",1,c1733484502610
+r1733484553398,3,"^Still browsing/deciding what to buy$","1","",1,c1733484502610
+r1733484575139,3,"^Waiting for school holidays so I can go with my kids$","1","",1,c1733484502610
+r1733484587034,3,"^Spouse/significant other$","1","",1,c1733484502610
+r1733484596283,3,"^Children in your household$","1","",1,c1733484502610
+r1733484612685,3,"^Yourself$","1","",1,c1733484502610
+r1733484655770,3,"^Amazon$","1","",1,c1733484502610
+r1733484661417,3,"^Walmart$","1","",1,c1733484502610
+r1733484667579,3,"^Target$","1","",1,c1733484502610
+r1733484700747,3,"^Sporting Goods$","1","",1,c1733484502610
+r1733484705978,3,"^Toys$","1","",1,c1733484502610
+r1733484714843,3,"^Clothing & Accessories$","1","",1,c1733484502610
+r1733484728625,3,"^Gift cards$","1","",1,c1733484502610
+r1733484749314,3,"^Spending somewhat more this year$","1","",1,c1733484502610
+r1733484763681,3,"^50-74%$","1","",1,c1733484502610
+r1733485055128,3,"^Definitely buy$","1","",1,c1733485027145
+r1733485247886,3,"^Discounted price, \$19\.99/yr$","1","",1,c1733485027145
+r1733485281334,3,"^Option B$","1","",1,c1733485027145
+r1733485413468,3,"^3 to 5 years$","1","",1,c1733485399883
+r1733485437203,3,"^Aware of this offer, but not the specifics$","1","",1,c1733485399883
+r1733488010067,3,"^I am primarily responsible for house paper products \(e\.g\., toilet paper, paper towels\) shopping for my household$","1","",1,c179
+r1733488023033,3,"^Toilet paper$","1","",1,c179
+r1733488030866,3,"^Paper towels$","1","",1,c179
+r1733488045466,3,"^Paper napkins$","1","",1,c179
+r1733488053851,3,"^Green bricks$","1","",1,c179
+r1733488135704,3,"^Scott$","1","",1,c179
+r1733488157625,3,"^I exclusively buy national/name brands \(e\.g\., Charmin, Scott, Angel Soft\)$","1","",1,c179
+r1733488180799,3,"^I exclusively buy national/name brands \(e\.g\., Bounty, Viva, Scott\)$","1","",1,c179
+r1733488193776,3,"^Extremely important$","1","",1,c179
+r1733488219072,3,"^I’m planning to host small, intimate gatherings$","1","",1,c179
+r1733489222080,3,"^I am the primary grocery shopper in my household\.$","1","",1,c53
+r1733489253544,3,"^9-12$","1","",1,c53
+r1733489259273,3,"^13-15$","1","",1,c53
+r1733489282631,3,"^Everyday Chocolate Candy \(Reese’s, Twix, Kinder, etc\.\)$","1","",1,c53
+r1733489289105,3,"^Premium Chocolate Candy \(Ghirardelli, Lindt, Ferrero Rocher, etc\.\)$","1","",1,c53
+r1733489297889,3,"^Sugar Candy \(Nerds, Skittles, Starburst\)$","1","",1,c53
+r1733489305898,3,"^Prepackaged Cookies \(Keebler, Oreo, Chips Ahoy, Pepperidge Farm\)$","1","",1,c53
+r1733489345768,3,"^Yes, seasonal shapes drive my purchase behavior\.$","1","",1,c53
+r1733490175235,3,"^In a single-family home$","1","",1,c1733454576281
+r1733490425880,3,"^Etsy$","1","",1,c1731729936763
+r1733490431889,3,"^Temu$","1","",1,c1731729936763
+r1733490441704,3,"^TikTok Shop$","1","",1,c1731729936763
+r1733490533070,3,"^Sinus issues$","1","",1,c1731383251238
+r1733490572433,3,"^Left$","1","",1,c1729980882634
+r1733490610750,3,"^Dog$","1","",1,c1729980882634
+r1733490625871,3,"^Pet supplements$","1","",1,c1729980882634
+r1733490631912,3,"^Dry pet food$","1","",1,c1729980882634
+r1733490640087,3,"^Fresh or Raw pet food$","1","",1,c1729980882634
+r1733490652390,3,"^Purina$","1","",1,c1729980882634
+r1733490677751,3,"^Walmart / Walmart\.com$","1","",1,c1729980882634
 r17335,3,"^Amazon$","1","",1,c345
 r17336,3,"^High-quality products$","1","",1,c345
 r17337,3,"^Convenient$","1","",1,c345
