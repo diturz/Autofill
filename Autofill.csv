@@ -414,6 +414,7 @@ c1733483905414,"Let's talk about your preferences","",,,,
 c1733484502610,"Holiday Shopping 2024","",,,,
 c1733485027145,"Tell Us About You!","",,,,
 c1733485399883,"Wireless Offers","",,,,
+c1733491807279,"Happy Thanksgiving!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -7093,6 +7094,96 @@ r1733490631912,3,"^Dry pet food$","1","",1,c1729980882634
 r1733490640087,3,"^Fresh or Raw pet food$","1","",1,c1729980882634
 r1733490652390,3,"^Purina$","1","",1,c1729980882634
 r1733490677751,3,"^Walmart / Walmart\.com$","1","",1,c1729980882634
+r1733491771150,3,"^Somewhat familiar – I’ve heard of AI and know a little about it\.$","1","",1,c5
+r1733491857605,3,"^Packaged Ice Cream Cones$","1","",1,c1733491807279
+r1733491867816,3,"^Packaged Cookies$","1","",1,c1733491807279
+r1733491875894,3,"^Pre-Packaged Sweet Baked Goods \(e\.g\., muffins, donuts, etc\.\)$","1","",1,c1733491807279
+r1733491883126,3,"^Ready-to-Eat Pie Crusts$","1","",1,c1733491807279
+r1733491890470,3,"^Ice Cream / Frozen Novelties / Frozen Fruit Bars / Ice Pops$","1","",1,c1733491807279
+r1733491897486,3,"^Spreads \(e\.g\., nut butter, chocolate hazelnut spread, etc\.\)$","1","",1,c1733491807279
+r1733491905478,3,"^Premium Chocolate \(e\.g\., sold in attractive boxes, bags or individually wrapped bars/pieces\)$","1","",1,c1733491807279
+r1733491915247,3,"^Chocolate Candy \(e\.g\., chocolate bars, chocolate bites, etc\.\)$","1","",1,c1733491807279
+r1733491941108,3,"^Hershey’s Kisses$","1","",1,c1733491807279
+r1733491955309,3,"^Hershey`s Chocolate Bars$","1","",1,c1733491807279
+r1733491961846,3,"^Kinder Bueno$","1","",1,c1733491807279
+r1733491968166,3,"^Kit Kat$","1","",1,c1733491807279
+r1733491973804,3,"^M&M`s$","1","",1,c1733491807279
+r1733491981815,3,"^Snickers$","1","",1,c1733491807279
+r1733491990421,3,"^Mr\. Beast / Feastables$","1","",1,c1733491807279
+r1733492019437,3,"^Most of it$","1","",1,c1733491807279
+r1733492119782,3,"^I watched it on TV or other device$","1","",1,c1733491807279
+r1733492206146,3,"^McDonald's$","1","",1,c1733491807279
+r1733492244379,3,"^A TV ad running during the parade$","1","",1,c1733491807279
+r1733492263282,3,"^Two$","1","",1,c1733491807279
+r1733492269059,3,"^9-12$","1","",1,c1733491807279
+r1733492274533,3,"^13-17$","1","",1,c1733491807279
+r1733492307188,3,"^I am the primary purchaser of groceries for my household$","1","",1,c1732344416005
+r1733492529832,3,"^I regularly buy or download new games, consoles, or gaming accessories\.$","1","",1,c1731732925076
+r1733492545247,3,"^I enjoy discussing sports events, news, or results with friends or on social media\.$","1","",1,c1731732925076
+r1733492856432,3,"^GLP-1 medications \(like Ozempic, Mounjaro, Wegovy, Saxenda, Lomaira\)$","1","",1,c1733330663044
+r1733492872630,3,"^Ozempic$","1","",1,c1733330663044
+r1733492954494,3,"^Ozempic® \(Semaglutide injection\)$","1","",1,c19
+r1733492982399,3,"^None – I have not experienced any side effects/negative consequences$","1","",1,c19
+r1733492997182,3,"^Weight loss$","1","",1,c19
+r1733493013021,3,"^I pay/paid the full payment out of pocket$","1","",1,c19
+r1733493059509,3,"^Green$","1","",1,c1731055807817
+r1733493238340,3,"^I set up my child’s contact list$","1","",1,c1729980882634
+r1733493268741,3,"^I allow my child to add new contacts to their contact list, but they have to ask me first\.$","1","",1,c1729980882634
+r1733493284085,3,"^Parent or parents$","1","",1,c1729980882634
+r1733493299102,3,"^911 or other emergency telephone number$","1","",1,c1729980882634
+r1733493307344,3,"^Grandparents/other family member$","1","",1,c1729980882634
+r1733493323174,3,"^Siblings$","1","",1,c1729980882634
+r1733493346973,3,"^5-10$","1","",1,c1729980882634
+r1733493359187,3,"^Great$","1","",1,c1729980882634
+r1733493389578,3,"^Contacts that either I add or my child adds$","1","",1,c1729980882634
+r1733493406235,3,"^I’d like to receive a notification that asks me to approve or deny their request for adding a new contact$","1","",1,c1729980882634
+r1733493423804,3,"^I want my child’s contact list to be read-only\. They can contact who is on their list, but can’t make any changes to the specific contact information$","1","",1,c1729980882634
+r1733493462203,3,"^A subset of their contacts$","1","",1,c1729980882634
+r1733493653903,3,"^Hershey's Pot of Gold$","1","",1,c380
+r1733493660056,3,"^Toblerone$","1","",1,c380
+r1733493674133,3,"^Ferrero Collection$","1","",1,c380
+r1733493715489,3,"^Snickers$","1","",1,c380
+r1733493746575,3,"^Cookies$","1","",1,c380
+r1733493752793,3,"^Wine / Spirits$","1","",1,c380
+r1733493759320,3,"^Toys$","1","",1,c380
+r1733493765001,3,"^Chocolate$","1","",1,c380
+r1733493774152,3,"^Wrapping Paper / Gift bags$","1","",1,c380
+r1733493780649,3,"^Festive clothing \(i\.e\. sweaters, PJ's, hats, mittens, etc\)$","1","",1,c380
+r1733493787514,3,"^Holiday decorations \(i\.e\. lights, candles, ornaments, tablewear, etc\)$","1","",1,c380
+r1733493941334,3,"^Financial Services/Insurance$","1","",1,c5
+r1733493947976,3,"^30-44$","1","",1,c5
+r1733494005136,3,"^Totino's Pizza Rolls$","1","",1,c5
+r1733494012543,3,"^Nestle Hot Pockets$","1","",1,c5
+r1733494021391,3,"^Tyson Chicken Nuggets$","1","",1,c5
+r1733494876232,3,"^I own a gas-only powered vehicle$","1","",1,c15
+r1733494890751,3,"^I am interested in learning more about solar systems$","1","",1,c15
+r1733494936431,3,"^Oatmeal$","1","",1,c1733279456301
+r1733495246399,3,"^Financed$","1","",1,c17
+r1733495258774,3,"^\$50,000–\$74,999$","1","",1,c17
+r1733495319316,3,"^New car$","1","",1,c17
+r1733495330844,3,"^Home garage$","1","",1,c17
+r1733495341853,3,"^Not at all concerned$","1","",1,c17
+r1733495360652,3,"^Professionally monitored alarm system$","1","",1,c17
+r1733495368078,3,"^Doorbell camera$","1","",1,c17
+r1733495373767,3,"^Alarm system$","1","",1,c17
+r1733495387100,3,"^\$100,000 to \$149,999$","1","",1,c17
+r1733495425564,3,"^Google Photos$","1","",1,c1733452726229
+r1733495431405,3,"^Google Drive$","1","",1,c1733452726229
+r1733495437292,3,"^Gmail$","1","",1,c1733452726229
+r1733495445803,3,"^YouTube$","1","",1,c1733452726229
+r1733495451949,3,"^iOS \(iPhone\)$","1","",1,c1733452726229
+r1733495464987,3,"^Yes, I use a Google account free of charge$","1","",1,c1733452726229
+r1733495484244,3,"^Less than 12 GB of 15 GB used \(0-79% used\)$","1","",1,c1733452726229
+r1733495557708,3,"^Oatmel$","1","",1,c5
+r1733495572379,3,"^Daily$","1","",1,c5
+r1733495582419,3,"^14-20 hours per week$","1","",1,c5
+r1733495601882,3,"^Other sports$","1","",1,c5
+r1733495717588,3,"^iPhone 16 / 16 Pro \(launched 2024\)$","1","",1,c1732191984249
+r1733495758963,3,"^I am not open to switching to another wireless service provider$","1","",1,c1732191984249
+r1733495940448,3,"^Kraft \(e\.g\., Original, Easy Mac, or Deluxe\)$","1","",1,c1733280187667
+r1733495951240,3,"^Cheetos Mac ‘N Cheese$","1","",1,c1733280187667
+r1733497683459,3,"^A few times a month$","1","",1,c1733280187667
+r1733497698339,3,"^Less than 3 months$","1","",1,c1733280187667
 r17335,3,"^Amazon$","1","",1,c345
 r17336,3,"^High-quality products$","1","",1,c345
 r17337,3,"^Convenient$","1","",1,c345
