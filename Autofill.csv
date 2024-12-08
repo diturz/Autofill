@@ -422,6 +422,12 @@ c1733655993586,"Underwear Shopping","",,,,
 c1733659151662,"Calling all dog parents!","",,,,
 c1733659684320,"Hey Pasta Buyers! We want your opinions!","",,,,
 c1733662043345,"Let’s talk about fun-shaped kids’ cookies and crackers!!","",,,,
+c1733666772523,"In-home entertainment","",,,,
+c1733669235019,"Talk to us about your purchasing habits for your pet(s)!","",,,,
+c1733672376665,"Vacuum Brand Attitudes & Behaviors","",,,,
+c1733672565657,"Vacuum Innovations","",,,,
+c1733673256785,"Breakfast Occasion","",,,,
+c1733673903015,"Some questions about what interests you.","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -7348,6 +7354,100 @@ r1733664974463,3,"^Banquet$","1","",1,c179
 r1733665015523,3,"^I am familiar with rotisserie chicken and purchase it occasionally$","1","",1,c179
 r1733665029898,3,"^Somewhat likely$","1","",1,c179
 r1733665055904,3,"^Within the past month$","1","",1,c179
+r1733666796002,3,"^Verizon$","1","",1,c1733666772523
+r1733666820964,3,"^I am the primary decision-maker$","1","",1,c1733666772523
+r1733666913443,3,"^Verizon Fios$","1","",1,c1733666772523
+r1733666941146,3,"^Netflix$","1","",1,c1733666772523
+r1733666947172,3,"^Hulu$","1","",1,c1733666772523
+r1733666953619,3,"^Disney\+$","1","",1,c1733666772523
+r1733666959626,3,"^Apple TV\+$","1","",1,c1733666772523
+r1733666966100,3,"^Paramount\+$","1","",1,c1733666772523
+r1733666972610,3,"^YouTube Premium$","1","",1,c1733666772523
+r1733666983841,3,"^Amazon Prime Video$","1","",1,c1733666772523
+r1733667206297,3,"^Amazon Fire TV Stick$","1","",1,c1733666772523
+r1733667277010,3,"^ I watch through a dedicated app on my smartphone or tablet$","1","",1,c1733666772523
+r1733667284920,3,"^I watch through a dedicated app on my Smart TV$","1","",1,c1733666772523
+r1733667291319,3,"^ I watch through a web browser on a computer or laptop$","1","",1,c1733666772523
+r1733667361222,3,"^I pay for the service directly through the streaming service’s app or website$","1","",1,c1733666772523
+r1733667462868,3,"^Streamlined account management$","1","",1,c1733666772523
+r1733667471797,3,"^Increased device compatibility$","1","",1,c1733666772523
+r1733667496341,3,"^Centralized customer support$","1","",1,c1733666772523
+r1733667588221,3,"^Personalization options can be limited$","1","",1,c1733666772523
+r1733667599981,3,"^Limited feature integration such as voice search$","1","",1,c1733666772523
+r1733667624581,3,"^Not all streaming services may be compatible$","1","",1,c1733666772523
+r1733667662838,3,"^Spotify$","1","",1,c1733666772523
+r1733667669932,3,"^Direct TV$","1","",1,c1733666772523
+r1733667675195,3,"^Amazon$","1","",1,c1733666772523
+r1733669248797,3,"^Cat\(s\)$","1","",1,c1733669235019
+r1733669256174,3,"^Dog\(s\)$","1","",1,c1733669235019
+r1733669290639,3,"^Walmart$","1","",1,c1733669235019
+r1733669304483,3,"^Amazon$","1","",1,c1733669235019
+r1733669316222,3,"^Target$","1","",1,c1733669235019
+r1733669342903,3,"^Dry Food$","1","",1,c1733669235019
+r1733669371852,3,"^Grooming \(e\.g\., odor care, paw & nail care, brushes & combs, etc\.\)$","1","",1,c1733669235019
+r1733669389636,3,"^Wet Food \(e\.g\., cans, pouches, cups, trays, etc\.\)$","1","",1,c1733669235019
+r1733669429243,3,"^Snacks & Treats \(e\.g\., biscuits, treats, chews, etc\.\)$","1","",1,c1733669235019
+r1733669445902,3,"^Toys \(e\.g\., balls & fetch, rope & tug, etc\.\)$","1","",1,c1733669235019
+r1733669453757,3,"^Leashes / collars$","1","",1,c1733669235019
+r1733669479284,3,"^… increased$","1","",1,c1733669235019
+r1733669511364,3,"^They will increase slightly$","1","",1,c1733669235019
+r1733669588539,3,"^Neutral$","1","",1,c1733669235019
+r1733669618155,3,"^I am buying the same amount$","1","",1,c1733669235019
+r1733669655019,3,"^I am buying more online to find deals on my usual brands$","1","",1,c1733669235019
+r1733669670874,3,"^I have switched to a more premium brand$","1","",1,c1733669235019
+r1733669692267,3,"^I shop at the same amount of retailers for Pet Food & Treats$","1","",1,c1733669235019
+r1733669748682,3,"^I have not made any changes to the way I feed wet food$","1","",1,c1733669235019
+r1733669804887,3,"^I have not made any changes to the way I feed dog/cat treats$","1","",1,c1733669235019
+r1733669826803,3,"^I use this service the same amount$","1","",1,c1733669235019
+r1733672384604,3,"^Very good$","1","",1,c1733672376665
+r1733672413080,3,"^Dyson$","1","",1,c1733672376665
+r1733672461818,3,"^Fun$","1","",1,c1733672376665
+r1733672470187,3,"^Innovative$","1","",1,c1733672376665
+r1733672482440,3,"^Clear$","1","",1,c1733672376665
+r1733672516515,3,"^Robot Vacuum$","1","",1,c1733672376665
+r1733672526397,3,"^Handheld Vacuum$","1","",1,c1733672376665
+r1733672650623,3,"^Very good$","1","",1,c1733672565657
+r1733672665690,3,"^Dyson$","1","",1,c1733672565657
+r1733672680858,3,"^Innovative$","1","",1,c1733672565657
+r1733672693655,3,"^Fun$","1","",1,c1733672565657
+r1733672701615,3,"^Informative$","1","",1,c1733672565657
+r1733672717983,3,"^Handheld Vacuum$","1","",1,c1733672565657
+r1733672726511,3,"^Robot Vacuum$","1","",1,c1733672565657
+r1733672863729,3,"^Somewhat important$","1","",1,c1731381327847
+r1733673469172,3,"^I always eat breakfast on weekday mornings\.$","1","",1,c1733673256785
+r1733673505083,3,"^Two days a week$","1","",1,c1733673256785
+r1733673559735,3,"^Yogurt / Cottage Cheese$","1","",1,c1733673256785
+r1733673565648,3,"^Bread, Toast, Bagel or English Muffin$","1","",1,c1733673256785
+r1733673572936,3,"^Nutrition Bar/Cereal Bar/Granola Bar$","1","",1,c1733673256785
+r1733673578535,3,"^Fruit$","1","",1,c1733673256785
+r1733673588231,3,"^Pancakes, Waffles, French Toast$","1","",1,c1733673256785
+r1733673597954,3,"^Cold Cereal$","1","",1,c1733673256785
+r1733673610000,3,"^Eggs \(i\.e\., Plain, Omelets, etc\.\)$","1","",1,c1733673256785
+r1733673636303,3,"^I sometimes eat this breakfast food with ketchup on weekday mornings\.$","1","",1,c1733673256785
+r1733673655319,3,"^I sometimes eat breakfast/brunch on weekend mornings\.$","1","",1,c1733673256785
+r1733673704648,3,"^One day in a weekend$","1","",1,c1733673256785
+r1733673751151,3,"^I sometimes eat this breakfast/brunch food with ketchup on the weekends\.$","1","",1,c1733673256785
+r1733675058099,3,"^Cooking or baking$","1","",1,c1733673903015
+r1733675065459,3,"^Exploring new technologies or gadgets$","1","",1,c1733673903015
+r1733675071547,3,"^Playing video games$","1","",1,c1733673903015
+r1733675076683,3,"^Watching or following sports$","1","",1,c1733673903015
+r1733675084324,3,"^Reading books or articles$","1","",1,c1733673903015
+r1733675091034,3,"^Listening to music$","1","",1,c1733673903015
+r1733675097605,3,"^Watching TV shows or movies$","1","",1,c1733673903015
+r1733675117316,3,"^A few times a week$","1","",1,c1733673903015
+r1733675135747,3,"^PlayStation 5$","1","",1,c1733673903015
+r1733675141037,3,"^PC$","1","",1,c1733673903015
+r1733675146523,3,"^Nintendo Switch$","1","",1,c1733673903015
+r1733675152129,3,"^Laptop$","1","",1,c1733673903015
+r1733675249098,3,"^Call of Duty$","1","",1,c1733673903015
+r1733675256642,3,"^Black Myth Wukong$","1","",1,c1733673903015
+r1733675265657,3,"^League of Legends$","1","",1,c1733673903015
+r1733675277953,3,"^World of Warcraft$","1","",1,c1733673903015
+r1733675311683,3,"^Counterstrike 2$","1","",1,c1733673903015
+r1733675335069,3,"^Alone/ I play solo$","1","",1,c1733673903015
+r1733675340465,3,"^Friends/ people I met online$","1","",1,c1733673903015
+r1733675345498,3,"^Friends I know from real life$","1","",1,c1733673903015
+r1733675388283,3,"^Discord$","1","",1,c1733673903015
 r17337,3,"^Convenient$","1","",1,c345
 r17338,3,"^Private Label$","1","",1,c345
 r17339,3,"^Brand reputation$","1","",1,c345
