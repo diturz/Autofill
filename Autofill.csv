@@ -428,6 +428,17 @@ c1733672376665,"Vacuum Brand Attitudes & Behaviors","",,,,
 c1733672565657,"Vacuum Innovations","",,,,
 c1733673256785,"Breakfast Occasion","",,,,
 c1733673903015,"Some questions about what interests you.","",,,,
+c1733680495264,"Dog Food Ingredients","",,,,
+c1733680627689,"Breakfast Consumption","",,,,
+c1733681370952,"Adulting and Money","",,,,
+c1733681399564,"^Monthly bills \(general\)$","",,,,
+c1733682544697,"Let's talk banking!","",,,,
+c1733682908502,"We want to know about your hobbies!","",,,,
+c1733683035384,"Quick & Easy Meals","",,,,
+c1733683391801,"All about your cookie shopping","",,,,
+c1733683613913,"Let's talk about Oreo Thins","",,,,
+c1733683849247,"New ad idea - we want to hear from you! 1","",,,,
+c1733684398351,"A little about you","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -7448,6 +7459,71 @@ r1733675335069,3,"^Alone/ I play solo$","1","",1,c1733673903015
 r1733675340465,3,"^Friends/ people I met online$","1","",1,c1733673903015
 r1733675345498,3,"^Friends I know from real life$","1","",1,c1733673903015
 r1733675388283,3,"^Discord$","1","",1,c1733673903015
+r1733680517063,3,"^Product P$","1","",1,c1733680495264
+r1733680685979,3,"^Breakfast Meat \(i\.e\., Bacon, Sausage, etc\.\)$","1","",1,c1733680627689
+r1733680775964,3,"^Nutritional Value$","1","",1,c1733680627689
+r1733681412590,3,"^Impulsive spending/shopping$","1","",1,c1733681399564
+r1733681486566,3,"^Hire a professional to help me \(financial advisor, accountant, therapist, life coach, etc\.\)\.$","1","",1,c1733681399564
+r1733681656067,3,"^I am PRIMARILY responsible for managing finances$","1","",1,c1731950219197
+r1733681715104,3,"^American Express$","1","",1,c1731950219197
+r1733681727579,3,"^Wells Fargo$","1","",1,c1731950219197
+r1733681733831,3,"^Bank of America$","1","",1,c1731950219197
+r1733681803340,3,"^Points credit card$","1","",1,c1731950219197
+r1733681809793,3,"^Cashback credit card$","1","",1,c1731950219197
+r1733681837528,3,"^I am primarily responsible$","1","",1,c389
+r1733681885796,3,"^Monthly$","1","",1,c1731950219197
+r1733681905672,3,"^No Annual fee$","1","",1,c1731950219197
+r1733681916753,3,"^Security features$","1","",1,c1731950219197
+r1733681926445,3,"^Customer service$","1","",1,c1731950219197
+r1733681952865,3,"^I use my credit card only for SPECIFIC types of purchases \(e\.g\., large purchases, online shopping\)\.$","1","",1,c1731950219197
+r1733681988919,3,"^In store retail shopping$","1","",1,c1731950219197
+r1733681995724,3,"^Travel$","1","",1,c1731950219197
+r1733682007331,3,"^Restaurants and dining$","1","",1,c1731950219197
+r1733682015431,3,"^Large purchases$","1","",1,c1731950219197
+r1733682048673,3,"^PayPal$","1","",1,c1731950219197
+r1733682060599,3,"^Apple Pay$","1","",1,c1731950219197
+r1733682090142,3,"^Satisfied$","1","",1,c1731950219197
+r1733682174714,3,"^Gift cards$","1","",1,c1731950219197
+r1733682199525,3,"^Points$","1","",1,c1731950219197
+r1733682207089,3,"^Cashback$","1","",1,c1731950219197
+r1733682399339,3,"^Working full-time \(30 or more hrs\. per week\)$","1","",1,c1731950219197
+r1733682437489,3,"^I am an employee$","1","",1,c1731950219197
+r1733682558522,3,"^Debit card$","1","",1,c1733682544697
+r1733682566493,3,"^Mobile payments \(i\.e\., Apple Pay, Zelle, Venmo\)$","1","",1,c1733682544697
+r1733682574388,3,"^Credit card$","1","",1,c1733682544697
+r1733682595883,3,"^I primarily use a debit card to make purchases$","1","",1,c1733682544697
+r1733682614266,3,"^Once a week$","1","",1,c1733682544697
+r1733682668354,3,"^Wells Fargo$","1","",1,c1733682544697
+r1733682678722,3,"^Bank of America$","1","",1,c1733682544697
+r1733682754033,3,"^Yes, I was aware of merchant-funded rewards$","1","",1,c1733682544697
+r1733682797938,3,"^Neither my debit or credit card offers merchant-funded rewards$","1","",1,c1733682544697
+r1733682824899,3,"^Somewhat interested$","1","",1,c1733682544697
+r1733682849919,3,"^Online retailers \(i\.e\., Amazon Prime Rewards\)$","1","",1,c1733682544697
+r1733682858199,3,"^Retail stores \(i\.e\., Target, Kohl’s\)$","1","",1,c1733682544697
+r1733682877360,3,"^I would not like to participate$","1","",1,c1733682544697
+r1733682980159,3,"^Gaming$","1","",1,c1733682908502
+r1733682988079,3,"^Cooking or baking$","1","",1,c1733682908502
+r1733683089697,3,"^Mac & cheese from a box \(e\.g\., Kraft, Annie's\)$","1","",1,c1733683035384
+r1733683096269,3,"^Mac & cheese in a microwaveable cup/bowl \(e\.g\., Kraft Easy Mac\)$","1","",1,c1733683035384
+r1733683102600,3,"^Ramen noodles in a bag \(e\.g\., Maruchan Ramen Noodle Soup$","1","",1,c1733683035384
+r1733683457338,3,"^OREO$","1","",1,c1733683391801
+r1733683463476,3,"^LU Biscuits$","1","",1,c1733683391801
+r1733683492451,3,"^Nutella Biscuits and/or B-Ready$","1","",1,c1733683391801
+r1733683498787,3,"^OREO Minis$","1","",1,c1733683391801
+r1733683518145,3,"^Male$","1","",1,c1733683391801
+r1733683626513,3,"^Probably would buy$","1","",1,c1733683613913
+r1733683675937,3,"^Evening snack$","1","",1,c1733683613913
+r1733683699225,3,"^For someone like me$","1","",1,c1733683613913
+r1733683710242,3,"^Exciting$","1","",1,c1733683613913
+r1733683716900,3,"^Tasty$","1","",1,c1733683613913
+r1733683858031,3,"^Continue, take me to PART 2\.$","1","",1,c1733683849247
+r1733683880006,3,"^Continue, take me to PART 3\.$","1","",1,c1733683849247
+r1733683906944,3,"^Continue, take me to PART 4\.$","1","",1,c1733683849247
+r1733683964338,3,"^Continue, take me to the rest of the survey\.$","1","",1,c1733683849247
+r1733683984745,3,"^Like it somewhat$","1","",1,c1733683849247
+r1733684417218,3,"^You do all of the shopping for your household$","1","",1,c1733684398351
+r1733684436465,3,"^Mass Merchandiser \(e\.g\., Walmart, Target, etc\.\)$","1","",1,c1733684398351
+r1733684445035,3,"^Online \(e\.g\., Amazon, Chewy\)$","1","",1,c1733684398351
 r17337,3,"^Convenient$","1","",1,c345
 r17338,3,"^Private Label$","1","",1,c345
 r17339,3,"^Brand reputation$","1","",1,c345
