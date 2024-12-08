@@ -415,6 +415,13 @@ c1733484502610,"Holiday Shopping 2024","",,,,
 c1733485027145,"Tell Us About You!","",,,,
 c1733485399883,"Wireless Offers","",,,,
 c1733491807279,"Happy Thanksgiving!","",,,,
+c1733653546277,"What do you think!?","",,,,
+c1733655576653,"Recreational Favorites","",,,,
+c1733655635568,"Health and Fitness digital service and consumer product","",,,,
+c1733655993586,"Underwear Shopping","",,,,
+c1733659151662,"Calling all dog parents!","",,,,
+c1733659684320,"Hey Pasta Buyers! We want your opinions!","",,,,
+c1733662043345,"Let’s talk about fun-shaped kids’ cookies and crackers!!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -7186,6 +7193,161 @@ r1733497683459,3,"^A few times a month$","1","",1,c1733280187667
 r1733497698339,3,"^Less than 3 months$","1","",1,c1733280187667
 r17335,3,"^Amazon$","1","",1,c345
 r17336,3,"^High-quality products$","1","",1,c345
+r1733644646549,3,"^Fruit Smoothie Bomb$","1","",1,c5
+r1733644655718,3,"^Coffee Bites$","1","",1,c5
+r1733644662480,3,"^Honey Protein Pancake$","1","",1,c5
+r1733644675068,3,"^Wholegrain Waffle$","1","",1,c5
+r1733652641057,3,"^Mixed Seed Bars$","1","",1,c5
+r1733652649831,3,"^Quinoa Bar$","1","",1,c5
+r1733652656712,3,"^Pumpkin Seed Bar$","1","",1,c5
+r1733652661923,3,"^Seed, Fruit & Nut Butter Bars$","1","",1,c5
+r1733653559612,3,"^9 - Love$","1","",1,c1733653546277
+r1733653591544,3,"^I DO NOT wear prescription glasses or contacts$","1","",1,c1733653546277
+r1733653849974,3,"^Salty snacks \(e\.g\., tortilla chips, cheese puffs, potato chips, pretzels,\)$","1","",1,c502
+r1733653863282,3,"^Dips \(e\.g\., ranch, queso, bean\)$","1","",1,c502
+r1733653868575,3,"^Crackers$","1","",1,c502
+r1733653873948,3,"^Vegetables$","1","",1,c502
+r1733653882304,3,"^Canned Goods$","1","",1,c502
+r1733653892516,3,"^Fruit$","1","",1,c502
+r1733653900860,3,"^Cookies$","1","",1,c502
+r1733653927278,3,"^Potato chips$","1","",1,c502
+r1733653938141,3,"^Pretzels$","1","",1,c502
+r1733653946788,3,"^Tortilla chips$","1","",1,c502
+r1733653954255,3,"^Corn chips$","1","",1,c502
+r1733653967384,3,"^Lay’s$","1","",1,c502
+r1733653975460,3,"^Tostitos$","1","",1,c502
+r1733653982920,3,"^Doritos$","1","",1,c502
+r1733653991844,3,"^Cheetos$","1","",1,c502
+r1733654026092,3,"^Snack crackers \(e\.g\., Cheez-Its, Goldfish\)$","1","",1,c502
+r1733654033966,3,"^Crackers for dipping/topping$","1","",1,c502
+r1733654049949,3,"^At home$","1","",1,c502
+r1733654065090,3,"^My spouse/partner$","1","",1,c502
+r1733654072732,3,"^Myself$","1","",1,c502
+r1733654081634,3,"^My children$","1","",1,c502
+r1733654102795,3,"^Ritz$","1","",1,c502
+r1733654114310,3,"^Annie’s$","1","",1,c502
+r1733654121179,3,"^Cheez-Its$","1","",1,c502
+r1733654136727,3,"^6-12 years old$","1","",1,c502
+r1733654145124,3,"^13-18 years old$","1","",1,c502
+r1733655001150,3,"^I am$","1","",1,c41
+r1733655031802,3,"^Over the Counter Nasal Sprays$","1","",1,c41
+r1733655099451,3,"^Over the Counter Allergy Tablets/Pills$","1","",1,c41
+r1733655418761,3,"^Somewhat likely$","1","",1,c1732193161393
+r1733655588231,3,"^Somewhat interested$","1","",1,c1733655576653
+r1733655649543,3,"^Apple smartphone \(iPhone\)$","1","",1,c1733655635568
+r1733655672635,3,"^Fitness tracker \(e\.g\., wrist band, clip-on, ring\)$","1","",1,c1733655635568
+r1733655689302,3,"^Home gym equipment \(e\.g\., basic treadmill, stationary bike, weights\)$","1","",1,c1733655635568
+r1733655720196,3,"^Apple$","1","",1,c1733655635568
+r1733655792611,3,"^No\. I am not using any paid health & fitness service$","1","",1,c1733655635568
+r1733655828871,3,"^Probably will$","1","",1,c1733655635568
+r1733655849717,3,"^Increase energy level$","1","",1,c1733655635568
+r1733655863605,3,"^Maintain weight$","1","",1,c1733655635568
+r1733655872667,3,"^Promote relaxation or reduce stress$","1","",1,c1733655635568
+r1733655969763,3,"^1-2 times$","1","",1,c1733655635568
+r1733656002193,3,"^Boxers$","1","",1,c1733655993586
+r1733656071857,3,"^Trunks$","1","",1,c1733655993586
+r1733656183500,3,"^Style / Aesthetics$","1","",1,c1733655993586
+r1733656194489,3,"^Reliability$","1","",1,c1733655993586
+r1733656223366,3,"^Durability / Ease of Care$","1","",1,c1733655993586
+r1733656332906,3,"^Amazon Essentials$","1","",1,c1733655993586
+r1733656341353,3,"^Target$","1","",1,c1733655993586
+r1733656349594,3,"^Calvin Klein$","1","",1,c1733655993586
+r1733656427042,3,"^Underwear with a fly$","1","",1,c1733655993586
+r1733656445152,3,"^Open elastic waistband$","1","",1,c1733655993586
+r1733656464017,3,"^No visible logo$","1","",1,c1733655993586
+r1733656479989,3,"^I only purchase solid colors$","1","",1,c1733655993586
+r1733656492921,3,"^Neutrals$","1","",1,c1733655993586
+r1733656528807,3,"^I am the one that primarily purchases groceries for my household$","1","",1,c138
+r1733656542453,3,"^Pancake Mix$","1","",1,c138
+r1733656557287,3,"^Oatmeal \(Instant, Old Fashioned, Steel Cut, etc\.\)$","1","",1,c138
+r1733656578462,3,"^Yogurt$","1","",1,c138
+r1733656586237,3,"^Granola \(in box/bag, NOT bars\)$","1","",1,c138
+r1733656595517,3,"^Protein Bars$","1","",1,c138
+r1733656603245,3,"^Rice-Based Snacks$","1","",1,c138
+r1733656611517,3,"^Cold Cereal$","1","",1,c138
+r1733656693548,3,"^Nature’s Path$","1","",1,c138
+r1733656708875,3,"^Kodiak Cakes$","1","",1,c138
+r1733656721491,3,"^McCann’s Irish$","1","",1,c138
+r1733656747804,3,"^Uncooked chicken pieces$","1","",1,c1733279456301
+r1733656760572,3,"^Flavored rice side$","1","",1,c1733279456301
+r1733656771934,3,"^Flavored pasta side$","1","",1,c1733279456301
+r1733656780475,3,"^Salty snack chips$","1","",1,c1733279456301
+r1733656790043,3,"^Boxed cereal$","1","",1,c1733279456301
+r1733656815580,3,"^Organic$","1","",1,c138
+r1733656825749,3,"^Protein$","1","",1,c138
+r1733656833803,3,"^Fiber & Protein$","1","",1,c138
+r1733656880815,3,"^Smartwatch \(e\.g\. Apple Watch, Fitbit, etc\.\)$","1","",1,c1732191984249
+r1733656890770,3,"^Wireless earbuds/headphones \(e\.g\. AirPods, Samsung Galaxy Buds, etc\.\)$","1","",1,c1732191984249
+r1733656906709,3,"^Tablet \(e\.g\. iPad, Surface, Galaxy Tablet, etc\.\)$","1","",1,c1732191984249
+r1733656914125,3,"^Smartphone \(e\.g\. iPhone, Android phone, etc\.\)$","1","",1,c1732191984249
+r1733656919482,3,"^Desktop or laptop computer$","1","",1,c1732191984249
+r1733657182096,3,"^Somewhat satisfied$","1","",1,c1733655635568
+r1733657201594,3,"^Ford$","1","",1,c17
+r1733659160720,3,"^Wellness Real Eats Green 2$","1","",1,c1733659151662
+r1733659719082,3,"^Cheese Tortellini$","1","",1,c1733659684320
+r1733659739706,3,"^Lemon Linguine$","1","",1,c1733659684320
+r1733659757099,3,"^Tagliatelle$","1","",1,c1733659684320
+r1733659794463,3,"^Linguine$","1","",1,c1733659684320
+r1733659808105,3,"^I’d buy it IN ADDITION TO my typical pasta$","1","",1,c1733659684320
+r1733659840059,3,"^Monthly$","1","",1,c1733659684320
+r1733659870875,3,"^Somewhat likely$","1","",1,c1733659684320
+r1733660266756,3,"^Unique$","1","",1,c1733659684320
+r1733660274029,3,"^Clean ingredients$","1","",1,c1733659684320
+r1733660308613,3,"^Weekly dinner$","1","",1,c1733659684320
+r1733660360679,3,"^Theme$","1","",1,c1733659684320
+r1733660378224,3,"^Culinary Experience$","1","",1,c1733659684320
+r1733660393363,3,"^Romantic Partner$","1","",1,c1733659684320
+r1733660401007,3,"^Family$","1","",1,c1733659684320
+r1733660446190,3,"^Packaging and visual appeal$","1","",1,c1733659684320
+r1733660453749,3,"^Unique, premium ingredients$","1","",1,c1733659684320
+r1733660480117,3,"^Brand reputation and trust in Rao’s$","1","",1,c1733659684320
+r1733660539781,3,"^Somewhat important$","1","",1,c1733659684320
+r1733662174359,3,"^Chips Ahoy!$","1","",1,c1733662043345
+r1733662183093,3,"^Goldfish \(Grahams/Crackers\)$","1","",1,c1733662043345
+r1733662191814,3,"^Cheez-It$","1","",1,c1733662043345
+r1733662202790,3,"^Reese’s Dipped Animal Crackers$","1","",1,c1733662043345
+r1733662211206,3,"^Oreo$","1","",1,c1733662043345
+r1733662326929,3,"^They are something I buy occasionally, though not a staple$","1","",1,c1733662043345
+r1733662357883,3,"^I rotate between a few different brands$","1","",1,c1733662043345
+r1733662380509,3,"^Planned to purchase before going shopping$","1","",1,c1733662043345
+r1733662412522,3,"^Buy another snack instead of this type \(e\.g\., pretzels, dried fruit, etc\.\)$","1","",1,c1733662043345
+r1733662432786,3,"^I do/myself$","1","",1,c1733662043345
+r1733662444466,3,"^My spouse/partner$","1","",1,c1733662043345
+r1733662450483,3,"^My child aged 6 – 12$","1","",1,c1733662043345
+r1733662455396,3,"^My child aged 13 – 17$","1","",1,c1733662043345
+r1733662485084,3,"^During a designated “snack-time”$","1","",1,c1733662043345
+r1733662497417,3,"^As a general/regular snack$","1","",1,c1733662043345
+r1733662567699,3,"^Want a larger pack size$","1","",1,c1733662043345
+r1733662589400,3,"^More interesting/innovative formats \(i\.e\., more than just cracker shapes/sizes\)$","1","",1,c1733662043345
+r1733662953783,3,"^I am the primary decision-maker$","1","",1,c384
+r1733663003869,3,"^\$40 to \$49$","1","",1,c384
+r1733663018404,3,"^Neutral$","1","",1,c384
+r1733663093580,3,"^I use the plan$","1","",1,c384
+r1733664699590,3,"^I am primarily responsible for grocery shopping for my household$","1","",1,c179
+r1733664732647,3,"^Baked goods aisle \(e\.g\. bread, buns\)$","1","",1,c179
+r1733664741710,3,"^Snack aisle \(e\.g\. chips, pretzels, popcorn\)$","1","",1,c179
+r1733664750214,3,"^Produce aisle \(e\.g\. fresh fruits & vegetables\)$","1","",1,c179
+r1733664757549,3,"^Dairy aisle \(e\.g\. milk, cheese, eggs\)$","1","",1,c179
+r1733664764197,3,"^Dry goods aisle \(e\.g\. canned soup, dry pasta\)$","1","",1,c179
+r1733664771424,3,"^Beverage aisle \(e\.g\. soda, juice, sports drinks\)$","1","",1,c179
+r1733664780165,3,"^Meat / poultry aisle \(e\.g\. chicken, ground beef\)$","1","",1,c179
+r1733664787844,3,"^Frozen aisle \(e\.g\. ice cream, frozen pizza, frozen meals\)$","1","",1,c179
+r1733664814316,3,"^Frozen seafood \(e\.g\., shrimp, fish fillets, or shellfish\)$","1","",1,c179
+r1733664824805,3,"^Frozen desserts \(e\.g\., ice cream, cakes, or pies\)$","1","",1,c179
+r1733664834382,3,"^Family-size meals \(e\.g\., lasagna, casseroles, or frozen entrees for sharing\)$","1","",1,c179
+r1733664839926,3,"^Single-serve meals \(e\.g\., frozen dinners or lunch bowls\)$","1","",1,c179
+r1733664845404,3,"^Frozen snacks or appetizers \(e\.g\., mozzarella sticks, chicken nuggets, or egg rolls\)$","1","",1,c179
+r1733664853797,3,"^Frozen breakfast items \(e\.g\., waffles, pancakes, or breakfast sandwiches\)$","1","",1,c179
+r1733664879275,3,"^Frozen meats or poultry \(e\.g\., chicken breasts or beef patties\)$","1","",1,c179
+r1733664885916,3,"^Frozen pizzas or flatbreads$","1","",1,c179
+r1733664903574,3,"^Occasionally \(2-3 times a month\)$","1","",1,c179
+r1733664943783,3,"^Dinner$","1","",1,c179
+r1733664964285,3,"^Michelina's$","1","",1,c179
+r1733664969131,3,"^Healthy Choice$","1","",1,c179
+r1733664974463,3,"^Banquet$","1","",1,c179
+r1733665015523,3,"^I am familiar with rotisserie chicken and purchase it occasionally$","1","",1,c179
+r1733665029898,3,"^Somewhat likely$","1","",1,c179
+r1733665055904,3,"^Within the past month$","1","",1,c179
 r17337,3,"^Convenient$","1","",1,c345
 r17338,3,"^Private Label$","1","",1,c345
 r17339,3,"^Brand reputation$","1","",1,c345
