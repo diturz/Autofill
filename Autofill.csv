@@ -442,6 +442,9 @@ c1733691978922,"Your Job, Your Banking.","",,,,
 c1733692920923,"Let's Talk About Listerine","",,,,
 c1733694568837,"Content Creation Deep Dive","",,,,
 c1733696026225,"Smart Home Pro Install & Monitoring Survey","",,,,
+c1733696840881,"We are excited to hear what you think!","",,,,
+c1733697494649,"About you","",,,,
+c1733699347718,"All about Holiday and Travel","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -7701,7 +7704,81 @@ r1733696185184,3,"^Professional install \(e\.g\., local contractor/technician\)$
 r1733696204584,3,"^More likely$","1","",1,c1733696026225
 r1733696222463,3,"^Hardwired$","1","",1,c1733696026225
 r1733696263398,3,"^Hard to find a local pro \(e\.g\., contractor/technician\) I trust$","1","",1,c1733696026225
+r1733696869161,3,"^Very clear$","1","",1,c1733696840881
+r1733697507320,3,"^31-40$","1","",1,c1733697494649
+r1733697526486,3,"^Laptop$","1","",1,c1733697494649
+r1733697532852,3,"^Desktop computer \(i\.e\. PC\)$","1","",1,c1733697494649
+r1733697539029,3,"^Smartphone$","1","",1,c1733697494649
+r1733697548039,3,"^Gaming console \(e\.g\. Xbox, PlayStation, etc\.\)$","1","",1,c1733697494649
+r1733697556591,3,"^Printer$","1","",1,c1733697494649
+r1733697566623,3,"^Apple – Mac OS$","1","",1,c1733697494649
+r1733697581397,3,"^Apple device$","1","",1,c1733697494649
+r1733697599269,3,"^In-store \(Research options and purchase in-store\)$","1","",1,c1733697494649
+r1733697612285,3,"^Comfortable - I know my stuff, but I'm not an expert$","1","",1,c1733697494649
+r1733697632589,3,"^I understand very well$","1","",1,c1733697494649
+r1733697672820,3,"^Graphics Resolution \(GPU\)$","1","",1,c1733697494649
+r1733697725300,3,"^7 hours\+ \(more than 1 hour a day\)$","1","",1,c1733697494649
+r1733697744949,3,"^Gaming$","1","",1,c1733697494649
+r1733697758211,3,"^5-10 hours$","1","",1,c1733697494649
+r1733697780922,3,"^Spreadsheet creation/management$","1","",1,c1733697494649
+r1733697800521,3,"^Playstation Plus$","1","",1,c1733697494649
+r1733697809867,3,"^Spotify$","1","",1,c1733697494649
+r1733697818771,3,"^Max$","1","",1,c1733697494649
+r1733697826331,3,"^Microsoft 365$","1","",1,c1733697494649
+r1733697833547,3,"^Netflix$","1","",1,c1733697494649
+r1733697847281,3,"^Happy$","1","",1,c1733697494649
+r1733697893921,3,"^Frog$","1","",1,c1733697494649
+r1733698102302,3,"^Me$","1","",1,c556
+r1733698107815,3,"^Spouse/partner$","1","",1,c556
+r1733698115631,3,"^Children in household aged 10 or older$","1","",1,c556
+r1733698161710,3,"^Mass retailers \(such as Target, Walmart\)$","1","",1,c556
+r1733698175631,3,"^Traditional grocery stores \(such as Kroger, Albertson’s, Publix, Safeway\)$","1","",1,c556
+r1733698257934,3,"^More flavor options$","1","",1,c556
+r1733698269141,3,"^More fun, interesting formats$","1","",1,c556
+r1733698282204,3,"^Improve overall taste$","1","",1,c556
+r1733698287966,3,"^More premium, indulgent$","1","",1,c556
+r1733698310227,3,"^As a snack$","1","",1,c556
+r1733698324025,3,"^To tide me over between meals$","1","",1,c556
+r1733698364159,3,"^non-GMO$","1","",1,c556
+r1733698369604,3,"^Brand$","1","",1,c556
+r1733698376203,3,"^Organic$","1","",1,c556
+r1733698382412,3,"^Taste$","1","",1,c556
+r1733698389348,3,"^Indulgent$","1","",1,c556
+r1733698409250,3,"^I do not look at sugar grams$","1","",1,c556
+r1733699361268,3,"^Optimistic$","1","",1,c1733699347718
+r1733699371143,3,"^Organized$","1","",1,c1733699347718
+r1733699380327,3,"^Motivated$","1","",1,c1733699347718
+r1733699437565,3,"^Celebrate Holidays with family$","1","",1,c1733699347718
+r1733699483724,3,"^Get the house ready for hosting$","1","",1,c1733699347718
+r1733699547683,3,"^Passport/travel documents holders$","1","",1,c1733699347718
+r1733699565724,3,"^Create a checklist of travel needs online and create links to purchase directly$","1","",1,c1733699347718
+r1733699576372,3,"^Provide reminders/communication about the travel needs via retail app$","1","",1,c1733699347718
+r1733699731906,3,"^Not finding the right item for people in my life$","1","",1,c1733699347718
+r1733699747281,3,"^Have deal items in stock$","1","",1,c1733699347718
+r1733699761201,3,"^Clearly communicate about expedited shipping options$","1","",1,c1733699347718
+r1733699767897,3,"^Have popular items in stock$","1","",1,c1733699347718
+r1733699808720,3,"^Artificial tree$","1","",1,c1733699347718
+r1733699951679,3,"^Most of my shopping was online with a little in-store, 70-30$","1","",1,c1733699347718
+r1733699968317,3,"^Amazon$","1","",1,c1733699347718
+r1733699976183,3,"^Walmart$","1","",1,c1733699347718
+r1733699982423,3,"^Target$","1","",1,c1733699347718
 r17337,3,"^Convenient$","1","",1,c345
+r1733700054573,3,"^The prices were great$","1","",1,c1733699347718
+r1733700063197,3,"^The deals were very interesting and compelling$","1","",1,c1733699347718
+r1733700071807,3,"^There was something for everyone$","1","",1,c1733699347718
+r1733700182051,3,"^Monthly$","1","",1,c1733659684320
+r1733700195020,3,"^Very likely$","1","",1,c1733659684320
+r1733700213794,3,"^Clean ingredients$","1","",1,c1733659684320
+r1733700224916,3,"^Restaurant Quality$","1","",1,c1733659684320
+r1733700241506,3,"^Hosting Friends$","1","",1,c1733659684320
+r1733700285282,3,"^Culinary Experience$","1","",1,c1733659684320
+r1733700292050,3,"^Type of gathering$","1","",1,c1733659684320
+r1733700307289,3,"^Friends$","1","",1,c1733659684320
+r1733700313666,3,"^Family$","1","",1,c1733659684320
+r1733700328913,3,"^Positive online reviews or social media influence$","1","",1,c1733659684320
+r1733700335738,3,"^Availability for special occasions or gatherings$","1","",1,c1733659684320
+r1733700342418,3,"^Recommendations from friends or family$","1","",1,c1733659684320
+r1733700353897,3,"^Very important$","1","",1,c1733659684320
 r17338,3,"^Private Label$","1","",1,c345
 r17339,3,"^Brand reputation$","1","",1,c345
 r1734,3,"^Liquor store chain \(e\.g\., Total Wine & More, BevMo\)$","1","",1,c90
