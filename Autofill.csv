@@ -428,17 +428,20 @@ c1733672376665,"Vacuum Brand Attitudes & Behaviors","",,,,
 c1733672565657,"Vacuum Innovations","",,,,
 c1733673256785,"Breakfast Occasion","",,,,
 c1733673903015,"Some questions about what interests you.","",,,,
-c1733680495264,"Dog Food Ingredients","",,,,
-c1733680627689,"Breakfast Consumption","",,,,
-c1733681370952,"Adulting and Money","",,,,
-c1733681399564,"^Monthly bills \(general\)$","",,,,
-c1733682544697,"Let's talk banking!","",,,,
-c1733682908502,"We want to know about your hobbies!","",,,,
-c1733683035384,"Quick & Easy Meals","",,,,
-c1733683391801,"All about your cookie shopping","",,,,
-c1733683613913,"Let's talk about Oreo Thins","",,,,
-c1733683849247,"New ad idea - we want to hear from you! 1","",,,,
-c1733684398351,"A little about you","",,,,
+c1733686072977,"What's your pick?","",,,,
+c1733686284786,"Let’s talk about hair care!","",,,,
+c1733687912030,"Do You Know These Celebrities?","",,,,
+c1733689024093,"Adulting and Money","",,,,
+c1733689730556,"Let's talk banking!","",,,,
+c1733690104247,"Quick & Easy Meals","",,,,
+c1733690347452,"All about your cookie shopping","",,,,
+c1733690495491,"A little about you","",,,,
+c1733691383998,"We'd like to know abit more about you, and your behaviors and attitudes towards life.","",,,,
+c1733691842608,"Let's talk about Oreo Thins","",,,,
+c1733691978922,"Your Job, Your Banking.","",,,,
+c1733692920923,"Let's Talk About Listerine","",,,,
+c1733694568837,"Content Creation Deep Dive","",,,,
+c1733696026225,"Smart Home Pro Install & Monitoring Survey","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -1552,7 +1555,6 @@ r1616,3,"^I have no influence on the decision-making process for technology purc
 r1617,3,"^Intermediate$","1","",1,c85
 r1618,3,"^Productivity/organization/Administrative tasks \(note taking, managing calendars, organizing data, create presentations, etc\)$","1","",1,c85
 r1619,3,"^ChatGPT$","1","",1,c85
-r162,3,"^3$","1","How many of the letter R are in ""strawberry""?",1,c4
 r1620,3,"^Microsoft CoPilot$","1","",1,c85
 r1621,3,"^More than \$200$","1","",1,c86
 r1622,3,"^Specialty Beauty Store \(Sephora, Ulta, etc\.\)$","1","",1,c86
@@ -7459,71 +7461,246 @@ r1733675335069,3,"^Alone/ I play solo$","1","",1,c1733673903015
 r1733675340465,3,"^Friends/ people I met online$","1","",1,c1733673903015
 r1733675345498,3,"^Friends I know from real life$","1","",1,c1733673903015
 r1733675388283,3,"^Discord$","1","",1,c1733673903015
-r1733680517063,3,"^Product P$","1","",1,c1733680495264
-r1733680685979,3,"^Breakfast Meat \(i\.e\., Bacon, Sausage, etc\.\)$","1","",1,c1733680627689
-r1733680775964,3,"^Nutritional Value$","1","",1,c1733680627689
-r1733681412590,3,"^Impulsive spending/shopping$","1","",1,c1733681399564
-r1733681486566,3,"^Hire a professional to help me \(financial advisor, accountant, therapist, life coach, etc\.\)\.$","1","",1,c1733681399564
-r1733681656067,3,"^I am PRIMARILY responsible for managing finances$","1","",1,c1731950219197
-r1733681715104,3,"^American Express$","1","",1,c1731950219197
-r1733681727579,3,"^Wells Fargo$","1","",1,c1731950219197
-r1733681733831,3,"^Bank of America$","1","",1,c1731950219197
-r1733681803340,3,"^Points credit card$","1","",1,c1731950219197
-r1733681809793,3,"^Cashback credit card$","1","",1,c1731950219197
-r1733681837528,3,"^I am primarily responsible$","1","",1,c389
-r1733681885796,3,"^Monthly$","1","",1,c1731950219197
-r1733681905672,3,"^No Annual fee$","1","",1,c1731950219197
-r1733681916753,3,"^Security features$","1","",1,c1731950219197
-r1733681926445,3,"^Customer service$","1","",1,c1731950219197
-r1733681952865,3,"^I use my credit card only for SPECIFIC types of purchases \(e\.g\., large purchases, online shopping\)\.$","1","",1,c1731950219197
-r1733681988919,3,"^In store retail shopping$","1","",1,c1731950219197
-r1733681995724,3,"^Travel$","1","",1,c1731950219197
-r1733682007331,3,"^Restaurants and dining$","1","",1,c1731950219197
-r1733682015431,3,"^Large purchases$","1","",1,c1731950219197
-r1733682048673,3,"^PayPal$","1","",1,c1731950219197
-r1733682060599,3,"^Apple Pay$","1","",1,c1731950219197
-r1733682090142,3,"^Satisfied$","1","",1,c1731950219197
-r1733682174714,3,"^Gift cards$","1","",1,c1731950219197
-r1733682199525,3,"^Points$","1","",1,c1731950219197
-r1733682207089,3,"^Cashback$","1","",1,c1731950219197
-r1733682399339,3,"^Working full-time \(30 or more hrs\. per week\)$","1","",1,c1731950219197
-r1733682437489,3,"^I am an employee$","1","",1,c1731950219197
-r1733682558522,3,"^Debit card$","1","",1,c1733682544697
-r1733682566493,3,"^Mobile payments \(i\.e\., Apple Pay, Zelle, Venmo\)$","1","",1,c1733682544697
-r1733682574388,3,"^Credit card$","1","",1,c1733682544697
-r1733682595883,3,"^I primarily use a debit card to make purchases$","1","",1,c1733682544697
-r1733682614266,3,"^Once a week$","1","",1,c1733682544697
-r1733682668354,3,"^Wells Fargo$","1","",1,c1733682544697
-r1733682678722,3,"^Bank of America$","1","",1,c1733682544697
-r1733682754033,3,"^Yes, I was aware of merchant-funded rewards$","1","",1,c1733682544697
-r1733682797938,3,"^Neither my debit or credit card offers merchant-funded rewards$","1","",1,c1733682544697
-r1733682824899,3,"^Somewhat interested$","1","",1,c1733682544697
-r1733682849919,3,"^Online retailers \(i\.e\., Amazon Prime Rewards\)$","1","",1,c1733682544697
-r1733682858199,3,"^Retail stores \(i\.e\., Target, Kohl’s\)$","1","",1,c1733682544697
-r1733682877360,3,"^I would not like to participate$","1","",1,c1733682544697
-r1733682980159,3,"^Gaming$","1","",1,c1733682908502
-r1733682988079,3,"^Cooking or baking$","1","",1,c1733682908502
-r1733683089697,3,"^Mac & cheese from a box \(e\.g\., Kraft, Annie's\)$","1","",1,c1733683035384
-r1733683096269,3,"^Mac & cheese in a microwaveable cup/bowl \(e\.g\., Kraft Easy Mac\)$","1","",1,c1733683035384
-r1733683102600,3,"^Ramen noodles in a bag \(e\.g\., Maruchan Ramen Noodle Soup$","1","",1,c1733683035384
-r1733683457338,3,"^OREO$","1","",1,c1733683391801
-r1733683463476,3,"^LU Biscuits$","1","",1,c1733683391801
-r1733683492451,3,"^Nutella Biscuits and/or B-Ready$","1","",1,c1733683391801
-r1733683498787,3,"^OREO Minis$","1","",1,c1733683391801
-r1733683518145,3,"^Male$","1","",1,c1733683391801
-r1733683626513,3,"^Probably would buy$","1","",1,c1733683613913
-r1733683675937,3,"^Evening snack$","1","",1,c1733683613913
-r1733683699225,3,"^For someone like me$","1","",1,c1733683613913
-r1733683710242,3,"^Exciting$","1","",1,c1733683613913
-r1733683716900,3,"^Tasty$","1","",1,c1733683613913
-r1733683858031,3,"^Continue, take me to PART 2\.$","1","",1,c1733683849247
-r1733683880006,3,"^Continue, take me to PART 3\.$","1","",1,c1733683849247
-r1733683906944,3,"^Continue, take me to PART 4\.$","1","",1,c1733683849247
-r1733683964338,3,"^Continue, take me to the rest of the survey\.$","1","",1,c1733683849247
-r1733683984745,3,"^Like it somewhat$","1","",1,c1733683849247
-r1733684417218,3,"^You do all of the shopping for your household$","1","",1,c1733684398351
-r1733684436465,3,"^Mass Merchandiser \(e\.g\., Walmart, Target, etc\.\)$","1","",1,c1733684398351
-r1733684445035,3,"^Online \(e\.g\., Amazon, Chewy\)$","1","",1,c1733684398351
+r1733685456412,3,"^10-40 days$","1","",1,c41
+r1733685710138,3,"^I would consider purchasing from any of these brands$","1","",1,c178
+r1733685824055,3,"^Quaker$","1","",1,c482
+r1733685829329,3,"^Oreo Cakesters$","1","",1,c482
+r1733685861080,3,"^Tarts$","1","",1,c482
+r1733685889502,3,"^Toblerone$","1","",1,c482
+r1733685903576,3,"^Ferrero$","1","",1,c482
+r1733685917102,3,"^Nestle$","1","",1,c482
+r1733685926585,3,"^Sandwich$","1","",1,c482
+r1733685969469,3,"^Nutella Biscuits$","1","",1,c482
+r1733686088428,3,"^Good Fats from Avocados$","1","",1,c1733686072977
+r1733686097069,3,"^Simple & Delicious$","1","",1,c1733686072977
+r1733686105349,3,"^#1 Avocado Oil Brand$","1","",1,c1733686072977
+r1733686111292,3,"^Made with 100% Pure Avocado Oil$","1","",1,c1733686072977
+r1733686138707,3,"^Would motivate me to purchase this product$","1","",1,c1733686072977
+r1733686146548,3,"^Rich & Creamy$","1","",1,c1733686072977
+r1733686298861,3,"^More than 10 times a year$","1","",1,c1733686284786
+r1733686314201,3,"^I occasionally research hair care products/trends and discuss hair care with others, but I don’t do so regularly$","1","",1,c1733686284786
+r1733686329928,3,"^No, but some of the hair care products I buy are clean beauty products$","1","",1,c1733686284786
+r1733686346505,3,"^No, but some of the hair care products I buy are natural ingredient products$","1","",1,c1733686284786
+r1733686361026,3,"^Head & Shoulders$","1","",1,c1733686284786
+r1733686377384,3,"^Pantene$","1","",1,c1733686284786
+r1733686386945,3,"^Garnier Fructis$","1","",1,c1733686284786
+r1733686398512,3,"^To keep my hair healthy$","1","",1,c1733686284786
+r1733686407817,3,"^To make myself feel good/energized$","1","",1,c1733686284786
+r1733686659671,3,"^Fragrance Intensity$","1","",1,c1733686284786
+r1733686674574,3,"^Recommendations from friends/family$","1","",1,c1733686284786
+r1733686687837,3,"^High Customer reviews/ratings$","1","",1,c1733686284786
+r1733686703068,3,"^Shampoo$","1","",1,c1733686284786
+r1733686710669,3,"^Conditioner$","1","",1,c1733686284786
+r1733686749651,3,"^Recommended$","1","",1,c1733686284786
+r1733686769795,3,"^Dermatologist Approved$","1","",1,c1733686284786
+r1733686794826,3,"^Dermatologist Recommended$","1","",1,c1733686284786
+r1733686802371,3,"^Dermatologist Developed$","1","",1,c1733686284786
+r1733686923873,3,"^I find all these claims trustworthy$","1","",1,c1733686284786
+r1733686989320,3,"^It’s something I’ve purchased before$","1","",1,c1733686284786
+r1733687005583,3,"^It’s safe$","1","",1,c1733686284786
+r1733687023842,3,"^It has scientific ingredients$","1","",1,c1733686284786
+r1733687266094,3,"^Quality home environment$","1","",1,c179
+r1733687272709,3,"^Financial security$","1","",1,c179
+r1733687281013,3,"^Leisure/Recreation$","1","",1,c179
+r1733687373859,3,"^Frequently \(weekly or more\)$","1","",1,c179
+r1733687923717,3,"^Jaylen Brown$","1","",1,c1733687912030
+r1733687929006,3,"^Steph Curry$","1","",1,c1733687912030
+r1733687936677,3,"^Patrick Mahomes$","1","",1,c1733687912030
+r1733687954772,3,"^Joe Rogan$","1","",1,c1733687912030
+r1733687960388,3,"^Hugh Jackman$","1","",1,c1733687912030
+r1733687967588,3,"^Lewis Hamilton$","1","",1,c1733687912030
+r1733687980620,3,"^Trustworthy$","1","",1,c1733687912030
+r1733687990500,3,"^Inspiring$","1","",1,c1733687912030
+r1733687997364,3,"^Disciplined$","1","",1,c1733687912030
+r1733688005012,3,"^Admirable$","1","",1,c1733687912030
+r1733688013956,3,"^Ethical$","1","",1,c1733687912030
+r1733688039026,3,"^Heard of it, but have never used it$","1","",1,c1733687912030
+r1733688856927,3,"^Scale$","1","",1,c1733673903015
+r1733689043892,3,"^Social pressure and comparison$","1","",1,c1733689024093
+r1733689065797,3,"^Little to no savings/emergency fund$","1","",1,c1733689024093
+r1733689116852,3,"^Hire a professional to help me \(financial advisor, accountant, therapist, life coach, etc\.\)\.$","1","",1,c1733689024093
+r1733689217988,3,"^I am PRIMARILY responsible for managing finances$","1","",1,c1731950219197
+r1733689279778,3,"^MasterCard$","1","",1,c1731950219197
+r1733689284771,3,"^Bank of America$","1","",1,c1731950219197
+r1733689291874,3,"^American Express$","1","",1,c1731950219197
+r1733689359130,3,"^Points credit card$","1","",1,c1731950219197
+r1733689365442,3,"^Non-rewards credit card$","1","",1,c1731950219197
+r1733689387849,3,"^Weekly$","1","",1,c1731950219197
+r1733689404272,3,"^Interest rate$","1","",1,c1731950219197
+r1733689411849,3,"^Rewards program \(points/cashback/miles\)$","1","",1,c1731950219197
+r1733689419113,3,"^Credit limit$","1","",1,c1731950219197
+r1733689435767,3,"^ I use my credit card for ALL types of purchases\.$","1","",1,c1731950219197
+r1733689454951,3,"^Online shopping$","1","",1,c1731950219197
+r1733689465168,3,"^Bills and utilities$","1","",1,c1731950219197
+r1733689484841,3,"^In store retail shopping$","1","",1,c1731950219197
+r1733689491861,3,"^Restaurants and dining$","1","",1,c1731950219197
+r1733689498648,3,"^Groceries$","1","",1,c1731950219197
+r1733689522535,3,"^PayPal$","1","",1,c1731950219197
+r1733689527568,3,"^Zelle$","1","",1,c1731950219197
+r1733689534400,3,"^Apple Pay$","1","",1,c1731950219197
+r1733689546382,3,"^Very satisfied$","1","",1,c1731950219197
+r1733689558737,3,"^Likely$","1","",1,c1731950219197
+r1733689571542,3,"^Cashback$","1","",1,c1731950219197
+r1733689578303,3,"^Points$","1","",1,c1731950219197
+r1733689612351,3,"^Somewhat important$","1","",1,c1731950219197
+r1733689644869,3,"^Working full-time \(30 or more hrs\. per week\)$","1","",1,c1731950219197
+r1733689657237,3,"^I am an employee$","1","",1,c1731950219197
+r1733689740288,3,"^Mobile payments \(i\.e\., Apple Pay, Zelle, Venmo\)$","1","",1,c1733689730556
+r1733689751093,3,"^Cash or checks$","1","",1,c1733689730556
+r1733689758333,3,"^Debit card$","1","",1,c1733689730556
+r1733689764213,3,"^Credit card$","1","",1,c1733689730556
+r1733689771036,3,"^Buy Now, Pay Later \(i\.e\., Klarna, Afterpay\)$","1","",1,c1733689730556
+r1733689778380,3,"^Loan \(i\.e\., car loan\)$","1","",1,c1733689730556
+r1733689849756,3,"^I use my credit and debit card \(s\) equally to make purchases$","1","",1,c1733689730556
+r1733689862801,3,"^Every few days$","1","",1,c1733689730556
+r1733689887082,3,"^Bank of America$","1","",1,c1733689730556
+r1733689894827,3,"^Chase$","1","",1,c1733689730556
+r1733689938745,3,"^Very interested$","1","",1,c1733689730556
+r1733689953641,3,"^Online retailers \(i\.e\., Amazon Prime Rewards\)$","1","",1,c1733689730556
+r1733689961282,3,"^Grocery stores \(i\.e\., Kroger, Safeway\)$","1","",1,c1733689730556
+r1733689971985,3,"^I would not like to participate$","1","",1,c1733689730556
+r1733690114074,3,"^Mac & cheese from a box \(e\.g\., Kraft, Annie's\)$","1","",1,c1733690104247
+r1733690127331,3,"^Ramen noodles in a bag \(e\.g\., Maruchan Ramen Noodle Soup$","1","",1,c1733690104247
+r1733690391243,3,"^Nutella Biscuits and/or B-Ready$","1","",1,c1733690347452
+r1733690398694,3,"^OREO$","1","",1,c1733690347452
+r1733690403564,3,"^OREO Minis$","1","",1,c1733690347452
+r1733690413412,3,"^OREO Thins$","1","",1,c1733690347452
+r1733690423522,3,"^Male$","1","",1,c1733690347452
+r1733690509577,3,"^Finance$","1","",1,c1733690495491
+r1733690524251,3,"^You do all of the shopping for your household$","1","",1,c1733690495491
+r1733690539210,3,"^Grocery Store \(e\.g\., Kroger, Albertsons, Safeway, Publix, Giant Eagle\)$","1","",1,c1733690495491
+r1733690547603,3,"^Drug Store \(e\.g\., CVS, Walgreens\)$","1","",1,c1733690495491
+r1733690553490,3,"^Pet Specialty Store \(e\.g\., PetSmart, Petco\)$","1","",1,c1733690495491
+r1733690560355,3,"^Club Store \(e\.g\., Costco, Sam’s Club\)$","1","",1,c1733690495491
+r1733690566594,3,"^Online \(e\.g\., Amazon, Chewy\)$","1","",1,c1733690495491
+r1733690572970,3,"^Mass Merchandiser \(e\.g\., Walmart, Target, etc\.\)$","1","",1,c1733690495491
+r1733690586467,3,"^Kroger \(e\.g\., King Soopers, Smith’s, Ralph’s, Fred Meyer, Dillon’s, Food 4 Less\)$","1","",1,c1733690495491
+r1733690592457,3,"^Amazon$","1","",1,c1733690495491
+r1733690599634,3,"^Sam’s Club$","1","",1,c1733690495491
+r1733690608738,3,"^Walmart \(e\.g\., Supercenter, Neighborhood Market\)$","1","",1,c1733690495491
+r1733690628472,3,"^Refrigerated Lunch Packs \(Lunchables, P3 Portable Protein Pack\)$","1","",1,c1733690495491
+r1733690635217,3,"^Coffee \(Bottled, Ground, Whole bean, etc\)$","1","",1,c1733690495491
+r1733690643282,3,"^Produce$","1","",1,c1733690495491
+r1733690648143,3,"^Frozen Breakfast$","1","",1,c1733690495491
+r1733690653559,3,"^Meat$","1","",1,c1733690495491
+r1733690664738,3,"^Sweet Baked Snacks \(Entenmann’s, Hostess, Little Debbie, Otis Spunkmeyer, etc\.\)$","1","",1,c1733690495491
+r1733690674546,3,"^Fruit spreads \(Jams, Jelly, Preserves, etc\)$","1","",1,c1733690495491
+r1733690690416,3,"^Pickled Vegetables \(pickles, beats, banana peppers, beats, etc\)$","1","",1,c1733690495491
+r1733690700104,3,"^Nut butters \(Peanut, Almond, Hazelnut, etc\)$","1","",1,c1733690495491
+r1733690706448,3,"^Paper Products \(Tissues, Toilet Paper, Napkins\)$","1","",1,c1733690495491
+r1733690713615,3,"^Ice cream toppings \(Caramel, Fudge, etc\)$","1","",1,c1733690495491
+r1733690730503,3,"^In-store$","1","",1,c1733690495491
+r1733690737800,3,"^Online website/retailer app with in-store or curbside pick-up$","1","",1,c1733690495491
+r1733690744808,3,"^Online website/retailer app with home delivery$","1","",1,c1733690495491
+r1733690751856,3,"^Age 6-11$","1","",1,c1733690495491
+r1733690757968,3,"^Age 12 or older$","1","",1,c1733690495491
+r1733690769743,3,"^Dog$","1","",1,c1733690495491
+r1733690775992,3,"^Cat$","1","",1,c1733690495491
+r1733690789902,3,"^Pet Supplements or Vitamins$","1","",1,c1733690495491
+r1733690797407,3,"^Wet/Canned/Cup/Pouch Cat Food$","1","",1,c1733690495491
+r1733690804036,3,"^Wet/Canned/Cup/Pouch Dog Food$","1","",1,c1733690495491
+r1733690813679,3,"^Dry Dog Food$","1","",1,c1733690495491
+r1733690819039,3,"^Dry Cat Food$","1","",1,c1733690495491
+r1733690843671,3,"^Online website/retailer app with in-store or curbside pick-up \(ie\. Kroger\.com, Walmart\.com, Target\.com, Petco\.com, Petsmart\.com\)$","1","",1,c1733690495491
+r1733690866944,3,"^Online website/retailer app with home delivery \(ie\. Kroger\.com, Walmart\.com, Target\.com, Petco\.com, Petsmart\.com\)$","1","",1,c1733690495491
+r1733690886965,3,"^Cat Chow$","1","",1,c1733690495491
+r1733690895485,3,"^Purina One$","1","",1,c1733690495491
+r1733690906693,3,"^Whiskas$","1","",1,c1733690495491
+r1733690918356,3,"^Both Hot & Cold Coffee$","1","",1,c1733690495491
+r1733690933196,3,"^Nespresso Pods$","1","",1,c1733690495491
+r1733690940134,3,"^Ready to Drink \(single serve\)$","1","",1,c1733690495491
+r1733690968674,3,"^Bagged Ground Coffee$","1","",1,c1733690495491
+r1733690987764,3,"^Califia Farms$","1","",1,c1733690495491
+r1733690995189,3,"^Dunkin’$","1","",1,c1733690495491
+r1733691010979,3,"^Nescafe$","1","",1,c1733690495491
+r1733691017420,3,"^Nespresso$","1","",1,c1733690495491
+r1733691026035,3,"^Starbucks$","1","",1,c1733690495491
+r1733691037796,3,"^Nutella$","1","",1,c1733690495491
+r1733691081754,3,"^Smucker’s$","1","",1,c1733690495491
+r1733691087899,3,"^Welch’s$","1","",1,c1733690495491
+r1733691400598,3,"^Vitamin Energy$","1","",1,c1733691383998
+r1733691417854,3,"^Employed full-time$","1","",1,c1733691383998
+r1733691437510,3,"^Financial/Accounting Professional$","1","",1,c1733691383998
+r1733691456550,3,"^Structured$","1","",1,c1733691383998
+r1733691481047,3,"^6-7 hours$","1","",1,c1733691383998
+r1733691496948,3,"^3-4 times a week$","1","",1,c1733691383998
+r1733691509621,3,"^Important$","1","",1,c1733691383998
+r1733691524461,3,"^Weightlifting/Strength Training$","1","",1,c1733691383998
+r1733691538790,3,"^A few times a week$","1","",1,c1733691383998
+r1733691550805,3,"^Night$","1","",1,c1733691383998
+r1733691580510,3,"^Effectiveness$","1","",1,c1733691383998
+r1733691613107,3,"^Laid-back$","1","",1,c1733691383998
+r1733691630523,3,"^Sports$","1","",1,c1733691383998
+r1733691648043,3,"^Family$","1","",1,c1733691383998
+r1733691665371,3,"^Improving health$","1","",1,c1733691383998
+r1733691678234,3,"^Social media$","1","",1,c1733691383998
+r1733691694796,3,"^YouTube$","1","",1,c1733691383998
+r1733691708906,3,"^Weekly$","1","",1,c1733691383998
+r1733691720578,3,"^Reviews$","1","",1,c1733691383998
+r1733691736698,3,"^Exercise$","1","",1,c1733691383998
+r1733691745459,3,"^Gaming$","1","",1,c1733691383998
+r1733691753267,3,"^Reading$","1","",1,c1733691383998
+r1733691783716,3,"^Moderate$","1","",1,c1733691383998
+r1733691852297,3,"^Mid-Morning pick me up$","1","",1,c1733691842608
+r1733691866120,3,"^Tasty$","1","",1,c1733691842608
+r1733691873073,3,"^Sophisticated$","1","",1,c1733691842608
+r1733691880913,3,"^For someone like me$","1","",1,c1733691842608
+r1733691893840,3,"^Makes Oreo a Modern Brand$","1","",1,c1733691842608
+r1733691986745,3,"^Employed full-time$","1","",1,c1733691978922
+r1733692011171,3,"^I am not involved in financial decision-making\.$","1","",1,c1733691978922
+r1733692081990,3,"^I would be open to using products to conceal grey hair$","1","",1,c1733458802455
+r1733692095645,3,"^Gilette$","1","",1,c1733458802455
+r1733692104020,3,"^Nivea$","1","",1,c1733458802455
+r1733692129669,3,"^Somewhat Likely To Buy$","1","",1,c1733458802455
+r1733692930468,3,"^I still use Listerine$","1","",1,c1733692920923
+r1733692940729,3,"^Very Satisfied$","1","",1,c1733692920923
+r1733692962851,3,"^Just wanted to try something else$","1","",1,c1733692920923
+r1733692984985,3,"^Listerine Sensitivity Zero Alcohol Fresh Mint$","1","",1,c1733692920923
+r1733692996274,3,"^Listerine Antiseptic Fresh Burst$","1","",1,c1733692920923
+r1733693003256,3,"^Listerine Antiseptic Cool Mint$","1","",1,c1733692920923
+r1733693011002,3,"^Listerine Ultraclean Zero Alcohol Tartar Contril Arctic Mint$","1","",1,c1733692920923
+r1733693029585,3,"^Ingredients \(e\.g\., no alcohol\)$","1","",1,c1733692920923
+r1733693039146,3,"^Online reviews$","1","",1,c1733692920923
+r1733693053952,3,"^Had a benefit I was looking for$","1","",1,c1733692920923
+r1733693066322,3,"^Drug stores such as Rite Aid, CVS, local pharmacy, etc\.$","1","",1,c1733692920923
+r1733693081511,3,"^6 months to a year$","1","",1,c1733692920923
+r1733693093696,3,"^Twice a day$","1","",1,c1733692920923
+r1733693126699,3,"^I alternate between this mouthwash and a few others$","1","",1,c1733692920923
+r1733693186063,3,"^Toothpaste$","1","",1,c1733692920923
+r1733693193856,3,"^Toothpaste/mouthwash tablets$","1","",1,c1733692920923
+r1733693211640,3,"^Vitamins and minerals for added health benefits$","1","",1,c1733692920923
+r1733693219359,3,"^Tropical flavors \(e\.g\. mango, papaya, coconut\)$","1","",1,c1733692920923
+r1733693233022,3,"^Anti-plaque/Anti-bacterial$","1","",1,c1733692920923
+r1733693247135,3,"^Salivation for dry mouth$","1","",1,c1733692920923
+r1733693264527,3,"^Quality$","1","",1,c1733692920923
+r1733693740495,3,"^Scale$","1","",1,c1731732925076
+r1733694218692,3,"^Yellow$","1","",1,c1729921702855
+r1733694239330,3,"^May$","1","",1,c1729921702855
+r1733694245298,3,"^June$","1","",1,c1729921702855
+r1733694442310,3,"^Very likely$","1","",1,c1730356497312
+r1733694579171,3,"^Weekly \(1-4 times per week\)$","1","",1,c1733694568837
+r1733694595605,3,"^Both mobile and desktop equally$","1","",1,c1733694568837
+r1733694611726,3,"^Satisfied$","1","",1,c1733694568837
+r1733694691948,3,"^Easily creating high-quality visuals and videos$","1","",1,c1733694568837
+r1733694705363,3,"^Increasing visibility and reaching new audiences$","1","",1,c1733694568837
+r1733694712068,3,"^Writing better content and translating to local languages$","1","",1,c1733694568837
+r1733694792835,3,"^Very well$","1","",1,c1733694568837
+r1733694826544,3,"^No$","1","",1,c1733694568837
+r1733695702429,3,"^Outdoor Security Camera\(s\)$","1","",1,c1729919817324
+r1733695712504,3,"^Indoor Security Camera\(s\)$","1","",1,c1729919817324
+r1733695732397,3,"^Door Lock\(s\)$","1","",1,c1729919817324
+r1733696038633,3,"^Smart door lock\(s\)$","1","",1,c1733696026225
+r1733696045369,3,"^Smart indoor security camera\(s\)$","1","",1,c1733696026225
+r1733696052258,3,"^Smart outdoor security camera\(s\)$","1","",1,c1733696026225
+r1733696077491,3,"^Smart motion sensors\(s\)$","1","",1,c1733696026225
+r1733696087736,3,"^Smart thermostat\(s\)$","1","",1,c1733696026225
+r1733696130626,3,"^Very likely$","1","",1,c1733696026225
+r1733696149824,3,"^Online retailer$","1","",1,c1733696026225
+r1733696168433,3,"^Very comfortable$","1","",1,c1733696026225
+r1733696185184,3,"^Professional install \(e\.g\., local contractor/technician\)$","1","",1,c1733696026225
+r1733696204584,3,"^More likely$","1","",1,c1733696026225
+r1733696222463,3,"^Hardwired$","1","",1,c1733696026225
+r1733696263398,3,"^Hard to find a local pro \(e\.g\., contractor/technician\) I trust$","1","",1,c1733696026225
 r17337,3,"^Convenient$","1","",1,c345
 r17338,3,"^Private Label$","1","",1,c345
 r17339,3,"^Brand reputation$","1","",1,c345
@@ -13761,7 +13938,6 @@ r3906,3,"^Google One$","1","",1,c1729980882634
 r3907,3,"^Apple \(iCloud / Apple One\)$","1","",1,c1729980882634
 r3908,3,"^Netflix$","1","",1,c1729980882634
 r3909,3,"^Microsoft 365/Office 365 \(Microsoft Word, Excel, PowerPoint, Teams, etc\.\)$","1","",1,c1729980882634
-r391,3,"or more","1","",1,c4
 r3910,3,"^Google Drive$","1","",1,c1729980882634
 r3911,3,"^Amazon Prime$","1","",1,c1729980882634
 r3912,3,"^Google Play$","1","",1,c1729980882634
