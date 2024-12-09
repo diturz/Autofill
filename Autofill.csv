@@ -445,6 +445,18 @@ c1733696026225,"Smart Home Pro Install & Monitoring Survey","",,,,
 c1733696840881,"We are excited to hear what you think!","",,,,
 c1733697494649,"About you","",,,,
 c1733699347718,"All about Holiday and Travel","",,,,
+c1733701564647,"Happy Birthday to You!  What happens when cinnamon rolls meet with birthday cake flavors? ","",,,,
+c1733701862799,"We want your thoughts!","",,,,
+c1733702281074,"Dog Food Ingredients","",,,,
+c1733702770232,"Events and Experiences","",,,,
+c1733703513176,"Tell us what area you live in!","",,,,
+c1733703585272,"Tell us your thoughts on a campaign idea!","",,,,
+c1733704404844,"We want to know about your hobbies!","",,,,
+c1733706386125,"Calling all Grillers","",,,,
+c1733706491888,"Innovation feedback","",,,,
+c1733706565230,"New Product Feedback","",,,,
+c1733706971546,"Cooking Preferences","",,,,
+c1733707684705,"What are you munching on?","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -7779,6 +7791,129 @@ r1733700328913,3,"^Positive online reviews or social media influence$","1","",1,
 r1733700335738,3,"^Availability for special occasions or gatherings$","1","",1,c1733659684320
 r1733700342418,3,"^Recommendations from friends or family$","1","",1,c1733659684320
 r1733700353897,3,"^Very important$","1","",1,c1733659684320
+r1733701581536,3,"^2-3 times per month$","1","",1,c1733701564647
+r1733701595168,3,"^Annie’s$","1","",1,c1733701564647
+r1733701607553,3,"^Pillsbury$","1","",1,c1733701564647
+r1733701643775,3,"^As a topping$","1","",1,c1733701564647
+r1733701679310,3,"^It makes no difference to me$","1","",1,c1733701564647
+r1733701701687,3,"^Satisfied, I am ok with that change$","1","",1,c1733701564647
+r1733701719814,3,"^More than a standard 8ct package$","1","",1,c1733701564647
+r1733701741384,3,"^As an everyday item$","1","",1,c1733701564647
+r1733701761405,3,"^9-12 years$","1","",1,c1733701564647
+r1733701768935,3,"^13-17 years$","1","",1,c1733701564647
+r1733701801156,3,"^Eat it as a snack or with crackers, fruit, or bread$","1","",1,c1732366312828
+r1733701811622,3,"^Cook or bake with it, such as in a quiche, omelet, or gratin dish$","1","",1,c1732366312828
+r1733701820262,3,"^Slice it and add it to sandwiches or burgers$","1","",1,c1732366312828
+r1733701826453,3,"^Cube it and serve it as part of a cheese platter or charcuterie board$","1","",1,c1732366312828
+r1733701904212,3,"^Platform$","1","",1,c1733701862799
+r1733701918460,3,"^Savings Platform$","1","",1,c1733701862799
+r1733702289584,3,"^No Preference$","1","",1,c1733702281074
+r1733702852394,3,"^Festivals \(food and wine, wellness, lifestyle and decor, etc\.\)$","1","",1,c1733702770232
+r1733702860425,3,"^Comedy show$","1","",1,c1733702770232
+r1733702866570,3,"^Expos \(i\.e\. job, trade shows, summits\)$","1","",1,c1733702770232
+r1733702873952,3,"^Rock concert$","1","",1,c1733702770232
+r1733702879944,3,"^Any music concert$","1","",1,c1733702770232
+r1733702896046,3,"^Podcasts$","1","",1,c1733702770232
+r1733702904521,3,"^Streaming video services \(e\.g\. Netflix, Hulu, Sling TV, etc\.\)$","1","",1,c1733702770232
+r1733702912033,3,"^Online news or magazine articles$","1","",1,c1733702770232
+r1733702917336,3,"^Social media$","1","",1,c1733702770232
+r1733702961102,3,"^I like to meet new people at the event$","1","",1,c1733702770232
+r1733703011855,3,"^I get to spend time with my friends/family$","1","",1,c1733702770232
+r1733703028405,3,"^Brand interactions on stage, or with the program or the performer$","1","",1,c1733702770232
+r1733703036583,3,"^Exclusive brand samples/special swag distributed at the event$","1","",1,c1733702770232
+r1733703062573,3,"^Visited the brand website searching for more information$","1","",1,c1733702770232
+r1733703069206,3,"^Visited/followed the brand’s social media page\(s\)$","1","",1,c1733702770232
+r1733703077102,3,"^Purchased the brand sponsored$","1","",1,c1733702770232
+r1733703135165,3,"^Discovered a new brand$","1","",1,c1733702770232
+r1733703144468,3,"^Purchased the brand$","1","",1,c1733702770232
+r1733703172579,3,"^Quick Service Restaurant \(McDonald’s, Burger King, Pizza Hut, etc\.\)$","1","",1,c1733702770232
+r1733703186406,3,"^Banks/Credit cards$","1","",1,c1733702770232
+r1733703194428,3,"^Insurance$","1","",1,c1733702770232
+r1733703204925,3,"^Tourism/recreation$","1","",1,c1733702770232
+r1733703212396,3,"^Electronics$","1","",1,c1733702770232
+r1733703232618,3,"^Verizon$","1","",1,c1733702770232
+r1733703239540,3,"^Budweiser$","1","",1,c1733702770232
+r1733703246132,3,"^Pepsi$","1","",1,c1733702770232
+r1733703365393,3,"^I use my credit card for ALL types of purchases\.$","1","",1,c1731950219197
+r1733703521640,3,"^Urban$","1","",1,c1733703513176
+r1733703534000,3,"^Chicago, Illinois$","1","",1,c1733703513176
+r1733703602847,3,"^No$","1","",1,c1733703585272
+r1733703616750,3,"^I confirm I have viewed all the images$","1","",1,c1733703585272
+r1733703826684,3,"^Happiness$","1","",1,c1733703585272
+r1733703835852,3,"^Hope$","1","",1,c1733703585272
+r1733703844508,3,"^Nostalgia$","1","",1,c1733703585272
+r1733703869946,3,"^Agree$","1","",1,c1733703585272
+r1733703892821,3,"^Become a Member \(Season Subscriber\)$","1","",1,c1733703585272
+r1733703904641,3,"^Consider going to The Goodman the next time I look for something different to do$","1","",1,c1733703585272
+r1733704039993,3,"^"Leave More Human"$","1","",1,c1733703585272
+r1733704152152,3,"^Logo A$","1","",1,c1733703585272
+r1733704418795,3,"^Fitness or personal training$","1","",1,c1733704404844
+r1733704435475,3,"^Cooking or baking$","1","",1,c1733704404844
+r1733704446140,3,"^Crafting or DIY projects$","1","",1,c1733704404844
+r1733704452684,3,"^Content creation \(social media, blogging, etc\.\)$","1","",1,c1733704404844
+r1733704461618,3,"^Gaming$","1","",1,c1733704404844
+r1733704882389,3,"^Definitely would buy$","1","",1,c1733691842608
+r1733706116333,3,"^Grill Mates – McCormick$","1","",1,c383
+r1733706395266,3,"^Clean$","1","",1,c1733706386125
+r1733706406666,3,"^Creative$","1","",1,c1733706386125
+r1733706413770,3,"^Trustworthy$","1","",1,c1733706386125
+r1733706419890,3,"^Innovative$","1","",1,c1733706386125
+r1733706425874,3,"^Premium$","1","",1,c1733706386125
+r1733706446218,3,"^Option R$","1","",1,c1733706386125
+r1733706502578,3,"^Salad Dressing$","1","",1,c1733706491888
+r1733706508185,3,"^Olive Oil$","1","",1,c1733706491888
+r1733706514529,3,"^Marinades$","1","",1,c1733706491888
+r1733706532615,3,"^Heinz$","1","",1,c1733706491888
+r1733706572952,3,"^Salsa$","1","",1,c1733706565230
+r1733706580240,3,"^Olive Oil$","1","",1,c1733706565230
+r1733706588143,3,"^Soy Sauce$","1","",1,c1733706565230
+r1733706594073,3,"^Salad Dressing$","1","",1,c1733706565230
+r1733706600528,3,"^Honey$","1","",1,c1733706565230
+r1733706605416,3,"^Ketchup$","1","",1,c1733706565230
+r1733706611751,3,"^Hot Sauce$","1","",1,c1733706565230
+r1733706635000,3,"^Hot Honey$","1","",1,c1733706565230
+r1733706643503,3,"^Organic Honey$","1","",1,c1733706565230
+r1733706662190,3,"^Melinda's$","1","",1,c1733706565230
+r1733706667631,3,"^Frank's RedHot$","1","",1,c1733706565230
+r1733706673431,3,"^Trader Joe's$","1","",1,c1733706565230
+r1733706768924,3,"^IN ADDITION to what I buy today$","1","",1,c1733706565230
+r1733706984906,3,"^Cooking Oils \(like Crisco, Wesson, Pompeian, Bertolli, etc\.\)$","1","",1,c1733706971546
+r1733706991194,3,"^Butter \(like Land O'Lakes, Breakstone, etc\.\)$","1","",1,c1733706971546
+r1733706997299,3,"^Margarine \(like Imperial, Country Crock, Fleischmann's, Blue Bonnet, etc\.\)$","1","",1,c1733706971546
+r1733707003090,3,"^Cooking Sprays \(like Pam, Chosen Foods, etc\.\)$","1","",1,c1733706971546
+r1733707020140,3,"^Grilling\.$","1","",1,c1733706971546
+r1733707026947,3,"^Air Frying\.$","1","",1,c1733706971546
+r1733707039443,3,"^Cooking eggs and pancakes\.$","1","",1,c1733706971546
+r1733707048378,3,"^Extra Virgin Olive Oil$","1","",1,c1733706971546
+r1733707056226,3,"^Olive Oil$","1","",1,c1733706971546
+r1733707062393,3,"^Avocado Oil$","1","",1,c1733706971546
+r1733707075448,3,"^1 Type of Cooking Spray$","1","",1,c1733706971546
+r1733707092023,3,"^On the countertop near the stove\.$","1","",1,c1733706971546
+r1733707109361,3,"^Drizzle/Drop$","1","",1,c1733706971546
+r1733707145822,3,"^I buy Cooking Spray IN ADDITION TO Cooking Oil -- but I use them in the same way\.$","1","",1,c1733706971546
+r1733707165679,3,"^Bertolli Olive Oil Cooking Spray$","1","",1,c1733706971546
+r1733707174121,3,"^Pompeian Olive Oil Cooking Spray$","1","",1,c1733706971546
+r1733707281008,3,"^No - I didn't know about the different dispensing systems\.$","1","",1,c1733706971546
+r1733707299894,3,"^More Likely to Buy than Before$","1","",1,c1733706971546
+r1733707319904,3,"^POMPEIAN 5 OZ \$4\.24$","1","",1,c1733706971546
+r1733707726592,3,"^Salty snacks \(e\.g\., potato chips, pretzels, tortilla chips, pork rinds, cheese puffs\)$","1","",1,c1733707684705
+r1733707732641,3,"^Cookies$","1","",1,c1733707684705
+r1733707738369,3,"^Vegetables$","1","",1,c1733707684705
+r1733707747152,3,"^Dips \(e\.g\., ranch, queso, bean\)$","1","",1,c1733707684705
+r1733707753569,3,"^Crackers$","1","",1,c1733707684705
+r1733707759609,3,"^Fruit$","1","",1,c1733707684705
+r1733707774663,3,"^Cheese puffs$","1","",1,c1733707684705
+r1733707783136,3,"^Corn chips$","1","",1,c1733707684705
+r1733707789161,3,"^Tortilla chips$","1","",1,c1733707684705
+r1733707807024,3,"^My spouse/partner$","1","",1,c1733707684705
+r1733707812490,3,"^Myself$","1","",1,c1733707684705
+r1733707822335,3,"^White or Caucasian$","1","",1,c1733707684705
+r1733707835959,3,"^Employed full-time$","1","",1,c1733707684705
+r1733707847902,3,"^Finance$","1","",1,c1733707684705
+r1733707862566,3,"^I would not like to participate$","1","",1,c1733707684705
+r1733708260480,3,"^Shiseido$","1","",1,c51
+r1733708276786,3,"^Drunk Elephant$","1","",1,c51
+r1733708490226,3,"^Very satisfied$","1","",1,c1733463488651
 r17338,3,"^Private Label$","1","",1,c345
 r17339,3,"^Brand reputation$","1","",1,c345
 r1734,3,"^Liquor store chain \(e\.g\., Total Wine & More, BevMo\)$","1","",1,c90
@@ -9414,8 +9549,6 @@ r18814,3,"^Coffee$","1","",1,c430
 r18815,3,"^Enhanced sparkling water \(Recess, Bubly Bounce, Yerbae, etc\.\)$","1","",1,c430
 r18816,3,"^Alani Nu$","1","",1,c430
 r18817,3,"^Prime$","1","",1,c430
-r18818,3,"^Liquid I\.V\.$","1","",1,c430
-r18819,3,"^Gatorade$","1","",1,c430
 r1882,3,"^In the refrigerated section$","1","",1,c42
 r18820,3,"^Sam’s Club / Samsclub\.com$","1","",1,c430
 r18821,3,"^Target / Target\.com$","1","",1,c430
