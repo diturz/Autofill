@@ -457,6 +457,7 @@ c1733706491888,"Innovation feedback","",,,,
 c1733706565230,"New Product Feedback","",,,,
 c1733706971546,"Cooking Preferences","",,,,
 c1733707684705,"What are you munching on?","",,,,
+c1733742547863,"Laptop Displays","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -7914,6 +7915,41 @@ r1733707862566,3,"^I would not like to participate$","1","",1,c1733707684705
 r1733708260480,3,"^Shiseido$","1","",1,c51
 r1733708276786,3,"^Drunk Elephant$","1","",1,c51
 r1733708490226,3,"^Very satisfied$","1","",1,c1733463488651
+r1733741157058,3,"^I would not like to participate$","1","",1,c502
+r1733741557324,3,"^Pickleball$","1","",1,c1733655576653
+r1733741564204,3,"^Basketball$","1","",1,c1733655576653
+r1733741580155,3,"^Two or three times a month$","1","",1,c1733655576653
+r1733741598012,3,"^Pickleball Kingdom$","1","",1,c1733655576653
+r1733741608724,3,"^Pickle and Social$","1","",1,c1733655576653
+r1733742141774,3,"^Oatmeal$","1","",1,c1731380387889
+r1733742561775,3,"^Performance \(processor speed, RAM, storage\)$","1","",1,c1733742547863
+r1733742573088,3,"^Audio quality \(speakers and microphone\)$","1","",1,c1733742547863
+r1733742579839,3,"^Battery life$","1","",1,c1733742547863
+r1733742595399,3,"^Graphics capabilities \(for gaming or creative work\)$","1","",1,c1733742547863
+r1733743118863,3,"^Oatmeal$","1","",1,c37
+r1733743126648,3,"^Eggs$","1","",1,c37
+r1733743133288,3,"^Cereal$","1","",1,c37
+r1733743146120,3,"^Homemade Pancakes \(scratch or mix\)$","1","",1,c37
+r1733743154025,3,"^Baked Oatmeal$","1","",1,c37
+r1733743598291,3,"^CVS$","1","",1,c1733333929541
+r1733743611411,3,"^Walmart Pharmacy$","1","",1,c1733333929541
+r1733743618634,3,"^Both mail-order and in-store$","1","",1,c1733333929541
+r1733743630473,3,"^Brand-named$","1","",1,c1733333929541
+r1733743643843,3,"^60-day supply$","1","",1,c1733333929541
+r1733743657528,3,"^United Healthcare$","1","",1,c1733333929541
+r1733743675321,3,"^CVS Health \(Caremark\)$","1","",1,c1733333929541
+r1733743690177,3,"^Co-pay through my insurance$","1","",1,c1733333929541
+r1733743699577,3,"^No cost to me$","1","",1,c1733333929541
+r1733743711929,3,"^Very open to considering mail-order$","1","",1,c1733333929541
+r1733743762624,3,"^Gmail$","1","",1,c1732191984249
+r1733743773624,3,"^Google Calendar$","1","",1,c1732191984249
+r1733743779936,3,"^Google Chrome$","1","",1,c1732191984249
+r1733743788672,3,"^Google Drive$","1","",1,c1732191984249
+r1733743800824,3,"^YouTube$","1","",1,c1732191984249
+r1733743806841,3,"^YouTube TV$","1","",1,c1732191984249
+r1733743815839,3,"^YouTube Music$","1","",1,c1732191984249
+r1733743846135,3,"^Chromecast$","1","",1,c1732191984249
+r1733743862167,3,"^Very positive$","1","",1,c1732191984249
 r17338,3,"^Private Label$","1","",1,c345
 r17339,3,"^Brand reputation$","1","",1,c345
 r1734,3,"^Liquor store chain \(e\.g\., Total Wine & More, BevMo\)$","1","",1,c90
