@@ -458,6 +458,9 @@ c1733706565230,"New Product Feedback","",,,,
 c1733706971546,"Cooking Preferences","",,,,
 c1733707684705,"What are you munching on?","",,,,
 c1733742547863,"Laptop Displays","",,,,
+c1733832557727,"Dirty Soda Preferences","",,,,
+c1733833147678,"Health Conditions","",,,,
+c1733833930316,"Food Shopping at Target Survey","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -6447,9 +6450,6 @@ r1733326994914,3,"^Sauces \(e\.g\., hot sauce, soy sauce\)$","1","",1,c19
 r1733327003228,3,"^Dips \(e\.g\., hummus, salsa, guacamole\)$","1","",1,c19
 r1733327010618,3,"^Beverages \(e\.g\., bottled water, juice, soda\)$","1","",1,c19
 r1733327016250,3,"^Pre-packaged meats \(e\.g\., bacon, hot dogs, cold cuts\)$","1","",1,c19
-r1733327032413,3,"^3rd position$","1","",1,c19
-r1733327041899,3,"^8th position$","1","",1,c19
-r1733327047511,3,"^9th position$","1","",1,c19
 r1733327530855,3,"^I would not like to participate in a video interview$","1","",1,c1733280187667
 r1733327633736,3,"^Smartphone$","1","",1,c1733327622706
 r1733327641567,3,"^Smartwatch$","1","",1,c1733327622706
@@ -7951,6 +7951,63 @@ r1733743815839,3,"^YouTube Music$","1","",1,c1732191984249
 r1733743846135,3,"^Chromecast$","1","",1,c1732191984249
 r1733743862167,3,"^Very positive$","1","",1,c1732191984249
 r17338,3,"^Private Label$","1","",1,c345
+r1733832579835,3,"^My friends/family members drink dirty sodas$","1","",1,c1733832557727
+r1733832620878,3,"^I made a dirty soda at home$","1","",1,c1733832557727
+r1733832630575,3,"^I have ordered a dirty soda at a restaurant chain \(Swig, Sonic, Dutch Bros\., etc\.\)$","1","",1,c1733832557727
+r1733832644989,3,"^Occasionally \(once a month\)$","1","",1,c1733832557727
+r1733832664005,3,"^Casual Dining Restaurant \(ex\. Applebee’s, Chilis, Outback, etc\.\)$","1","",1,c1733832557727
+r1733832673800,3,"^Dirty Soda Shop \(Swig, etc\.\)$","1","",1,c1733832557727
+r1733832679789,3,"^Quick Service Restaurant \(ex\. Wendy’s, Chickfila\. Burger King, etc\.\)$","1","",1,c1733832557727
+r1733832687667,3,"^Purchase items to make at home \(Coffee Mate Dirty Soda Creamer\)$","1","",1,c1733832557727
+r1733832725406,3,"^Caramel$","1","",1,c1733832557727
+r1733832730685,3,"^Cherry$","1","",1,c1733832557727
+r1733832740071,3,"^Coffee Flavors$","1","",1,c1733832557727
+r1733832745653,3,"^Chocolate$","1","",1,c1733832557727
+r1733832757701,3,"^Citrus Flavors$","1","",1,c1733832557727
+r1733832762861,3,"^Strawberry$","1","",1,c1733832557727
+r1733832770198,3,"^Orange$","1","",1,c1733832557727
+r1733832783919,3,"^Toasted Marshmallow \+ Dark Chocolate$","1","",1,c1733832557727
+r1733832789959,3,"^Vanilla \+ Candied Orange \(Creamsicle\)$","1","",1,c1733832557727
+r1733832795343,3,"^Vanilla \+ Cherry$","1","",1,c1733832557727
+r1733832800917,3,"^Chocolate \+ Strawberry$","1","",1,c1733832557727
+r1733832821918,3,"^Over-the-top Soda Pop$","1","",1,c1733832557727
+r1733832914340,3,"^Delivery at-home through online grocery shopping$","1","",1,c19
+r1733832921357,3,"^In-store grocery shopping$","1","",1,c19
+r1733832936277,3,"^Desktop$","1","",1,c19
+r1733832944310,3,"^Smartphone$","1","",1,c19
+r1733832984590,3,"^Grocery delivery platforms that connect with retailers \(e\.g\., Instacart, Shipt, DoorDash\)$","1","",1,c19
+r1733832990818,3,"^Meal kit/recipe delivery providers \(e\.g\., HelloFresh, Hungry Root\)$","1","",1,c19
+r1733833000102,3,"^Direct pickup/delivery through websites of retailers \(e\.g\., Walmart\.com, SamsClub\.com, Kroger\.com\)$","1","",1,c19
+r1733833197246,3,"^Depression$","1","",1,c1733833147678
+r1733833228136,3,"^GLP-1 medications \(like Ozempic, Mounjaro, Wegovy, Saxenda, Lomaira\)$","1","",1,c1733833147678
+r1733833241078,3,"^Ozempic$","1","",1,c1733833147678
+r1733833255123,3,"^I would like to maintain my current weight$","1","",1,c1733833147678
+r1733833271173,3,"^Balanced nutritional drinks/shakes \(e\.g\., Boost, Ensure\)$","1","",1,c1733833147678
+r1733833278294,3,"^Performance nutritional drinks/shakes \(e\.g\., Muscle Milk, Premier Protein, Fairlife, Core Power\)$","1","",1,c1733833147678
+r1733833410663,3,"^Drinkable yogurts that are prepackaged \(e\.g\., Oikos Yogurt Drink, Activia Drink, Dannactive Drink\)$","1","",1,c1733833147678
+r1733833420030,3,"^Protein water \(e\.g\., Protein2o, Gatorade with protein\)$","1","",1,c1733833147678
+r1733833427696,3,"^Electrolyte drinks \(e\.g\., Pedialyte, Liquid IV, nuun\)$","1","",1,c1733833147678
+r1733833433374,3,"^Sports drinks \(e\.g\., Gatorade, Powerade\)$","1","",1,c1733833147678
+r1733833441597,3,"^Vitamin & mineral supplements \(e\.g\., Nature’s Bounty, Nature Made\)$","1","",1,c1733833147678
+r1733833471253,3,"^Glucerna$","1","",1,c1733833147678
+r1733833481101,3,"^Ensure$","1","",1,c1733833147678
+r1733833655687,3,"^Use it as a snack during time of the day$","1","",1,c1733833147678
+r1733833668370,3,"^Use it as a dessert replacement$","1","",1,c1733833147678
+r1733833942597,3,"^Mexican$","1","",1,c1733833930316
+r1733833966941,3,"^Tacos$","1","",1,c1733833930316
+r1733833972661,3,"^Burritos$","1","",1,c1733833930316
+r1733833979798,3,"^Enchiladas$","1","",1,c1733833930316
+r1733833986710,3,"^Chips and dip \(Salsa, Guacamole, etc\.\)$","1","",1,c1733833930316
+r1733834027926,3,"^The taste$","1","",1,c1733833930316
+r1733834035021,3,"^Spices and peppers$","1","",1,c1733833930316
+r1733834041751,3,"^Traditional recipes$","1","",1,c1733833930316
+r1733834063399,3,"^It only makes products for Mexican dishes$","1","",1,c1733833930316
+r1733834074383,3,"^Endorsements from celebrity chefs, key Mexican Food influencers, etc\.$","1","",1,c1733833930316
+r1733834083119,3,"^Where it’s made \(i\.e\. Made in Mexico\)$","1","",1,c1733833930316
+r1733834184415,3,"^Occasionally$","1","",1,c1733833930316
+r1733834215977,3,"^Provide helpful content$","1","",1,c1733833930316
+r1733834225933,3,"^Reduce the number of items/brands carried – too many choices!$","1","",1,c1733833930316
+r1733834232709,3,"^Carry more “authentic” brands$","1","",1,c1733833930316
 r17339,3,"^Brand reputation$","1","",1,c345
 r1734,3,"^Liquor store chain \(e\.g\., Total Wine & More, BevMo\)$","1","",1,c90
 r17340,3,"^Better quality$","1","",1,c345
