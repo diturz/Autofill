@@ -461,6 +461,7 @@ c1733742547863,"Laptop Displays","",,,,
 c1733832557727,"Dirty Soda Preferences","",,,,
 c1733833147678,"Health Conditions","",,,,
 c1733833930316,"Food Shopping at Target Survey","",,,,
+c1733879076724,"What mobile phone plan do you have?","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -4347,7 +4348,7 @@ r1731550358378,3,"^Mini Cookies$","1","",1,c1731550064486
 r1731550396123,3,"^Sandwich$","1","",1,c1731550064486
 r1731550402338,3,"^Macarons$","1","",1,c1731550064486
 r1731550409452,3,"^Chocolate Chip$","1","",1,c1731550064486
-r1731550418069,3,"^ Peanut Butter$","1","",1,c1731550064486
+r1731550418069,3,"^Peanut Butter$","1","",1,c1731550064486
 r1731550862053,3,"^Top pink line$","1","",1,c1731550850491
 r1731550881133,3,"^Employed full-time$","1","",1,c1731550850491
 r1731551124306,3,"^USB device / external hard drive$","1","",1,c1731550850491
@@ -6392,7 +6393,6 @@ r1733283932325,3,"^Smart speaker \(e\.g\., Amazon Echo, Google Home\)$","1","",1
 r1733283948430,3,"^Gaming console \(e\.g\., PlayStation, Xbox, Nintendo\)$","1","",1,c556
 r1733283959619,3,"^Smartwatch \(e\.g\., Apple Watch, Galaxy Watch\)$","1","",1,c556
 r1733283984794,3,"^\$1,000 or more$","1","",1,c556
-r1733284001715,3,"^Apple$","1","",1,c556
 r1733284014738,3,"^Meta$","1","",1,c556
 r1733284031234,3,"^Amazon$","1","",1,c556
 r1733284044537,3,"^Google$","1","",1,c556
@@ -8008,6 +8008,80 @@ r1733834184415,3,"^Occasionally$","1","",1,c1733833930316
 r1733834215977,3,"^Provide helpful content$","1","",1,c1733833930316
 r1733834225933,3,"^Reduce the number of items/brands carried – too many choices!$","1","",1,c1733833930316
 r1733834232709,3,"^Carry more “authentic” brands$","1","",1,c1733833930316
+r1733876392223,3,"^Pompeian$","1","",1,c164
+r1733876435111,3,"^Salt$","1","",1,c164
+r1733876447839,3,"^Single ingredient dried herb \(e\.g\. oregano, thyme, basil, etc\.\)$","1","",1,c164
+r1733876473207,3,"^McCormick$","1","",1,c164
+r1733876483991,3,"^McCormick Gourmet$","1","",1,c164
+r1733877074928,3,"^Gaming console$","1","",1,c5
+r1733877089409,3,"^Smart home device$","1","",1,c5
+r1733877130889,3,"^Social media access$","1","",1,c5
+r1733877140282,3,"^E-commerce and online shopping$","1","",1,c5
+r1733877151769,3,"^Reading news and blogs$","1","",1,c5
+r1733877178337,3,"^Google$","1","",1,c5
+r1733877235481,3,"^Looking for things \(e\.g\., restaurants, recipes, products, shopping, etc\.\)$","1","",1,c5
+r1733877758002,3,"^Trading cards$","1","",1,c4
+r1733877859954,3,"^Supermarkets/grocery stores \(e\.g\., Kroger, Safeway\)$","1","",1,c19
+r1733877885062,3,"^Club stores \(Sam’s, Costco, etc\.\)$","1","",1,c19
+r1733878242501,3,"^DirecTV$","1","",1,c439
+r1733878535603,3,"^Simple Cocktails \(such as rum and coke, vodka soda\)$","1","",1,c1731380387889
+r1733878543659,3,"^Beer$","1","",1,c1731380387889
+r1733878738970,3,"^DeeBee's Superfruit$","1","",1,c81
+r1733878763073,3,"^DeeBee's Superfruit Freezies Original Flavor$","1","",1,c81
+r1733878771322,3,"^DeeBee's Gelato Pops$","1","",1,c81
+r1733878778610,3,"^DeeBee's Superfruit Freezies Tropical Flavor$","1","",1,c81
+r1733878793129,3,"^Kroger$","1","",1,c81
+r1733878799938,3,"^Walmart$","1","",1,c81
+r1733878817088,3,"^Hydration benefits from naturally-occurring electrolytes found in watermelon juice$","1","",1,c81
+r1733878934591,3,"^Tyson Chicken Strips or Nuggets$","1","",1,c5
+r1733878946248,3,"^White Castle Sliders$","1","",1,c5
+r1733878964103,3,"^Totino’s Party Pizza$","1","",1,c5
+r1733878996997,3,"^BelVita$","1","",1,c5
+r1733879017630,3,"^Oreo Cakesters$","1","",1,c5
+r1733879026568,3,"^Nabisco Handi-Snacks \(Oreo, Ritz dippers\)$","1","",1,c5
+r1733879086254,3,"^I am the primary decision-maker$","1","",1,c1733879076724
+r1733879110304,3,"^Verizon$","1","",1,c1733879076724
+r1733879370198,3,"^A financial services / accounting firm or department$","1","",1,c538
+r1733879419642,3,"^Bertolli$","1","",1,c538
+r1733879673785,3,"^5 - 12 years of age$","1","",1,c1731550064486
+r1733879681539,3,"^13 - 17 years of age$","1","",1,c1731550064486
+r1733879720071,3,"^Snacks that require freezing \(e\.g\., ice cream, pizza rolls, etc\.\)$","1","",1,c1731550064486
+r1733879751902,3,"^Chocolate Chip Cookies$","1","",1,c1731550064486
+r1733879764704,3,"^Oatmeal / Oatmeal Raisin$","1","",1,c1731550064486
+r1733879795078,3,"^None of the above - would purchase any of these brands$","1","",1,c1731550064486
+r1733880144691,3,"^Takis$","1","",1,c409
+r1733880150908,3,"^Lay’s$","1","",1,c409
+r1733880157805,3,"^Cheetos$","1","",1,c409
+r1733880165940,3,"^Doritos$","1","",1,c409
+r1733880309451,3,"^Eggnog$","1","",1,c1733446139856
+r1733880328705,3,"^Gingerbread$","1","",1,c1733446139856
+r1733880338347,3,"^A family member makes them for me\.$","1","",1,c1733446139856
+r1733880904804,3,"^Quaker$","1","",1,c138
+r1733880965812,3,"^Standard Oatmeal \(i\.e\., Quick Oats, Old Fashioned Oats, Steel Cut Oats; that come in a canister/bag\)$","1","",1,c138
+r1733880980365,3,"^Instant Oatmeal Packets \(multiple come in a box\)$","1","",1,c138
+r1733881265281,3,"^Verizon Wireless$","1","",1,c1732191984249
+r1733881530357,3,"^Contributing to a campaign \(by donating time, money, etc\.\)$","1","",1,c178
+r1733881539304,3,"^Live Protests \(actively participating in a demonstration, march, petition, boycott, etc\.\)$","1","",1,c178
+r1733881684510,3,"^Paid business or enterprise plan$","1","",1,c85
+r1733881757413,3,"^Oatmeal$","1","",1,c41
+r1733881771605,3,"^Shelf-stable macaroni and cheese$","1","",1,c41
+r1733881779069,3,"^Unflavored rice side$","1","",1,c41
+r1733881797148,3,"^Yes, I am a parent/guardian of a child under 18 that lives in my household$","1","",1,c41
+r1733881817619,3,"^Children 6-12 years old$","1","",1,c41
+r1733881825237,3,"^Children 13-17 years old$","1","",1,c41
+r1733881852707,3,"^Regular size box$","1","",1,c41
+r1733881862388,3,"^Family sized box package$","1","",1,c41
+r1733881876444,3,"^Cheetos Mac ‘N Cheese$","1","",1,c41
+r1733881883972,3,"^Kraft \(e\.g\., Original, Easy Mac, or Deluxe\)$","1","",1,c41
+r1733881899580,3,"^Great Value Macaroni and Cheese$","1","",1,c41
+r1733881929891,3,"^Once a week or more$","1","",1,c41
+r1733881951723,3,"^Coke/Coca-Cola$","1","",1,c41
+r1733881962739,3,"^Ben and Jerry’s Ice Cream$","1","",1,c41
+r1733881970147,3,"^Oreo’s$","1","",1,c41
+r1733881978838,3,"^Pepsi$","1","",1,c41
+r1733881985596,3,"^Doritos Chips$","1","",1,c41
+r1733881997563,3,"^Gatorade$","1","",1,c41
+r1733882009891,3,"^I would consider purchasing all of these brands$","1","",1,c41
 r17339,3,"^Brand reputation$","1","",1,c345
 r1734,3,"^Liquor store chain \(e\.g\., Total Wine & More, BevMo\)$","1","",1,c90
 r17340,3,"^Better quality$","1","",1,c345
@@ -9815,7 +9889,6 @@ r18974,3,"^All members of the household use same mobile provider, but their line
 r18975,3,"^Unlimited Data$","1","",1,c439
 r18976,3,"^A pre-paid data plan$","1","",1,c439
 r18977,3,"^Do not have a home security system$","1","",1,c439
-r18978,3,"^AT&T$","1","",1,c439
 r18979,3,"^Somewhat likely$","1","",1,c439
 r1898,3,"^YouTube$","1","",1,c98
 r18980,3,"^Single family home detached home$","1","",1,c439
