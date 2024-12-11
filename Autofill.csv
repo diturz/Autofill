@@ -462,6 +462,11 @@ c1733832557727,"Dirty Soda Preferences","",,,,
 c1733833147678,"Health Conditions","",,,,
 c1733833930316,"Food Shopping at Target Survey","",,,,
 c1733879076724,"What mobile phone plan do you have?","",,,,
+c1733925543590,"Let's talk about recreational activities!","",,,,
+c1733925974619,"About online shopping","",,,,
+c1733926437685,"Hello Consumer Electronics Users!","",,,,
+c1733926879265,"Let's talk about the movies!","",,,,
+c1733927041158,"Let's Talk Snacks!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -8083,6 +8088,107 @@ r1733881985596,3,"^Doritos Chips$","1","",1,c41
 r1733881997563,3,"^Gatorade$","1","",1,c41
 r1733882009891,3,"^I would consider purchasing all of these brands$","1","",1,c41
 r17339,3,"^Brand reputation$","1","",1,c345
+r1733925555373,3,"^Gone to a movie theater$","1","",1,c1733925543590
+r1733925564706,3,"^Visited an amusement park or arcade$","1","",1,c1733925543590
+r1733925572090,3,"^Played or attended a sports game$","1","",1,c1733925543590
+r1733925580256,3,"^Watched a movie at home via streaming$","1","",1,c1733925543590
+r1733925882533,3,"^"All I Want for Christmas Is You"$","1","",1,c1733446139856
+r1733925903877,3,"^Early December$","1","",1,c1733446139856
+r1733925922975,3,"^Streaming service like Spotify$","1","",1,c1733446139856
+r1733925987974,3,"^A few times a week$","1","",1,c1733925974619
+r1733926032183,3,"^Sports and Outdoors$","1","",1,c1733925974619
+r1733926037700,3,"^Beverages$","1","",1,c1733925974619
+r1733926043293,3,"^Food$","1","",1,c1733925974619
+r1733926048533,3,"^Pet Supplies$","1","",1,c1733925974619
+r1733926055280,3,"^Toys, Kids & Baby$","1","",1,c1733925974619
+r1733926061221,3,"^Clothing, Shoes, & Accessories$","1","",1,c1733925974619
+r1733926070548,3,"^Electronics$","1","",1,c1733925974619
+r1733926076100,3,"^Beauty and Health$","1","",1,c1733925974619
+r1733926166233,3,"^15% off$","1","",1,c1733925974619
+r1733926188657,3,"^Amazon$","1","",1,c1733925974619
+r1733926195517,3,"^Walmart$","1","",1,c1733925974619
+r1733926202428,3,"^Target$","1","",1,c1733925974619
+r1733926222398,3,"^Amazon Prime$","1","",1,c1733925974619
+r1733926228424,3,"^Walmart \+$","1","",1,c1733925974619
+r1733926258980,3,"^Easy to track the total cost of my groceries$","1","",1,c1733925974619
+r1733926265989,3,"^Easy to return/cancel orders$","1","",1,c1733925974619
+r1733926273660,3,"^Easy to find items I want$","1","",1,c1733925974619
+r1733926279997,3,"^Product recommendations$","1","",1,c1733925974619
+r1733926287566,3,"^Fast delivery$","1","",1,c1733925974619
+r1733926330357,3,"^Concerns about product expiration date/freshness$","1","",1,c1733925974619
+r1733926337335,3,"^Takes several days to get items$","1","",1,c1733925974619
+r1733926364902,3,"^Percentage-off discount$","1","",1,c1733925974619
+r1733926384604,3,"^Free product samples included with my order$","1","",1,c1733925974619
+r1733926398502,3,"^Product bundles based on recipe ideas$","1","",1,c1733925974619
+r1733926444895,3,"^iPhone$","1","",1,c1733926437685
+r1733926478962,3,"^Look for information on my own ONLY \(Google, YouTube, websites\), without contacting live customer support$","1","",1,c1733926437685
+r1733926498576,3,"^AI chatbot \(e\.g\., ChatGPT, Microsoft Copilot\)$","1","",1,c1733926437685
+r1733926507012,3,"^YouTube videos - made by Apple$","1","",1,c1733926437685
+r1733926515893,3,"^Visit to an Apple Store$","1","",1,c1733926437685
+r1733926525676,3,"^Visit to the store where you bought your Apple device \(other than Apple Store\)$","1","",1,c1733926437685
+r1733926540494,3,"^Apple Store App \(lets you check compatibility of accessories, shop or buy products, and sign up for 'Today at Apple' sessions$","1","",1,c1733926437685
+r1733926564108,3,"^Online search like Google$","1","",1,c1733926437685
+r1733926570277,3,"^YouTube videos - not made by Apple$","1","",1,c1733926437685
+r1733926587041,3,"^Green$","1","",1,c1733926437685
+r1733926905590,3,"^Most visits$","1","",1,c1733926879265
+r1733926918626,3,"^Hot food items \(e\.g\., nachos, hot dogs, pretzels\)$","1","",1,c1733926879265
+r1733926927143,3,"^Healthier snacks \(e\.g\., fruit, granola bars\)$","1","",1,c1733926879265
+r1733926933126,3,"^Bottled water$","1","",1,c1733926879265
+r1733926939700,3,"^Candy$","1","",1,c1733926879265
+r1733926948224,3,"^Fountain soda$","1","",1,c1733926879265
+r1733926970226,3,"^Freshness and quality$","1","",1,c1733926879265
+r1733926987341,3,"^Limited-time discounts on specific items$","1","",1,c1733926879265
+r1733927049108,3,"^I am primarily responsible for grocery shopping for my household$","1","",1,c1733927041158
+r1733927068367,3,"^9-12$","1","",1,c1733927041158
+r1733927075500,3,"^13-15$","1","",1,c1733927041158
+r1733927088060,3,"^Single-serve snacks \(i\.e\., chips, nuts, cookies\)$","1","",1,c1733927041158
+r1733927092955,3,"^Fruit cups \(i\.e\., Dole , Del Monte\)$","1","",1,c1733927041158
+r1733927099663,3,"^Ice cream and/or frozen novelties$","1","",1,c1733927041158
+r1733927106332,3,"^Fruit snacks \(e\.g\., bites, bars, leathers\)$","1","",1,c1733927041158
+r1733927114364,3,"^Apple/fruit sauce cups$","1","",1,c1733927041158
+r1733927122524,3,"^Ready-to-eat Pudding cups$","1","",1,c1733927041158
+r1733927129620,3,"^Yogurt Tubes / Pouches$","1","",1,c1733927041158
+r1733927135014,3,"^Snack cheese$","1","",1,c1733927041158
+r1733927146020,3,"^Yogurt Cups$","1","",1,c1733927041158
+r1733927153188,3,"^Ready-to drink dairy or non-dairy milks$","1","",1,c1733927041158
+r1733927160268,3,"^Savory spreads and dips$","1","",1,c1733927041158
+r1733927168783,3,"^Ready-to-eat Gelatin cups$","1","",1,c1733927041158
+r1733927182133,3,"^Sports / energy drinks$","1","",1,c1733927041158
+r1733927198453,3,"^Grocery Store$","1","",1,c1733927041158
+r1733927210932,3,"^Mass Merchandiser \(e\.g\., Walmart, Target, etc\.\)$","1","",1,c1733927041158
+r1733927218946,3,"^Drug Store$","1","",1,c1733927041158
+r1733927262245,3,"^Kroger$","1","",1,c1733927041158
+r1733927275856,3,"^Sam’s Club$","1","",1,c1733927041158
+r1733927288916,3,"^Target$","1","",1,c1733927041158
+r1733927295468,3,"^Walmart$","1","",1,c1733927041158
+r1733927333260,3,"^My children$","1","",1,c1733927041158
+r1733927335891,3,"^Me$","1","",1,c1733927041158
+r1733927342932,3,"^Other adults$","1","",1,c1733927041158
+r1733927356940,3,"^A few times per week$","1","",1,c1733927041158
+r1733927438484,3,"^Kraft$","1","",1,c1733927041158
+r1733927447340,3,"^Tillamook$","1","",1,c1733927041158
+r1733927456134,3,"^Sargento$","1","",1,c1733927041158
+r1733927463932,3,"^Miyoko's$","1","",1,c1733927041158
+r1733927469459,3,"^Philadelphia$","1","",1,c1733927041158
+r1733927539797,3,"^High protein content$","1","",1,c1733927041158
+r1733927548932,3,"^Organic$","1","",1,c1733927041158
+r1733927574051,3,"^Beverage/drink$","1","",1,c1733927041158
+r1733927581697,3,"^Squeeze Tube$","1","",1,c1733927041158
+r1733927588997,3,"^Snack bar$","1","",1,c1733927041158
+r1733927619179,3,"^Regular exercise \(e\.g\., cardio, strength training, flexibility exercises\)$","1","",1,c1733927041158
+r1733927628023,3,"^Social activities \(e\.g\., spending time with friends and family\)$","1","",1,c1733927041158
+r1733927634173,3,"^Balanced diet \(e\.g\., consuming fruits, vegetables, whole grains\)$","1","",1,c1733927041158
+r1733927649761,3,"^Cardio \(e\.g\., running, cycling, swimming\)$","1","",1,c1733927041158
+r1733927655885,3,"^ Strength training \(e\.g\., weight lifting, resistance training\)$","1","",1,c1733927041158
+r1733927662195,3,"^Team sports \(e\.g\., basketball, soccer, volleyball\)$","1","",1,c1733927041158
+r1733927684996,3,"^Yogurt snacks \(cups / tubes / pouches\)$","1","",1,c1733927041158
+r1733927694564,3,"^Fresh fruit /vegetables$","1","",1,c1733927041158
+r1733927704161,3,"^Fruit cups$","1","",1,c1733927041158
+r1733927721629,3,"^Snack cheese$","1","",1,c1733927041158
+r1733927730277,3,"^Fruit cups$","1","",1,c1733927041158
+r1733927740252,3,"^Yogurt snacks \(cups / tubes / pouches\)$","1","",1,c1733927041158
+r1733927752091,3,"^Sports / energy drinks$","1","",1,c1733927041158
+r1733927758918,3,"^Nut butter snacks$","1","",1,c1733927041158
 r1734,3,"^Liquor store chain \(e\.g\., Total Wine & More, BevMo\)$","1","",1,c90
 r17340,3,"^Better quality$","1","",1,c345
 r17341,3,"^Left$","1","",1,c345
