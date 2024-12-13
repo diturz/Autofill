@@ -474,6 +474,15 @@ c1734043798587,"Let's talk holidays!","",,,,
 c1734044776703,"All about your shopping preferences","",,,,
 c1734045272345,"Smart Thermostat Feature Preference Survey","",,,,
 c1734047921094,"Tell Us About Your Purchases","",,,,
+c1734048607788,"Beauty at Online & Social Media Retailers","",,,,
+c1734049866839,"Beauty at Drug & Mass Retailers","",,,,
+c1734052795266,"A Few Questions for our Crowdtap Members!","",,,,
+c1734053336277,"Three questions for you!","",,,,
+c1734053836083,"Men! Do you use Bar Soap? Please Identify which brand.","",,,,
+c1734054310230,"Your Career","",,,,
+c1734054623955,"Shaving Products Attitudes and Usage Study","",,,,
+c1734055050216,"What are you watching?","",,,,
+c1734055203556,"We have some questions for you!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -8271,6 +8280,85 @@ r1734048212110,3,"^Tools$","1","",1,c1734047921094
 r1734048298501,3,"^Loyalty program$","1","",1,c1734047921094
 r1734048310557,3,"^Exclusive products$","1","",1,c1734047921094
 r1734048317128,3,"^Variety of price points$","1","",1,c1734047921094
+r1734048696477,3,"^Important$","1","",1,c1734048607788
+r1734049875099,3,"^Important$","1","",1,c1734049866839
+r1734051931530,3,"^Coffee$","1","",1,c23
+r1734051935715,3,"^Smoothie$","1","",1,c23
+r1734051940859,3,"^Tea$","1","",1,c23
+r1734051948031,3,"^Energy drinks \(Red Bull, Monster, etc\)$","1","",1,c23
+r1734051953467,3,"^Sparkling water$","1","",1,c23
+r1734051962499,3,"^Juice$","1","",1,c23
+r1734051967932,3,"^Lemonade$","1","",1,c23
+r1734052057496,3,"^Medium Roast$","1","",1,c23
+r1734052064293,3,"^Dark Roast$","1","",1,c23
+r1734052076735,3,"^Espresso$","1","",1,c23
+r1734052099940,3,"^Powdered instant coffee$","1","",1,c23
+r1734052105026,3,"^Espresso Capsules compatible with Nespresso machines$","1","",1,c23
+r1734052115738,3,"^Hot coffee from a café or coffee shop \(drip coffee, latte, cappuccino, etc\.\)$","1","",1,c23
+r1734052306331,3,"^I am curious about understanding different coffee varieties, blends, and origins\.$","1","",1,c23
+r1734052311793,3,"^I like to experiment and recreate coffee shop beverages at home$","1","",1,c23
+r1734052318709,3,"^I regularly visit coffee shops or cafes$","1","",1,c23
+r1734052324495,3,"^Most coffee tastes pretty good to me, so I’m not picky about which brand I choose$","1","",1,c23
+r1734052341556,3,"^Casual dining restaurant$","1","",1,c23
+r1734052360124,3,"^Fine dining restaurant$","1","",1,c23
+r1734052366791,3,"^Quick service or fast food restaurant$","1","",1,c23
+r1734052390522,3,"^Convenience stores$","1","",1,c23
+r1734052398505,3,"^Coffee shop or cafe$","1","",1,c23
+r1734052474221,3,"^Hot Espresso-Based Drinks \(Latte, Cappuccino, Americano, etc\)$","1","",1,c23
+r1734052484137,3,"^Blended Drinks \(Frappe, Frappuccino, etc\)$","1","",1,c23
+r1734052490426,3,"^Iced Tea or Tea Lattes \(Chai, Matcha\)$","1","",1,c23
+r1734052537238,3,"^Boxes \(boxed snack or lunch, charcuterie, etc\)$","1","",1,c23
+r1734052542035,3,"^Breakfast sandwiches$","1","",1,c23
+r1734052569828,3,"^Lunch sandwiches$","1","",1,c23
+r1734052599933,3,"^No and I don’t have any intention to$","1","",1,c23
+r1734052662962,3,"^Vitamin and Mineral Supplements$","1","",1,c15
+r1734052802548,3,"^Desktop Computer$","1","",1,c1734052795266
+r1734052818935,3,"^A few times a week$","1","",1,c1734052795266
+r1734052850185,3,"^Points/Gift Cards!$","1","",1,c1734052795266
+r1734052855745,3,"^I love to share my opinions!$","1","",1,c1734052795266
+r1734052862231,3,"^I like to know that my opinion influences the decisions of major brands!$","1","",1,c1734052795266
+r1734053355094,3,"^Frozen drink \(ex: Frappuccino, Slushie/Slurpy, frozen lemonade\)$","1","",1,c1734053336277
+r1734053468316,3,"^Juice$","1","",1,c1734053336277
+r1734053491781,3,"^Iced Coffee$","1","",1,c1734053336277
+r1734053505966,3,"^Soda$","1","",1,c1734053336277
+r1734053512418,3,"^Iced Tea$","1","",1,c1734053336277
+r1734053520234,3,"^Alcohol$","1","",1,c1734053336277
+r1734053529220,3,"^Energy drink \(ex: Alani Nu, Celsius, Bang\)$","1","",1,c1734053336277
+r1734053537336,3,"^Sports drinks \(ex: Gatorade, Powerade, etc\.\)$","1","",1,c1734053336277
+r1734053547015,3,"^Carbonated water$","1","",1,c1734053336277
+r1734053567847,3,"^Burger King$","1","",1,c1734053336277
+r1734053575110,3,"^Carl's Jr\.$","1","",1,c1734053336277
+r1734053581331,3,"^KFC$","1","",1,c1734053336277
+r1734053586415,3,"^Wendy's$","1","",1,c1734053336277
+r1734053592879,3,"^McDonalds$","1","",1,c1734053336277
+r1734053641428,3,"^Somewhat confused$","1","",1,c1734053336277
+r1734053657311,3,"^Somewhat confident$","1","",1,c1734053336277
+r1734053806786,3,"^Quality$","1","",1,c1734053336277
+r1734053908229,3,"^Dove$","1","",1,c1734053836083
+r1734053915061,3,"^Olay$","1","",1,c1734053836083
+r1734053921063,3,"^Ivory$","1","",1,c1734053836083
+r1734054099538,3,"^7-Eleven$","1","",1,c41
+r1734054317658,3,"^Somewhat interested$","1","",1,c1734054310230
+r1734054342905,3,"^Finance$","1","",1,c1734054310230
+r1734054363057,3,"^Somewhat likely$","1","",1,c1734054310230
+r1734054634361,3,"^1-3 days per week$","1","",1,c1734054623955
+r1734054661556,3,"^I consistently shave the same way AND use the SAME shaving products\.$","1","",1,c1734054623955
+r1734054682908,3,"^Regularly use$","1","",1,c1734054623955
+r1734054740085,3,"^Gel$","1","",1,c1734054623955
+r1734055096150,3,"^LG$","1","",1,c1734055050216
+r1734055107781,3,"^Sony$","1","",1,c1734055050216
+r1734055116465,3,"^Philips$","1","",1,c1734055050216
+r1734055125503,3,"^Samsung$","1","",1,c1734055050216
+r1734055214560,3,"^21-34$","1","",1,c1734055203556
+r1734055259296,3,"^Home insurance$","1","",1,c1734055203556
+r1734055270055,3,"^Health insurance$","1","",1,c1734055203556
+r1734055281608,3,"^Auto insurance$","1","",1,c1734055203556
+r1734055311859,3,"^I make the decisions alone$","1","",1,c1734055203556
+r1734055381802,3,"^Other source of health care coverage$","1","",1,c1734055203556
+r1734055419898,3,"^I used a broker to help me sign up through the Health Exchange/Marketplace\.$","1","",1,c1734055203556
+r1734055670342,3,"^Cigna$","1","",1,c1734055203556
+r1734056007469,3,"^Somewhat familiar$","1","",1,c1734055203556
+r1734056057848,3,"^Illinois$","1","",1,c1734055203556
 r17341,3,"^Left$","1","",1,c345
 r17342,3,"^Buy online$","1","",1,c345
 r17343,3,"^The same$","1","",1,c345
