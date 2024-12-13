@@ -467,6 +467,13 @@ c1733925974619,"About online shopping","",,,,
 c1733926437685,"Hello Consumer Electronics Users!","",,,,
 c1733926879265,"Let's talk about the movies!","",,,,
 c1733927041158,"Let's Talk Snacks!","",,,,
+c1734035549059,"Some questions about you","",,,,
+c1734039896469,"Smart devices Poll","",,,,
+c1734041385764,"We'd love to learn about your Sport Nutrition and Supplement Experiences.","",,,,
+c1734043798587,"Let's talk holidays!","",,,,
+c1734044776703,"All about your shopping preferences","",,,,
+c1734045272345,"Smart Thermostat Feature Preference Survey","",,,,
+c1734047921094,"Tell Us About Your Purchases","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -8191,6 +8198,79 @@ r1733927752091,3,"^Sports / energy drinks$","1","",1,c1733927041158
 r1733927758918,3,"^Nut butter snacks$","1","",1,c1733927041158
 r1734,3,"^Liquor store chain \(e\.g\., Total Wine & More, BevMo\)$","1","",1,c90
 r17340,3,"^Better quality$","1","",1,c345
+r1734034994801,3,"^I am primarily responsible for grocery shopping for my household$","1","",1,c179
+r1734035556909,3,"^Dined out at a restaurant or food festival$","1","",1,c1734035549059
+r1734035567933,3,"^Attended a sporting event \(e\.g\., professional, college, or amateur sports\)$","1","",1,c1734035549059
+r1734040406386,3,"^Gaming console$","1","",1,c1734039896469
+r1734040496355,3,"^Smartwatch$","1","",1,c1734039896469
+r1734040503331,3,"^Smartphone$","1","",1,c1734039896469
+r1734040511675,3,"^Tablet$","1","",1,c1734039896469
+r1734040518196,3,"^Smart TV$","1","",1,c1734039896469
+r1734041002911,3,"^Using social media apps \(e\.g\., Instagram, TikTok\)$","1","",1,c1734039896469
+r1734041046608,3,"^Streaming videos \(e\.g\., YouTube, Netflix\)$","1","",1,c1734039896469
+r1734041051656,3,"^Playing games$","1","",1,c1734039896469
+r1734041057279,3,"^Listening to music$","1","",1,c1734039896469
+r1734041087551,3,"^Using GPS or maps for directions$","1","",1,c1734039896469
+r1734041107090,3,"^Controlling smart home devices \(e\.g\., lights, thermostat\)$","1","",1,c1734039896469
+r1734041285284,3,"^A balanced mix of beneficial and harmful consequences$","1","",1,c1734039896469
+r1734041403963,3,"^Protein powders \(e\.g\., Optimum Nutrition Gold Standard, Dymatize ISO100, Orgain Plant-Based Protein\)$","1","",1,c1734041385764
+r1734041410702,3,"^Energy Drinks$","1","",1,c1734041385764
+r1734041428693,3,"^Vitamins$","1","",1,c1734041385764
+r1734043933541,3,"^Father's Day$","1","",1,c1734043798587
+r1734043944686,3,"^Valentine's Day$","1","",1,c1734043798587
+r1734043950836,3,"^Mother's Day$","1","",1,c1734043798587
+r1734043958269,3,"^Easter$","1","",1,c1734043798587
+r1734043987301,3,"^We celebrate at home with just our household$","1","",1,c1734043798587
+r1734044040275,3,"^Cookies$","1","",1,c1734043798587
+r1734044045843,3,"^Brownies$","1","",1,c1734043798587
+r1734044051333,3,"^Special Baked Goods$","1","",1,c1734043798587
+r1734044055707,3,"^Cake$","1","",1,c1734043798587
+r1734044150921,3,"^All Purpose Flour$","1","",1,c1734043798587
+r1734044156217,3,"^Specialty Wheat Flour \(e\.g\., Cake, Bread, etc\)$","1","",1,c1734043798587
+r1734044165363,3,"^Pancake & Waffle Mixes$","1","",1,c1734043798587
+r1734044171786,3,"^Coconut Flakes or Shredded Coconut$","1","",1,c1734043798587
+r1734044178931,3,"^Finished Baked Goods$","1","",1,c1734043798587
+r1734044258080,3,"^Club Store \(e\.g\., Costco, Sams\)$","1","",1,c1734043798587
+r1734044264730,3,"^Online store \(e\.g\., Amazon, Vitacost\)$","1","",1,c1734043798587
+r1734044271161,3,"^Big Box Store \(e\.g\., Walmart, Target\)$","1","",1,c1734043798587
+r1734044426503,3,"^Dental care$","1","",1,c1733702281074
+r1734044434664,3,"^High fiber$","1","",1,c1733702281074
+r1734044439961,3,"^High protein$","1","",1,c1733702281074
+r1734044445871,3,"^Non GMO$","1","",1,c1733702281074
+r1734044451028,3,"^Organic$","1","",1,c1733702281074
+r1734044516345,3,"^No, don't need to$","1","",1,c1733702281074
+r1734044787318,3,"^Costco$","1","",1,c1734044776703
+r1734044798910,3,"^Sam's Club$","1","",1,c1734044776703
+r1734045295205,3,"^Product color$","1","",1,c1734045272345
+r1734045303107,3,"^Compatibility with voice assistants$","1","",1,c1734045272345
+r1734045310338,3,"^Customizable idle screen / color scheme$","1","",1,c1734045272345
+r1734045316058,3,"^Compatibility with other smart technology in home$","1","",1,c1734045272345
+r1734045345856,3,"^Black$","1","",1,c1734045272345
+r1734046574658,3,"^Purchase your preferred product/brand and color somewhere else$","1","",1,c1734045272345
+r1734046611552,3,"^Moderately important$","1","",1,c1734045272345
+r1734046672680,3,"^Smart Thermostat - \$250 with room sensor$","1","",1,c1734045272345
+r1734047929299,3,"^Urban - a densely populated area with many buildings and businesses$","1","",1,c1734047921094
+r1734047967663,3,"^Pet Products$","1","",1,c1734047921094
+r1734047973320,3,"^Electronics$","1","",1,c1734047921094
+r1734047980720,3,"^Home & Garden$","1","",1,c1734047921094
+r1734047986295,3,"^Watches & Jewelry$","1","",1,c1734047921094
+r1734047998239,3,"^Apparel$","1","",1,c1734047921094
+r1734048005497,3,"^Beauty \(skincare, haircare, makeup, fragrance, bath & body, tools, nails\)$","1","",1,c1734047921094
+r1734048015520,3,"^Sporting Goods$","1","",1,c1734047921094
+r1734048053675,3,"^Drug \+ Mass \(e\.g\., CVS, Walgreens, Target, Walmart\)$","1","",1,c1734047921094
+r1734048060959,3,"^Online \+ Social \(e\.g\., Amazon, TikTok Shop, Instagram\)$","1","",1,c1734047921094
+r1734048110091,3,"^Walmart$","1","",1,c1734047921094
+r1734048114637,3,"^Amazon$","1","",1,c1734047921094
+r1734048124551,3,"^Target$","1","",1,c1734047921094
+r1734048131289,3,"^Sephora$","1","",1,c1734047921094
+r1734048165409,3,"^20% - 40%$","1","",1,c1734047921094
+r1734048194942,3,"^Haircare$","1","",1,c1734047921094
+r1734048199888,3,"^Fragrance$","1","",1,c1734047921094
+r1734048205758,3,"^Bath & Body$","1","",1,c1734047921094
+r1734048212110,3,"^Tools$","1","",1,c1734047921094
+r1734048298501,3,"^Loyalty program$","1","",1,c1734047921094
+r1734048310557,3,"^Exclusive products$","1","",1,c1734047921094
+r1734048317128,3,"^Variety of price points$","1","",1,c1734047921094
 r17341,3,"^Left$","1","",1,c345
 r17342,3,"^Buy online$","1","",1,c345
 r17343,3,"^The same$","1","",1,c345
