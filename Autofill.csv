@@ -3940,7 +3940,7 @@ r1731262572112,3,"^Multivitamins / Single letter vitamins$","1","",1,c1731262468
 r1731262581135,3,"^Omegas$","1","",1,c1731262468320
 r1731262607483,3,"^Centrum$","1","",1,c1731262468320
 r1731262616298,3,"^Garden of Life$","1","",1,c1731262468320
-r1731262634623,3,"^\$75,000 to \$99,999$","1","",1,c1731262468320
+r1731262634623,3,"^\$100,000 to \$149,000$","1","",1,c1731262468320
 r1731262696747,3,"^I am the primary purchaser of groceries for my household$","1","",1,c431
 r1731262729305,3,"^ Healthy - I have money left at the end of the month for a few luxuries or to add to my savings$","1","",1,c431
 r1731262777241,3,"^10-12 years old$","1","",1,c431
@@ -8584,7 +8584,7 @@ r1734200112388,3,"^Ready-to-use spray - A convenient spray bottle for immediate 
 r1734200124987,3,"^Baits - A small product that holds a bait, which pests eat and take to their nest\.$","1","",1,c1734199703315
 r1734200135912,3,"^Hose-end spray - Attaches to your garden hose to cover larger outdoor areas for pest control\.$","1","",1,c1734199703315
 r1734200152369,3,"^I have kids ages 6-10 living with me\.$","1","",1,c1734199703315
-r1734200159774,3,"^I have kids ages 11-15 living with me\. $","1","",1,c1734199703315
+r1734200159774,3,"^I have kids ages 11-15 living with me\.$","1","",1,c1734199703315
 r1734200172231,3,"^Dog\(s\)$","1","",1,c1734199703315
 r1734200177880,3,"^Cat\(s\)$","1","",1,c1734199703315
 r1734200316640,3,"^Twitter \(X\)$","1","",1,c1734200194522
@@ -8629,6 +8629,28 @@ r1734206704654,3,"^Steaks$","1","",1,c1734206660373
 r1734206713223,3,"^Vegetables$","1","",1,c1734206660373
 r1734206720430,3,"^Rice/Grain dishes$","1","",1,c1734206660373
 r1734206727086,3,"^Pasta$","1","",1,c1734206660373
+r1734209641398,3,"^Dips or spreads$","1","",1,c1732529712879
+r1734209647032,3,"^Crackers / breads / chips$","1","",1,c1732529712879
+r1734209652407,3,"^Cheeses$","1","",1,c1732529712879
+r1734209659232,3,"^Cured meats$","1","",1,c1732529712879
+r1734209666896,3,"^Fresh vegetables$","1","",1,c1732529712879
+r1734209673984,3,"^Pickled items$","1","",1,c1732529712879
+r1734209689311,3,"^Carrot chips$","1","",1,c1732529712879
+r1734209695712,3,"^Mini cucumbers$","1","",1,c1732529712879
+r1734209708062,3,"^Mini peppers$","1","",1,c1732529712879
+r1734209720858,3,"^Cherry tomatoes$","1","",1,c1732529712879
+r1734209733230,3,"^Baby carrots$","1","",1,c1732529712879
+r1734211693783,3,"^None - I didn't experience any challenges$","1","",1,c5
+r1734211705935,3,"^Impulse Buy$","1","",1,c5
+r1734211776749,3,"^I plan to buy these types of tools in the future$","1","",1,c41
+r1734212256931,3,"^Read the product package$","1","",1,c5
+r1734212263413,3,"^Compared prices online$","1","",1,c5
+r1734212270868,3,"^Compared flavors$","1","",1,c5
+r1734213279995,3,"^Stella Rosa$","1","",1,c179
+r1734213288261,3,"^Josh Cellars$","1","",1,c179
+r1734214120445,3,"^Jose Cuervo$","1","",1,c61
+r1734214128646,3,"^Jameson$","1","",1,c61
+r1734214133605,3,"^Jägermeister$","1","",1,c61
 r17343,3,"^The same$","1","",1,c345
 r17344,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c345
 r17345,0,"input\[_ngcontent-ljo-c77\]","400","",1,c345
