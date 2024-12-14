@@ -483,6 +483,19 @@ c1734054310230,"Your Career","",,,,
 c1734054623955,"Shaving Products Attitudes and Usage Study","",,,,
 c1734055050216,"What are you watching?","",,,,
 c1734055203556,"We have some questions for you!","",,,,
+c1734192532578,"Join us for a chat!","",,,,
+c1734193445676,"Gearing up for the holidays","",,,,
+c1734194195827,"Tell us about your experience","",,,,
+c1734194427445,"Dog Food","",,,,
+c1734194532869,"Calling all cookie buyers","",,,,
+c1734195535882,"Quick Survey On Grocery Store Products","",,,,
+c1734195688161,"All about Christmas","",,,,
+c1734196145110,"Fast Food Usage and Preferences","",,,,
+c1734199703315,"All About Your Home!","",,,,
+c1734200194522,"We’d love to know what you enjoy.","",,,,
+c1734200418661,"Let’s talk about packaging!","",,,,
+c1734204029306,"You and your car!","",,,,
+c1734206660373,"Share your thoughts about this seasoning flavor!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -8360,7 +8373,262 @@ r1734055670342,3,"^Cigna$","1","",1,c1734055203556
 r1734056007469,3,"^Somewhat familiar$","1","",1,c1734055203556
 r1734056057848,3,"^Illinois$","1","",1,c1734055203556
 r17341,3,"^Left$","1","",1,c345
+r1734191450347,3,"^Insured by an employer or union$","1","",1,c1734055203556
+r1734191471124,3,"^Insured by my employer or union$","1","",1,c1734055203556
+r1734191701369,3,"^Fanta$","1","",1,c409
+r1734191710636,3,"^ Pepsi \(e\.g\., Regular Pepsi, Diet Pepsi\)$","1","",1,c409
+r1734191717124,3,"^Coke \(e\.g\., Regular Coke, Diet Coke\)$","1","",1,c409
+r1734191819297,3,"^Early bird$","1","",1,c1733446139856
+r1734191835737,3,"^Giving$","1","",1,c1733446139856
+r1734191854002,3,"^Tech gadgets$","1","",1,c1733446139856
+r1734191945185,3,"^Valvoline Instant Oil Change$","1","",1,c1734055203556
+r1734191954128,3,"^Take 5$","1","",1,c1734055203556
+r1734191975712,3,"^Check air filter$","1","",1,c1734055203556
+r1734191989852,3,"^Inspect tire tread depth$","1","",1,c1734055203556
+r1734191996537,3,"^Inspect brake fluid level$","1","",1,c1734055203556
+r1734192007042,3,"^Inspect coolant level$","1","",1,c1734055203556
+r1734192016058,3,"^Inspect tire pressure$","1","",1,c1734055203556
+r1734192070983,3,"^I would expect to be told the need and price for consideration to have it done$","1","",1,c1734055203556
+r1734192114615,3,"^Provide refreshments \(e\.g\., water, coffee\)$","1","",1,c1734055203556
+r1734192125079,3,"^Communicate manufacturer recommendations$","1","",1,c1734055203556
+r1734192151574,3,"^I would like this as a premium service option at my Quick Oil change$","1","",1,c1734055203556
+r1734192244551,3,"^Differential fluid exchange$","1","",1,c1734055203556
+r1734192252031,3,"^Replace spark plugs$","1","",1,c1734055203556
+r1734192260991,3,"^Transmission fluid exchange$","1","",1,c1734055203556
+r1734192266679,3,"^Brake fluid exchange$","1","",1,c1734055203556
+r1734192344014,3,"^High-quality work$","1","",1,c1734055203556
+r1734192360365,3,"^Speed of Service$","1","",1,c1734055203556
+r1734192370480,3,"^Trust$","1","",1,c1734055203556
+r1734192485363,3,"^Email isn't my preference but ok with it$","1","",1,c1734055203556
+r1734192579524,3,"^Education$","1","",1,c1734192532578
+r1734192593804,3,"^25-33$","1","",1,c1734192532578
+r1734192607523,3,"^Male$","1","",1,c1734192532578
+r1734192619947,3,"^White$","1","",1,c1734192532578
+r1734192635995,3,"^\$100,000 but less than \$125,000$","1","",1,c1734192532578
+r1734192649660,3,"^Urban$","1","",1,c1734192532578
+r1734192662892,3,"^Own$","1","",1,c1734192532578
+r1734192677779,3,"^Single family home$","1","",1,c1734192532578
+r1734192692976,3,"^2,000 to less than 3,000 square feet$","1","",1,c1734192532578
+r1734192722827,3,"^I am the primary decision maker$","1","",1,c1734192532578
+r1734192759833,3,"^Paid streaming video service \(e\.g\., Netflix, Disney\+, HBO Max, etc\.\)$","1","",1,c1734192532578
+r1734192767747,3,"^Traditional landline home phone service$","1","",1,c1734192532578
+r1734192777483,3,"^Home automation \(e\.g\., smart appliances, smart thermostat, connected light switches, etc\.\)$","1","",1,c1734192532578
+r1734192788220,3,"^Smart home security \(e\.g\., cameras, doorbells, sensors, etc\.\)$","1","",1,c1734192532578
+r1734192797236,3,"^Home Internet and Wi-Fi Service$","1","",1,c1734192532578
+r1734192808523,3,"^Wireless/mobile phone service$","1","",1,c1734192532578
+r1734192817201,3,"^Traditional paid home television service \(Cable, Satellite, or Fiber Optic TV\)$","1","",1,c1734192532578
+r1734192825963,3,"^Paid live streaming service \(e\.g\., YouTube TV, Hulu \+ Live TV, etc\.\)$","1","",1,c1734192532578
+r1734192840897,3,"^Verizon Fios$","1","",1,c1734192532578
+r1734192859987,3,"^Highest speed \(the highest speed that was available to me\)$","1","",1,c1734192532578
+r1734192907915,3,"^The Internet equipment is provided for free by my Internet provider$","1","",1,c1734192532578
+r1734192943737,3,"^Yes, I use WiFi extenders \[device\(s\) that boost the WiFi signal in specific areas of your home\]$","1","",1,c1734192532578
+r1734192980752,3,"^1 year to less than 3 years$","1","",1,c1734192532578
+r1734193010780,3,"^I purchased my own$","1","",1,c1734192532578
+r1734193035225,3,"^D-Link$","1","",1,c1734192532578
+r1734193061648,3,"^Verizon$","1","",1,c1734192532578
+r1734193073912,3,"^Others often ask for my advice on technology products$","1","",1,c1734192532578
+r1734193088729,3,"^Listen to streaming music / radio \(e\.g\., Pandora, Spotify\)$","1","",1,c1734192532578
+r1734193099306,3,"^Play online video games \(e\.g\., on a PC/laptop, gaming console\)$","1","",1,c1734192532578
+r1734193115009,3,"^Stream or watch online videos \(e\.g\., Netflix, Amazon Prime, YouTube, etc\.\)$","1","",1,c1734192532578
+r1734193122040,3,"^Play games on a phone or tablet$","1","",1,c1734192532578
+r1734193194535,3,"^10 to 14$","1","",1,c1734192532578
+r1734193210294,3,"^Child$","1","",1,c1734192532578
+r1734193227758,3,"^Mobile phone$","1","",1,c1734192532578
+r1734193234583,3,"^Console \(e\.g\., PlayStation, Xbox\)$","1","",1,c1734192532578
+r1734193245136,3,"^PC / laptop$","1","",1,c1734192532578
+r1734193257719,3,"^PlayStation 5$","1","",1,c1734192532578
+r1734193266471,3,"^Xbox Series X/S$","1","",1,c1734192532578
+r1734193274391,3,"^Nintendo Switch$","1","",1,c1734192532578
+r1734193289966,3,"^5G network$","1","",1,c1734192532578
+r1734193296470,3,"^WiFi extender$","1","",1,c1734192532578
+r1734193332352,3,"^USB WiFi adapter$","1","",1,c1734192532578
+r1734193356798,3,"^Back yard$","1","",1,c1734192532578
+r1734193377711,3,"^Front yard$","1","",1,c1734192532578
+r1734193423013,3,"^I would not like to participate$","1","",1,c1734192532578
+r1734193514414,3,"^Very positive$","1","",1,c1734193445676
+r1734193551572,3,"^Grandparents$","1","",1,c1734193445676
+r1734193561373,3,"^Significant other/spouse$","1","",1,c1734193445676
+r1734193568214,3,"^Myself$","1","",1,c1734193445676
+r1734193574509,3,"^Children$","1","",1,c1734193445676
+r1734193581837,3,"^Parents$","1","",1,c1734193445676
+r1734193599275,3,"^Very interested$","1","",1,c1734193445676
+r1734193682202,3,"^It seems like a helpful resource for holiday shopping\.$","1","",1,c1734193445676
+r1734193690963,3,"^It feels easy to navigate and find what I’m looking for\.$","1","",1,c1734193445676
+r1734193701187,3,"^It provides ideas and inspiration I wouldn’t have considered otherwise\.$","1","",1,c1734193445676
+r1734193827538,3,"^Informative$","1","",1,c1734193445676
+r1734193834387,3,"^Interesting$","1","",1,c1734193445676
+r1734193840595,3,"^Clear$","1","",1,c1734193445676
+r1734193882700,3,"^Innovative$","1","",1,c1734193445676
+r1734193938856,3,"^It doesn't impact my trust at all\.$","1","",1,c1734193445676
+r1734193950792,3,"^I liked it; it was a good addition and surfaced products I may have missed otherwise\.$","1","",1,c1734193445676
+r1734194205288,3,"^Pet Supplies$","1","",1,c1734194195827
+r1734194213288,3,"^Health and Beauty Products$","1","",1,c1734194195827
+r1734194220200,3,"^Books and eBooks$","1","",1,c1734194195827
+r1734194226992,3,"^Office Supplies$","1","",1,c1734194195827
+r1734194234976,3,"^Electronics \(i\.e\., TV, Mobile Device\)$","1","",1,c1734194195827
+r1734194240984,3,"^Children’s Art Products \(i\.e\., Crayons, Markers\)$","1","",1,c1734194195827
+r1734194246784,3,"^Clothing$","1","",1,c1734194195827
+r1734194257296,3,"^Walmart\.com$","1","",1,c1734194195827
+r1734194263648,3,"^Staples\.com$","1","",1,c1734194195827
+r1734194271232,3,"^Amazon\.com$","1","",1,c1734194195827
+r1734194395701,3,"^Personalized gifts \(e\.g\., mugs, apparel\)$","1","",1,c179
+r1734194437408,3,"^Single cans/trays/pouches$","1","",1,c1734194427445
+r1734194444134,3,"^Bulk or multi packs of cans/trays/pouches$","1","",1,c1734194427445
+r1734194457261,3,"^To try something new$","1","",1,c1734194427445
+r1734194469864,3,"^To see if my dog likes it$","1","",1,c1734194427445
+r1734194505477,3,"^To get a better value$","1","",1,c1734194427445
+r1734194511502,3,"^Easier to store$","1","",1,c1734194427445
+r1734194546119,3,"^Taste of the cookie$","1","",1,c1734194532869
+r1734194553075,3,"^Specific flavor \(e\.g\., Mint, Lemon\)$","1","",1,c1734194532869
+r1734194563584,3,"^Texture of the cookie$","1","",1,c1734194532869
+r1734194574214,3,"^Specific style \(e\.g\., Thins, Cakesters\)$","1","",1,c1734194532869
+r1734194600603,3,"^Would continue to buy Oreo$","1","",1,c1734194532869
+r1734194634796,3,"^Would continue to buy Chips Ahoy!$","1","",1,c1734194532869
+r1734195557907,3,"^Liquid I\.V\.$","1","",1,c1734195535882
+r1734195567564,3,"^Olaplex$","1","",1,c1734195535882
+r1734195575260,3,"^Celsius Energy$","1","",1,c1734195535882
+r1734195583763,3,"^Olipop$","1","",1,c1734195535882
+r1734195598529,3,"^Hydration Multiplier \+ Immune Support$","1","",1,c1734195535882
+r1734195621795,3,"^Hydration Multiplier$","1","",1,c1734195535882
+r1734195641881,3,"^I regularly drink Liquid I\.V\.$","1","",1,c1734195535882
+r1734195699209,3,"^Excited$","1","",1,c1734195688161
+r1734195706090,3,"^Organized$","1","",1,c1734195688161
+r1734195713755,3,"^Happy$","1","",1,c1734195688161
+r1734195740554,3,"^I feel good about the gift buying progress but, don't feel completely ready$","1","",1,c1734195688161
+r1734195762864,3,"^I'm still looking for deals and promotions$","1","",1,c1734195688161
+r1734195774858,3,"^It is better to wait till the end for pop up sales$","1","",1,c1734195688161
+r1734195797688,3,"^Buying for spouse/significant other$","1","",1,c1734195688161
+r1734195811008,3,"^Buying for teenagers$","1","",1,c1734195688161
+r1734195827072,3,"^Buying for extended family \(aunts, uncles, etc\.\)$","1","",1,c1734195688161
+r1734195853496,3,"^Give an Amazon gift card$","1","",1,c1734195688161
+r1734195864904,3,"^Toys$","1","",1,c1734195688161
+r1734195887994,3,"^Games$","1","",1,c1734195688161
+r1734195899841,3,"^Electronics$","1","",1,c1734195688161
+r1734195958559,3,"^Fast shipping$","1","",1,c1734195688161
+r1734195967458,3,"^Have additional help in the stores for guidance$","1","",1,c1734195688161
+r1734195982085,3,"^Provide unique items that I'm proud of giving$","1","",1,c1734195688161
+r1734195995519,3,"^Amazon$","1","",1,c1734195688161
+r1734196000528,3,"^Walmart$","1","",1,c1734195688161
+r1734196007456,3,"^Target$","1","",1,c1734195688161
+r1734196025687,3,"^About half of it$","1","",1,c1734195688161
+r1734196112614,3,"^Finding a unique item$","1","",1,c1734195688161
+r1734196155447,3,"^Quality of the food$","1","",1,c1734196145110
+r1734196172863,3,"^Offering combo/bundle deals \(e\.g\., \$3\.50 burger \+ fries or \$10 nugget/fry bundle\)$","1","",1,c1734196145110
+r1734196187974,3,"^Offering meal deals \(e\.g\., combo with fries and a drink\)$","1","",1,c1734196145110
+r1734196205385,3,"^Offering a percentage discount on total order \(e\.g\., 10% off\)$","1","",1,c1734196145110
+r1734196245030,3,"^No, it makes me think the brand values its customers\.$","1","",1,c1734196145110
+r1734196258869,3,"^Very important – I like to see fresh deals, or I lose interest over time\.$","1","",1,c1734196145110
+r1734196270662,3,"^Both food and beverage deals equally$","1","",1,c1734196145110
+r1734196334331,3,"^Delivery takes too long$","1","",1,c1734196145110
+r1734196348780,3,"^Notifications for new menu items or promotions$","1","",1,c1734196145110
+r1734196355071,3,"^Access to special promotions or limited time offers$","1","",1,c1734196145110
+r1734196361805,3,"^Easier and faster reordering of favorite items$","1","",1,c1734196145110
+r1734196372261,3,"^Loyalty rewards or points for frequent purchases$","1","",1,c1734196145110
+r1734196409547,3,"^I use the apps the same for whatever my need is$","1","",1,c1734196145110
+r1734196431476,3,"^Not important at all – They do not affect my decision$","1","",1,c1734196145110
+r1734197222702,3,"^salad dressing$","1","",1,c19
+r1734197228070,3,"^mustard$","1","",1,c19
+r1734197234431,3,"^mayonnaise$","1","",1,c19
+r1734197239975,3,"^ketchup$","1","",1,c19
+r1734197245215,3,"^hot sauce$","1","",1,c19
+r1734197264949,3,"^BBQ sauce$","1","",1,c19
+r1734197272230,3,"^dippings & toppings \(i\.e\., chili sauce, aioli, Asian sauce, seafood sauce, wing sauce\)$","1","",1,c19
+r1734197281436,3,"^syrup$","1","",1,c19
+r1734197289334,3,"^sauces/marinades \(i\.e\., Lawry's, McCormick Grill Mates, A1 steak sauce\)$","1","",1,c19
+r1734197321381,3,"^cream cheese$","1","",1,c19
+r1734197327941,3,"^pasta sauce$","1","",1,c19
+r1734197336190,3,"^refrigerated pickles \(i\.e\., Claussen, Grillo’s\)$","1","",1,c19
+r1734197344853,3,"^shelf stable mac & cheese$","1","",1,c19
+r1734197352519,3,"^shelf stable Mexican food kits like taco kits, fajita kits$","1","",1,c19
+r1734197376039,3,"^frozen snacks \(i\.e\., sandwiches/pockets, pizza rolls/bites, mozzarella sticks, taquitos\)$","1","",1,c19
+r1734197394950,3,"^refrigerated breakfast \(i\.e\., scrambles cups, egg bites\)$","1","",1,c19
+r1734197403837,3,"^refrigerated snacking cheese \(i\.e\., Sargento, string cheese\)$","1","",1,c19
+r1734197416952,3,"^refrigerated lunch/snack combos \(i\.e\., cracker/meat/meat plates/trays, meat/cheese/nut packs \)$","1","",1,c19
+r1734197441219,3,"^bacon$","1","",1,c19
+r1734197449741,3,"^American cheese slices \(i\.e\., Kraft Singles\)$","1","",1,c19
+r1734197455831,3,"^hotdogs$","1","",1,c19
+r1734197462246,3,"^processed cheese loaf \(i\.e\., Velveeta Blocks\)$","1","",1,c19
+r1734197479022,3,"^refrigerated dessert cups \(i\.e\., Jello cups, cozy shack cups\)$","1","",1,c19
+r1734197489005,3,"^whipped toppings \(i\.e\., Cool Whip, Ready Whip etc\.\)$","1","",1,c19
+r1734197495532,3,"^marshmallows$","1","",1,c19
+r1734197504532,3,"^baking chocolate \(i\.e\., Baker’s chocolate bars, chocolate chips etc\.\)$","1","",1,c19
+r1734197516245,3,"^dry packaged dessert mixes \(i\.e\., Jello gelatin and pudding mix\)$","1","",1,c19
+r1734197536139,3,"^powdered multi serve drink mixes \(i\.e\., Kool Aid, Country Time, Lipton\)$","1","",1,c19
+r1734197542753,3,"^coffee$","1","",1,c19
+r1734197554069,3,"^kids single serve beverages \(i\.e\., Hi-C and Capri Sun\)$","1","",1,c19
+r1734199768586,3,"^Household Cleaning products \(glass, shower, surface, etc\. cleaners offered in sprays, wipes, etc\.\)$","1","",1,c1734199703315
+r1734199781344,3,"^Pest Control products \(bug products offered in sprays, baits, foggers, traps, etc\.\)$","1","",1,c1734199703315
+r1734199789411,3,"^Pest Control services \(a company that treats your home or property for bugs\)$","1","",1,c1734199703315
+r1734199796746,3,"^Bug repellent products \(bug spray that you spray on your skin or clothes\)$","1","",1,c1734199703315
+r1734199811411,3,"^Air Care products \(air fresheners offered in sprays, candles, plug-ins, etc\.\)$","1","",1,c1734199703315
+r1734199821187,3,"^Food Storage products \(storage solution products offered in plastic bags, containers, etc\.\)$","1","",1,c1734199703315
+r1734199829332,3,"^Food delivery services \(an app or other means to ordering food to be delivered to you\)$","1","",1,c1734199703315
+r1734199835522,3,"^Bathroom Cleaning products \(toilet bowl cleaner, shower cleaner, etc\)$","1","",1,c1734199703315
+r1734199851322,3,"^Both indoors and outdoors$","1","",1,c1734199703315
+r1734199868514,3,"^Sometimes I manage pest control myself and sometimes I rely on a professional pest control service\.$","1","",1,c1734199703315
+r1734199898003,3,"^Mosquitoes$","1","",1,c1734199703315
+r1734199907618,3,"^Spiders$","1","",1,c1734199703315
+r1734199946825,3,"^Crickets$","1","",1,c1734199703315
+r1734199952162,3,"^Ants$","1","",1,c1734199703315
+r1734199960322,3,"^Flies$","1","",1,c1734199703315
+r1734199967577,3,"^Roaches$","1","",1,c1734199703315
+r1734199987444,3,"^Home improvement stores \(e\.g\., Home Depot, Lowe’s\)$","1","",1,c1734199703315
+r1734199993523,3,"^Online retailers \(e\.g\., Amazon, retailer websites\)$","1","",1,c1734199703315
 r17342,3,"^Buy online$","1","",1,c345
+r1734200001370,3,"^Big-box retailers \(e\.g\., Walmart, Target\)$","1","",1,c1734199703315
+r1734200010122,3,"^Grocery stores \(e\.g\., Kroger, Safeway, Publix\)$","1","",1,c1734199703315
+r1734200021601,3,"^Raid$","1","",1,c1734199703315
+r1734200031770,3,"^OFF!$","1","",1,c1734199703315
+r1734200040464,3,"^Bio-Advanced$","1","",1,c1734199703315
+r1734200112388,3,"^Ready-to-use spray - A convenient spray bottle for immediate use to target pests\.$","1","",1,c1734199703315
+r1734200124987,3,"^Baits - A small product that holds a bait, which pests eat and take to their nest\.$","1","",1,c1734199703315
+r1734200135912,3,"^Hose-end spray - Attaches to your garden hose to cover larger outdoor areas for pest control\.$","1","",1,c1734199703315
+r1734200152369,3,"^I have kids ages 6-10 living with me\.$","1","",1,c1734199703315
+r1734200159774,3,"^I have kids ages 11-15 living with me\. $","1","",1,c1734199703315
+r1734200172231,3,"^Dog\(s\)$","1","",1,c1734199703315
+r1734200177880,3,"^Cat\(s\)$","1","",1,c1734199703315
+r1734200316640,3,"^Twitter \(X\)$","1","",1,c1734200194522
+r1734200322367,3,"^Instagram$","1","",1,c1734200194522
+r1734200327887,3,"^TikTok$","1","",1,c1734200194522
+r1734200339375,3,"^Facebook$","1","",1,c1734200194522
+r1734200347566,3,"^Discord$","1","",1,c1734200194522
+r1734200354014,3,"^WhatsApp$","1","",1,c1734200194522
+r1734200433839,3,"^Family Size$","1","",1,c1734200418661
+r1734200440230,3,"^Party Size$","1","",1,c1734200418661
+r1734200455445,3,"^Member Exclusive$","1","",1,c1734200418661
+r1734201030633,3,"^Friends/family on social media$","1","",1,c1733452003012
+r1734201042026,3,"^Family member/friend$","1","",1,c1733452003012
+r1734201049114,3,"^Online videos \(YouTube, etc\.\)$","1","",1,c1733452003012
+r1734201093105,3,"^I read an article or saw information online that encouraged me to try GLP-1’s$","1","",1,c1733452003012
+r1734201104202,3,"^I was motivated by testimonials or success stories from others \(family, friends, etc\.\)$","1","",1,c1733452003012
+r1734201219527,3,"^In-store pharmacy \(e\.g\., CVS, Walgreens\)$","1","",1,c1733452003012
+r1734201239879,3,"^Short term weight loss$","1","",1,c1733452003012
+r1734201254520,3,"^Preventing future health issues related to weight or diabetes$","1","",1,c1733452003012
+r1734201408286,3,"^I looked for a store with more affordable healthy food options$","1","",1,c1733452003012
+r1734201418942,3,"^I preferred a store with better portion-controlled or single-serve options$","1","",1,c1733452003012
+r1734201427686,3,"^I was looking for more healthy food options$","1","",1,c1733452003012
+r1734201462869,3,"^Fermented or probiotic-rich foods \(e\.g\., yogurt, kombucha\)$","1","",1,c1733452003012
+r1734201472071,3,"^Hydrating beverages \(e\.g\., water, electrolyte drinks\)$","1","",1,c1733452003012
+r1734201493514,3,"^Organic$","1","",1,c1733452003012
+r1734201524924,3,"^Alcoholic beverages$","1","",1,c1733452003012
+r1734201541102,3,"^Artificially flavored or colored$","1","",1,c1733452003012
+r1734204001585,3,"^No, there was no change to the foods or behaviors for my children/household after I started taking GLP-1’s$","1","",1,c1733452003012
+r1734204040922,3,"^I am the primary lease holder or owner of an automobile$","1","",1,c1734204029306
+r1734204051626,3,"^2016-2023$","1","",1,c1734204029306
+r1734204062409,3,"^Primary responsibility$","1","",1,c1734204029306
+r1734204227473,3,"^Bought jewelry for someone else$","1","",1,c5
+r1734204234630,3,"^Received jewelry as a gift$","1","",1,c5
+r1734204244526,3,"^Bought jewelry for myself$","1","",1,c5
+r1734205951978,3,"^Yes$","1","",1,c1730356497312
+r1734206673485,3,"^Burgers$","1","",1,c1734206660373
+r1734206679222,3,"^Tacos/Fajitas$","1","",1,c1734206660373
+r1734206685605,3,"^Salads$","1","",1,c1734206660373
+r1734206690255,3,"^Chicken$","1","",1,c1734206660373
+r1734206696902,3,"^Eggs/Breakfast dishes$","1","",1,c1734206660373
+r1734206704654,3,"^Steaks$","1","",1,c1734206660373
+r1734206713223,3,"^Vegetables$","1","",1,c1734206660373
+r1734206720430,3,"^Rice/Grain dishes$","1","",1,c1734206660373
+r1734206727086,3,"^Pasta$","1","",1,c1734206660373
 r17343,3,"^The same$","1","",1,c345
 r17344,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c345
 r17345,0,"input\[_ngcontent-ljo-c77\]","400","",1,c345
@@ -12228,7 +12496,6 @@ r20843,3,"^Dietary supplement \(e\.g\., vitamins, minerals, herbs\)$","1","",1,c
 r20844,3,"^Oral over the counter pain relief medication$","1","",1,c547
 r20845,3,"^5-6 times a week$","1","",1,c547
 r20846,3,"^BBQ$","1","",1,c41
-r20847,3,"^Hiking$","1","",1,c41
 r20848,3,"^Recreational Sports$","1","",1,c41
 r20849,3,"^Sleeping Bag$","1","",1,c41
 r2085,3,"^Microwave$","1","",1,c105
