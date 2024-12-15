@@ -496,6 +496,11 @@ c1734200194522,"We’d love to know what you enjoy.","",,,,
 c1734200418661,"Let’s talk about packaging!","",,,,
 c1734204029306,"You and your car!","",,,,
 c1734206660373,"Share your thoughts about this seasoning flavor!","",,,,
+c1734222326692,"Questions to learn about you!","",,,,
+c1734222501460,"We want to learn about some of your habits!","",,,,
+c1734223247311,"Your Feedback on Furniture!","",,,,
+c1734224131071,"Let’s chat real quick!","",,,,
+c1734224806171,"All about sports!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -3940,7 +3945,7 @@ r1731262572112,3,"^Multivitamins / Single letter vitamins$","1","",1,c1731262468
 r1731262581135,3,"^Omegas$","1","",1,c1731262468320
 r1731262607483,3,"^Centrum$","1","",1,c1731262468320
 r1731262616298,3,"^Garden of Life$","1","",1,c1731262468320
-r1731262634623,3,"^\$100,000 to \$149,000$","1","",1,c1731262468320
+r1731262634623,3,"^\$100,000 to \$149,999$","1","",1,c1731262468320
 r1731262696747,3,"^I am the primary purchaser of groceries for my household$","1","",1,c431
 r1731262729305,3,"^ Healthy - I have money left at the end of the month for a few luxuries or to add to my savings$","1","",1,c431
 r1731262777241,3,"^10-12 years old$","1","",1,c431
@@ -8651,6 +8656,108 @@ r1734213288261,3,"^Josh Cellars$","1","",1,c179
 r1734214120445,3,"^Jose Cuervo$","1","",1,c61
 r1734214128646,3,"^Jameson$","1","",1,c61
 r1734214133605,3,"^Jägermeister$","1","",1,c61
+r1734222336366,3,"^Green$","1","",1,c1734222326692
+r1734222418004,3,"^Basketball$","1","",1,c1734222326692
+r1734222425486,3,"^Baseball$","1","",1,c1734222326692
+r1734222440092,3,"^Hockey$","1","",1,c1734222326692
+r1734222449158,3,"^Football$","1","",1,c1734222326692
+r1734222602810,3,"^Eat out at a restaurant$","1","",1,c1734222501460
+r1734222611356,3,"^Go shopping$","1","",1,c1734222501460
+r1734222617965,3,"^Watch a movie$","1","",1,c1734222501460
+r1734222631041,3,"^Go for a run$","1","",1,c1734222501460
+r1734222801393,3,"^Household utilities or bills \(e\.g\., electric, heat\)$","1","",1,c1734222501460
+r1734222808490,3,"^Personal care products$","1","",1,c1734222501460
+r1734222814771,3,"^Groceries$","1","",1,c1734222501460
+r1734222823499,3,"^Auto \(e\.g\., car purchases, car insurance\)$","1","",1,c1734222501460
+r1734222830419,3,"^Technology \(e\.g\., TVs, smartphones\)$","1","",1,c1734222501460
+r1734222842106,3,"^Home improvement \(e\.g\., renovations, repairs\)$","1","",1,c1734222501460
+r1734222851019,3,"^Entertainment & media \(e\.g\., streaming, cable\)$","1","",1,c1734222501460
+r1734222861498,3,"^Cleaning & household supplies$","1","",1,c1734222501460
+r1734222875810,3,"^Gaming console$","1","",1,c1734222501460
+r1734222883594,3,"^Laptop or tablet$","1","",1,c1734222501460
+r1734222889483,3,"^Wireless headphones$","1","",1,c1734222501460
+r1734222895634,3,"^Smartphone$","1","",1,c1734222501460
+r1734222901522,3,"^TV$","1","",1,c1734222501460
+r1734222925376,3,"^Samsung$","1","",1,c1734222501460
+r1734222957904,3,"^My TV has the ability to connect directly to the internet on its own to stream shows$","1","",1,c1734222501460
+r1734222978304,3,"^Both, I have cable/satellite and use streaming platforms$","1","",1,c1734222501460
+r1734223010977,3,"^Children’s shows$","1","",1,c1734222501460
+r1734223021832,3,"^Business/finance shows$","1","",1,c1734222501460
+r1734223029153,3,"^News$","1","",1,c1734222501460
+r1734223037912,3,"^TV series$","1","",1,c1734222501460
+r1734223046336,3,"^Sports$","1","",1,c1734222501460
+r1734223052042,3,"^Movies$","1","",1,c1734222501460
+r1734223067673,3,"^2-3 times per week$","1","",1,c1734222501460
+r1734223081559,3,"^5-6 hours per week$","1","",1,c1734222501460
+r1734223130230,3,"^Football$","1","",1,c1734222501460
+r1734223137289,3,"^MMA \(mixed martial arts\)$","1","",1,c1734222501460
+r1734223149654,3,"^Basketball$","1","",1,c1734222501460
+r1734223163631,3,"^Baseball$","1","",1,c1734222501460
+r1734223188359,3,"^I have kids, and they live with me$","1","",1,c1734222501460
+r1734223257048,3,"^I am primarily responsible$","1","",1,c1734223247311
+r1734223320485,3,"^I understand, and I’m ready to continue!$","1","",1,c1734223247311
+r1734223337038,3,"^Yes, currently$","1","",1,c1734223247311
+r1734223389517,3,"^Some of them$","1","",1,c1734223247311
+r1734223438421,3,"^Yes, I anchored it during assembly$","1","",1,c1734223247311
+r1734223454205,3,"^No, I used different hardware$","1","",1,c1734223247311
+r1734223524541,3,"^Yes, I hired a professional service$","1","",1,c1734223247311
+r1734223536460,3,"^Yes, I know the wall type\(s\)$","1","",1,c1734223247311
+r1734223619029,3,"^Will provide me peace of mind$","1","",1,c1734223247311
+r1734223627372,3,"^Is easy to do$","1","",1,c1734223247311
+r1734223638213,3,"^Will protect the children in my house$","1","",1,c1734223247311
+r1734223789707,3,"^No, I would not anchor my dressers/chests of drawers after seeing these communications$","1","",1,c1734223247311
+r1734223813843,3,"^Increased$","1","",1,c1734223247311
+r1734223847559,3,"^Social media \(Facebook, Twitter, etc\.\)$","1","",1,c1734223247311
+r1734223857915,3,"^A friend or family member mentioned it$","1","",1,c1734223247311
+r1734223864916,3,"^Furniture packaging/assembly instructions$","1","",1,c1734223247311
+r1734224148399,3,"^Working full-time \(30 or more hrs\. per week\)$","1","",1,c1734224131071
+r1734224939330,3,"^Cable or streaming service guide$","1","",1,c1734224806171
+r1734224958626,3,"^Word of mouth \(e\.g\., family, friends, coworkers\)$","1","",1,c1734224806171
+r1734224974595,3,"^Sports-specific websites or apps \(e\.g\., ESPN, Bleacher Report\)$","1","",1,c1734224806171
+r1734224995177,3,"^The significance of the event \(e\.g\., playoffs, finals\)$","1","",1,c1734224806171
+r1734225003643,3,"^The availability of the event on my TV \(e\.g\., services or channels I have access to\)$","1","",1,c1734224806171
+r1734225019242,3,"^My interest in the teams involved$","1","",1,c1734224806171
+r1734225059395,3,"^Directly navigate to a specific app or channel$","1","",1,c1734224806171
+r1734225701540,3,"^Steakhouse$","1","",1,c4
+r1734225709204,3,"^Sub/sandwich restaurants$","1","",1,c4
+r1734225715365,3,"^Mexican restaurants$","1","",1,c4
+r1734225724726,3,"^Burger joint$","1","",1,c4
+r1734225733742,3,"^Breakfast/brunch cafes$","1","",1,c4
+r1734225761627,3,"^Once every 2-3 weeks$","1","",1,c4
+r1734225781681,3,"^I order for myself and for others$","1","",1,c4
+r1734225799579,3,"^sandwich$","1","",1,c4
+r1734225807915,3,"^I order at-home delivery$","1","",1,c4
+r1734225815854,3,"^I order at the counter to dine at the restaurant$","1","",1,c4
+r1734225840394,3,"^I order take-out through a food service app$","1","",1,c4
+r1734225846676,3,"^I order take-out through the phone$","1","",1,c4
+r1734226305848,3,"^Electronics$","1","",1,c8
+r1734226320983,3,"^Pet food/supplies$","1","",1,c8
+r1734226326449,3,"^Clothing/apparel$","1","",1,c8
+r1734226332961,3,"^Home goods/décor$","1","",1,c8
+r1734226339696,3,"^Vitamins/Supplements$","1","",1,c8
+r1734226345592,3,"^Personal care \(e\.g\., toiletries\)$","1","",1,c8
+r1734226351778,3,"^Books$","1","",1,c8
+r1734226357439,3,"^Household cleaning products \(e\.g\., detergent, cleaning sprays\)$","1","",1,c8
+r1734226377911,3,"^Sleep Support Supplements \(Melatonin, Magnesium, Non-Melatonin Sleep, etc\.\.\.\)$","1","",1,c8
+r1734226384983,3,"^Protein \(drinks, powders, etc\.\)$","1","",1,c8
+r1734226391744,3,"^Mineral Supplements \(e\.g\., iron, zinc, magnesium, etc\.\)$","1","",1,c8
+r1734226402247,3,"^Multivitamin Supplements$","1","",1,c8
+r1734226413024,3,"^Gut Health Supplements \(Prebiotics, Probiotics, Fiber, Digestive Enzymes, etc\.\.\.\)$","1","",1,c8
+r1734226460063,3,"^Purchased in-store$","1","",1,c8
+r1734226475638,3,"^Big Box Stores \(Target, Walmart, etc\.\)$","1","",1,c8
+r1734226485870,3,"^Drug Stores / Pharmacies \(CVS, Walgreens, etc\.\)$","1","",1,c8
+r1734226504726,3,"^CVS$","1","",1,c8
+r1734226512446,3,"^Walmart$","1","",1,c8
+r1734226522806,3,"^Target$","1","",1,c8
+r1734226599725,3,"^Daily$","1","",1,c8
+r1734226615716,3,"^Mental health$","1","",1,c8
+r1734226630276,3,"^Weight loss/maintenance$","1","",1,c8
+r1734226639966,3,"^Immunity$","1","",1,c8
+r1734226658988,3,"^5-6 days per week$","1","",1,c8
+r1734226672147,3,"^Team sports \(e\.g\., basketball, soccer, tennis\)$","1","",1,c8
+r1734226681837,3,"^Strength training \(e\.g\., weightlifting, resistance exercises\)$","1","",1,c8
+r1734226711883,3,"^Improving cardiovascular health$","1","",1,c8
+r1734226719245,3,"^Boosting mental health and reducing stress$","1","",1,c8
 r17343,3,"^The same$","1","",1,c345
 r17344,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c345
 r17345,0,"input\[_ngcontent-ljo-c77\]","400","",1,c345
