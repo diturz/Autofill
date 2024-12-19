@@ -501,6 +501,15 @@ c1734222501460,"We want to learn about some of your habits!","",,,,
 c1734223247311,"Your Feedback on Furniture!","",,,,
 c1734224131071,"Let’s chat real quick!","",,,,
 c1734224806171,"All about sports!","",,,,
+c1734616290333,"We want your opinion! Tell us what you think about this product!","",,,,
+c1734616481212,"Festive Sweater Tap and Surprise!","",,,,
+c1734617363234,"Food Survey","",,,,
+c1734618348561,"We'd like to get to know you better!","",,,,
+c1734618683720,"New Fruit Flavor Combinations","",,,,
+c1734618867780,"Tell us what you think","",,,,
+c1734619245048,"Beauty Products You Use","",,,,
+c1734619474348,"Let's talk about your lifestyle!","",,,,
+c1734620901686,"We have a few questions about your shopping behaviors","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -1065,7 +1074,6 @@ r1216,3,"^Mobile/digital wallet \(e\.g\., Apple Pay, Google Pay\)$","1","",1,c40
 r1217,3,"^Credit card from a bank/financial institution$","1","",1,c40
 r1218,3,"^Peer-to-Peer \(P2P\) payment \(e\.g\., Venmo, Paypal\)$","1","",1,c40
 r1219,3,"^""Buy Now, Pay Later"" service \(e\.g\., Klarna, Affirm\)$","1","",1,c40
-r122,3,"^iPhone 15 Pro Max$","1","",1,c6
 r1220,3,"^Savings account from a bank/financial institution$","1","",1,c40
 r1221,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1,c40
 r1222,3,"^Personal loan from a bank/financial institution$","1","",1,c40
@@ -2305,7 +2313,6 @@ r1729915200493,3,"^Google Chromecast$","1","",1,c1729915019313
 r1729915211527,3,"^Apple Vision Pro$","1","",1,c1729915019313
 r1729915224566,3,"^I've mostly had iPhones, but had at least one Android phone before$","1","",1,c1729915019313
 r1729915231563,3,"^Every 2 years$","1","",1,c1729915019313
-r1729915242760,3,"^iPhone 14 Pro or iPhone 14 Pro Max$","1","",1,c1729915019313
 r1729915252760,3,"^iPad Pro$","1","",1,c1729915019313
 r1729915273159,3,"^Apple Watch Ultra \(2022\)$","1","",1,c1729915019313
 r1729915279982,3,"^Yes, this is the first Apple Watch I've owned$","1","",1,c1729915019313
@@ -2935,7 +2942,6 @@ r1730349836225,3,"^Tablet \(e\.g\. Apple iPad, Samsung Galaxy Tab\)$","1","",1,c
 r1730349840086,3,"^Laptop / Computer$","1","",1,c15
 r1730349844189,3,"^Smartwatch \(i\.e\., an electronic watch that can access apps, play music, make/receive calls, etc\.\)$","1","",1,c15
 r1730349848967,3,"^Smart home speaker \(e\.g\. Amazon Echo, Google Home\)$","1","",1,c15
-r1730349884259,3,"^iPhone 14 / 14 Pro \(launched 2022\)$","1","",1,c15
 r1730349899004,3,"^US - Verizon$","1","",1,c15
 r1730349924892,3,"^Apple Watch$","1","",1,c15
 r1730350010810,3,"^Apple Watch Ultra \(launched 2022\)$","1","",1,c15
@@ -3193,7 +3199,6 @@ r1730428106667,3,"^Television$","1","",1,c1730427910426
 r1730428125131,3,"^Smartwatch \(e\.g\., Apple Watch, Samsung Galaxy Watch\)$","1","",1,c1730427910426
 r1730428159131,3,"^iPhone / Apple$","1","",1,c1730427910426
 r1730428185604,3,"^Once a year or more$","1","",1,c1730427910426
-r1730428204554,3,"^iPhone 15 Pro$","1","",1,c1730427910426
 r1730428246801,3,"^Screen protector$","1","",1,c1730427910426
 r1730428255460,3,"^Smartphone case$","1","",1,c1730427910426
 r1730428265100,3,"^Wireless headphones or earbuds$","1","",1,c1730427910426
@@ -8762,6 +8767,92 @@ r17343,3,"^The same$","1","",1,c345
 r17344,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c345
 r17345,0,"input\[_ngcontent-ljo-c77\]","400","",1,c345
 r17346,3,"^I don’t pay attention to price when making my purchases$","1","",1,c345
+r1734616308146,3,"^Toothpaste$","1","",1,c1734616290333
+r1734616326117,3,"^Manual Toothbrush$","1","",1,c1734616290333
+r1734616338297,3,"^Mouthwash$","1","",1,c1734616290333
+r1734616346056,3,"^Battery Powered Toothbrush \(e\.g\.: powered by AA or AAA batteries\)$","1","",1,c1734616290333
+r1734616361065,3,"^Definitely would buy$","1","",1,c1734616290333
+r1734616501033,3,"^A Christmas Story$","1","",1,c1734616481212
+r1734616516816,3,"^A mix of everything! $","1","",1,c1734616481212
+r1734616963959,3,"^Kinesiology tape$","1","",1,c114
+r1734616973418,3,"^Pain relief gels / creams $","1","",1,c114
+r1734617007766,3,"^CVS$","1","",1,c114
+r1734617423448,3,"^I have eaten it and did not enjoy it$","1","",1,c1734617363234
+r1734617610469,3,"^I have eaten it and did not enjoy it\.$","1","",1,c1734617363234
+r1734617944939,3,"^Very interested $","1","",1,c1734617363234
+r1734617998417,3,"^Very interested$","1","",1,c1734617363234
+r1734618047670,3,"^I look for a food that has customized formulas designed by experts to meet my pet’s unique needs\.$","1","",1,c1734617363234
+r1734618067427,3,"All-In-One Homebuyer Resource","1","",1,c1734617363234
+r1734618078434,3,"^Very likely$","1","",1,c1734617363234
+r1734618100777,3,"^Insurance company$","1","",1,c1734617363234
+r1734618159396,3,"^Very likely$","1","",1,c1734617363234
+r1734618171676,3,"^\$10-\$20/month$","1","",1,c1734617363234
+r1734618179924,3,"^Very important$","1","",1,c1734617363234
+r1734618192250,3,"^Very useful$","1","",1,c1734617363234
+r1734618205634,3,"^Valuable$","1","",1,c1734617363234
+r1734618214625,3,"^Helpful$","1","",1,c1734617363234
+r1734618230282,3,"^Scroll$","1","",1,c1734617363234
+r1734618376798,3,"^I am primarily responsible for grocery shopping$","1","",1,c1734618348561
+r1734618397429,3,"^Frozen fruits$","1","",1,c1734618348561
+r1734618405601,3,"^Gel/gelatin cups$","1","",1,c1734618348561
+r1734618412568,3,"^Frozen novelties/desserts/ice cream$","1","",1,c1734618348561
+r1734618419623,3,"^Vegetable chips$","1","",1,c1734618348561
+r1734618426923,3,"^Trail Mix$","1","",1,c1734618348561
+r1734618437620,3,"^Refrigerated/chilled fruit juice or juice drinks$","1","",1,c1734618348561
+r1734618466296,3,"^Dole$","1","",1,c1734618348561
+r1734618496941,3,"^Fruit in 100% juice cups/bowls$","1","",1,c1734618348561
+r1734618512898,3,"^After dinner dessert$","1","",1,c1734618348561
+r1734618527475,3,"^I have children aged 6 to 12 in my household$","1","",1,c1734618348561
+r1734618535835,3,"^I have children aged 13 to 17 in my household$","1","",1,c1734618348561
+r1734618548565,3,"^Somewhat agree$","1","",1,c1734618348561
+r1734618566397,3,"^Natural Grocery Store \(e\.g\., Whole Foods, Sprouts, Natural Grocers\)$","1","",1,c1734618348561
+r1734618575340,3,"^Mass Merchandise \(e\.g\., Walmart, Target, etc\.\)$","1","",1,c1734618348561
+r1734618590723,3,"^TikTok$","1","",1,c1734618348561
+r1734618595746,3,"^YouTube$","1","",1,c1734618348561
+r1734618600513,3,"^Facebook$","1","",1,c1734618348561
+r1734618605893,3,"^X \(formerly Twitter\)$","1","",1,c1734618348561
+r1734618611221,3,"^Instagram$","1","",1,c1734618348561
+r1734618692248,3,"^I have children aged 6 to 12 in my household$","1","",1,c1734618683720
+r1734618697927,3,"^I have children aged 13 to 17 in my household$","1","",1,c1734618683720
+r1734618763334,3,"^Apple in Strawberry Lemondade Gel$","1","",1,c1734618683720
+r1734618771389,3,"^Raspberry in Pineapple Gel $","1","",1,c1734618683720
+r1734618803495,3,"^Pineapple TIdbits in Lemon-Lime Gel$","1","",1,c1734618683720
+r1734618817480,3,"^Fresh$","1","",1,c1734618683720
+r1734618965590,3,"^Lime Gel$","1","",1,c1734618867780
+r1734619253507,3,"^Haircare \(e\.g\. shampoo\)$","1","",1,c1734619245048
+r1734619260365,3,"^Sunscreen$","1","",1,c1734619245048
+r1734619268282,3,"^Fragrance \(e\.g\. perfume/cologne\)$","1","",1,c1734619245048
+r1734619485640,3,"^I am the primary shopper for my household$","1","",1,c1734619474348
+r1734619536409,3,"^10-13 years old$","1","",1,c1734619474348
+r1734619545418,3,"^14-17 years old$","1","",1,c1734619474348
+r1734619558582,3,"^Personal care \(e\.g\., body wash, soaps, body lotion, face wash, etc\.\)$","1","",1,c1734619474348
+r1734619565598,3,"^Home care \(e\.g\., dish soap, cleaners, fabric softeners\)$","1","",1,c1734619474348
+r1734619615340,3,"^Children's Oral care \(e\.g\., toothbrush, toothpaste, mouthwash, floss, etc\.\)$","1","",1,c1734619474348
+r1734619666150,3,"^Oral care \(e\.g\., toothbrush, toothpaste, mouthwash, floss, etc\.\)$","1","",1,c1734619474348
+r1734619690658,3,"^Manual toothbrushes$","1","",1,c1734619474348
+r1734619697240,3,"^Mouthwash$","1","",1,c1734619474348
+r1734619707587,3,"^Toothpaste$","1","",1,c1734619474348
+r1734619712829,3,"^Floss$","1","",1,c1734619474348
+r1734619723580,3,"^Deodorant$","1","",1,c1734619474348
+r1734619730377,3,"^Hand soap$","1","",1,c1734619474348
+r1734619737705,3,"^Body Lotion$","1","",1,c1734619474348
+r1734619750859,3,"^Disinfecting Wipes$","1","",1,c1734619474348
+r1734619760994,3,"^Cleaners$","1","",1,c1734619474348
+r1734619777909,3,"^Every 90 days$","1","",1,c1734619474348
+r1734619795923,3,"^More than once per day$","1","",1,c1734619474348
+r1734619841950,3,"^A mix of online and in-store$","1","",1,c1734619474348
+r1734619864164,3,"^Walmart$","1","",1,c1734619474348
+r1734619898208,3,"^Walmart \+$","1","",1,c1734619474348
+r1734619903555,3,"^Amazon Prime$","1","",1,c1734619474348
+r1734619914609,3,"^Listerine$","1","",1,c1734619474348
+r1734619935608,3,"^Dove$","1","",1,c1734619474348
+r1734619958885,3,"^Downy$","1","",1,c1734619474348
+r1734620910351,3,"^I do most/ all of the grocery shopping for my household$","1","",1,c1734620901686
+r1734621213227,3,"^Both online and in-store$","1","",1,c1734620901686
+r1734621248557,3,"^Car/Rideshare$","1","",1,c1734620901686
+r1734621251643,3,"^Walk$","1","",1,c1734620901686
+r1734621266473,3,"^Amazon Fresh$","1","",1,c1734620901686
+r1734621275199,3,"^Walmart\.com$","1","",1,c1734620901686
 r17347,3,"^4$","1","",1,c345
 r17348,3,"^Green bricks$","1","",1,c346
 r17349,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c346
@@ -11943,7 +12034,6 @@ r20220,3,"^4784$","1","",1,c494
 r20221,3,"^Pizza Hut$","1","",1,c494
 r20222,3,"^Verizon$","1","",1,c384
 r20223,3,"^iPhone$","1","",1,c384
-r20224,3,"^iPhone 14 Pro Max$","1","",1,c384
 r20225,3,"^I am the primary decision-maker$","1","",1,c384
 r20226,3,"^No$","1","",1,c384
 r20227,3,"^No, but I plan to$","1","",1,c384
@@ -15142,7 +15232,6 @@ r463,3,"^Rum$","1","",1,c26
 r464,3,"^Gin$","1","",1,c26
 r465,3,"^\$80 or more$","1","",1,c26
 r4654,3,"^iPhone$","1","",1,c132
-r4655,3,"^iPhone 14 Pro Max$","1","",1,c132
 r4656,3,"^Verizon$","1","",1,c132
 r4657,3,"^I am the primary decision-maker$","1","",1,c132
 r4658,3,"^No$","1","",1,c132
