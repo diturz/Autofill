@@ -512,6 +512,14 @@ c1734619474348,"Let's talk about your lifestyle!","",,,,
 c1734620901686,"We have a few questions about your shopping behaviors","",,,,
 c1734760637380,"Suncare Shopping Habits","",,,,
 c1734762627557,"Talk to us about your recent purchases!","",,,,
+c1734816430193,"All things connectivity, tech, AI!","",,,,
+c1734817792246,"Lets talk about desserts!","",,,,
+c1734817890730,"General Survey","",,,,
+c1734818011872,"Let's talk about how you've shopped!","",,,,
+c1734818880762,"Let's talk about summer!","",,,,
+c1734819974461,"We'd like to know what's important to you in the energy category.","",,,,
+c1734822942245,"Please tell us your opinion","",,,,
+c1734823626570,"Let's Talk Salad!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -8412,7 +8420,6 @@ r1734192344014,3,"^High-quality work$","1","",1,c1734055203556
 r1734192360365,3,"^Speed of Service$","1","",1,c1734055203556
 r1734192370480,3,"^Trust$","1","",1,c1734055203556
 r1734192485363,3,"^Email isn't my preference but ok with it$","1","",1,c1734055203556
-r1734192579524,3,"^Education$","1","",1,c1734192532578
 r1734192593804,3,"^25-33$","1","",1,c1734192532578
 r1734192607523,3,"^Male$","1","",1,c1734192532578
 r1734192619947,3,"^White$","1","",1,c1734192532578
@@ -8940,6 +8947,106 @@ r1734764487082,3,"^Amazon Prime$","1","",1,c15
 r1734764491526,3,"^Uber One \(Uber, Drizly & Postmates\)$","1","",1,c15
 r1734764507504,3,"^I pay FULL PRICE for DashPass$","1","",1,c15
 r17348,3,"^Green bricks$","1","",1,c346
+r1734816434692,3,"^Voice assistants \(e\.g\., Alexa, Siri\)$","1","",1,c1734816430193
+r1734816444642,3,"^Personalized recommendations \(e\.g\., Netflix, Spotify\)$","1","",1,c1734816430193
+r1734816449918,3,"^Productivity tools \(e\.g\., scheduling, email drafting\)$","1","",1,c1734816430193
+r1734816453794,3,"^Health monitoring \(e\.g\., wearables\)$","1","",1,c1734816430193
+r1734816613968,3,"^Apple$","1","",1,c1734816430193
+r1734816621955,3,"^Microsoft$","1","",1,c1734816430193
+r1734816625385,3,"^Google$","1","",1,c1734816430193
+r1734816787281,3,"^Cheesecake Factory$","1","",1,c4
+r1734816813604,3,"^Sometimes$","1","",1,c4
+r1734816830033,3,"^Non-alcoholic beer$","1","",1,c5
+r1734816834168,3,"^Non-alcoholic wine$","1","",1,c5
+r1734816838376,3,"^Hard seltzers or hard tea$","1","",1,c5
+r1734816842444,3,"^Non-alcoholic spirits$","1","",1,c5
+r1734816845704,3,"^Gin$","1","",1,c5
+r1734816849552,3,"^Tequila$","1","",1,c5
+r1734816853620,3,"^Light beer \(i\.e\. Bud Light, Miller Light, Coors Light\)$","1","",1,c5
+r1734816860905,3,"^Non-alcoholic Ready-to-Drink cocktails$","1","",1,c5
+r1734816866073,3,"^Import beer \(i\.e\. Heineken, Corona/Corona Light, Modelo, Stella Artois\)$","1","",1,c5
+r1734816870083,3,"^Rum$","1","",1,c5
+r1734816874347,3,"^Craft beer \(i\.e\. Sierra Nevada, Lagunitas, Shiner, Sam Adams\)$","1","",1,c5
+r1734816881010,3,"^Champagne$","1","",1,c5
+r1734816885483,3,"^Ready-to-drink cocktails$","1","",1,c5
+r1734816889108,3,"^Wine \(e\.g\. Red, White, Rose, etc\)$","1","",1,c5
+r1734816901022,3,"^Whiskey$","1","",1,c5
+r1734816907699,3,"^Economy beer \(i\.e\. Natural Light, Busch Light, Rolling Rock\)$","1","",1,c5
+r1734816912162,3,"^Regular beer \(i\.e\. Budweiser, Miller Genuine Draft, Coors Banquet\)$","1","",1,c5
+r1734816916285,3,"^Vodka$","1","",1,c5
+r1734816928634,3,"^In a bar$","1","",1,c5
+r1734816932708,3,"^In a restaurant$","1","",1,c5
+r1734816950111,3,"^In your own home$","1","",1,c5
+r1734816957878,3,"^At a sporting event or concert$","1","",1,c5
+r1734817757842,3,"^4-5 times during the holiday season$","1","",1,c5
+r1734817804369,3,"^Probably Will$","1","",1,c1734817792246
+r1734817871162,3,"^I am not aware of any long-term health condition diagnosis in my household$","1","",1,c4
+r1734817935496,3,"^I was the sole decision-maker$","1","",1,c1734817890730
+r1734818016435,3,"^Wine$","1","",1,c1734818011872
+r1734818020894,3,"^Craft beer \(i\.e\. Sam Adams, Blue Moon, Guinness\)$","1","",1,c1734818011872
+r1734818024957,3,"^Light beer \(i\.e\. Miller Light, Bud Light, Michelob Ultra\)$","1","",1,c1734818011872
+r1734818028715,3,"^Hard Teas/Malt Beverages \(i\.e\. Mikes Hard lemonade, Twisted Tea\)$","1","",1,c1734818011872
+r1734818033619,3,"^Regular beer \(i\.e\. Budweiser, Coors, Pabst Blue Ribbon\)$","1","",1,c1734818011872
+r1734818037590,3,"^Cocktails \(i\.e\. Aperol spritz, espresso martini, margarita\)$","1","",1,c1734818011872
+r1734818041288,3,"^Mixed drinks \(i\.e\. gin and tonic, vodka soda\)$","1","",1,c1734818011872
+r1734818045804,3,"^Sparkling Wine$","1","",1,c1734818011872
+r1734818050344,3,"^Hard Seltzers \(i\.e\. Truly, White Claw, Topo Chico\)$","1","",1,c1734818011872
+r1734818055171,3,"^Non alcoholic beers \(i\.e\. Heineken Zero, Athletic Brewing Company\)$","1","",1,c1734818011872
+r1734818060230,3,"^Imported beer \(i\.e\. Corona, Modelo, Heineken, Stella Artois\)$","1","",1,c1734818011872
+r1734818890572,3,"^Craft beer \(i\.e\. Sam Adams, Blue Moon, Guinness\)$","1","",1,c1734818880762
+r1734818895178,3,"^Hard Teas/Malt Beverages \(i\.e\. Mikes Hard lemonade, Twisted Tea\)$","1","",1,c1734818880762
+r1734819101913,3,"^Light beer \(i\.e\. Miller Light, Bud Light, Michelob Ultra\)$","1","",1,c1734818880762
+r1734819106361,3,"^Mixed drinks \(i\.e\. gin and tonic, vodka soda\)$","1","",1,c1734818880762
+r1734819110059,3,"^Wine$","1","",1,c1734818880762
+r1734819116743,3,"^Imported beer \(i\.e\. Corona, Modelo, Heineken, Stella Artois\)$","1","",1,c1734818880762
+r1734819130935,3,"^Regular beer \(i\.e\. Budweiser, Coors, Pabst Blue Ribbon\)$","1","",1,c1734818880762
+r1734819136220,3,"^Cocktails \(i\.e\. Aperol spritz, espresso martini, margarita\)$","1","",1,c1734818880762
+r1734819140005,3,"^Sparkling Wine$","1","",1,c1734818880762
+r1734819144281,3,"^Hard Seltzers \(i\.e\. Truly, White Claw, Topo Chico\)$","1","",1,c1734818880762
+r1734819148889,3,"^Non alcoholic beer \(i\.e\. Heineken Zero, Athletic Brewing Company\)$","1","",1,c1734818880762
+r1734819980159,3,"^Energy drinks$","1","",1,c1734819974461
+r1734819991144,3,"^Picks me up when I need a lift$","1","",1,c1734819974461
+r1734819995222,3,"^Right amount of caffeine$","1","",1,c1734819974461
+r1734819999321,3,"^Trusted brand$","1","",1,c1734819974461
+r1734820003520,3,"^Tastes Good$","1","",1,c1734819974461
+r1734820010696,3,"^Improves my performance$","1","",1,c1734819974461
+r1734820062206,3,"^Energy DRINK$","1","",1,c1734819974461
+r1734822579359,3,"^Crawling insects \(e\.g\., ants, spiders, beetles, etc\.\)$","1","",1,c3
+r1734822658653,3,"^Omnivore: I eat all all foods, including meat \(beef and/or chicken and/or pork\) / animal protein and do not have any dietary restrictions$","1","",1,c101
+r1734822789934,3,"^Urban area$","1","",1,c20
+r1734822801195,3,"^31-43$","1","",1,c20
+r1734822814103,3,"^\$100,000 - \$149,999$","1","",1,c20
+r1734822842306,3,"^Protein bars$","1","",1,c20
+r1734822846008,3,"^Cereal$","1","",1,c20
+r1734822850649,3,"^Instant oatmeal$","1","",1,c20
+r1734822856356,3,"^Yogurt$","1","",1,c20
+r1734822946464,3,"^I am primarily responsible for grocery shopping$","1","",1,c1734822942245
+r1734822962358,3,"^Dairy Milk \(Regular, Flavored, etc\.\)$","1","",1,c1734822942245
+r1734822965909,3,"^Seasonings and Condiments$","1","",1,c1734822942245
+r1734822969105,3,"^Olive Oil$","1","",1,c1734822942245
+r1734822973047,3,"^Frozen Pizza$","1","",1,c1734822942245
+r1734822978072,3,"^Refrigerated Fruit Juice$","1","",1,c1734822942245
+r1734822984311,3,"^Energy Drinks$","1","",1,c1734822942245
+r1734822988485,3,"^Plant-based Milk \(Almond milk, Oat milk, etc\.\)$","1","",1,c1734822942245
+r1734822999589,3,"^Organic Valley$","1","",1,c1734822942245
+r1734823018075,3,"^Store brands \(e\.g\. Great Value, Kirkland Signature, etc\.\)$","1","",1,c1734822942245
+r1734823037096,3,"^Amazon$","1","",1,c1734822942245
+r1734823048610,3,"^Walmart$","1","",1,c1734822942245
+r1734823053821,3,"^Club Store \(e\.g\., Costco, Sam's Club, BJ’s, etc\.\)$","1","",1,c1734822942245
+r1734823060623,3,"^Natural Grocery Store \(e\.g\., Whole Foods, Sprouts, Natural Grocers\)$","1","",1,c1734822942245
+r1734823064957,3,"^Target$","1","",1,c1734822942245
+r1734823077149,3,"^19A476$","1","",1,c1734822942245
+r1734823082274,3,"^B71A05$","1","",1,c1734822942245
+r1734823716392,3,"^Dole$","1","",1,c1734823626570
+r1734823960329,3,"^Agree somewhat$","1","",1,c160
+r1734823986280,3,"^I proactively use a product/service to control this type of insect$","1","",1,c160
+r1734824026965,3,"^I am careful with their use, but use them as needed indoors$","1","",1,c160
+r1734824381837,3,"^1-3 Applications$","1","",1,c160
+r1734824451088,3,"^Works quickly$","1","",1,c160
+r1734824548790,3,"^Works for an extended period of time \(e\.g\., controls insects for 6-12 months\)$","1","",1,c160
+r1734824563832,3,"^Is available where I prefer to shop$","1","",1,c160
+r1734825063454,3,"^Available in a variety of pack/application sizes$","1","",1,c160
+r1734825094856,3,"^Is easy to use$","1","",1,c160
 r17349,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c346
 r1735,3,"^I am willing to spend more on a bottle of wine to treat myself$","1","",1,c90
 r17350,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c346
