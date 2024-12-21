@@ -510,6 +510,8 @@ c1734618867780,"Tell us what you think","",,,,
 c1734619245048,"Beauty Products You Use","",,,,
 c1734619474348,"Let's talk about your lifestyle!","",,,,
 c1734620901686,"We have a few questions about your shopping behaviors","",,,,
+c1734760637380,"Suncare Shopping Habits","",,,,
+c1734762627557,"Talk to us about your recent purchases!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -8854,6 +8856,89 @@ r1734621251643,3,"^Walk$","1","",1,c1734620901686
 r1734621266473,3,"^Amazon Fresh$","1","",1,c1734620901686
 r1734621275199,3,"^Walmart\.com$","1","",1,c1734620901686
 r17347,3,"^4$","1","",1,c345
+r1734760420674,3,"^Alcoholic beverages$","1","",1,c179
+r1734760424695,3,"^Groceries \(e\.g\., fresh produce, pantry staples\)$","1","",1,c179
+r1734760428806,3,"^Electronics \(e\.g\., TVs, laptops, appliances\)$","1","",1,c179
+r1734760432342,3,"^Sun care products \(e\.g\., sunscreen, after-sun lotions\)$","1","",1,c179
+r1734760436633,3,"^Beauty and personal care \(e\.g\., skincare, haircare\)$","1","",1,c179
+r1734760440390,3,"^Household essentials \(e\.g\., paper towels, cleaning supplies\)$","1","",1,c179
+r1734760444198,3,"^Outdoor and gardening supplies$","1","",1,c179
+r1734760458429,3,"^Health and wellness \(e\.g\., vitamins, over-the-counter medication\)$","1","",1,c179
+r1734760462858,3,"^Toys and games$","1","",1,c179
+r1734760466524,3,"^Clothing and accessories$","1","",1,c179
+r1734760470151,3,"^Home goods and furniture$","1","",1,c179
+r1734760644529,3,"^Frequently – 4–6 times in the past 12 months$","1","",1,c1734760637380
+r1734760654114,3,"^Kids 3-12 years old$","1","",1,c1734760637380
+r1734760657762,3,"^Myself$","1","",1,c1734760637380
+r1734760663807,3,"^Spouse/partner$","1","",1,c1734760637380
+r1734760671948,3,"^Kids 1–17 years old$","1","",1,c1734760637380
+r1734760865817,3,"^During outdoor recreation \(e\.g\., camping, hiking, sports\)$","1","",1,c1734760637380
+r1734760870771,3,"^At the beach or pool$","1","",1,c1734760637380
+r1734760875426,3,"^For everyday protection$","1","",1,c1734760637380
+r1734760889007,3,"^SPF level$","1","",1,c1734760637380
+r1734760894193,3,"^Brand$","1","",1,c1734760637380
+r1734760897958,3,"^Product quality$","1","",1,c1734760637380
+r1734760906887,3,"^Regular size: 4-6 ounces$","1","",1,c1734760637380
+r1734760912445,3,"^Travel size: 1-2 ounces$","1","",1,c1734760637380
+r1734760924323,3,"^Neutrogena$","1","",1,c1734760637380
+r1734760928736,3,"^Banana Boat$","1","",1,c1734760637380
+r1734760937856,3,"^CeraVe$","1","",1,c1734760637380
+r1734760960808,3,"^SPF 50–60$","1","",1,c1734760637380
+r1734760996439,3,"^Lotion$","1","",1,c1734760637380
+r1734761042504,3,"^Fragrance-free$","1","",1,c1734760637380
+r1734761046635,3,"^Hydrating formula$","1","",1,c1734760637380
+r1734761049919,3,"^Fast absorbing$","1","",1,c1734760637380
+r1734761060498,3,"^Lotions or creams$","1","",1,c1734760637380
+r1734761070549,3,"^Multi-pack of lotions or creams$","1","",1,c1734760637380
+r1734761113251,3,"^2 children$","1","",1,c179
+r1734761142190,3,"^7-12 yrs$","1","",1,c179
+r1734761146300,3,"^13-17 yrs$","1","",1,c179
+r1734761157569,3,"^Multivitamins$","1","",1,c179
+r1734761161378,3,"^Fever reducer$","1","",1,c179
+r1734761165379,3,"^Pain reliever$","1","",1,c179
+r1734761261008,3,"^Paid version of Google Workspace$","1","",1,c85
+r1734761288987,3,"^Zoom \(video meetings\)$","1","",1,c85
+r1734761311707,3,"^Google Meet \(video meetings\)$","1","",1,c85
+r1734761318205,3,"^Microsoft Teams \(video meetings\)$","1","",1,c85
+r1734761351019,3,"^We don’t use video collaboration hardware$","1","",1,c85
+r1734761366788,3,"^We have basic meeting rooms where employees typically bring their own laptops\.$","1","",1,c85
+r1734761404314,3,"^Primarily laptops/desktops with built-in webcams/mics$","1","",1,c85
+r1734761458463,3,"^Notetaking: capturing notes from meetings$","1","",1,c85
+r1734761470502,3,"^Project management: organizing tasks or tracking progress$","1","",1,c85
+r1734761480210,3,"^Summarizing content: condensing information$","1","",1,c85
+r1734761501928,3,"^3–5$","1","",1,c1734616481212
+r1734761512584,3,"^Weekly$","1","",1,c1734616481212
+r1734761631493,3,"^Decorations$","1","",1,c1733446139856
+r1734761788756,3,"^Shopping$","1","",1,c1733446139856
+r1734761868212,3,"^Headaches$","1","",1,c41
+r1734762170396,3,"^Somewhat willing$","1","",1,c1732366312828
+r1734762377292,3,"^iPhone 15 Pro Max$","1","",1,c6
+r1734763300234,3,"^Casual dining restaurant$","1","",1,c1734762627557
+r1734763303750,3,"^Fine dining restaurant$","1","",1,c1734762627557
+r1734763307388,3,"^Quick service or fast-food restaurant$","1","",1,c1734762627557
+r1734763312877,3,"^Coffee shop or cafe$","1","",1,c1734762627557
+r1734763316290,3,"^Convenience stores$","1","",1,c1734762627557
+r1734763329147,3,"^Dunkin Donuts$","1","",1,c1734762627557
+r1734763334014,3,"^Starbucks$","1","",1,c1734762627557
+r1734763665716,3,"^Packaged coffee or tea$","1","",1,c1734762627557
+r1734763671301,3,"^Baked goods \(e\.g\., muffins, cookies, croissants\)$","1","",1,c1734762627557
+r1734763674652,3,"^Coffee or espresso beverages$","1","",1,c1734762627557
+r1734763678485,3,"^Tea or refreshers$","1","",1,c1734762627557
+r1734763682433,3,"^Bottled beverages$","1","",1,c1734762627557
+r1734764406030,3,"^Streamed content through a subscription service like Netflix or Amazon Video$","1","",1,c15
+r1734764411173,3,"^Ordered from an on-demand delivery app \(e\.g\., DoorDash, Instacart, GoPuff, etc\.\)$","1","",1,c15
+r1734764414749,3,"^Dined at a restaurant in person$","1","",1,c15
+r1734764420071,3,"^Spent more than \$30 on a purchase at a drug store like CVS, Walgreens or Rite Aid$","1","",1,c15
+r1734764437213,3,"^DoorDash$","1","",1,c15
+r1734764440628,3,"^UberEats$","1","",1,c15
+r1734764444564,3,"^Instacart$","1","",1,c15
+r1734764448390,3,"^Amazon Fresh$","1","",1,c15
+r1734764469080,3,"^4 people$","1","",1,c15
+r1734764479717,3,"^Instacart\+$","1","",1,c15
+r1734764483273,3,"^DashPass \(DoorDash & Caviar\)$","1","",1,c15
+r1734764487082,3,"^Amazon Prime$","1","",1,c15
+r1734764491526,3,"^Uber One \(Uber, Drizly & Postmates\)$","1","",1,c15
+r1734764507504,3,"^I pay FULL PRICE for DashPass$","1","",1,c15
 r17348,3,"^Green bricks$","1","",1,c346
 r17349,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c346
 r1735,3,"^I am willing to spend more on a bottle of wine to treat myself$","1","",1,c90
@@ -14713,7 +14798,6 @@ r3547,3,"^Lactaid$","1","",1,c169
 r3548,3,"^Kraft$","1","",1,c169
 r3549,3,"^Kerrygold$","1","",1,c169
 r3550,3,"^Frequently – monthly$","1","",1,c169
-r3551,3,"^33$","1","",1,c170
 r3552,3,"^Male$","1","",1,c170
 r3553,3,"^Familiar with this brand$","1","",1,c170
 r3554,3,"^A Little$","1","",1,c170
