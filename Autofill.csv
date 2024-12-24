@@ -545,6 +545,12 @@ c1735036630246,"Quick Survey: Help Inform Our Research","",,,,
 c1735038275332,"Tell us what you think about a name for a new sub!","",,,,
 c1735039490952,"Understanding how you shop for Coffee on Amazon","",,,,
 c1735040881978,"Tell us your experience","",,,,
+c1735057490096,"Let's talk about snacks!","",,,,
+c1735058844439,"Air Care Insights: What You Want!","",,,,
+c1735059560399,"All-In-One Homebuyer Resource","",,,,
+c1735072006914,"All About Snacks!","",,,,
+c1735072436764,"Loyalty Rewards Programs","",,,,
+c1735072672565,"All About Your Parenting & Shopping Habits","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -7543,7 +7549,6 @@ r1733675311683,3,"^Counterstrike 2$","1","",1,c1733673903015
 r1733675335069,3,"^Alone/ I play solo$","1","",1,c1733673903015
 r1733675340465,3,"^Friends/ people I met online$","1","",1,c1733673903015
 r1733675345498,3,"^Friends I know from real life$","1","",1,c1733673903015
-r1733675388283,3,"^Discord$","1","",1,c1733673903015
 r1733685456412,3,"^10-40 days$","1","",1,c41
 r1733685710138,3,"^I would consider purchasing from any of these brands$","1","",1,c178
 r1733685824055,3,"^Quaker$","1","",1,c482
@@ -9343,7 +9348,6 @@ r1735032230953,3,"^Baked goods \(e\.g\., bread, tortillas, pastries\)$","1","",1
 r1735032237879,3,"^Dairy products \(e\.g\., milk, cheese, yogurt\)$","1","",1,c1735032161532
 r1735032245603,3,"^Snacks \(e\.g\., chips, crackers, granola bars, popcorn\)$","1","",1,c1735032161532
 r1735032314573,3,"^Cheetos$","1","",1,c1735032161532
-r1735032327597,3,"^Popchips$","1","",1,c1735032161532
 r1735032342805,3,"^Utz$","1","",1,c1735032161532
 r1735032353207,3,"^Pringles$","1","",1,c1735032161532
 r1735032362899,3,"^Doritos$","1","",1,c1735032161532
@@ -9441,6 +9445,91 @@ r1735039744561,3,"^I use it at my office or workplace$","1","",1,c1735039490952
 r1735039749834,3,"^My household buys it, and we use it over time$","1","",1,c1735039490952
 r1735039760137,3,"^I share it with friends or family members$","1","",1,c1735039490952
 r1735040889451,3,"^\$601-\$700$","1","",1,c1735040881978
+r1735052057182,3,"^Bertolli$","1","",1,c466
+r1735052075407,3,"^Pompeiian$","1","",1,c466
+r1735052816363,3,"^Local Game Store$","1","",1,c23
+r1735052823980,3,"^Walmart$","1","",1,c23
+r1735053282085,3,"^Heinz 57$","1","",1,c387
+r1735053373221,3,"^Texas Roadhouse$","1","",1,c387
+r1735053384735,3,"^Kentucky Fried Chicken \(KFC\)$","1","",1,c387
+r1735053594378,3,"^Life Savers$","1","",1,c58
+r1735053795574,3,"^Heinz Ketchup$","1","",1,c58
+r1735053829697,3,"^Tabasco$","1","",1,c58
+r1735054096565,3,"^Ocean Spray$","1","",1,c1734618348561
+r1735054154900,3,"^Tropicana$","1","",1,c1734618348561
+r1735054163116,3,"^Mott's$","1","",1,c1734618348561
+r1735054227610,3,"^Late night craving$","1","",1,c1734618348561
+r1735054258876,3,"^Club Store \(e\.g\., Costco, Sam's Club, BJ’s, etc\.\)$","1","",1,c1734618348561
+r1735054513927,3,"^Mass Merchandise/discount department store \(such as Walmart, Target, Kmart\)$","1","",1,c431
+r1735054527745,3,"^Gas/Convenience stores \(ex: 7-Eleven, Quick Check\)$","1","",1,c431
+r1735054544038,3,"^Walmart \(In-store\)$","1","",1,c431
+r1735054562678,3,"^Target \(In-Store\)$","1","",1,c431
+r1735054584206,3,"^Cheese snacks \(i\.e\. Cheetos, Whisps, etc\.\)$","1","",1,c431
+r1735054615950,3,"^OREO Minis$","1","",1,c431
+r1735054624807,3,"^OREO Thins$","1","",1,c431
+r1735054723404,3,"^Takis$","1","",1,c431
+r1735054760419,3,"^Oreo Cakesters$","1","",1,c431
+r1735055191152,3,"^Holiday cards \(physical or ecard\)$","1","",1,c179
+r1735055212320,3,"^A personalized/photo card$","1","",1,c179
+r1735055220925,3,"^A handmade card$","1","",1,c179
+r1735055236622,3,"^Canva$","1","",1,c179
+r1735055586449,3,"^Grains \(i\.e\., rice, pasta, bread\)$","1","",1,c19
+r1735055708432,3,"^Exercising or playing sports$","1","",1,c1733673903015
+r1735057007007,3,"^Go on a domestic vacation$","1","",1,c500
+r1735057037913,3,"^Purchase a new appliance for my home$","1","",1,c500
+r1735057226742,3,"^An event that offers an early preview/premier of a piece of content$","1","",1,c500
+r1735057243629,3,"^Food52$","1","",1,c500
+r1735057428731,3,"^None of the above – would consider buying any of these brands$","1","",1,c1735029501036
+r1735057521146,3,"^Big Pack$","1","",1,c1735057490096
+r1735057527027,3,"^Giant Size$","1","",1,c1735057490096
+r1735057534779,3,"^Share Size$","1","",1,c1735057490096
+r1735057551402,3,"^6oz bag of Oreo Mini cookies for \$3\.99$","1","",1,c1735057490096
+r1735057656584,3,"^Tuna \(fresh, canned, or other forms\)$","1","",1,c566
+r1735057666937,3,"^Lobster \(fresh, frozen, or other forms\)$","1","",1,c566
+r1735057676817,3,"^Sardines \(fresh, canned, or other forms\)$","1","",1,c566
+r1735057687497,3,"^Crab \(fresh, frozen, or other forms\)$","1","",1,c566
+r1735057703248,3,"^Shrimp \(fresh, frozen, or other forms\)$","1","",1,c566
+r1735057718391,3,"^Salmon$","1","",1,c566
+r1735058718133,3,"^MLB$","1","",1,c1731055807817
+r1735058729998,3,"^NBA$","1","",1,c1731055807817
+r1735058737685,3,"^ NFL$","1","",1,c1731055807817
+r1735058856901,3,"^A brand I trust$","1","",1,c1735058844439
+r1735058878766,3,"^The value of the product$","1","",1,c1735058844439
+r1735058886468,3,"^The imagery on the package$","1","",1,c1735058844439
+r1735058893812,3,"^The scent/fragrance of product$","1","",1,c1735058844439
+r1735059137017,3,"^I have general wellness habits but no specific goals$","1","",1,c41
+r1735059583414,3,"^Somewhat likely$","1","",1,c1735059560399
+r1735059600881,3,"^Mortgage company$","1","",1,c1735059560399
+r1735059713954,3,"^\$10-\$20/month$","1","",1,c1735059560399
+r1735059769760,3,"^Very important$","1","",1,c1735059560399
+r1735060411622,3,"^Somewhat useful$","1","",1,c1735059560399
+r1735060429633,3,"^Valuable$","1","",1,c1735059560399
+r1735060445952,3,"^Very helpful$","1","",1,c1735059560399
+r1735060485705,3,"^Scroll$","1","",1,c1735059560399
+r1735060766661,3,"^Every time I visit the store$","1","",1,c1735033756489
+r1735070057354,3,"^Finance$","1","",1,c1735035070115
+r1735070093139,3,"^Non-GMO Project$","1","",1,c1735035070115
+r1735070101844,3,"^USDA Organic$","1","",1,c1735035070115
+r1735070120514,3,"^McCormick$","1","",1,c1735035070115
+r1735070136426,3,"^Great Value \(Walmart Brand\)$","1","",1,c1735035070115
+r1735070142730,3,"^Kirkland \(Costco Brand\)$","1","",1,c1735035070115
+r1735070214970,3,"^Snickers$","1","",1,c433
+r1735070223849,3,"^Twix$","1","",1,c433
+r1735070230873,3,"^Kit Kat$","1","",1,c433
+r1735070237041,3,"^Hershey's$","1","",1,c433
+r1735072062386,3,"^Sargento Balanced Breaks$","1","",1,c1735072006914
+r1735072072827,3,"^Hillshire Snacking Small Plates/Bistro Bites$","1","",1,c1735072006914
+r1735072153225,3,"^Sargento Balanced Breaks$","1","",1,c1735072006914
+r1735072164338,3,"^Hillshire Snacking Small Plates/Bistro Bites$","1","",1,c1735072006914
+r1735072214930,3,"^Interesting$","1","",1,c1735072006914
+r1735072224801,3,"^For people like me$","1","",1,c1735072006914
+r1735072234818,3,"^Entertaining$","1","",1,c1735072006914
+r1735072446063,3,"^Agree$","1","",1,c1735072436764
+r1735072685795,3,"^Bimbo Bakeries$","1","",1,c1735072672565
+r1735072717323,3,"^I’ve heard of it, but have never tried it$","1","",1,c1735072672565
+r1735072757387,3,"^ I do$","1","",1,c1735072672565
+r1735072775209,3,"^Creative$","1","",1,c1735072672565
+r1735072860792,3,"^2-3 times a week$","1","",1,c1735072672565
 r17351,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c346
 r17352,3,"^Target$","1","",1,c346
 r17353,3,"^Walmart$","1","",1,c346
