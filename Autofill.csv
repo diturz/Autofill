@@ -551,6 +551,8 @@ c1735059560399,"All-In-One Homebuyer Resource","",,,,
 c1735072006914,"All About Snacks!","",,,,
 c1735072436764,"Loyalty Rewards Programs","",,,,
 c1735072672565,"All About Your Parenting & Shopping Habits","",,,,
+c1735228447332,"Your Grocery Shopping Habits!","",,,,
+c1735228550672,"New Flavors!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -9532,6 +9534,35 @@ r1735072775209,3,"^Creative$","1","",1,c1735072672565
 r1735072860792,3,"^2-3 times a week$","1","",1,c1735072672565
 r17351,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c346
 r17352,3,"^Target$","1","",1,c346
+r1735228007458,3,"^Chocolate \(bars or individually wrapped\)$","1","",1,c1730404061464
+r1735228015083,3,"^Bread$","1","",1,c1730404061464
+r1735228022491,3,"^Baking items \(flour, chocolate chips, sugar, etc\.\)$","1","",1,c1730404061464
+r1735228031596,3,"^Fresh fruit$","1","",1,c1730404061464
+r1735228040596,3,"^Salty snacks \(pretzels, chips, crackers, etc\.\)$","1","",1,c1730404061464
+r1735228062827,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c1730404061464
+r1735228069946,3,"^Online only retailer \(e\.g\., Amazon\)$","1","",1,c1730404061464
+r1735228078211,3,"^Drug store \(e\.g\., CVS, Walgreens\)$","1","",1,c1730404061464
+r1735228083770,3,"^Grocery store$","1","",1,c1730404061464
+r1735228126985,3,"^A few times per week$","1","",1,c1730404061464
+r1735228137657,3,"^Myself$","1","",1,c1730404061464
+r1735228143209,3,"^My children$","1","",1,c1730404061464
+r1735228151354,3,"^My partner$","1","",1,c1730404061464
+r1735228176890,3,"^Recommended by family or friend$","1","",1,c1730404061464
+r1735228184961,3,"^Saw online reviews$","1","",1,c1730404061464
+r1735228194496,3,"^Saw or heard an Ad$","1","",1,c1730404061464
+r1735228200210,3,"^Noticed it while shopping$","1","",1,c1730404061464
+r1735228211929,3,"^Facebook$","1","",1,c1730404061464
+r1735228218698,3,"^Instagram$","1","",1,c1730404061464
+r1735228224153,3,"^TV$","1","",1,c1730404061464
+r1735228265171,3,"^Organic$","1","",1,c1730404061464
+r1735228270704,3,"^Non-GMO$","1","",1,c1730404061464
+r1735228286006,3,"^Purchase a different variety$","1","",1,c1730404061464
+r1735228346704,3,"^Tostitos$","1","",1,c1730404061464
+r1735228358535,3,"^Cheez-It$","1","",1,c1730404061464
+r1735228385688,3,"^Lay's$","1","",1,c1730404061464
+r1735228465700,3,"^Walmart$","1","",1,c1735228447332
+r1735228471381,3,"^Target$","1","",1,c1735228447332
+r1735228480582,3,"^Sam's Club$","1","",1,c1735228447332
 r17353,3,"^Walmart$","1","",1,c346
 r17354,3,"^Shopping experience$","1","",1,c346
 r17355,3,"^Convenient store location$","1","",1,c346
