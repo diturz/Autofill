@@ -553,6 +553,27 @@ c1735072436764,"Loyalty Rewards Programs","",,,,
 c1735072672565,"All About Your Parenting & Shopping Habits","",,,,
 c1735228447332,"Your Grocery Shopping Habits!","",,,,
 c1735228550672,"New Flavors!","",,,,
+c1735926907734,"Screener Survey - December 2024","",,,,
+c1735928530687,"Travel survey","",,,,
+c1735928964617,"Financial Preferences","",,,,
+c1735929777647,"Your recent recreation, travel and lodging experiences","",,,,
+c1735930173723,"Tell us about you, please!","",,,,
+c1735930759631,"Tell us your thoughts","",,,,
+c1735931265574,"Kid Yogurt Brands","",,,,
+c1735932162080,"Drivers, we need you!","",,,,
+c1735932295611,"All About Your Shopping Habits","",,,,
+c1735933129611,"Your Spending Habits","",,,,
+c1735933390640,"Healthy Snacks","",,,,
+c1735933549065,"Understanding your shopping behavior!","",,,,
+c1735933640837,"Shopping for household products","",,,,
+c1735934134581,"We would like to learn a little about your soap and skincare preferences.","",,,,
+c1735934773829,"Spending Habits","",,,,
+c1735934857065,"Streaming Habits","",,,,
+c1735935139205,"Plasma Donation Survey","",,,,
+c1735935295562,"Celebrating you!","",,,,
+c1735935482078,"Enjoy Energy Drinks? We Want to Hear from You!","",,,,
+c1735935537588,"We'd love to learn about the products you purchase often.","",,,,
+c1735935600082,"We want to know about your electronics!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -9570,6 +9591,305 @@ r17356,3,"^Sephora$","1","",1,c346
 r17357,3,"^Amazon$","1","",1,c346
 r17358,3,"^High-quality products$","1","",1,c346
 r17359,3,"^Convenient$","1","",1,c346
+r1735925533924,3,"^9-12 years old$","1","",1,c1731724879941
+r1735925542661,3,"^13-17 years old$","1","",1,c1731724879941
+r1735925557703,3,"^Personal care products \(shampoo, body wash, etc\.\)$","1","",1,c1731724879941
+r1735925583842,3,"^Home cleaning products \(dish soap, laundry detergent etc\.\)$","1","",1,c1731724879941
+r1735925593654,3,"^Home appliances \(refrigerator, washing machine, etc\.\)$","1","",1,c1731724879941
+r1735925611703,3,"^Home fragrance products \(candles, room spray, etc\.\)$","1","",1,c1731724879941
+r1735925618975,3,"^Pet care products \(shampoo, stain remover, etc\.\)$","1","",1,c1731724879941
+r1735925811213,3,"^\$100,000 to \$124,999$","1","",1,c15
+r1735925825722,3,"^Caucasian$","1","",1,c15
+r1735925882452,3,"^Fitness tracker$","1","",1,c15
+r1735925886475,3,"^Smartphone$","1","",1,c15
+r1735925892604,3,"^Smart TV$","1","",1,c15
+r1735925898436,3,"^Smartwatch \(wearable technology with additional features beyond fitness tracking\)$","1","",1,c15
+r1735925916590,3,"^Tablet$","1","",1,c15
+r1735925924257,3,"^Laptop$","1","",1,c15
+r1735925937829,3,"^Smart Home Assistant \(e\.g\., Amazon Alexa, Google Home, etc\.\)$","1","",1,c15
+r1735925983772,3,"^7-12 months ago$","1","",1,c15
+r1735925998741,3,"^7 to 12 months from now$","1","",1,c15
+r1735926037682,3,"^I will make the final decision$","1","",1,c15
+r1735926079902,3,"^Buy a NEW smartphone$","1","",1,c15
+r1735926093707,3,"^Apple$","1","",1,c15
+r1735926103776,3,"^Verizon$","1","",1,c15
+r1735926937761,3,"^Own my home$","1","",1,c1735926907734
+r1735926956600,3,"^Couple with children$","1","",1,c1735926907734
+r1735927082947,3,"^Primarily you$","1","",1,c1735926907734
+r1735927104901,3,"^Fire Extinguishing Aerosol Spray\(s\)$","1","",1,c1735926907734
+r1735927107003,3,"^Fire Extinguisher\(s$","1","",1,c1735926907734
+r1735927153490,3,"^First Alert$","1","",1,c1735926907734
+r1735927178679,3,"^Door Lock\(s\)$","1","",1,c1735926907734
+r1735927187395,3,"^Indoor Security Camera\(s\)$","1","",1,c1735926907734
+r1735927194857,3,"^Video Doorbell\(s\)$","1","",1,c1735926907734
+r1735927217495,3,"^Air Purifier\(s\)$","1","",1,c1735926907734
+r1735927226800,3,"^Smart/Connected Thermostat\(s$","1","",1,c1735926907734
+r1735927245265,3,"^I currently own/use multiple smart home devices and plan to add more$","1","",1,c1735926907734
+r1735927265176,3,"^Primarily you$","1","",1,c1735926907734
+r1735927284025,3,"^Smart thermostat\(s\)$","1","",1,c1735926907734
+r1735927287459,3,"^Smart video doorbell\(s\)$","1","",1,c1735926907734
+r1735927297385,3,"^Smart home appliance\(s\)$","1","",1,c1735926907734
+r1735927317241,3,"^Wyze$","1","",1,c1735926907734
+r1735927493175,3,"^Organized sports$","1","",1,c3
+r1735927503377,3,"^Walking for exercise$","1","",1,c3
+r1735927516526,3,"^Cycling$","1","",1,c3
+r1735927578307,3,"^Intermediate - I have a good grasp of the activity and can handle most situations or challenges$","1","",1,c3
+r1735927605863,3,"^A few times a week$","1","",1,c3
+r1735927617286,3,"^Goat$","1","",1,c3
+r1735927910710,3,"^Specific vitamins \(e\.g\., Vitamin B, Vitamin D, etc\.\)$","1","",1,c1735029501036
+r1735927918145,3,"^Metabolism/weight management supplements$","1","",1,c1735029501036
+r1735927932598,3,"^Probiotics$","1","",1,c1735029501036
+r1735928184632,3,"^ Fitness supplements \(Nutrex, Muscletech, Optimum Nutrition, etc\.\)$","1","",1,c45
+r1735928194784,3,"^Children’s vitamins \(Flintstones, Smarty Pants, etc\.\)$","1","",1,c45
+r1735928215447,3,"^Adult Multivitamins \(One-A-Day, Nature’s Bounty, Nature’s Made, etc\.\)$","1","",1,c45
+r1735928219309,3,"^ Supplements \(Nature’s Bounty, AG1, Vital Proteins, etc\.\)$","1","",1,c45
+r1735928250279,3,"^I would purchase any of these brands$","1","",1,c45
+r1735928549663,3,"^About the same for business and leisure$","1","",1,c1735928530687
+r1735928588067,3,"^Regional flights \(2 hours or less\)$","1","",1,c1735928530687
+r1735928596838,3,"^International flights$","1","",1,c1735928530687
+r1735928612395,3,"^\$1,500 - \$10,000$","1","",1,c1735928530687
+r1735928629858,3,"^Delta Air Lines$","1","",1,c1735928530687
+r1735928636003,3,"^American Airlines$","1","",1,c1735928530687
+r1735928644699,3,"^United Airlines$","1","",1,c1735928530687
+r1735928727034,3,"^Twitch$","1","",1,c1735928530687
+r1735928766497,3,"^Streaming services \(i\.e\., Hulu, Amazon Prime, NFL\+\)$","1","",1,c1735928530687
+r1735928976734,3,"^401\(k\)$","1","",1,c1735928964617
+r1735929002551,3,"^Ease of use/management$","1","",1,c1735928964617
+r1735929005769,3,"^Recommendations from advisors or peers$","1","",1,c1735928964617
+r1735929019827,3,"^Achieving financial independence$","1","",1,c1735928964617
+r1735929027074,3,"^Saving for retirement$","1","",1,c1735928964617
+r1735929041980,3,"^Online research \(e\.g\., blogs, articles, forums\)$","1","",1,c1735928964617
+r1735929053260,3,"^Recommendations from friends or family$","1","",1,c1735928964617
+r1735929290439,3,"^Apple smartphone \(iPhone\)$","1","",1,c1731380387889
+r1735929305739,3,"^Fitness tracker \(e\.g\., wrist band, clip-on, ring\)$","1","",1,c1731380387889
+r1735929322211,3,"^Smartwatch \(e\.g\. Apple Watch, Google Pixel Watch, Samsung Galaxy Watch\)$","1","",1,c1731380387889
+r1735929329219,3,"^Smart home assistant device \(e\.g\., Amazon Echo, Nest Hub\)$","1","",1,c1731380387889
+r1735929334426,3,"^Connected stationary/indoor bike or treadmill \(e\.g\., Peloton\)$","1","",1,c1731380387889
+r1735929347101,3,"^Bicycle$","1","",1,c1731380387889
+r1735929349227,3,"^Home gym equipment \(e\.g\., basic treadmill, stationary bike, weights\)$","1","",1,c1731380387889
+r1735929383625,3,"^Indoor cycling \(e\.g\., stationary bike, spin classes\)$","1","",1,c1731380387889
+r1735929503864,3,"^I agree$","1","",1,c1735057490096
+r1735929709385,3,"^2022$","1","",1,c20
+r1735929794250,3,"^Stayed at a hotel$","1","",1,c1735929777647
+r1735929796161,3,"^Flew on an airplane$","1","",1,c1735929777647
+r1735929803373,3,"^Played a recreational sport/activity \(e\.g\. golf, bowling\)$","1","",1,c1735929777647
+r1735929810708,3,"^Saw a movie at a theater/cinema$","1","",1,c1735929777647
+r1735929818560,3,"^Visited a casino$","1","",1,c1735929777647
+r1735929830634,3,"^Marriott$","1","",1,c1735929777647
+r1735930123156,3,"^I haven’t decided yet$","1","",1,c15
+r1735930133814,3,"^Trulia$","1","",1,c15
+r1735930144997,3,"^Website$","1","",1,c15
+r1735930191710,3,"^Streaming live content \(e\.g\., Twitch, YouTube Live\)$","1","",1,c1735930173723
+r1735930205707,3,"^Gaming \(e\.g\., PC, console, mobile\)$","1","",1,c1735930173723
+r1735930221525,3,"^Watching/participating in esports$","1","",1,c1735930173723
+r1735930233929,3,"^Often$","1","",1,c1735930173723
+r1735930262621,3,"^Sports$","1","",1,c1735930173723
+r1735930267557,3,"^Adventure$","1","",1,c1735930173723
+r1735930279295,3,"^Use of high-quality, premium materials$","1","",1,c1735930173723
+r1735930287880,3,"^Trust and prestige associated with the brand$","1","",1,c1735930173723
+r1735930297976,3,"^Cartier $","1","",1,c1735930173723
+r1735930305197,3,"^Zara$","1","",1,c1735930173723
+r1735930311247,3,"^BVLGARI$","1","",1,c1735930173723
+r1735930317875,3,"^Guess$","1","",1,c1735930173723
+r1735930323391,3,"^Gucci$","1","",1,c1735930173723
+r1735930330747,3,"^Dior$","1","",1,c1735930173723
+r1735930354237,3,"^Gifting$","1","",1,c1735930173723
+r1735930369593,3,"^Individuality $","1","",1,c1735930173723
+r1735930384449,3,"^Send personalized messages/coupons$","1","",1,c1735930173723
+r1735930395356,3,"^Health & wellness \(working out, eating healthier, etc\.\)$","1","",1,c1735930173723
+r1735930403027,3,"^Productivity & career \(advance career, organize, etc\.\)$","1","",1,c1735930173723
+r1735930408181,3,"^ Financial \(save money, build emergency fund, begin budgeting\)$","1","",1,c1735930173723
+r1735930423854,3,"^Sports/fitness$","1","",1,c1735930173723
+r1735930430013,3,"^Cooking \(in general\)$","1","",1,c1735930173723
+r1735930462217,3,"^Gym$","1","",1,c1735930173723
+r1735930470605,3,"^Parks$","1","",1,c1735930173723
+r1735930482451,3,"^Coffee shops$","1","",1,c1735930173723
+r1735930498938,3,"^Instagram$","1","",1,c1735930173723
+r1735930514561,3,"^WhatsApp$","1","",1,c1735930173723
+r1735930524410,3,"^More than once per week$","1","",1,c1735930173723
+r1735930538076,3,"^When I’m tired$","1","",1,c1735930173723
+r1735930543466,3,"^End of week treat$","1","",1,c1735930173723
+r1735930573688,3,"^“Gen Z doesn’t want to work hard”$","1","",1,c1735930173723
+r1735930599414,3,"^“Gen Z doesn’t want to work hard”$","1","",1,c1735930173723
+r1735930604638,3,"^Financial instability$","1","",1,c1735930173723
+r1735930629172,3,"^Supporting mental health resources$","1","",1,c1735930173723
+r1735930652109,3,"^Clean beauty$","1","",1,c1735930173723
+r1735930673308,3,"^I consider a brand’s DE&I initiatives when purchasing from a new brand$","1","",1,c1735930173723
+r1735930684014,3,"^Dinner parties are my kind of fun$","1","",1,c1735930173723
+r1735930692217,3,"^Nightclubs are my kind of fun$","1","",1,c1735930173723
+r1735930706989,3,"^I believe my aura is unique\.$","1","",1,c1735930173723
+r1735930721756,3,"^I believe in auras\.$","1","",1,c1735930173723
+r1735930739137,3,"^Large festivals \(e\.g\., Coachella, Lollapalooza, etc\.\)$","1","",1,c1735930173723
+r1735930768416,3,"^I am a parent/guardian with a child\(ren\) under the age of 18 who live in the household$","1","",1,c1735930759631
+r1735930779521,3,"^7-11 years old$","1","",1,c1735930759631
+r1735930785599,3,"^12-15 years old$","1","",1,c1735930759631
+r1735930797370,3,"^I am the primary cleaner in my household$","1","",1,c1735930759631
+r1735930813189,3,"^Chocolates$","1","",1,c1735930759631
+r1735930818972,3,"^Card$","1","",1,c1735930759631
+r1735930833278,3,"^Meal with too many ingredients$","1","",1,c1735930759631
+r1735930840180,3,"^Recipes that take too long to prepare and cook$","1","",1,c1735930759631
+r1735930848978,3,"^Making something my whole family will enjoy$","1","",1,c1735930759631
+r1735930868620,3,"^Holiday Break \(December/January\)$","1","",1,c1735930759631
+r1735930880561,3,"^Work out/exercise$","1","",1,c1735930759631
+r1735930888488,3,"^Grocery shopping$","1","",1,c1735930759631
+r1735930896421,3,"^Laundry$","1","",1,c1735930759631
+r1735930901010,3,"^Clean my home$","1","",1,c1735930759631
+r1735930907009,3,"^Shop at retail locations/stores where you live$","1","",1,c1735930759631
+r1735930921144,3,"^Instagram$","1","",1,c1735930759631
+r1735930929706,3,"^TikTok$","1","",1,c1735930759631
+r1735930938852,3,"^YouTube$","1","",1,c1735930759631
+r1735930953853,3,"^I abandon the video if there is a brand-read content$","1","",1,c1735930759631
+r1735930962789,3,"^Often$","1","",1,c1735930759631
+r1735930986061,3,"^I trust podcasters more than I do traditional news reporters\.$","1","",1,c1735930759631
+r1735931004620,3,"^Very Likely$","1","",1,c1735930759631
+r1735931021716,3,"^Clean$","1","",1,c1735930759631
+r1735931042789,3,"^It is very time consuming\.$","1","",1,c1735930759631
+r1735932172186,3,"^State Farm$","1","",1,c1735932162080
+r1735932196168,3,"^I wouldn't use a driving-based insurance program$","1","",1,c1735932162080
+r1735932207798,3,"^No$","1","",1,c1735932162080
+r1735932239881,3,"^Neither Likely or Unlikely$","1","",1,c1735932162080
+r1735932308606,3,"^Pet items, pet food, toys$","1","",1,c1735932295611
+r1735932314669,3,"^Home improvement, home furnishings, home office supplies$","1","",1,c1735932295611
+r1735932320433,3,"^Health, beauty, sporting goods, fitness items, etc$","1","",1,c1735932295611
+r1735932330803,3,"^Services including mobile phones plans,credit cards, insurance$","1","",1,c1735932295611
+r1735932341469,3,"^Clothing, accessories, shoes, jewelry$","1","",1,c1735932295611
+r1735932350460,3,"^Computers, electronics, software, hardware$","1","",1,c1735932295611
+r1735932359419,3,"^Food, liquor/wine, groceries, etc\.$","1","",1,c1735932295611
+r1735932371496,3,"^Yes, I am a member$","1","",1,c1735932295611
+r1735932385297,3,"^Honey$","1","",1,c1735932295611
+r1735933148246,3,"^Very good$","1","",1,c1735933129611
+r1735933169415,3,"^Very optimistic$","1","",1,c1735933129611
+r1735933209832,3,"^Strongly increased$","1","",1,c1735933129611
+r1735933232939,3,"^No, my budgeting / spending remains unchanged$","1","",1,c1735933129611
+r1735933276797,3,"^About the same as in 2024$","1","",1,c1735933129611
+r1735933301419,3,"^Have no impact on my spending$","1","",1,c1735933129611
+r1735933317813,3,"^Very likely$","1","",1,c1735933129611
+r1735933336810,3,"^Travel$","1","",1,c1735933129611
+r1735933350938,3,"^Republican$","1","",1,c1735933129611
+r1735933363478,3,"^Very liberal$","1","",1,c1735933129611
+r1735933406646,3,"^Often$","1","",1,c1735933390640
+r1735933458250,3,"^Yes, I am a parent of a child/children$","1","",1,c377
+r1735933469192,3,"^I am a parent of a child older than 5 years$","1","",1,c377
+r1735933486892,3,"^Older than 5 years$","1","",1,c377
+r1735933560434,3,"^Non-Chocolate Candy$","1","",1,c1735933549065
+r1735933568765,3,"^Beverage$","1","",1,c1735933549065
+r1735933573744,3,"^Salty snacks \(chips, pretzels, etc\)$","1","",1,c1735933549065
+r1735933581117,3,"^Paper products$","1","",1,c1735933549065
+r1735933587637,3,"^Chocolate$","1","",1,c1735933549065
+r1735933592646,3,"^Sweet snacks \(cookies, biscuits, etc\)$","1","",1,c1735933549065
+r1735933602798,3,"^Cookies/sweet snacks$","1","",1,c1735933549065
+r1735933614513,3,"^Walmart$","1","",1,c1735933549065
+r1735933649546,3,"^I usually do all the purchasing$","1","",1,c1735933640837
+r1735933703031,3,"^Scott$","1","",1,c1735933640837
+r1735933712766,3,"^Great Value Ultra Strong \(Walmart brand\)$","1","",1,c1735933640837
+r1735933734338,3,"^I usually buy the strongest paper towels I can find$","1","",1,c1735933640837
+r1735933746471,3,"^I prefer solid white paper towels$","1","",1,c1735933640837
+r1735933766944,3,"^All paper towels are absorbent enough for my needs$","1","",1,c1735933640837
+r1735933778310,3,"^My store’s brand of paper towel is just as good$","1","",1,c1735933640837
+r1735933790999,3,"^Has more quantity per package than others$","1","",1,c1735933640837
+r1735933796564,3,"^Is high quality$","1","",1,c1735933640837
+r1735933806680,3,"^Is absorbent$","1","",1,c1735933640837
+r1735933812757,3,"^Looks or feels durable$","1","",1,c1735933640837
+r1735933820212,3,"^Will protect my hands when cleaning$","1","",1,c1735933640837
+r1735933859375,3,"^Illinois$","1","",1,c102
+r1735933889295,3,"^Chicago$","1","",1,c102
+r1735933909762,3,"^Read a book, newspaper, or magazine online or in print \(e\.g\., National Geographic, The New York Times, etc\.\)$","1","",1,c102
+r1735933916403,3,"^Dined at a restaurant in person$","1","",1,c102
+r1735933924334,3,"^ Bought groceries from a supermarket \(Walmart, Kroger, etc\.\)$","1","",1,c102
+r1735933929540,3,"^Streamed content through a subscription service \(e\.g\., Netflix, Hulu, etc\.\)$","1","",1,c102
+r1735933936337,3,"^Ordered from an on-demand food delivery app \(e\.g\., Grubhub, Uber Eats, etc\.\)$","1","",1,c102
+r1735933951716,3,"^Very likely$","1","",1,c102
+r1735933962936,3,"^Instacart$","1","",1,c102
+r1735933968617,3,"^Uber Eats$","1","",1,c102
+r1735934001331,3,"^Reviews from a retailer’s website \(ex\., Amazon, DicksSportingGoods\.com, etc\.\)$","1","",1,c137
+r1735934028684,3,"^Is a premium brand$","1","",1,c137
+r1735934046431,3,"^ Reviews from a third-party’s website \(ex\. Outdoors, Conde Nast Traveler, etc\.\) $","1","",1,c137
+r1735934061667,3,"^Sustainable practices$","1","",1,c137
+r1735934081230,3,"^Brand currently is sought-after$","1","",1,c137
+r1735934104817,3,"^25-34$","1","",1,c137
+r1735934109637,3,"^Employed full time$","1","",1,c137
+r1735934144593,3,"^ I handle all of the shopping for soap or skincare products for my household$","1","",1,c1735934134581
+r1735934358084,3,"^A mix of all the methods listed$","1","",1,c1735934134581
+r1735934372559,3,"^ Pharmacies \(CVS, Walgreens, Duane Reade,Rite Aid, etc\.\)$","1","",1,c1735934134581
+r1735934385905,3,"^Amazon$","1","",1,c1735934134581
+r1735934405545,3,"^Bar soap$","1","",1,c1735934134581
+r1735934425783,3,"^Kills bacteria and viruses$","1","",1,c1735934134581
+r1735934438148,3,"^Contains natural ingredients$","1","",1,c1735934134581
+r1735934459501,3,"^I use different kinds of soap or soap brands based on the occasion or purpose$","1","",1,c1735934134581
+r1735934472524,3,"^Every month$","1","",1,c1735934134581
+r1735934499244,3,"^Brand name$","1","",1,c1735934134581
+r1735934508648,3,"^Professional endorsements \(Allure Best of Beauty, #1 used by dermatologists, etc\.\)$","1","",1,c1735934134581
+r1735934521139,3,"^I live with my partner and children$","1","",1,c1735934134581
+r1735934536156,3,"^Transparency around sourcing and sourcing methods$","1","",1,c1735934134581
+r1735934542774,3,"^Quality consumer reviews$","1","",1,c1735934134581
+r1735934558099,3,"^Somewhat likely$","1","",1,c1735934134581
+r1735934570326,3,"^Online consumer reviews$","1","",1,c1735934134581
+r1735934580016,3,"^Family or friends have tried it$","1","",1,c1735934134581
+r1735934596674,3,"^Negative affiliations \(around politics, policies, workers, sourcing, etc\.\)$","1","",1,c1735934134581
+r1735934606153,3,"^ Negative review from someone I trust \(friends, family or online influencer\)$","1","",1,c1735934134581
+r1735934627727,3,"^Brand reputation or familiarity$","1","",1,c1735934134581
+r1735934636538,3,"^Aesthetic packaging or label$","1","",1,c1735934134581
+r1735934788147,3,"^Travel and exploration \(e\.g\., domestic or international trips, nature adventures$","1","",1,c1735934773829
+r1735934796278,3,"^Social gatherings \(e\.g\., parties, reunions, networking events\)$","1","",1,c1735934773829
+r1735934819324,3,"^Escaping routine or monotony \(e\.g\., breaking away from daily life\)$","1","",1,c1735934773829
+r1735934828076,3,"^Trying new things \(e\.g\., exploring interests, broadening horizons\)$","1","",1,c1735934773829
+r1735934864986,3,"^Interactive or gaming content \(e\.g\., live streams of games, interactive shows\)$","1","",1,c1735934857065
+r1735934870956,3,"^Educational or documentary content \(e\.g\., history series, science programs\)$","1","",1,c1735934857065
+r1735934895525,3,"^Entertainment-focused \(e\.g\., recent movies, popular TV shows, trending series\)$","1","",1,c1735934857065
+r1735934936729,3,"^Packaged foods and snacks \(e\.g\., cookies, chips, holiday treats\)$","1","",1,c53
+r1735934948452,3,"^Health and wellness products \(e\.g\., vitamins, supplements\)$","1","",1,c53
+r1735934958236,3,"^Beverages \(e\.g\., seasonal drinks, spirits, non-alcoholic options$","1","",1,c53
+r1735934966652,3,"^Fragrances \(e\.g\., perfumes, colognes\)$","1","",1,c53
+r1735934981705,3,"^Personal hygiene products \(e\.g\., soaps, deodorants\)$","1","",1,c53
+r1735934987847,3,"^Specialty seasonal items \(e\.g\., holiday-themed goods, limited-edition items\)$","1","",1,c53
+r1735935190806,3,"^Yes, more than a year ago$","1","",1,c1735935139205
+r1735935207143,3,"^Plasma donation$","1","",1,c1735935139205
+r1735935220217,3,"^I donate plasma rarely \(once a year or less\)$","1","",1,c1735935139205
+r1735935305422,3,"^25-34 years old$","1","",1,c1735935295562
+r1735935315662,3,"^Male$","1","",1,c1735935295562
+r1735935324960,3,"^Finance / banking$","1","",1,c1735935295562
+r1735935350352,3,"^I am the primary purchase decision maker$","1","",1,c1735935295562
+r1735935361590,3,"^Instagram$","1","",1,c1735935295562
+r1735935366884,3,"^Facebook$","1","",1,c1735935295562
+r1735935373782,3,"^Pinterest$","1","",1,c1735935295562
+r1735935378855,3,"^TikTok$","1","",1,c1735935295562
+r1735935386304,3,"^X \(formally known as Twitter\)$","1","",1,c1735935295562
+r1735935394756,3,"^YouTube$","1","",1,c1735935295562
+r1735935401222,3,"^A few times a week$","1","",1,c1735935295562
+r1735935491747,3,"^This week$","1","",1,c1735935482078
+r1735935546969,3,"^Energy Shots$","1","",1,c1735935537588
+r1735935554412,3,"^Proteins \(powders, pre-made shakes, bars\)$","1","",1,c1735935537588
+r1735935564469,3,"^Electrolyte powders / sport drink powders \(mix-ins or tablets\) A$","1","",1,c1735935537588
+r1735935569898,3,"^Energy drinks$","1","",1,c1735935537588
+r1735935574874,3,"^Pre-workout \(energy powders, pre-mixed bottles, etc\.\)$","1","",1,c1735935537588
+r1735935609154,3,"^Smart Speaker$","1","",1,c1735935600082
+r1735935613882,3,"^Headphones$","1","",1,c1735935600082
+r1735935622789,3,"^VR Headset$","1","",1,c1735935600082
+r1735935627351,3,"^Smartwatch$","1","",1,c1735935600082
+r1735935633389,3,"^Smart TV$","1","",1,c1735935600082
+r1735935646565,3,"^Tablet$","1","",1,c1735935600082
+r1735935653335,3,"^Gaming Console$","1","",1,c1735935600082
+r1735935662945,3,"^Printer$","1","",1,c1735935600082
+r1735935669602,3,"^Smart Thermostat$","1","",1,c1735935600082
+r1735935674620,3,"^Smartphone$","1","",1,c1735935600082
+r1735935679598,3,"^Desktop Computer$","1","",1,c1735935600082
+r1735935685435,3,"^Laptop$","1","",1,c1735935600082
+r1735935698241,3,"^I own a printer for my home$","1","",1,c1735935600082
+r1735935710588,3,"^Inkjet with replacement ink cartridges$","1","",1,c1735935600082
+r1735935723023,3,"^Printing recipes or cooking instructions$","1","",1,c1735935600082
+r1735935727806,3,"^Copying documents$","1","",1,c1735935600082
+r1735935735081,3,"^Printing coupons or gift cards$","1","",1,c1735935600082
+r1735935741191,3,"^Scanning photos$","1","",1,c1735935600082
+r1735935747839,3,"^Printing photos$","1","",1,c1735935600082
+r1735935756906,3,"^Printing personal documents \(e\.g\. letters, resumes\)$","1","",1,c1735935600082
+r1735935766706,3,"^HP$","1","",1,c1735935600082
+r1735935788927,3,"^6 to 12 months ago$","1","",1,c1735935600082
+r1735935805837,3,"^Amazon$","1","",1,c1735935600082
+r1735935814977,3,"^Online$","1","",1,c1735935600082
+r1735935830228,3,"^I like to have the latest technology$","1","",1,c1735935600082
+r1735935843017,3,"^In about 6-12 months$","1","",1,c1735935600082
+r1735935856173,3,"^Age 8 – 10$","1","",1,c1735935600082
+r1735935863363,3,"^Age 14 – 15$","1","",1,c1735935600082
 r1736,3,"^I am willing to spend more on a bottle of wine to impress others$","1","",1,c90
 r17360,3,"^Private Label$","1","",1,c346
 r17361,3,"^Brand reputation$","1","",1,c346
