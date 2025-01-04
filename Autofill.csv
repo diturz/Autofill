@@ -574,6 +574,8 @@ c1735935295562,"Celebrating you!","",,,,
 c1735935482078,"Enjoy Energy Drinks? We Want to Hear from You!","",,,,
 c1735935537588,"We'd love to learn about the products you purchase often.","",,,,
 c1735935600082,"We want to know about your electronics!","",,,,
+c1735976626092,"We’d love to hear about your shopping habits!","",,,,
+c1735977472227,"Men, we want to hear from you!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -9808,7 +9810,7 @@ r1735934061667,3,"^Sustainable practices$","1","",1,c137
 r1735934081230,3,"^Brand currently is sought-after$","1","",1,c137
 r1735934104817,3,"^25-34$","1","",1,c137
 r1735934109637,3,"^Employed full time$","1","",1,c137
-r1735934144593,3,"^ I handle all of the shopping for soap or skincare products for my household$","1","",1,c1735934134581
+r1735934144593,3,"^I handle all of the shopping for soap or skincare products for my household$","1","",1,c1735934134581
 r1735934358084,3,"^A mix of all the methods listed$","1","",1,c1735934134581
 r1735934372559,3,"^ Pharmacies \(CVS, Walgreens, Duane Reade,Rite Aid, etc\.\)$","1","",1,c1735934134581
 r1735934385905,3,"^Amazon$","1","",1,c1735934134581
@@ -9890,6 +9892,30 @@ r1735935830228,3,"^I like to have the latest technology$","1","",1,c173593560008
 r1735935843017,3,"^In about 6-12 months$","1","",1,c1735935600082
 r1735935856173,3,"^Age 8 – 10$","1","",1,c1735935600082
 r1735935863363,3,"^Age 14 – 15$","1","",1,c1735935600082
+r1735976636727,3,"^Walmart$","1","",1,c1735976626092
+r1735976644612,3,"^Wholesale retailer \(e\.g\., Costco, Sam’s Club, etc\.\)$","1","",1,c1735976626092
+r1735976696648,3,"^Myself$","1","",1,c1735976626092
+r1735976772129,3,"^1 to 2 years$","1","",1,c1735976626092
+r1735976846259,3,"^Someone with an active lifestyle$","1","",1,c1735976626092
+r1735976887034,3,"^\$80 or more$","1","",1,c1735976626092
+r1735976951383,3,"^Multivitamins or wellness supplements$","1","",1,c1735976626092
+r1735976955751,3,"^Protein powders or shakes$","1","",1,c1735976626092
+r1735976959860,3,"^Energy drinks$","1","",1,c1735976626092
+r1735976964197,3,"^Hydration products \(e\.g\., electrolyte beverages\)$","1","",1,c1735976626092
+r1735977327256,3,"^Individuality$","1","",1,c1735930173723
+r1735977338508,3,"^Gardening$","1","",1,c1735930173723
+r1735977479801,3,"^Sometimes$","1","",1,c1735977472227
+r1735977539953,3,"^Difficulty getting hard when I want to$","1","",1,c1735977472227
+r1735977564066,3,"^Prescription medication to help with SLEEP$","1","",1,c1735977472227
+r1735977569618,3,"^Prescription medication to improve your SEXUAL PERFORMANCE \(i\.e\., lasting longer in bed, getting a firmer erection\)$","1","",1,c1735977472227
+r1735977599817,3,"^Mow the lawn$","1","",1,c19
+r1735977643092,3,"^Grass seed$","1","",1,c19
+r1735977666511,3,"^2-3 years ago$","1","",1,c19
+r1735977684037,3,"^The circle in the middle of the dots on the left of the screen$","1","",1,c19
+r1735978086177,3,"^Twitch$","1","",1,c1731055807817
+r1735978089908,3,"^YouTube$","1","",1,c1731055807817
+r1735978104195,3,"^Streaming services \(i\.e\., Hulu, Amazon Prime, NFL\+\)$","1","",1,c1731055807817
+r1735978107899,3,"^Online \(i\.e\., YouTube, Twitch, X/Twitter\)$","1","",1,c1731055807817
 r1736,3,"^I am willing to spend more on a bottle of wine to impress others$","1","",1,c90
 r17360,3,"^Private Label$","1","",1,c346
 r17361,3,"^Brand reputation$","1","",1,c346
