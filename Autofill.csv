@@ -576,6 +576,10 @@ c1735935537588,"We'd love to learn about the products you purchase often.","",,,
 c1735935600082,"We want to know about your electronics!","",,,,
 c1735976626092,"We’d love to hear about your shopping habits!","",,,,
 c1735977472227,"Men, we want to hear from you!","",,,,
+c1736061715950,"Tell us about your memberships/subscriptions!","",,,,
+c1736063486329,"Tell us about your grocery shopping!","",,,,
+c1736064113662,"Tell us about your frozen food experiences!","",,,,
+c1736068461961,"Let's talk about groceries!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -9918,6 +9922,123 @@ r1735978104195,3,"^Streaming services \(i\.e\., Hulu, Amazon Prime, NFL\+\)$","1
 r1735978107899,3,"^Online \(i\.e\., YouTube, Twitch, X/Twitter\)$","1","",1,c1731055807817
 r1736,3,"^I am willing to spend more on a bottle of wine to impress others$","1","",1,c90
 r17360,3,"^Private Label$","1","",1,c346
+r1736060553002,3,"^Tablet$","1","",1,c494
+r1736060561720,3,"^Laptop computer$","1","",1,c494
+r1736060565305,3,"^Smartphone$","1","",1,c494
+r1736060570071,3,"^Desktop computer$","1","",1,c494
+r1736060574600,3,"^Smartwatch$","1","",1,c494
+r1736061723114,3,"^Door Dash – Dash Pass$","1","",1,c1736061715950
+r1736061729344,3,"^Uber One \(formerly known as Eats Pass\)$","1","",1,c1736061715950
+r1736061734003,3,"^Target Circle$","1","",1,c1736061715950
+r1736061738717,3,"^Amazon Prime$","1","",1,c1736061715950
+r1736061747938,3,"^Instacart\+$","1","",1,c1736061715950
+r1736061752445,3,"^Costco$","1","",1,c1736061715950
+r1736061757774,3,"^Walmart\+$","1","",1,c1736061715950
+r1736061763358,3,"^Target Circle 360$","1","",1,c1736061715950
+r1736061768071,3,"^Sam’s Club$","1","",1,c1736061715950
+r1736061814968,3,"^Amazon$","1","",1,c1736061715950
+r1736061820324,3,"^Walmart \(includes Walmart Supercenter and Walmart Neighborhood Market\)$","1","",1,c1736061715950
+r1736061827449,3,"^Electronics store \(e\.g\., Best Buy, HHGregg, etc\.\)$","1","",1,c1736061715950
+r1736061832457,3,"^Target \(includes Super Target\)$","1","",1,c1736061715950
+r1736061837014,3,"^Convenience store, bodega, or gas station$","1","",1,c1736061715950
+r1736062038676,3,"^Walmart App$","1","",1,c1736061715950
+r1736062045124,3,"^In-store$","1","",1,c1736061715950
+r1736062051724,3,"^Delivery from store$","1","",1,c1736061715950
+r1736062056031,3,"^Pick-up$","1","",1,c1736061715950
+r1736062061957,3,"^Online \(website\)$","1","",1,c1736061715950
+r1736062075133,3,"^More than once a week$","1","",1,c1736061715950
+r1736062091821,3,"^Monthly paid membership$","1","",1,c1736061715950
+r1736062137311,3,"^A monthly or annual paid Walmart membership service that gives you access to money and time saving benefits like free delivery, fuel discounts, & more$","1","",1,c1736061715950
+r1736062153439,3,"^Apple smartphone \(iPhone\)$","1","",1,c41
+r1736062160223,3,"^Fitness tracker \(e\.g\., wrist band, clip-on, ring\)$","1","",1,c41
+r1736062165470,3,"^Smartwatch \(e\.g\. Apple Watch, Google Pixel Watch, Samsung Galaxy Watch\)$","1","",1,c41
+r1736062327037,3,"^Wireless earbuds$","1","",1,c41
+r1736062339015,3,"^Bicycle$","1","",1,c41
+r1736062408016,3,"^Casual riding$","1","",1,c41
+r1736062421653,3,"^A few times per week$","1","",1,c41
+r1736062433305,3,"^Helmet$","1","",1,c41
+r1736062522457,3,"^Gas$","1","",1,c20
+r1736063330689,3,"^30-39$","1","",1,c1735977472227
+r1736063347864,3,"^Anxiety$","1","",1,c1735977472227
+r1736063489929,3,"^I am the person responsible for grocery shopping in my household$","1","",1,c1736063486329
+r1736063500072,3,"^Spouse/partner$","1","",1,c1736063486329
+r1736063503875,3,"^Child\(ren\) 9-12$","1","",1,c1736063486329
+r1736063508967,3,"^Child\(ren\) 13-17$","1","",1,c1736063486329
+r1736063538461,3,"^Urban$","1","",1,c1736063486329
+r1736063555332,3,"^Club store \(e\.g\., Costco, BJ’s, Sam’s Club\)$","1","",1,c1736063486329
+r1736063559156,3,"^Online only retailer \(e\.g\., Amazon\)$","1","",1,c1736063486329
+r1736063570428,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c1736063486329
+r1736063782251,3,"^Microwavable Rice \(e\.g\. pouches, cups, etc\.\)$","1","",1,c1736063486329
+r1736063786338,3,"^Refrigerated Pasta$","1","",1,c1736063486329
+r1736063790396,3,"^Refrigerated Sides \(e\.g\. mashed potatoes, mac & cheese, etc\.\)$","1","",1,c1736063486329
+r1736063794804,3,"^Frozen Entrées/Meals \(e\.g\. mac & cheese, lasagna, beef & broccoli rice bowl, etc\.\)$","1","",1,c1736063486329
+r1736063798679,3,"^Frozen Vegetables$","1","",1,c1736063486329
+r1736063802443,3,"^Refrigerated Fully Cooked Meat With Sauce \(e\.g\. BBQ pulled pork, teriyaki chicken, etc\.\)$","1","",1,c1736063486329
+r1736063806499,3,"^Canned Pasta$","1","",1,c1736063486329
+r1736063811622,3,"^Frozen Handheld Snacks/Meals \(e\.g\. burritos, pockets, sandwiches, etc\.\)$","1","",1,c1736063486329
+r1736063815129,3,"^Frozen Pizza$","1","",1,c1736063486329
+r1736063820215,3,"^Cooking Sauces \(e\.g\. teriyaki, tikka masala, etc\.\)$","1","",1,c1736063486329
+r1736063832464,3,"^Variety packs$","1","",1,c1736063486329
+r1736063837643,3,"^Multipacks$","1","",1,c1736063486329
+r1736063846147,3,"^Singles$","1","",1,c1736063486329
+r1736063873320,3,"^Walmart$","1","",1,c1736063486329
+r1736063877697,3,"^Kroger \(e\.g\., Kroger, King Soopers, Smith’s, Ralphs, Dillons, etc\.\)$","1","",1,c1736063486329
+r1736063882240,3,"^Whole Foods$","1","",1,c1736063486329
+r1736063886686,3,"^Target$","1","",1,c1736063486329
+r1736063922362,3,"^El Monterey$","1","",1,c1736063486329
+r1736063983521,3,"^Has attractive packaging$","1","",1,c1736063486329
+r1736063989777,3,"^Offers healthier options$","1","",1,c1736063486329
+r1736063995569,3,"^Is innovative$","1","",1,c1736063486329
+r1736064010481,3,"^Once a week$","1","",1,c1736063486329
+r1736064065841,3,"^2$","1","",1,c1736063486329
+r1736064076560,3,"^I want a variety$","1","",1,c1736063486329
+r1736064086634,3,"^Immediate need \(to be used that day\)$","1","",1,c1736063486329
+r1736064119861,3,"^I usually plan to purchase this product ahead of time$","1","",1,c1736064113662
+r1736064131335,3,"^The brand I want to purchase$","1","",1,c1736064113662
+r1736064164291,3,"^Yes – planned to consume it as soon as I got home$","1","",1,c1736064113662
+r1736064181887,3,"^I search online reviews before hand$","1","",1,c1736064113662
+r1736064224424,3,"^Spouse/ Partner$","1","",1,c1736064113662
+r1736064228624,3,"^Myself$","1","",1,c1736064113662
+r1736064233551,3,"^Child\(ren\) 13-17$","1","",1,c1736064113662
+r1736064238137,3,"^Child\(ren\) 9-12$","1","",1,c1736064113662
+r1736064254862,3,"^Lunch$","1","",1,c1736064113662
+r1736064258297,3,"^Breakfast$","1","",1,c1736064113662
+r1736064263275,3,"^Dinner$","1","",1,c1736064113662
+r1736064308161,3,"^At home$","1","",1,c1736064113662
+r1736064390089,3,"^Organic$","1","",1,c1736064113662
+r1736064403392,3,"^The brand I wanted was not available$","1","",1,c1736064113662
+r1736064413136,3,"^Go to a different store$","1","",1,c1736064113662
+r1736064477720,3,"^Salad$","1","",1,c1736064113662
+r1736064482168,3,"^Vegetables$","1","",1,c1736064113662
+r1736064517541,3,"^In addition to other brands I currently buy in this category$","1","",1,c1736064113662
+r1736064544027,3,"^Yes, I occasionally purchase Ben's Original products\.$","1","",1,c1736064113662
+r1736064727325,3,"^5%$","1","",1,c153
+r1736068015925,3,"^Hired a professional service$","1","",1,c19
+r1736068350689,3,"^Fiber supplements$","1","",1,c1735029501036
+r1736068394007,3,"^Amazon\.com$","1","",1,c1735029501036
+r1736068466469,3,"^Online \(ex: Amazon\.com\)$","1","",1,c1736068461961
+r1736068470719,3,"^Gas/Convenience stores \(ex: 7-Eleven, Quick Check\)$","1","",1,c1736068461961
+r1736068474313,3,"^Specialty/health food store \(ex: Whole Foods, Trader Joe’s\)$","1","",1,c1736068461961
+r1736068478184,3,"^Grocery Stores \(ex: Meijer, Kroger, Publix, Albertsons\)$","1","",1,c1736068461961
+r1736068482110,3,"^Warehouse/club stores \(ex: Costco, Sam’s Club, BJ’s\)$","1","",1,c1736068461961
+r1736068486462,3,"^Mass merchandise/discount department store \(ex: Walmart, Target, Kmart\)$","1","",1,c1736068461961
+r1736068495587,3,"^Costco$","1","",1,c1736068461961
+r1736068499509,3,"^Sam’s Club$","1","",1,c1736068461961
+r1736068511252,3,"^Frozen pizza or pizza kits$","1","",1,c1736068461961
+r1736068515267,3,"^Pre-packaged salads or salad kits$","1","",1,c1736068461961
+r1736068519810,3,"^Instant Asian noodles or ramen$","1","",1,c1736068461961
+r1736068523308,3,"^Frozen meals or snacks$","1","",1,c1736068461961
+r1736068526619,3,"^Pre-packaged side dishes$","1","",1,c1736068461961
+r1736068530043,3,"^Single-serve yogurt cups$","1","",1,c1736068461961
+r1736068540781,3,"^Once a week or more$","1","",1,c1736068461961
+r1736068559998,3,"^Instant Asian noodles or ramen sold in a PACKET or BAG$","1","",1,c1736068461961
+r1736068566395,3,"^Instant Asian noodles or ramen sold in a BOWL$","1","",1,c1736068461961
+r1736068579737,3,"^Maruchan$","1","",1,c1736068461961
+r1736068596969,3,"^Maruchan Ramen Bowl$","1","",1,c1736068461961
+r1736068607285,3,"^Shrimp$","1","",1,c1736068461961
+r1736068610165,3,"^Chicken$","1","",1,c1736068461961
+r1736068624537,3,"^I’m willing to spend more for instant ramen that is higher quality$","1","",1,c1736068461961
+r1736068637037,3,"^The instant soups and instant meals section$","1","",1,c1736068461961
 r17361,3,"^Brand reputation$","1","",1,c346
 r17362,3,"^Better quality$","1","",1,c346
 r17363,3,"^Left$","1","",1,c346
