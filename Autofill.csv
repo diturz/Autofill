@@ -580,6 +580,15 @@ c1736061715950,"Tell us about your memberships/subscriptions!","",,,,
 c1736063486329,"Tell us about your grocery shopping!","",,,,
 c1736064113662,"Tell us about your frozen food experiences!","",,,,
 c1736068461961,"Let's talk about groceries!","",,,,
+c1736286431057,"Technology Usage Survey Winter 24","",,,,
+c1736286881938,"Share Your Thoughts!","",,,,
+c1736287915051,"Let’s talk about snacking!","",,,,
+c1736289192304,"Product Names Survey!","",,,,
+c1736289322371,"Let's talk about shopping!","",,,,
+c1736289934667,"Purchase behavior past year","",,,,
+c1736290026433,"Tell us about how you spend your time.","",,,,
+c1736290148103,"Why do you buy?","",,,,
+c1736290988924,"Please give us your opinion on several supplement labels.","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -10041,6 +10050,234 @@ r1736068624537,3,"^I’m willing to spend more for instant ramen that is higher 
 r1736068637037,3,"^The instant soups and instant meals section$","1","",1,c1736068461961
 r17361,3,"^Brand reputation$","1","",1,c346
 r17362,3,"^Better quality$","1","",1,c346
+r1736286486452,3,"^House$","1","",1,c1736286431057
+r1736286579560,3,"^Firefox$","1","",1,c1736286431057
+r1736286584990,3,"^Google$","1","",1,c1736286431057
+r1736286596691,3,"^iPhone$","1","",1,c1736286431057
+r1736286612979,3,"^Safari$","1","",1,c1736286431057
+r1736286625573,3,"^Windows laptop, or desktop$","1","",1,c1736286431057
+r1736286637962,3,"^MacBook, iMac, or Mac Pro$","1","",1,c1736286431057
+r1736286655744,3,"^Firefox$","1","",1,c1736286431057
+r1736286658294,3,"^Chrome$","1","",1,c1736286431057
+r1736286669223,3,"^Safari$","1","",1,c1736286431057
+r1736286681679,3,"^Google$","1","",1,c1736286431057
+r1736286700781,3,"^ChatGPT$","1","",1,c1736286431057
+r1736286727493,3,"^Avast Online Security$","1","",1,c1736286431057
+r1736286744767,3,"^Home security system$","1","",1,c1736286431057
+r1736286750152,3,"^Security suites / antivirus$","1","",1,c1736286431057
+r1736286775346,3,"^Google$","1","",1,c1736286431057
+r1736286786809,3,"^I have never used DuckDuckGo$","1","",1,c1736286431057
+r1736286802179,3,"^Very concerned$","1","",1,c1736286431057
+r1736286826797,3,"^Strongly agree$","1","",1,c1736286431057
+r1736286841615,3,"^Strongly agree$","1","",1,c1736286431057
+r1736286859423,3,"^I do not know anyone affected by identity theft, but am concerned about the impact\.$","1","",1,c1736286431057
+r1736286906877,3,"^I have heard of Checkers Rally’s Famous Fries but haven’t purchased$","1","",1,c1736286881938
+r1736286929339,3,"^High-quality ingredients$","1","",1,c1736286881938
+r1736286939493,3,"^Affordable$","1","",1,c1736286881938
+r1736287008590,3,"^A recipe booklet included with the product$","1","",1,c1736286881938
+r1736287014618,3,"^A limited-time introductory price$","1","",1,c1736286881938
+r1736287026670,3,"^ As a seasoning for other foods \(e\.g\., vegetables, chicken\)$","1","",1,c1736286881938
+r1736287032288,3,"^As a dip mix or marinade$","1","",1,c1736286881938
+r1736287037392,3,"^On frozen fries after cooking$","1","",1,c1736286881938
+r1736287100738,3,"^I prefer to use pre-made fry seasoning blends$","1","",1,c1736286881938
+r1736287125461,3,"^I have heard of Omaha Steaks but haven’t purchased$","1","",1,c1736286881938
+r1736287142002,3,"^High-quality and premium$","1","",1,c1736286881938
+r1736287152105,3,"^A trusted and reliable brand$","1","",1,c1736286881938
+r1736287234707,3,"^A bundle deal with other Omaha Steaks products$","1","",1,c1736286881938
+r1736287241402,3,"^A discount on your first purchase$","1","",1,c1736286881938
+r1736287252336,3,"^Access to an exclusive recipe collection featuring Omaha Steak Seasoning$","1","",1,c1736286881938
+r1736287287436,3,"^Jelly Beans$","1","",1,c58
+r1736287295899,3,"^Lollipops/Suckers$","1","",1,c58
+r1736287309906,3,"^Chewy Candy$","1","",1,c58
+r1736287317155,3,"^Mints$","1","",1,c58
+r1736287341524,3,"^ Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c58
+r1736287349809,3,"^Dollar Store \(e\.g\. Dollar General, Dollar Tree\)$","1","",1,c58
+r1736287364298,3,"^Brand$","1","",1,c58
+r1736287372589,3,"^Package Size$","1","",1,c58
+r1736287383175,3,"^Flavor \(e\.g\., berry, mint, etc\.\)$","1","",1,c58
+r1736287392679,3,"^Price$","1","",1,c58
+r1736287405716,3,"^Type \(e\.g\., hard candy, gummy candy, etc\.\)$","1","",1,c58
+r1736287434802,3,"^A few times per week$","1","",1,c58
+r1736287446455,3,"^Myself$","1","",1,c58
+r1736287455293,3,"^My partner$","1","",1,c58
+r1736287460028,3,"^My children$","1","",1,c58
+r1736287472519,3,"^A few times per week$","1","",1,c58
+r1736287486268,3,"^As a special treat for myself$","1","",1,c58
+r1736287490977,3,"^As an everyday snack$","1","",1,c58
+r1736287502525,3,"^While on-the-go$","1","",1,c58
+r1736287510678,3,"^As part of a celebration or gathering$","1","",1,c58
+r1736287518336,3,"^To share with others \(e\.g\., family, friends, colleagues\)$","1","",1,c58
+r1736287526477,3,"^During "me time"$","1","",1,c58
+r1736287537728,3,"^While watching TV/movies$","1","",1,c58
+r1736287549107,3,"^To treat myself$","1","",1,c58
+r1736287555364,3,"^To satisfy a craving$","1","",1,c58
+r1736287579725,3,"^As a morning snack$","1","",1,c58
+r1736287583024,3,"^With lunch$","1","",1,c58
+r1736287587672,3,"^As an afternoon snack$","1","",1,c58
+r1736287603768,3,"^A mix of planned and impulse buys$","1","",1,c58
+r1736287616128,3,"^Was at a prominent display in the store$","1","",1,c58
+r1736287622069,3,"^Recommended by family or friend$","1","",1,c58
+r1736287638260,3,"^Very important$","1","",1,c58
+r1736287688053,3,"^Very important$","1","",1,c58
+r1736287739162,3,"^Too many options$","1","",1,c58
+r1736287752260,3,"^Purchase a different brand$","1","",1,c58
+r1736287763708,3,"^Quality$","1","",1,c58
+r1736287770662,3,"^Price$","1","",1,c58
+r1736287779663,3,"^Brand reputation$","1","",1,c58
+r1736287789532,3,"^Skittles$","1","",1,c58
+r1736287796883,3,"^Nerds$","1","",1,c58
+r1736287802759,3,"^Trolli$","1","",1,c58
+r1736287886126,3,"^Is a well known brand$","1","",1,c58
+r1736287971576,3,"^Pistachios$","1","",1,c1736287915051
+r1736287976860,3,"^Peanuts$","1","",1,c1736287915051
+r1736287983678,3,"^Mixed Nuts$","1","",1,c1736287915051
+r1736287990028,3,"^Almonds$","1","",1,c1736287915051
+r1736287998423,3,"^Nuts and Chocolate$","1","",1,c1736287915051
+r1736288011424,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c1736287915051
+r1736288023526,3,"^Brand$","1","",1,c1736287915051
+r1736288031405,3,"^Price$","1","",1,c1736287915051
+r1736288042291,3,"^Flavor \(e\.g\., BBQ, honey, sweet\)$","1","",1,c1736287915051
+r1736288054376,3,"^Type \(e\.g\., almonds, cashews, snack mix\)$","1","",1,c1736287915051
+r1736288064947,3,"^Package Size$","1","",1,c1736287915051
+r1736288084296,3,"^A few times per week$","1","",1,c1736287915051
+r1736288093841,3,"^Myself$","1","",1,c1736287915051
+r1736288099956,3,"^My partner$","1","",1,c1736287915051
+r1736288106949,3,"^My children$","1","",1,c1736287915051
+r1736288319369,3,"^Cooking/Baking$","1","",1,c1736287915051
+r1736288336271,3,"^As a special treat for myself$","1","",1,c1736287915051
+r1736288360895,3,"^While on-the-go$","1","",1,c1736287915051
+r1736288367896,3,"^While working or studying$","1","",1,c1736287915051
+r1736288374445,3,"^While watching TV/movies$","1","",1,c1736287915051
+r1736288386892,3,"^As part of a celebration or gathering$","1","",1,c1736287915051
+r1736288398771,3,"^To treat myself$","1","",1,c1736287915051
+r1736288412458,3,"^To satisfy a craving$","1","",1,c1736287915051
+r1736288427378,3,"^As an afternoon snack$","1","",1,c1736287915051
+r1736288436080,3,"^At breakfast$","1","",1,c1736287915051
+r1736288447138,3,"^As a late-night snack$","1","",1,c1736287915051
+r1736288475843,3,"^A mix of planned and impulse buys$","1","",1,c1736287915051
+r1736288495479,3,"^Recommended by family or friend$","1","",1,c1736287915051
+r1736288533253,3,"^Noticed it while shopping$","1","",1,c1736287915051
+r1736288540592,3,"^Had the opportunity to try before buying \(e\.g\. in-store demo, sampling event, from a friend, etc\)$","1","",1,c1736287915051
+r1736288580727,3,"^Very important$","1","",1,c1736287915051
+r1736288681830,3,"^The size I wanted was not available$","1","",1,c1736287915051
+r1736288706651,3,"^Purchase a different flavor/recipe$","1","",1,c1736287915051
+r1736288721152,3,"^Quality$","1","",1,c1736287915051
+r1736288725894,3,"^Brand reputation$","1","",1,c1736287915051
+r1736288737897,3,"^Kirkland$","1","",1,c1736287915051
+r1736288803481,3,"^Is made with natural ingredients$","1","",1,c1736287915051
+r1736288811237,3,"^Is innovative$","1","",1,c1736287915051
+r1736288832392,3,"^Has attractive packaging$","1","",1,c1736287915051
+r1736289118050,3,"^Remain about the same as in 2024$","1","",1,c1735933129611
+r1736289129590,3,"^About the same as in 2024$","1","",1,c1735933129611
+r1736289202188,3,"^Exploring fashion and trends$","1","",1,c1736289192304
+r1736289207254,3,"^Travelling to new places$","1","",1,c1736289192304
+r1736289216462,3,"^Enjoying music$","1","",1,c1736289192304
+r1736289223663,3,"^Luxury shopping$","1","",1,c1736289192304
+r1736289228725,3,"^Focusing on nutrition and wellness$","1","",1,c1736289192304
+r1736289239366,3,"^Fitness and exercise$","1","",1,c1736289192304
+r1736289252252,3,"^Hair care \(shampoos, conditioners, etc\.\)$","1","",1,c1736289192304
+r1736289258128,3,"^Home cleaning \(all purpose cleaners, sanitizers, etc\.\)$","1","",1,c1736289192304
+r1736289262688,3,"^Air care \(candles, room sprays\)$","1","",1,c1736289192304
+r1736289268871,3,"^Fine fragrance \(perfume, EdT\)$","1","",1,c1736289192304
+r1736289275115,3,"^Scented laundry \(detergents, scent boosters, etc\.\)$","1","",1,c1736289192304
+r1736289286701,3,"^Tide$","1","",1,c1736289192304
+r1736289294908,3,"^Bath & Body Works$","1","",1,c1736289192304
+r1736289365564,3,"^Once a month$","1","",1,c1736289322371
+r1736289381908,3,"^Children’s clothing$","1","",1,c1736289322371
+r1736289392015,3,"^Junior’s/teen’s clothing$","1","",1,c1736289322371
+r1736289412406,3,"^Women’s clothing$","1","",1,c1736289322371
+r1736289416026,3,"^Men’s clothing$","1","",1,c1736289322371
+r1736289422846,3,"^Accessories \(e\.g\., bags, hats, jewelry\)$","1","",1,c1736289322371
+r1736289429068,3,"^Sportswear/Activewear$","1","",1,c1736289322371
+r1736289458538,3,"^Swimwear$","1","",1,c1736289322371
+r1736289464261,3,"^Streetwear / casualwear$","1","",1,c1736289322371
+r1736289472486,3,"^Workwear$","1","",1,c1736289322371
+r1736289487363,3,"^\$16-\$20$","1","",1,c1736289322371
+r1736289531830,3,"^New fashion trends$","1","",1,c1736289322371
+r1736289537306,3,"^Kids growing out of clothes$","1","",1,c1736289322371
+r1736289546034,3,"^Special occasion/holiday/event$","1","",1,c1736289322371
+r1736289554918,3,"^Work clothes refresh$","1","",1,c1736289322371
+r1736289565970,3,"^Christmas$","1","",1,c1736289322371
+r1736289574326,3,"^Parties/Events \(e\.g\., birthday, bridal shower, baby shower\)$","1","",1,c1736289322371
+r1736289589926,3,"^I prefer this brand, but I occasionally shop from other brands if they have good deals$","1","",1,c1736289322371
+r1736289605511,3,"^Lululemon$","1","",1,c1736289322371
+r1736289612292,3,"^Zara$","1","",1,c1736289322371
+r1736289616845,3,"^Carter's$","1","",1,c1736289322371
+r1736289622671,3,"^Nike$","1","",1,c1736289322371
+r1736289677147,3,"^A mix of both$","1","",1,c1736289322371
+r1736289690348,3,"^Apparel$","1","",1,c1736289322371
+r1736289697070,3,"^Toys/games$","1","",1,c1736289322371
+r1736289701836,3,"^Footwear$","1","",1,c1736289322371
+r1736289707359,3,"^Accessories$","1","",1,c1736289322371
+r1736289714903,3,"^Tech$","1","",1,c1736289322371
+r1736289726176,3,"^Young Kid 9-14$","1","",1,c1736289322371
+r1736289744073,3,"^I can treat myself with things I like and still have the possibility to save money each month$","1","",1,c1736289322371
+r1736289756455,3,"^Youtube$","1","",1,c1736289322371
+r1736289764211,3,"^Pinterest$","1","",1,c1736289322371
+r1736289769199,3,"^Discord$","1","",1,c1736289322371
+r1736289773277,3,"^TikTok$","1","",1,c1736289322371
+r1736289777755,3,"^Instagram$","1","",1,c1736289322371
+r1736289783167,3,"^ Threads$","1","",1,c1736289322371
+r1736289788840,3,"^Facebook$","1","",1,c1736289322371
+r1736289793446,3,"^Twitch$","1","",1,c1736289322371
+r1736289799423,3,"^LinkedIn$","1","",1,c1736289322371
+r1736289815647,3,"^10 – 12 years old$","1","",1,c1736289322371
+r1736289820513,3,"^13 – 17 years old$","1","",1,c1736289322371
+r1736289837459,3,"^In the city center$","1","",1,c1736289322371
+r1736289849359,3,"^Chicago$","1","",1,c1736289322371
+r1736289913249,3,"^Caterpillar$","1","",1,c1733452003012
+r1736289973394,3,"^10-12 years old$","1","",1,c1736289934667
+r1736289979232,3,"^13-18 years old$","1","",1,c1736289934667
+r1736290037612,3,"^Watching Live Streams and Gaming Content$","1","",1,c1736290026433
+r1736290044834,3,"^Listening to Music and Podcasts$","1","",1,c1736290026433
+r1736290050441,3,"^Social Media Browsing and Engagemen$","1","",1,c1736290026433
+r1736290054988,3,"^Playing Video Games$","1","",1,c1736290026433
+r1736290061444,3,"^Streaming Movies and TV Shows$","1","",1,c1736290026433
+r1736290074179,3,"^Fortnite$","1","",1,c1736290026433
+r1736290083531,3,"^Grand Theft Auto V$","1","",1,c1736290026433
+r1736290085719,3,"^Roblox$","1","",1,c1736290026433
+r1736290091255,3,"^Minecraft$","1","",1,c1736290026433
+r1736290101273,3,"^Several times a week$","1","",1,c1736290026433
+r1736290120884,3,"^Yes, I have a child/children age 8-12$","1","",1,c1736290026433
+r1736290126463,3,"^Yes, I have a child/children age 13-17$","1","",1,c1736290026433
+r1736290162370,3,"^Within the last 6 months$","1","",1,c1736290148103
+r1736290218129,3,"^In-store$","1","",1,c1736290148103
+r1736290233634,3,"^Quality of products$","1","",1,c1736290148103
+r1736290238109,3,"^Positive online reviews$","1","",1,c1736290148103
+r1736290242960,3,"^Good customer service$","1","",1,c1736290148103
+r1736290336573,3,"^Within one month$","1","",1,c1736290148103
+r1736290347232,3,"^Satisfaction with the first purchase$","1","",1,c1736290148103
+r1736290684723,3,"^Yes$","1","",1,c1735935295562
+r1736291002995,3,"^Very appealing$","1","",1,c1736290988924
+r1736291112219,3,"^I usually do all the purchasing$","1","",1,c1735933640837
+r1736291229296,3,"^For children in my household$","1","",1,c1729921702855
+r1736291238862,3,"^My Children$","1","",1,c1729921702855
+r1736291253713,3,"^Boy 13-15$","1","",1,c1729921702855
+r1736291261443,3,"^Girl 10-12$","1","",1,c1729921702855
+r1736291275357,3,"^Action Figures$","1","",1,c1729921702855
+r1736291280670,3,"^Dolls$","1","",1,c1729921702855
+r1736291287424,3,"^Video Games$","1","",1,c1729921702855
+r1736291298193,3,"^Disney\+$","1","",1,c1729921702855
+r1736291303660,3,"^Netflix$","1","",1,c1729921702855
+r1736291309745,3,"^YouTube$","1","",1,c1729921702855
+r1736291331945,3,"^YouTube$","1","",1,c1729921702855
+r1736291339644,3,"^Friend or Family Member$","1","",1,c1729921702855
+r1736291399984,3,"^Walmart\.com$","1","",1,c87
+r1736291405140,3,"^Amazon$","1","",1,c87
+r1736291413094,3,"^Department Store$","1","",1,c87
+r1736291426500,3,"^Instagram$","1","",1,c87
+r1736291432249,3,"^YouTube$","1","",1,c87
+r1736291440748,3,"^Video Games$","1","",1,c87
+r1736291447614,3,"^Toys$","1","",1,c87
+r1736291456853,3,"^Love them$","1","",1,c87
+r1736291465258,3,"^Disney$","1","",1,c87
+r1736291474627,3,"^Pixar$","1","",1,c87
+r1736291488068,3,"^The same as last year$","1","",1,c87
+r1736291560184,3,"^Electronics \(tvs, laptops, phone, etc\.\)$","1","",1,c87
+r1736291634514,3,"^Toys/Games/Collectibles$","1","",1,c87
+r1736291642286,3,"^Gift Cards$","1","",1,c87
+r1736291670187,3,"^Featured a favorite character/show/movie$","1","",1,c87
+r1736291849825,3,"^It was cute$","1","",1,c87
 r17363,3,"^Left$","1","",1,c346
 r17364,3,"^Buy online$","1","",1,c346
 r17365,3,"^The same$","1","",1,c346
