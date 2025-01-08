@@ -589,6 +589,7 @@ c1736289934667,"Purchase behavior past year","",,,,
 c1736290026433,"Tell us about how you spend your time.","",,,,
 c1736290148103,"Why do you buy?","",,,,
 c1736290988924,"Please give us your opinion on several supplement labels.","",,,,
+c1736345955791,"Please Take This Survey!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -10279,6 +10280,17 @@ r1736291642286,3,"^Gift Cards$","1","",1,c87
 r1736291670187,3,"^Featured a favorite character/show/movie$","1","",1,c87
 r1736291849825,3,"^It was cute$","1","",1,c87
 r17363,3,"^Left$","1","",1,c346
+r1736346213570,3,"^\$100,000 - \$149,999$","1","",1,c1736345955791
+r1736346249380,3,"^Evenly Split$","1","",1,c1736345955791
+r1736346264030,3,"^Monthly$","1","",1,c1736345955791
+r1736346397081,3,"^Stayed the Same$","1","",1,c1736345955791
+r1736346418462,3,"^Organized$","1","",1,c1736345955791
+r1736346426891,3,"^High-quality$","1","",1,c1736345955791
+r1736346445554,3,"^Trustworthy$","1","",1,c1736345955791
+r1736346458206,3,"^My behavior hasn’t changed$","1","",1,c1736345955791
+r1736346481058,3,"^Walmart$","1","",1,c1736345955791
+r1736346501123,3,"^Instacart has great service$","1","",1,c1736345955791
+r1736346510858,3,"^Monthly$","1","",1,c1736345955791
 r17364,3,"^Buy online$","1","",1,c346
 r17365,3,"^The same$","1","",1,c346
 r17366,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c346
