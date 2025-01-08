@@ -590,6 +590,12 @@ c1736290026433,"Tell us about how you spend your time.","",,,,
 c1736290148103,"Why do you buy?","",,,,
 c1736290988924,"Please give us your opinion on several supplement labels.","",,,,
 c1736345955791,"Please Take This Survey!","",,,,
+c1736362016025,"From "Meh" to "Yeah!": Your video meeting wishlist","",,,,
+c1736362205946,"Sports Betting Survey","",,,,
+c1736362270728,"All about grocery product assortments!","",,,,
+c1736362872150,"Let's talk about hydration!","",,,,
+c1736363067206,"Beauty and Personal Care Products","",,,,
+c1736363270030,"Planning for Big Financial Expenses","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -9919,9 +9925,6 @@ r1735976964197,3,"^Hydration products \(e\.g\., electrolyte beverages\)$","1",""
 r1735977327256,3,"^Individuality$","1","",1,c1735930173723
 r1735977338508,3,"^Gardening$","1","",1,c1735930173723
 r1735977479801,3,"^Sometimes$","1","",1,c1735977472227
-r1735977539953,3,"^Difficulty getting hard when I want to$","1","",1,c1735977472227
-r1735977564066,3,"^Prescription medication to help with SLEEP$","1","",1,c1735977472227
-r1735977569618,3,"^Prescription medication to improve your SEXUAL PERFORMANCE \(i\.e\., lasting longer in bed, getting a firmer erection\)$","1","",1,c1735977472227
 r1735977599817,3,"^Mow the lawn$","1","",1,c19
 r1735977643092,3,"^Grass seed$","1","",1,c19
 r1735977666511,3,"^2-3 years ago$","1","",1,c19
@@ -10291,6 +10294,46 @@ r1736346458206,3,"^My behavior hasn’t changed$","1","",1,c1736345955791
 r1736346481058,3,"^Walmart$","1","",1,c1736345955791
 r1736346501123,3,"^Instacart has great service$","1","",1,c1736345955791
 r1736346510858,3,"^Monthly$","1","",1,c1736345955791
+r1736362048627,3,"^Note taking & summarization: AI automatically captures key discussion points, decisions, and action items, minimizing manual note-taking\.$","1","",1,c1736362016025
+r1736362077057,3,"^Pre-meeting prep: AI analyzes past meeting transcripts, notes, or emails to identify topics, action items, and relevant docs for better preparation\.$","1","",1,c1736362016025
+r1736362242693,3,"^My betting patterns on the NBA haven't changed this season vs\. last season$","1","",1,c1736362205946
+r1736362278710,3,"^Amazon Fresh$","1","",1,c1736362270728
+r1736362286556,3,"^Costco$","1","",1,c1736362270728
+r1736362296173,3,"^Sam's Club$","1","",1,c1736362270728
+r1736362306772,3,"^Walmart$","1","",1,c1736362270728
+r1736362308773,3,"^Target$","1","",1,c1736362270728
+r1736362314470,3,"^ Whole Foods$","1","",1,c1736362270728
+r1736362358741,3,"^I could take them or leave them$","1","",1,c1736362270728
+r1736362373896,3,"^I browse them but only purchase them sometimes$","1","",1,c1736362270728
+r1736362397890,3,"^Social media influencers$","1","",1,c1736362270728
+r1736362422300,3,"^Somewhat Agree$","1","",1,c1736362270728
+r1736362455328,3,"^Seasonal Novelty Items$","1","",1,c1736362270728
+r1736362496806,3,"^Home Organization$","1","",1,c1736362270728
+r1736362507394,3,"^\$16-\$20$","1","",1,c1736362270728
+r1736362531488,3,"^Personal Accessories \(Wallets, Purses, Jewelry\)$","1","",1,c1736362270728
+r1736362580300,3,"^I’m unsure what ALDI had available$","1","",1,c1736362270728
+r1736362740079,3,"^13-17 years$","1","",1,c1730735172424
+r1736362800053,3,"^Multiple times a week$","1","",1,c1730735172424
+r1736362813983,3,"^I am the primary grocery shopper$","1","",1,c1730735172424
+r1736362832113,3,"^Mott's Fruit Flavored Snacks$","1","",1,c1730735172424
+r1736362839795,3,"^Welch's Fruit Snacks$","1","",1,c1730735172424
+r1736362852444,3,"^\$100,000-\$124,999$","1","",1,c1730735172424
+r1736362901523,3,"^Gatorade$","1","",1,c1736362872150
+r1736362917064,3,"^Liquid IV$","1","",1,c1736362872150
+r1736362978095,3,"^Egg Sandwiches or Wraps$","1","",1,c17
+r1736362983553,3,"^Eggs with Meat Sides$","1","",1,c17
+r1736363002654,3,"^Yes I eat egg breakfasts with ketchup\.$","1","",1,c17
+r1736363025237,3,"^I sometimes eat ketchup with my egg breakfasts\.$","1","",1,c17
+r1736363046200,3,"^Mustard$","1","",1,c17
+r1736363081992,3,"^Ulta$","1","",1,c1736363067206
+r1736363088139,3,"^Sephora$","1","",1,c1736363067206
+r1736363095178,3,"^Victoria's Secret$","1","",1,c1736363067206
+r1736363102357,3,"^Amazon$","1","",1,c1736363067206
+r1736363108791,3,"^Bath & Body Works$","1","",1,c1736363067206
+r1736363276584,3,"^\$2,500-4,999$","1","",1,c1736363270030
+r1736363497431,3,"^6-12 month$","1","",1,c1736363270030
+r1736363502749,3,"^Purchasing an additional property \(vacation home, rental investment, recreation land, etc\.\)$","1","",1,c1736363270030
+r1736363625090,3,"^Website$","1","",1,c1736363270030
 r17364,3,"^Buy online$","1","",1,c346
 r17365,3,"^The same$","1","",1,c346
 r17366,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c346
