@@ -596,6 +596,19 @@ c1736362270728,"All about grocery product assortments!","",,,,
 c1736362872150,"Let's talk about hydration!","",,,,
 c1736363067206,"Beauty and Personal Care Products","",,,,
 c1736363270030,"Planning for Big Financial Expenses","",,,,
+c1736520768062,"Question about your hotel experience","",,,,
+c1736520805142,"New Audio Story - Moriarty: The Great Chaos","",,,,
+c1736521210009,"New Audio Drama: Shoot The Moon","",,,,
+c1736521647764,"2026 World Cup","",,,,
+c1736521737120,"All about promos!","",,,,
+c1736521894774,"Fall Flavored Coffee Beverage Concepts","",,,,
+c1736522047202,"Camp Chair Preference","",,,,
+c1736523829628,"Finance and Banking","",,,,
+c1736524608986,"Tell us what you think of this signage","",,,,
+c1736526123268,"Thinking about what's important when you buy a printer for BUSINESS","",,,,
+c1736526228152,"Winter skincare","",,,,
+c1736526392231,"All About Healthcare Brands","",,,,
+c1736526914924,"What do you like about these sneakers!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -10334,6 +10347,117 @@ r1736363625090,3,"^Website$","1","",1,c1736363270030
 r17364,3,"^Buy online$","1","",1,c346
 r1736406466870,3,"^7-12 years$","1","",1,c1730735172424
 r17365,3,"^The same$","1","",1,c346
+r1736520785182,3,"^Equal mix of business and leisure$","1","",1,c1736520768062
+r1736520850174,3,"^Like$","1","",1,c1736520805142
+r1736521014973,3,"^The more I learned about this series, the more interested I became$","1","",1,c1736520805142
+r1736521029403,3,"^Has no influence on my interest$","1","",1,c1736520805142
+r1736521068315,3,"^Has no influence on my interest$","1","",1,c1736520805142
+r1736521085845,3,"^Somewhat Agree$","1","",1,c1736520805142
+r1736521167600,3,"^Somewhat appealing$","1","",1,c1736520805142
+r1736521185330,3,"^Same$","1","",1,c1736520805142
+r1736521407294,3,"^The more I learned about this series, the more interested I became$","1","",1,c1736521210009
+r1736521417817,3,"^Has no influence on my interest$","1","",1,c1736521210009
+r1736521454249,3,"^Somewhat Agree$","1","",1,c1736521210009
+r1736521523353,3,"^Adults like me 18\+$","1","",1,c1736521210009
+r1736521587187,3,"^Somewhat appealing$","1","",1,c1736521210009
+r1736521604932,3,"^Same$","1","",1,c1736521210009
+r1736521706812,3,"^I plan to watch most of the 2026 World Cup Games$","1","",1,c1736521647764
+r1736521719254,3,"^I have kids aged 3-17 years old$","1","",1,c1736521647764
+r1736521811362,3,"^100 people will win swag and bars, \$5,000 will go to a grand prize pot to be awarded during the Super Bowl \(max \$300,000\)$","1","",1,c1736521737120
+r1736522056499,3,"^Yes$","1","",1,c1736522047202
+r1736522067484,3,"^Coleman$","1","",1,c1736522047202
+r1736522087618,3,"^Comfort Pro Rocker$","1","",1,c1736522047202
+r1736522097463,3,"^Cream$","1","",1,c1736522047202
+r1736522114360,3,"^Likely to purchase$","1","",1,c1736522047202
+r1736522124983,3,"^Yourself$","1","",1,c1736522047202
+r1736522136529,3,"^Modern$","1","",1,c1736522047202
+r1736522141634,3,"^Comfortable$","1","",1,c1736522047202
+r1736522147336,3,"^Soft$","1","",1,c1736522047202
+r1736522210125,3,"^Picnic$","1","",1,c1736522047202
+r1736522224744,3,"^Beach / Lake$","1","",1,c1736522047202
+r1736522234162,3,"^Outdoor Concert / Festival$","1","",1,c1736522047202
+r1736522241487,3,"^Backyard \(Poolside, Fire Pit, Patio\)$","1","",1,c1736522047202
+r1736522259270,3,"^Premium$","1","",1,c1736522047202
+r1736523337064,3,"^I like to go to the movie theater$","1","",1,c122
+r1736523350814,3,"^I like to get outside \(i\.e\. picnic, sit in the park, go for walks, etc\.\)$","1","",1,c122
+r1736523359935,3,"^I like to go shopping$","1","",1,c122
+r1736523427439,3,"^I like to watch TV \(i\.e\. movies, TV shows, etc\.\)$","1","",1,c122
+r1736523488728,3,"^I like to spend time with friends or family$","1","",1,c122
+r1736523496854,3,"^I like to listen to podcasts$","1","",1,c122
+r1736523597642,3,"^A few times a year$","1","",1,c122
+r1736523627194,3,"^I started receiving treatments within the past 2 years$","1","",1,c122
+r1736523652780,3,"^I wanted to look and feel better$","1","",1,c122
+r1736523674099,3,"^Rescue Spa$","1","",1,c122
+r1736523723253,3,"^Milk \+ Honey$","1","",1,c122
+r1736523740153,3,"^Private dermatology practice$","1","",1,c122
+r1736523760250,3,"^Through a family member or friend$","1","",1,c122
+r1736523859943,3,"^Man$","1","",1,c1736523829628
+r1736523871825,3,"^\$100,000 - \$149,999$","1","",1,c1736523829628
+r1736523890998,3,"^Savings account$","1","",1,c1736523829628
+r1736523898703,3,"^Checking account$","1","",1,c1736523829628
+r1736523905562,3,"^401\(k\)$","1","",1,c1736523829628
+r1736523911437,3,"^Debit Card$","1","",1,c1736523829628
+r1736523918742,3,"^Credit Card$","1","",1,c1736523829628
+r1736523928823,3,"^Life insurance$","1","",1,c1736523829628
+r1736523937393,3,"^Cryptocurrency$","1","",1,c1736523829628
+r1736523965667,3,"^Cryptocurrency \(i\.e\. Bitcoin, Dogecoin, etc\.\)$","1","",1,c1736523829628
+r1736523980201,3,"^ Stock / ETF options \(i\.e\. TSLA options, AMZN options, SPY options, etc\.\)$","1","",1,c1736523829628
+r1736524013033,3,"^\$3,000-\$9,999$","1","",1,c1736523829628
+r1736524026428,3,"^I love new technologies and am among the first to experiment with and use them$","1","",1,c1736523829628
+r1736524040137,3,"^Robinhood$","1","",1,c1736523829628
+r1736524056603,3,"^Extremely familiar$","1","",1,c1736523829628
+r1736524073402,3,"^10 - Outstanding quality$","1","",1,c1736523829628
+r1736524086540,3,"^Absolutely$","1","",1,c1736523829628
+r1736524120613,3,"^I regularly purchase/use products or services from the,$","1","",1,c1736523829628
+r1736524139991,3,"^Buy or sell Bitcoin \(BTC\)$","1","",1,c1736523829628
+r1736524141998,3,"^Use Robinhood \(Gold\) Credit Card$","1","",1,c1736523829628
+r1736524149321,3,"^Buy or sell stocks$","1","",1,c1736523829628
+r1736524163525,3,"^Traditional bank$","1","",1,c1736523829628
+r1736524177679,3,"^I’m very open to switching, but not actively looking$","1","",1,c1736523829628
+r1736524188399,3,"^Bank of America$","1","",1,c1736523829628
+r1736524194922,3,"^Wells Fargo$","1","",1,c1736523829628
+r1736524216612,3,"^720-799$","1","",1,c1736523829628
+r1736524257757,3,"^Several times a week$","1","",1,c1731720393051
+r1736524326476,3,"^McDonald's$","1","",1,c1731720393051
+r1736524333305,3,"^KFC$","1","",1,c1731720393051
+r1736524349299,3,"^Wendy's$","1","",1,c1731720393051
+r1736524399458,3,"^White / Caucasian$","1","",1,c461
+r1736524413446,3,"^25–34$","1","",1,c461
+r1736524441986,3,"^Living off-campus independently$","1","",1,c461
+r1736524459634,3,"^United States of America$","1","",1,c461
+r1736524472827,3,"^Speak mostly English with some Spanish$","1","",1,c461
+r1736524495942,3,"^Beyond Third Generation: My family has been in the country I currently live in for multiple generations\.$","1","",1,c461
+r1736524510274,3,"^I am primarily responsible for doing laundry\.$","1","",1,c461
+r1736524522854,3,"^Tide$","1","",1,c461
+r1736524534440,3,"^Walmart$","1","",1,c461
+r1736524538803,3,"^Target$","1","",1,c461
+r1736524614749,3,"^Option 1$","1","",1,c1736524608986
+r1736526071330,3,"^Wine Cocktails \(e\.g\., French 75, Negroni Sbagliato, etc\.\)$","1","",1,c23
+r1736526093663,3,"^Sparkling Wine/Champagne Spritz \(e\.g\., Aperol Spritz, Hugo Spritz, etc\.\)$","1","",1,c23
+r1736526151407,3,"^I use a larger plotter, DesignJet or roll-based printer \(the paper comes on rolls\)$","1","",1,c1736526123268
+r1736526243714,3,"^Dry Skin$","1","",1,c1736526228152
+r1736526275697,3,"^I don't have a clear plan mapped out, but if I had one from an expert provider, I would follow one$","1","",1,c1736526228152
+r1736526330092,3,"^Effectiveness of the results$","1","",1,c1736526228152
+r1736526341297,3,"^Yes$","1","",1,c1736526228152
+r1736526355981,3,"^Overall Skin Health$","1","",1,c1736526228152
+r1736526404145,3,"^I think of this brand as something Millennials might purchase \(28-43 years old\)$","1","",1,c1736526392231
+r1736526486787,3,"^California Olive Ranch$","1","",1,c1733706565230
+r1736526600803,3,"^In addition to$","1","",1,c1733706565230
+r1736526623467,3,"^Weekly$","1","",1,c1733706565230
+r1736526661661,3,"^To finish a dish \(e\.g\. drizzle on top\)$","1","",1,c1733706565230
+r1736526668753,3,"^Cooking \(e\.g\. sauteeing, searing, pan frying, roasting, grilling etc\.\)$","1","",1,c1733706565230
+r1736526925895,3,"^C$","1","",1,c1736526914924
+r1736526930961,3,"^E$","1","",1,c1736526914924
+r1736526945702,3,"^Minimalist \(sleek, simple design\)$","1","",1,c1736526914924
+r1736526950408,3,"^Classic \(timeless, traditional styles\)$","1","",1,c1736526914924
+r1736526962716,3,"^They are affordable$","1","",1,c1736526914924
+r1736526971620,3,"^They are versatile for various activities \(e\.g\., walking, going out\)$","1","",1,c1736526914924
+r1736526977099,3,"^They are stylish and trendy$","1","",1,c1736526914924
+r1736527003889,3,"^Versatility$","1","",1,c1736526914924
+r1736527008396,3,"^Looks premium$","1","",1,c1736526914924
+r1736527015693,3,"^Comfort$","1","",1,c1736526914924
+r1736527100050,3,"^Walking$","1","",1,c1736526914924
+r1736527107782,3,"^Everyday life/ casual wear$","1","",1,c1736526914924
 r17366,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c346
 r17367,0,"input\[_ngcontent-ljo-c77\]","400","",1,c346
 r17368,3,"^I don’t pay attention to price when making my purchases$","1","",1,c346
