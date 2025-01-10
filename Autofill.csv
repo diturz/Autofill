@@ -609,6 +609,13 @@ c1736526123268,"Thinking about what's important when you buy a printer for BUSIN
 c1736526228152,"Winter skincare","",,,,
 c1736526392231,"All About Healthcare Brands","",,,,
 c1736526914924,"What do you like about these sneakers!","",,,,
+c1736530143619,"Thanks for taking this short survey!","",,,,
+c1736533948096,"We want to hear from you about eating out!","",,,,
+c1736534257844,"Pet food shopping!","",,,,
+c1736534618210,"Tell us about your Dropbox usage","",,,,
+c1736534856157,"Learning about your habits!","",,,,
+c1736535408100,"Pet Food purchasing habits","",,,,
+c1736536010483,"Sports you enjoy watching","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -10458,6 +10465,112 @@ r1736527008396,3,"^Looks premium$","1","",1,c1736526914924
 r1736527015693,3,"^Comfort$","1","",1,c1736526914924
 r1736527100050,3,"^Walking$","1","",1,c1736526914924
 r1736527107782,3,"^Everyday life/ casual wear$","1","",1,c1736526914924
+r1736530153234,3,"^I am primarily responsible for grocery shopping for my household$","1","",1,c1736530143619
+r1736530168892,3,"^Bread / grains / rice$","1","",1,c1736530143619
+r1736530174655,3,"^Eggs$","1","",1,c1736530143619
+r1736530179998,3,"^Fruit$","1","",1,c1736530143619
+r1736530185979,3,"^Vegetables$","1","",1,c1736530143619
+r1736530193566,3,"^Pasta$","1","",1,c1736530143619
+r1736530198845,3,"^Snacks$","1","",1,c1736530143619
+r1736530206243,3,"^Butter or butter alternatives$","1","",1,c1736530143619
+r1736530210734,3,"^Beverages$","1","",1,c1736530143619
+r1736530216292,3,"^Prepared meals / meal kits$","1","",1,c1736530143619
+r1736530222263,3,"^Spices$","1","",1,c1736530143619
+r1736530228323,3,"^Frozen foods / frozen meals$","1","",1,c1736530143619
+r1736530234535,3,"^Milk or milk alternatives$","1","",1,c1736530143619
+r1736530247245,3,"^Meats$","1","",1,c1736530143619
+r1736530297578,3,"^Spreadable margarine/vegetable spread$","1","",1,c1736530143619
+r1736530304469,3,"^Stick margarine/vegetable spread$","1","",1,c1736530143619
+r1736530325896,3,"^Mass merchandiser \(e\.g\. Target, Walmart\)$","1","",1,c1736530143619
+r1736530330975,3,"^Natural food store \(e\.g\. Whole Foods, Sprouts\)$","1","",1,c1736530143619
+r1736530347879,3,"^Grocery store \(e\.g\. Aldi, Ralphs, Stop & Shop, Publix, Trader Joe’s, etc\.\)$","1","",1,c1736530143619
+r1736530350793,3,"^Club store \(e\.g\. Costco, Sam’s club\)$","1","",1,c1736530143619
+r1736530359372,3,"^Online \(e\.g\. Amazon, Instacart, Shipt\)$","1","",1,c1736530143619
+r1736530369299,3,"^Tillamook$","1","",1,c1736530143619
+r1736530385279,3,"^Very open$","1","",1,c1736530143619
+r1736530396831,3,"^X / Twitter$","1","",1,c1736530143619
+r1736530402153,3,"^TikTok$","1","",1,c1736530143619
+r1736530409149,3,"^Instagram$","1","",1,c1736530143619
+r1736530414490,3,"^Pinterest$","1","",1,c1736530143619
+r1736530420302,3,"^Facebook$","1","",1,c1736530143619
+r1736530426299,3,"^LinkedIn$","1","",1,c1736530143619
+r1736533959796,3,"^Sweet$","1","",1,c1736533948096
+r1736533968103,3,"^Smoky$","1","",1,c1736533948096
+r1736533976398,3,"^Spicy$","1","",1,c1736533948096
+r1736533991399,3,"^A mix of unique and familiar ingredients$","1","",1,c1736533948096
+r1736534237161,3,"^Taste$","1","",1,c1736533948096
+r1736534277519,3,"^Wet dog food$","1","",1,c1736534257844
+r1736534299397,3,"^Chewy$","1","",1,c1736534257844
+r1736534320318,3,"^The website on a computer$","1","",1,c1736534257844
+r1736534343580,3,"^feel more secure entering payment details$","1","",1,c1736534257844
+r1736534345949,3,"^Its easier to navigate than a mobile device$","1","",1,c1736534257844
+r1736534355375,3,"^It's easier to use advanced search or filter tools$","1","",1,c1736534257844
+r1736534390891,3,"^I was only shopping for pet products$","1","",1,c1736534257844
+r1736534455683,3,"^It was a typical/routine pet purchase$","1","",1,c1736534257844
+r1736534463037,3,"^I was stocking up or buying bulk pet products$","1","",1,c1736534257844
+r1736534474791,3,"^I looked at the Brands own sites \(Purina\.com, Greenies\.com, IAMS\.com, etc\.\)$","1","",1,c1736534257844
+r1736534484083,3,"^I compared online prices with in-store prices$","1","",1,c1736534257844
+r1736534627601,3,"^Before 2020$","1","",1,c1736534618210
+r1736534639076,3,"^work$","1","",1,c1736534618210
+r1736534653953,3,"^Currently a paying customer$","1","",1,c1736534618210
+r1736534776307,3,"^High Protein$","1","",1,c41
+r1736534788025,3,"^Omelets$","1","",1,c41
+r1736534794400,3,"^Scrambled Eggs$","1","",1,c41
+r1736534863677,3,"^Watch TV$","1","",1,c1736534856157
+r1736534868750,3,"^Take a class$","1","",1,c1736534856157
+r1736534875168,3,"^Go for a run$","1","",1,c1736534856157
+r1736534882004,3,"^Go shopping$","1","",1,c1736534856157
+r1736534887090,3,"^Eat out at a restaurant$","1","",1,c1736534856157
+r1736534901928,3,"^Laptop or tablet$","1","",1,c1736534856157
+r1736534907357,3,"^Gaming console$","1","",1,c1736534856157
+r1736534912578,3,"^Wireless headphones$","1","",1,c1736534856157
+r1736534918743,3,"^Smartphone$","1","",1,c1736534856157
+r1736534924519,3,"^TV$","1","",1,c1736534856157
+r1736534931515,3,"^Bluetooth speaker$","1","",1,c1736534856157
+r1736534952037,3,"^Both, I have cable/satellite and use streaming platforms$","1","",1,c1736534856157
+r1736535020922,3,"^Movies$","1","",1,c1736534856157
+r1736535028850,3,"^News$","1","",1,c1736534856157
+r1736535034670,3,"^Reality shows$","1","",1,c1736534856157
+r1736535039350,3,"^TV series$","1","",1,c1736534856157
+r1736535049631,3,"^Sports$","1","",1,c1736534856157
+r1736535068004,3,"^Pluto TV$","1","",1,c1736534856157
+r1736535110792,3,"^Chewy Candy$","1","",1,c1736287915051
+r1736535116540,3,"^Caramels$","1","",1,c1736287915051
+r1736535120918,3,"^Mints$","1","",1,c1736287915051
+r1736535127812,3,"^Lollipops/Suckers$","1","",1,c1736287915051
+r1736535133148,3,"^Jelly Beans$","1","",1,c1736287915051
+r1736535173784,3,"^Flavor \(e\.g\., berry, mint, etc\.\)$","1","",1,c1736287915051
+r1736535182858,3,"^Type \(e\.g\., hard candy, gummy candy, etc\.\)$","1","",1,c1736287915051
+r1736535310270,3,"^Haribo$","1","",1,c1736287915051
+r1736535318053,3,"^Trolli$","1","",1,c1736287915051
+r1736535332914,3,"^Nerds$","1","",1,c1736287915051
+r1736535335046,3,"^Life Savers$","1","",1,c1736287915051
+r1736535415492,3,"^Dog$","1","",1,c1736535408100
+r1736535420254,3,"^Cat$","1","",1,c1736535408100
+r1736535439620,3,"^Value-brand kibble \(examples: Purina, Blue Buffalo, Iam’s, etc\)$","1","",1,c1736535408100
+r1736535447505,3,"^Canned wet food$","1","",1,c1736535408100
+r1736535470304,3,"^Fresh/Frozen meals$","1","",1,c1736535408100
+r1736535488259,3,"^Big-box Pet Stores \(PetCo, PetSmart, etc\.\)$","1","",1,c1736535408100
+r1736535506914,3,"^I occasionally purchase products from this brand as part of my pet's daily feeding routine$","1","",1,c1736535408100
+r1736535528837,3,"^I would probably choose Ziwi over Stella & Chewy's$","1","",1,c1736535408100
+r1736535554583,3,"^Probably would purchase$","1","",1,c1736535408100
+r1736535566063,3,"^Probably would purchase Ziwi Peak Steam & Dried$","1","",1,c1736535408100
+r1736535735497,3,"^Makeup \+ Skincare$","1","",1,c111
+r1736535749025,3,"^I am confident in my skin care routine$","1","",1,c111
+r1736535761325,3,"^I like a light fragrance in my cleanser\.$","1","",1,c111
+r1736535774013,3,"^I like a light fragrance in my moisturizer\.$","1","",1,c111
+r1736535788462,3,"^Light Feel$","1","",1,c111
+r1736535805216,3,"^Cleansers designed specifically for the face \(i\.e\. lathering, cream, milk, etc\)$","1","",1,c111
+r1736535843389,3,"^Most of the time I purchase natural facial skin care brands$","1","",1,c111
+r1736536020003,3,"^A National Basketball Association \(NBA\) game$","1","",1,c1736536010483
+r1736536027081,3,"^A National Football League \(NFL\) game$","1","",1,c1736536010483
+r1736536033412,3,"^A Major League Baseball \(MLB\) game$","1","",1,c1736536010483
+r1736536047774,3,"^No full games, just bits and pieces$","1","",1,c1736536010483
+r1736536058937,3,"^Drank alcoholic beverages$","1","",1,c1736536010483
+r1736536067414,3,"^Ordered restaurant food for delivery \(i\.e\. pizza, wings, sandwiches, etc\.\)$","1","",1,c1736536010483
+r1736536073529,3,"^Watched game with friends, family members or loved ones$","1","",1,c1736536010483
+r1736536078173,3,"^Wore a team jersey, facepaint or colors$","1","",1,c1736536010483
+r1736536315279,3,"^Older than 3 years$","1","",1,c20
 r17366,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c346
 r17367,0,"input\[_ngcontent-ljo-c77\]","400","",1,c346
 r17368,3,"^I don’t pay attention to price when making my purchases$","1","",1,c346
