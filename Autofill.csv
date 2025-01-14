@@ -616,6 +616,9 @@ c1736534618210,"Tell us about your Dropbox usage","",,,,
 c1736534856157,"Learning about your habits!","",,,,
 c1736535408100,"Pet Food purchasing habits","",,,,
 c1736536010483,"Sports you enjoy watching","",,,,
+c1736870229671,"We have a couple of questions about your purchases!","",,,,
+c1736870428367,"Tell us all about your toothbrush preferences!","",,,,
+c1736871311503,"Let's talk about the holidays","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -10574,6 +10577,43 @@ r1736536315279,3,"^Older than 3 years$","1","",1,c20
 r17366,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c346
 r17367,0,"input\[_ngcontent-ljo-c77\]","400","",1,c346
 r17368,3,"^I don’t pay attention to price when making my purchases$","1","",1,c346
+r1736868155849,3,"^Online-only retailers/services \(Amazon, Instacart, etc\.\)$","1","",1,c5
+r1736868162865,3,"^Club stores \(Sam’s, Costco, etc\.\)$","1","",1,c5
+r1736868169636,3,"^Large mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c5
+r1736868210228,3,"^Grains \(i\.e\., rice, pasta, bread\)$","1","",1,c5
+r1736868217646,3,"^Refrigerated snacks \(e\.g\., pickles, cheese sticks, protein snack boxes\)$","1","",1,c5
+r1736868224114,3,"^Frozen snacks \(e\.g\., pizza rolls, chicken nuggets\)$","1","",1,c5
+r1736868231680,3,"^Dips \(e\.g\., hummus, salsa, guacamole\)$","1","",1,c5
+r1736868237479,3,"^Meat \(i\.e\., chicken, beef, pork\)$","1","",1,c5
+r1736868243029,3,"^Beverage mixes \(e\.g\., powders, liquid water enhancers\)$","1","",1,c5
+r1736868251796,3,"^Spices/seasonings$","1","",1,c5
+r1736868257475,3,"^Beverages \(e\.g\., bottled water, juice, soda\)$","1","",1,c5
+r1736868269810,3,"^Condiments \(e\.g\., mayonnaise, mustard\)$","1","",1,c5
+r1736868278175,3,"^Produce \(i\.e\., fruits/vegetables/herbs\)$","1","",1,c5
+r1736868298244,3,"^Oils \(e\.g\., olive oil, canola oil\)$","1","",1,c5
+r1736868304740,3,"^Seafood \(i\.e\., fish, shellfish\)$","1","",1,c5
+r1736868311559,3,"^Sauces \(e\.g\., hot sauce, soy sauce\)$","1","",1,c5
+r1736868326275,3,"^Shelf stable snacks \(e\.g\., chips, crackers\)$","1","",1,c5
+r1736870237689,3,"^Single-family home$","1","",1,c1736870229671
+r1736870261277,3,"^Own my home$","1","",1,c1736870229671
+r1736870302681,3,"^Groceries$","1","",1,c1736870229671
+r1736870309955,3,"^Toys or Games$","1","",1,c1736870229671
+r1736870320126,3,"^Disposable Household Goods and Cleaning Supplies$","1","",1,c1736870229671
+r1736870328502,3,"^Interior Home Décor$","1","",1,c1736870229671
+r1736870334432,3,"^School / Office Supplies$","1","",1,c1736870229671
+r1736870342983,3,"^Apparel$","1","",1,c1736870229671
+r1736870372238,3,"^Personal Care Items$","1","",1,c1736870229671
+r1736870447582,3,"^Electric Toothbrush$","1","",1,c1736870428367
+r1736870463208,3,"^Every 2-3 months$","1","",1,c1736870428367
+r1736870476606,3,"^Amazon$","1","",1,c1736870428367
+r1736871325772,3,"^I’m primarily responsible for grocery shopping in my household$","1","",1,c1736871311503
+r1736871358451,3,"^Walmart$","1","",1,c1736871311503
+r1736871544526,3,"^New Year’s$","1","",1,c1736871311503
+r1736871550785,3,"^Halloween$","1","",1,c1736871311503
+r1736871556559,3,"^Christmas$","1","",1,c1736871311503
+r1736871563471,3,"^4th of July/Independence Day$","1","",1,c1736871311503
+r1736871569042,3,"^Memorial Day$","1","",1,c1736871311503
+r1736871576256,3,"^Thanksgiving$","1","",1,c1736871311503
 r17369,3,"^4$","1","",1,c346
 r1737,3,"^I am willing to spend more on a bottle of wine since it is a gift$","1","",1,c90
 r17370,3,"^Green bricks$","1","",1,c347
