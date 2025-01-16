@@ -642,6 +642,9 @@ c1736894653087,"Monthly Food and Beverage questions","",,,,
 c1736894963972,"Let’s talk about travel!","",,,,
 c1736895983354,"All about your homeowner status!","",,,,
 c1736896382797,"Impact of Daily Habits and Purchases","",,,,
+c1736982283588,"Commercial Opinions","",,,,
+c1736984392137,"Romaine Lettuce Survey","",,,,
+c1736985001509,"Questions about some of your habits!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -10893,6 +10896,53 @@ r1736896899485,3,"^Egg Dishes \(i\.e\., Omelets, Frittata, Egg Bake, etc\.\)$","
 r1736896913566,3,"^Yes I eat egg breakfasts with ketchup\.$","1","",1,c1729980882634
 r1736896929003,3,"^I sometimes eat ketchup with my egg breakfasts\.$","1","",1,c1729980882634
 r17369,3,"^4$","1","",1,c346
+r1736982327385,3,"^Vaping can cause lung-related injuries$","1","",1,c1736982283588
+r1736982336765,3,"^Vaping can affect attention, learning, memory and have lifelong health impacts$","1","",1,c1736982283588
+r1736982363188,3,"Vaping can help you quit smoking","^Vaping can help you quit smoking$","",1,c1736982283588
+r1736982380067,3,"^Each vape pod can contain the same amount of nicotine as a pack of cigarettes$","1","",1,c1736982283588
+r1736982400699,3,"^Vaping is safer than smoking cigarettes$","1","",1,c1736982283588
+r1736982433632,3,"^Nicotine can affect kids' brain development$","1","",1,c1736982283588
+r1736982440354,3,"^Vaping can cause seizures due to nicotine overdoses in kids$","1","",1,c1736982283588
+r1736982446500,3,"^Vaping can lead to lifelong nicotine addiction$","1","",1,c1736982283588
+r1736982453543,3,"^Vaping can cause irreversible lung damage$","1","",1,c1736982283588
+r1736983870921,3,"^Very likely$","1","",1,c1736982283588
+r1736984410137,3,"^Yes - 1/week or more$","1","",1,c1736984392137
+r1736984423153,3,"^Salads$","1","",1,c1736984392137
+r1736984429156,3,"^Lettuce Wraps$","1","",1,c1736984392137
+r1736984494743,3,"^Chopped Romaine$","1","",1,c1736984392137
+r1736984826211,3,"^I enjoy shopping for hardware supplies$","1","",1,c1729980882634
+r1736984852471,3,"^I own my home$","1","",1,c1729980882634
+r1736984870108,3,"^I have no immediate plans to move$","1","",1,c1729980882634
+r1736985009692,3,"^Eat out at a restaurant$","1","",1,c1736985001509
+r1736985015758,3,"^Go for a run$","1","",1,c1736985001509
+r1736985020548,3,"^Watch TV$","1","",1,c1736985001509
+r1736985029958,3,"^Take a class$","1","",1,c1736985001509
+r1736985034784,3,"^Go shopping$","1","",1,c1736985001509
+r1736985137963,3,"^Smartphone$","1","",1,c1736985001509
+r1736985146210,3,"^Wireless headphones$","1","",1,c1736985001509
+r1736985156014,3,"^Laptop or tablet$","1","",1,c1736985001509
+r1736985163187,3,"^TV$","1","",1,c1736985001509
+r1736985184251,3,"^Bluetooth speaker$","1","",1,c1736985001509
+r1736985193499,3,"^Gaming console$","1","",1,c1736985001509
+r1736985208080,3,"^Samsung$","1","",1,c1736985001509
+r1736985228115,3,"^My TV has the ability to connect directly to the internet on its own to stream shows$","1","",1,c1736985001509
+r1736985262989,3,"^Both, I have cable/satellite and use streaming platforms$","1","",1,c1736985001509
+r1736985317506,3,"^Talk shows$","1","",1,c1736985001509
+r1736985327903,3,"^Sports$","1","",1,c1736985001509
+r1736985331114,3,"^Movies$","1","",1,c1736985001509
+r1736985343440,3,"^News$","1","",1,c1736985001509
+r1736985368405,3,"^Drama$","1","",1,c1736985001509
+r1736985373519,3,"^Horror$","1","",1,c1736985001509
+r1736985381407,3,"^Fantasy$","1","",1,c1736985001509
+r1736985398947,3,"^Amazon Prime Video$","1","",1,c1736985001509
+r1736985404061,3,"^Netflix$","1","",1,c1736985001509
+r1736985475911,3,"^YouTube \(ad-supported\)$","1","",1,c1736985001509
+r1736985496000,3,"^Pluto TV$","1","",1,c1736985001509
+r1736985541098,3,"^Amazon Prime Video rental/purchase$","1","",1,c1736985001509
+r1736985578418,3,"^Standard: traditional theater experience with regular seating and standard projection$","1","",1,c1736985001509
+r1736985597494,3,"^\$100,000-\$149,999$","1","",1,c1736985001509
+r1736986004534,3,"^Wells Fargo$","1","",1,c1736883716969
+r1736986010834,3,"^Bank of America$","1","",1,c1736883716969
 r1737,3,"^I am willing to spend more on a bottle of wine since it is a gift$","1","",1,c90
 r17370,3,"^Green bricks$","1","",1,c347
 r17371,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c347
