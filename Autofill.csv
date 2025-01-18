@@ -645,6 +645,23 @@ c1736896382797,"Impact of Daily Habits and Purchases","",,,,
 c1736982283588,"Commercial Opinions","",,,,
 c1736984392137,"Romaine Lettuce Survey","",,,,
 c1736985001509,"Questions about some of your habits!","",,,,
+c1737225255758,"How do you stay in the know?","",,,,
+c1737225663899,"Sports you enjoy!","",,,,
+c1737227851069,"Help us learn more about how you shop!","",,,,
+c1737229472575,"Calling all Pasta Sauce buyers!","",,,,
+c1737233117292,"Are you ready for some football and pizza??","",,,,
+c1737234122889,"Fruit Evolution: We Want to Hear Your Opinions!","",,,,
+c1737235220318,"Let's Talk About Grocery Shopping","",,,,
+c1737235308480,"All About Your Household","",,,,
+c1737235573814,"All about your grocery experience!","",,,,
+c1737236332609,"Alcohol Occasions","",,,,
+c1737236996687,"Alcohol Consumption","",,,,
+c1737237147902,"Etsy Survey","",,,,
+c1737237721514,"You and your Pets!","",,,,
+c1737237947401,"Grocery Store Grand Openings","",,,,
+c1737238134749,"For video game fans!","",,,,
+c1737238361351,"Pain & Fever Relief for Your Little One","",,,,
+c1737238816606,"How are you feeling?","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -10760,7 +10777,6 @@ r1736886598902,3,"^Hydralyte$","1","",1,c1736886559330
 r1736886908466,3,"^Home Improvement$","1","",1,c1736870229671
 r1736887138527,3,"^Maintaining skin health$","1","",1,c1736886559330
 r1736887143457,3,"^Sports/Exercise/Fitness-related dehydration$","1","",1,c1736886559330
-r1736887208622,3,"^5 - Agree strongly$","1","",1,c1736886559330
 r1736887337753,3,"^While doing a physical activity/game indoors \(but not at the gym\)$","1","",1,c1736886559330
 r1736887346101,3,"^At the gym$","1","",1,c1736886559330
 r1736887354350,3,"^At home$","1","",1,c1736886559330
@@ -10947,6 +10963,224 @@ r1737,3,"^I am willing to spend more on a bottle of wine since it is a gift$","1
 r17370,3,"^Green bricks$","1","",1,c347
 r17371,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c347
 r17372,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c347
+r1737224142482,3,"^Pre-paid \(i\.e\., paid in advance of my usage for a specified amount of service\)$","1","",1,c384
+r1737225259830,3,"^Finance/Banking$","1","",1,c1737225255758
+r1737225850002,3,"^A National Basketball Association \(NBA\) game$","1","",1,c1737225663899
+r1737225854237,3,"^A college football \(NCAA – any division\) game$","1","",1,c1737225663899
+r1737225858484,3,"^A National Football League \(NFL\) game$","1","",1,c1737225663899
+r1737225861886,3,"^A college basketball \(NCAA – any division\) game$","1","",1,c1737225663899
+r1737225865761,3,"^A Major League Baseball \(MLB\) game$","1","",1,c1737225663899
+r1737225883213,3,"^I’m really into NFL football, follow my team, watch most games, and enjoy chatting about it\. Not glued to every detail but passionate overall\.$","1","",1,c1737225663899
+r1737225914354,3,"^I’m really into college football, follow my team, watch most games, and enjoy chatting about it\. Not glued to every detail but passionate overall\.$","1","",1,c1737225663899
+r1737225924016,3,"^Tried it in the past 30 days$","1","",1,c1737225663899
+r1737227856565,3,"^I am primarily responsible for grocery shopping for my household$","1","",1,c1737227851069
+r1737227946309,3,"^3$","1","",1,c1737227851069
+r1737228023328,3,"^Organic$","1","",1,c1737227851069
+r1737228039107,3,"^I try to buy organic when possible$","1","",1,c1737227851069
+r1737228049586,3,"^Packaged FROZEN fruits$","1","",1,c1737227851069
+r1737228053320,3,"^Fresh fruit \(from the produce section, not packaged\)$","1","",1,c1737227851069
+r1737228059581,3,"^Refrigerated salad dressing$","1","",1,c1737227851069
+r1737228063679,3,"^Packaged salad/greens \(just greens, no additional ingredients\)$","1","",1,c1737227851069
+r1737228067606,3,"^Fresh vegetables \(from the produce section, not packaged\)$","1","",1,c1737227851069
+r1737228071805,3,"^Snack trays \(with either meats, cheese and/or vegetables\)$","1","",1,c1737227851069
+r1737228076009,3,"^Packaged FROZEN vegetables$","1","",1,c1737227851069
+r1737228079383,3,"^Single-serve salad kits \(including greens, toppings & dressing\)$","1","",1,c1737227851069
+r1737228083368,3,"^Packaged FRESH \(not frozen\) fruits$","1","",1,c1737227851069
+r1737228087304,3,"^Packaged FRESH \(not frozen\) vegetables$","1","",1,c1737227851069
+r1737228091531,3,"^Pre-made salads \(e\.g\., a pre-assembled caesar salad or cobb salad\)$","1","",1,c1737227851069
+r1737228095207,3,"^Multi-serve salad kits \(including greens, toppings & dressing\)$","1","",1,c1737227851069
+r1737228107774,3,"^Earthbound Farm$","1","",1,c1737227851069
+r1737228123072,3,"^Convenience stores \(e\.g\., 7-Eleven\)$","1","",1,c1737227851069
+r1737228126177,3,"^CVS$","1","",1,c1737227851069
+r1737228131570,3,"^Target$","1","",1,c1737227851069
+r1737228137549,3,"^Walmart$","1","",1,c1737227851069
+r1737228140922,3,"^Whole Foods$","1","",1,c1737227851069
+r1737228144697,3,"^Kroger \(e\.g\., King Soopers, Smith’s, Ralphs, Dillons, etc\.\)$","1","",1,c1737227851069
+r1737228149173,3,"^Costco$","1","",1,c1737227851069
+r1737228155616,3,"^Sam’s Club$","1","",1,c1737227851069
+r1737228166778,3,"^I would not like to participate$","1","",1,c1737227851069
+r1737228809405,3,"^Yes, I have consumed better for you beverages in the past month$","1","",1,c41
+r1737229492208,3,"^Great Lakes \(Wisconsin, Michigan, Ohio, Indiana, Illinois\)$","1","",1,c1737229472575
+r1737229689717,3,"^Over \$100,000$","1","",1,c1737229472575
+r1737229723827,3,"^Family with children under 18$","1","",1,c1737229472575
+r1737229741525,3,"^Young Millennials \(1990-1996\)$","1","",1,c1737229472575
+r1737229757250,3,"^4$","1","",1,c1737229472575
+r1737229770226,3,"^I buy what I want and don't consider price$","1","",1,c1737229472575
+r1737229964500,3,"^Rao’s$","1","",1,c1737229472575
+r1737229996474,3,"^Good value$","1","",1,c1737229472575
+r1737230000861,3,"^Familiarity$","1","",1,c1737229472575
+r1737230005554,3,"^Great taste$","1","",1,c1737229472575
+r1737230097834,3,"^Amazon$","1","",1,c1737229472575
+r1737230102300,3,"^Sam’s Club$","1","",1,c1737229472575
+r1737230106180,3,"^Walmart$","1","",1,c1737229472575
+r1737230109714,3,"^Whole Foods$","1","",1,c1737229472575
+r1737230113243,3,"^Costco$","1","",1,c1737229472575
+r1737230117878,3,"^Kroger$","1","",1,c1737229472575
+r1737230121550,3,"^Target$","1","",1,c1737229472575
+r1737230138562,3,"^Red \(e\.g\., marinara\)$","1","",1,c1737229472575
+r1737230143846,3,"^Red Cheese \(e\.g\. cheddar\)$","1","",1,c1737229472575
+r1737230149003,3,"^Red Garlic \(e\.g\. roasted garlic\)$","1","",1,c1737229472575
+r1737230162859,3,"^Herbs/spices \(e\.g\., basil, oregano\)$","1","",1,c1737229472575
+r1737230168793,3,"^Cheese \(e\.g\., parmesan, mozzarella\)$","1","",1,c1737229472575
+r1737230222221,3,"^Regular 24 oz$","1","",1,c1737229472575
+r1737230234192,3,"^3 meals$","1","",1,c1737229472575
+r1737230252173,3,"^Availability \(it’s the most common size in my store\)$","1","",1,c1737229472575
+r1737230256280,3,"^Good for meal prepping \(ideal size for cooking in bulk\)$","1","",1,c1737229472575
+r1737230261816,3,"^Portion control \(prevents overusing sauce in a single meal\)$","1","",1,c1737229472575
+r1737230313634,3,"^Dipping sauce$","1","",1,c1737229472575
+r1737230317824,3,"^In baked pasta \(e\.g\., lasagna, manicotti\)$","1","",1,c1737229472575
+r1737230322318,3,"^With cooked protein \(e\.g\., chicken, seafood\)$","1","",1,c1737229472575
+r1737230334581,3,"^I always purchase the same size jar$","1","",1,c1737229472575
+r1737230373516,3,"^I’d like the store to carry smaller sizes$","1","",1,c1737229472575
+r1737230377574,3,"^I’d like the store to carry multipacks$","1","",1,c1737229472575
+r1737230392784,3,"^Ideal for meal prepping or batch cooking$","1","",1,c1737229472575
+r1737230424851,3,"^Marinara Red Sauce$","1","",1,c1737229472575
+r1737230485876,3,"^Perfect for meal prepping with different flavors$","1","",1,c1737229472575
+r1737231051547,3,"^I am responsible for most of the grocery shopping$","1","",1,c23
+r1737231072485,3,"^Apples$","1","",1,c23
+r1737231076893,3,"^Cherries$","1","",1,c23
+r1737231082768,3,"^Citrus fruits \(Oranges, mandarins, tangerines, lemons, etc\.\.\.\)$","1","",1,c23
+r1737231087361,3,"^Strawberries$","1","",1,c23
+r1737233121100,3,"^Unique$","1","",1,c1737233117292
+r1737233125235,3,"^Practical$","1","",1,c1737233117292
+r1737233130246,3,"^Value$","1","",1,c1737233117292
+r1737233146624,3,"^Somewhat positive$","1","",1,c1737233117292
+r1737233164030,3,"^Somewhat Likely$","1","",1,c1737233117292
+r1737234133817,3,"^Yes – both$","1","",1,c1737234122889
+r1737234184157,3,"^Better gut health$","1","",1,c1737234122889
+r1737234188075,3,"^Superior taste$","1","",1,c1737234122889
+r1737234192227,3,"^Enhanced nutrient absorption$","1","",1,c1737234122889
+r1737234201934,3,"^Somewhat important$","1","",1,c1737234122889
+r1737234212305,3,"^More likely$","1","",1,c1737234122889
+r1737234286640,3,"^\$3\.00 more or higher$","1","",1,c1737234122889
+r1737234384788,3,"^Taste differences$","1","",1,c1737234122889
+r1737235225421,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c1737235220318
+r1737235235933,3,"^Amazon \(includes Amazon Fresh and Amazon Prime\)$","1","",1,c1737235220318
+r1737235243434,3,"^Costco$","1","",1,c1737235220318
+r1737235248137,3,"^Kroger \(includes City Market, Dillons, Fred Meyer, Fry’s, Harris Teeter, King Soopers, QFC, Ralphs, Roundy’s/Mariano’s, Smith’s\)$","1","",1,c1737235220318
+r1737235252876,3,"^Sam's Club$","1","",1,c1737235220318
+r1737235256734,3,"^Target$","1","",1,c1737235220318
+r1737235260635,3,"^Walmart$","1","",1,c1737235220318
+r1737235264312,3,"^Whole Foods Market$","1","",1,c1737235220318
+r1737235312686,3,"^I am primarily responsible for grocery shopping for my household$","1","",1,c1737235308480
+r1737235329824,3,"^Surface disinfectant \(e\.g\., wipes, spray\)$","1","",1,c1737235308480
+r1737235332235,3,"^Air freshener/Home fragrance \(e\.g\., plug-in, candle, aerosol spray, automatic diffuser\)$","1","",1,c1737235308480
+r1737235335740,3,"^Carpet cleaner$","1","",1,c1737235308480
+r1737235339514,3,"^Laundry detergent$","1","",1,c1737235308480
+r1737235360988,3,"^I am primarily responsible for purchasing air freshener/home fragrance products$","1","",1,c1737235308480
+r1737235379947,3,"^Fall-themed fragrances \(e\.g\., pumpkin, cinnamon, apple\)$","1","",1,c1737235308480
+r1737235384517,3,"^Holiday-themed fragrances \(e\.g\., pine, peppermint, gingerbread\)$","1","",1,c1737235308480
+r1737235388189,3,"^Non-seasonal fragrances \(e\.g\., lavender, vanilla\)$","1","",1,c1737235308480
+r1737235419428,3,"^Somewhat open$","1","",1,c1737235308480
+r1737235430105,3,"^Walmart$","1","",1,c1737235308480
+r1737235434283,3,"^Target$","1","",1,c1737235308480
+r1737235438799,3,"^Amazon$","1","",1,c1737235308480
+r1737235446064,3,"^Specialty stores \(e\.g\., Bath & Body Works, Yankee Candle\)$","1","",1,c1737235308480
+r1737235450260,3,"^Home improvement stores \(e\.g\., Home Depot, Lowe’s\)$","1","",1,c1737235308480
+r1737235508467,3,"^Vanilla$","1","",1,c1737235308480
+r1737235513857,3,"^Berry \(i\.e\. Red Berry, Cranberry, Black Berry\)$","1","",1,c1737235308480
+r1737235520272,3,"^Fruity \(i\.e\. Apple, Pear\)$","1","",1,c1737235308480
+r1737235537456,3,"^Glade$","1","",1,c1737235308480
+r1737235541942,3,"^Bath & Body Works$","1","",1,c1737235308480
+r1737235577836,3,"^All of it$","1","",1,c1737235573814
+r1737235679412,3,"^Target$","1","",1,c1737235573814
+r1737235683202,3,"^Walmart$","1","",1,c1737235573814
+r1737235688062,3,"^Whole Foods$","1","",1,c1737235573814
+r1737235693181,3,"^Costco$","1","",1,c1737235573814
+r1737235698354,3,"^Kroger chains \(Kroger, Dillons, Food 4 Less, Harris Teeter, Ralph's, Ruler Foods, etc\.\)$","1","",1,c1737235573814
+r1737235702507,3,"^Sam's Club$","1","",1,c1737235573814
+r1737235720401,3,"^31-40 minutes$","1","",1,c1737235573814
+r1737235733370,3,"^The quality has stayed the same$","1","",1,c1737235573814
+r1737236338246,3,"^Non-alcoholic beer$","1","",1,c1737236332609
+r1737236342258,3,"^Cocktails or mixed drinks$","1","",1,c1737236332609
+r1737236346676,3,"^Beer$","1","",1,c1737236332609
+r1737236350084,3,"^Wine$","1","",1,c1737236332609
+r1737236354349,3,"^Liquor \(i\.e\. scotch, whiskey, bourbon, tequila, vodka\)$","1","",1,c1737236332609
+r1737236367499,3,"^Michelob-Ultra$","1","",1,c1737236332609
+r1737236371286,3,"^Heineken$","1","",1,c1737236332609
+r1737236378294,3,"^Bud Light$","1","",1,c1737236332609
+r1737236418931,3,"^No, but I would be interested in purchasing$","1","",1,c1737236332609
+r1737236426989,3,"^Yes$","1","",1,c1737236332609
+r1737237028632,3,"^At the bar$","1","",1,c1737236996687
+r1737237032797,3,"^To relax/wind down$","1","",1,c1737236996687
+r1737237037675,3,"^After a night out$","1","",1,c1737236996687
+r1737237193317,3,"^Great site to shop$","1","",1,c1737237147902
+r1737237202785,3,"^A few times per month$","1","",1,c1737237147902
+r1737237298728,3,"^I don’t have that much interest in the types of unique/homemade products Etsy has$","1","",1,c1737237147902
+r1737237314302,3,"Paper & party supplies","1","",1,c1737237147902
+r1737237318167,3,"^Home & living$","1","",1,c1737237147902
+r1737237335494,3,"^Spending about the same amount on Etsy$","1","",1,c1737237147902
+r1737237355934,3,"^Spend about the same amount on Etsy$","1","",1,c1737237147902
+r1737237364781,3,"^Somewhat satisfied$","1","",1,c1737237147902
+r1737237377410,3,"^Slightly better$","1","",1,c1737237147902
+r1737237387906,3,"^Better product selection$","1","",1,c1737237147902
+r1737237726329,3,"^Cat$","1","",1,c1737237721514
+r1737237731593,3,"^Dog$","1","",1,c1737237721514
+r1737237751386,3,"^Grooming Supplies \(i\.e\. shampoo, brushes, nail clippers\)$","1","",1,c1737237721514
+r1737237767435,3,"^Wet Food$","1","",1,c1737237721514
+r1737237771185,3,"^Dry Food$","1","",1,c1737237721514
+r1737237862785,3,"^Quality$","1","",1,c1735035070115
+r1737238009809,3,"^All of it$","1","",1,c1737237947401
+r1737238025976,3,"^Costco$","1","",1,c1737237947401
+r1737238030998,3,"^Kroger chains \(Kroger, Dillons, Food 4 Less, Harris Teeter, Ralph's, Ruler Foods, etc\.\)$","1","",1,c1737237947401
+r1737238034704,3,"^Sam's Club$","1","",1,c1737237947401
+r1737238039643,3,"^Target$","1","",1,c1737237947401
+r1737238043149,3,"^Walmart$","1","",1,c1737237947401
+r1737238048940,3,"^Whole Foods$","1","",1,c1737237947401
+r1737238062990,3,"^Somewhat interested$","1","",1,c1737237947401
+r1737238083489,3,"^I have not been aware of a grand opening near me$","1","",1,c1737237947401
+r1737238108018,3,"^Instagram$","1","",1,c1737237947401
+r1737238139005,3,"^PlayStation 5$","1","",1,c1737238134749
+r1737238142747,3,"^Xbox Series X or S$","1","",1,c1737238134749
+r1737238159704,3,"^Nintendo Switch$","1","",1,c1737238134749
+r1737238163727,3,"^Gaming PC$","1","",1,c1737238134749
+r1737238171900,3,"^VR headset$","1","",1,c1737238134749
+r1737238175571,3,"^Mobile/Tablet$","1","",1,c1737238134749
+r1737238198486,3,"^NBA2K$","1","",1,c1737238134749
+r1737238204561,3,"^The Legend of Zelda$","1","",1,c1737238134749
+r1737238209942,3,"^Call of Duty$","1","",1,c1737238134749
+r1737238366893,3,"^9 - 11 years old$","1","",1,c1737238361351
+r1737238373957,3,"^12\+ years old$","1","",1,c1737238361351
+r1737238419726,3,"^Aspirin$","1","",1,c1737238361351
+r1737238423369,3,"^Acetaminophen$","1","",1,c1737238361351
+r1737238456125,3,"^Tylenol$","1","",1,c1737238361351
+r1737238486915,3,"^Mass merchandiser/supercenter IN STORE \(e\.g\., Walmart, Target\)$","1","",1,c1737238361351
+r1737238496676,3,"^Drug store \(e\.g\., CVS, Walgreens\)$","1","",1,c1737238361351
+r1737238503013,3,"^Convenience store \(e\.g\., 7-Eleven, Speedway\)$","1","",1,c1737238361351
+r1737238517598,3,"^I know that it works$","1","",1,c1737238361351
+r1737238533884,3,"^Doctor recommended/approved$","1","",1,c1737238361351
+r1737238538089,3,"^Clean formula/ingredients$","1","",1,c1737238361351
+r1737238645151,3,"^When you run out of product$","1","",1,c1737238361351
+r1737238656025,3,"^2 - 3 times a year$","1","",1,c1737238361351
+r1737238824535,3,"^Male$","1","",1,c1737238816606
+r1737238942304,3,"^Single Letter Vitamins \(e\.g\., A, B, C\)$","1","",1,c1737238816606
+r1737238947587,3,"^Prebiotic/Probiotic Supplements \(not including foods/beverages with probiotics\)$","1","",1,c1737238816606
+r1737238952907,3,"^Multivitamin$","1","",1,c1737238816606
+r1737238997736,3,"^Olly$","1","",1,c1737238816606
+r1737239002206,3,"^Garden of Life$","1","",1,c1737238816606
+r1737239011574,3,"^Facebook$","1","",1,c1737238816606
+r1737239014754,3,"^YouTube$","1","",1,c1737238816606
+r1737239018936,3,"^Instagram$","1","",1,c1737238816606
+r1737239022623,3,"^Pinterest$","1","",1,c1737238816606
+r1737239029927,3,"^X \(Twitter\)$","1","",1,c1737238816606
+r1737239033588,3,"^Twitch$","1","",1,c1737238816606
+r1737239049371,3,"^Indigestion$","1","",1,c1737238816606
+r1737239103033,3,"^Stress / anxiety$","1","",1,c1737238816606
+r1737239112566,3,"^Extremely Well$","1","",1,c1737238816606
+r1737239132330,3,"^Age 8 to 12$","1","",1,c1737238816606
+r1737239135968,3,"^Age 13 to 17$","1","",1,c1737238816606
+r1737239153478,3,"^Seasonal allergies$","1","",1,c1737238816606
+r1737239226522,3,"^Balanced/Normal$","1","",1,c51
+r1737239386447,3,"^26-36$","1","",1,c1729980882634
+r1737239402596,3,"^Chicago, IL$","1","",1,c1729980882634
+r1737239419183,3,"^Chicago Bears$","1","",1,c1729980882634
+r1737239423437,3,"^New York Jets$","1","",1,c1729980882634
+r1737239443737,3,"^I root for them, but I’m not devastated when they lose\.$","1","",1,c1729980882634
+r1737239465739,3,"^Very likely—pizza and football are an unstoppable combo\.$","1","",1,c1729980882634
+r1737239787326,3,"^Yes, I would describe my facial skin as slightly "acne/pimple prone$","1","",1,c111
+r1737240501186,3,"^All of it$","1","",1,c1736362270728
+r1737240651136,3,"^Banking/Finance$","1","",1,c178
+r1737240690579,3,"^Yes, I have children in the home$","1","",1,c1730735172424
 r17373,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c347
 r17374,3,"^Target$","1","",1,c347
 r17375,3,"^Walmart$","1","",1,c347
@@ -17753,7 +17987,7 @@ r5867,3,"^7-12 months ago$","1","",1,c179
 r5868,3,"^Yes, I identify as an Ally$","1","",1,c179
 r5869,3,"^I do not identify as having a disability\.$","1","",1,c179
 r587,3,"^Male$","1","",1,c29
-r5870,3,"^Democrat$","1","",1,c179
+r5870,3,"^Republican$","1","",1,c179
 r5871,3,"^I voted in the 2020 election$","1","",1,c179
 r5872,3,"^English all the time$","1","",1,c179
 r588,3,"^Sneakers or athletic shoes for my kids/ family member$","1","",1,c29
