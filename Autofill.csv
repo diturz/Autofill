@@ -11181,6 +11181,58 @@ r1737239787326,3,"^Yes, I would describe my facial skin as slightly "acne/pimple
 r1737240501186,3,"^All of it$","1","",1,c1736362270728
 r1737240651136,3,"^Banking/Finance$","1","",1,c178
 r1737240690579,3,"^Yes, I have children in the home$","1","",1,c1730735172424
+r1737245165646,3,"^The selection has stayed the same$","1","",1,c1737235573814
+r1737245382533,3,"^Cleaning supplies & equipment$","1","",1,c1736870229671
+r1737245390119,3,"^Paint & painting supplies$","1","",1,c1736870229671
+r1737245396910,3,"^Outdoor & garden \(plants, mulch, soil, garden tools\)$","1","",1,c1736870229671
+r1737245404025,3,"^Lawn care \(mowers, trimmers, fertilizers\)$","1","",1,c1736870229671
+r1737245415702,3,"^Storage & organization \(shelving, bins, closet systems\)$","1","",1,c1736870229671
+r1737245431066,3,"^Tools \(power tools, hand tools, tool storage\)$","1","",1,c1736870229671
+r1737245446638,3,"^I shop occasionally for specific tasks or one-time needs\.$","1","",1,c1736870229671
+r1737245454942,3,"^I am primarily responsible for buying home improvement products$","1","",1,c1736870229671
+r1737245463194,3,"^The Home Depot$","1","",1,c1736870229671
+r1737245467424,3,"^Amazon$","1","",1,c1736870229671
+r1737245471691,3,"^Lowe’s$","1","",1,c1736870229671
+r1737245475539,3,"^Walmart$","1","",1,c1736870229671
+r1737245480667,3,"^Target$","1","",1,c1736870229671
+r1737245498918,3,"^I would not like to participate$","1","",1,c1736870229671
+r1737245524138,3,"^Groceries$","1","",1,c1735932295611
+r1737245528195,3,"^Apparel & accessories$","1","",1,c1735932295611
+r1737245532566,3,"^Electronics$","1","",1,c1735932295611
+r1737245537216,3,"^Sporting goods$","1","",1,c1735932295611
+r1737245541951,3,"^Health & beauty$","1","",1,c1735932295611
+r1737245545438,3,"^Home & garden$","1","",1,c1735932295611
+r1737245554964,3,"^I currently use these tools and plan to continue$","1","",1,c1735932295611
+r1737245635821,3,"^Buy-and-sell sites \(e\.g\., Poshmark, eBay, etc\.\)$","1","",1,c1735932295611
+r1737245647934,3,"^Credit card points / miles$","1","",1,c1735932295611
+r1737245661898,3,"^A cash back or rebate shopping site \(e\.g\., Rakuten, Ibotta, etc\.\)$","1","",1,c1735932295611
+r1737245667177,3,"^Mobile apps that show retailers’ deals & coupons \(e\.g\., Groupon, etc\.\)$","1","",1,c1735932295611
+r1737245680018,3,"^Rakuten$","1","",1,c1735932295611
+r1737245684528,3,"^Groupon$","1","",1,c1735932295611
+r1737245727223,3,"^I prefer to buy fewer items that are high quality, even if they cost more$","1","",1,c1735932295611
+r1737245864390,3,"^10\+ times$","1","",1,c1735932295611
+r1737245884975,3,"^I love spending money on experiences, and I prioritize spending my money on them$","1","",1,c1735932295611
+r1737245888800,3,"^A web browser or extension that auto-applies coupons \(e\.g\., Honey, etc\.\)$","1","",1,c1735932295611
+r1737245900008,3,"^Yes, I participate in loyalty programs and accrue / collect loyalty points$","1","",1,c1735932295611
+r1737245910553,3,"^I save up my points to redeem them for big-ticket items or significant rewards$","1","",1,c1735932295611
+r1737245945582,3,"^No, I’m not willing to participate in a 45-minute video interview$","1","",1,c1735932295611
+r1737245992220,3,"^Cough Drops$","1","",1,c23
+r1737245995869,3,"^Yogurt$","1","",1,c23
+r1737245999613,3,"^Snacks that require freezing \(e\.g\., ice cream, pizza rolls, etc\.\)$","1","",1,c23
+r1737246003291,3,"^Snack Bars \(e\.g\., Nutrition bars, protein bars, granola bars, etc\.\)$","1","",1,c23
+r1737246007199,3,"^Granola and/or Cereal$","1","",1,c23
+r1737246011664,3,"^Snacks that require refrigeration \(ex\. refrigerated bars, fruit cups, pudding, etc\.\)$","1","",1,c23
+r1737246015324,3,"^Confectionery \(e\.g\., Chocolate bars, candy, etc\.\)$","1","",1,c23
+r1737246020777,3,"^Sweet Baked Goods \(e\.g\., Donuts, Scones, Brownies, Cupcakes, etc\.\)$","1","",1,c23
+r1737246025119,3,"^Crackers$","1","",1,c23
+r1737246031725,3,"^Baking Chocolate Chips$","1","",1,c23
+r1737246035801,3,"^Refrigerated Cheese Snacks \(e\.g\., Sargento Balanced Breaks, Babybel\)$","1","",1,c23
+r1737246040343,3,"^Cookies$","1","",1,c23
+r1737246044941,3,"^Salty Snacks \(e\.g\., Potato Chips, Pretzels, Popcorn\)$","1","",1,c23
+r1737246048378,3,"^Packaged Pastries \(e\.g\., Hostess, Little Debbie’s, etc\.\)$","1","",1,c23
+r1737246062622,3,"^I identify only with the United States$","1","",1,c23
+r1737246093549,3,"^Watch videos$","1","",1,c1731380387889
+r1737246233250,3,"^Sour Cream$","1","",1,c1729980882634
 r17373,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c347
 r17374,3,"^Target$","1","",1,c347
 r17375,3,"^Walmart$","1","",1,c347
