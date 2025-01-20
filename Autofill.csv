@@ -662,6 +662,8 @@ c1737237947401,"Grocery Store Grand Openings","",,,,
 c1737238134749,"For video game fans!","",,,,
 c1737238361351,"Pain & Fever Relief for Your Little One","",,,,
 c1737238816606,"How are you feeling?","",,,,
+c1737387704012,"Exercise & Fitness","",,,,
+c1737388376542,"Tech Features","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -11248,6 +11250,25 @@ r1737264207505,3,"^Received masters or secondary Degree$","1","",1,c111
 r1737264211997,3,"^Became financially independent$","1","",1,c111
 r1737264469957,3,"^Moved in with Partner$","1","",1,c111
 r17373,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c347
+r1737387723508,3,"^Word of mouth \(friends, family, colleagues\)$","1","",1,c1737387704012
+r1737387728434,3,"^In-store \(retail locations\)$","1","",1,c1737387704012
+r1737387734145,3,"^Fitness events$","1","",1,c1737387704012
+r1737387747094,3,"^The convenience of working out at home$","1","",1,c1737387704012
+r1737387759546,3,"^Peloton’s reputation or brand image$","1","",1,c1737387704012
+r1737387777307,3,"^Price/affordability$","1","",1,c1737387704012
+r1737387795589,3,"^Price/affordability$","1","",1,c1737387704012
+r1737387800846,3,"^Effectiveness of workouts$","1","",1,c1737387704012
+r1737387815520,3,"^Connected Fitness All Access$","1","",1,c1737387704012
+r1737387842265,3,"^Personalized recommendations$","1","",1,c1737387704012
+r1737387850649,3,"^Performance tracking and metrics$","1","",1,c1737387704012
+r1737387861942,3,"^very positive$","1","",1,c1737387704012
+r1737387892761,3,"^10% more $","1","",1,c1737387704012
+r1737388393023,3,"^Siri$","1","",1,c1737388376542
+r1737388399878,3,"^Find My Device$","1","",1,c1737388376542
+r1737388408057,3,"^Google Cast$","1","",1,c1737388376542
+r1737388413047,3,"^AirPlay$","1","",1,c1737388376542
+r1737388425063,3,"^Google Lens$","1","",1,c1737388376542
+r1737388444900,3,"^Significant effort$","1","",1,c1737388376542
 r17374,3,"^Target$","1","",1,c347
 r17375,3,"^Walmart$","1","",1,c347
 r17376,3,"^Shopping experience$","1","",1,c347
@@ -18318,7 +18339,6 @@ r6322,3,"^Granola / Granola Bars$","1","",1,c4
 r6323,3,"^Nuts \(e\.g\. almonds, cashews, peanuts, pistachios, etc\.\)$","1","",1,c4
 r6324,3,"^Yogurt$","1","",1,c4
 r6325,3,"^Cookies$","1","",1,c4
-r6326,3,"^KIND$","1","",1,c4
 r6327,3,"^Kroger$","1","",1,c4
 r6328,3,"^Walmart$","1","",1,c4
 r6329,3,"^Sam's Club$","1","",1,c4
