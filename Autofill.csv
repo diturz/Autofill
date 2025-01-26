@@ -11274,6 +11274,12 @@ r17375,3,"^Walmart$","1","",1,c347
 r17376,3,"^Shopping experience$","1","",1,c347
 r17377,3,"^Convenient store location$","1","",1,c347
 r17378,3,"^Sephora$","1","",1,c347
+r1737844642240,3,"^Milk \(dairy or dairy-alternative\)$","1","",1,c502
+r1737844665885,3,"^Bottled/ canned drinks \(water, soda, etc\.\)$","1","",1,c502
+r1737844687523,3,"^Cereal \(hot or cold\)$","1","",1,c502
+r1737844702231,3,"^Frozen foods \(meals, snacks, appetizers, etc\.\)$","1","",1,c502
+r1737844711802,3,"^Frozen fruit & vegetables$","1","",1,c502
+r1737844719292,3,"^Fresh fruit & vegetables$","1","",1,c502
 r17379,3,"^Amazon$","1","",1,c347
 r1738,3,"^Brand name$","1","",1,c90
 r17380,3,"^High-quality products$","1","",1,c347
@@ -11613,13 +11619,8 @@ r17682,3,"^Plant-based Milks \(e\.g\. oat, almond, etc\.\)$","1","",1,c372
 r17683,3,"^Sports/Hydration drinks$","1","",1,c372
 r17684,3,"^Tap Water$","1","",1,c372
 r17685,3,"^I would drink any of the above$","1","",1,c372
-r17686,3,"^Fruit & Herbal Tea Bags \(e\.g\. Chamomile, Ginger, Hibiscus, etc\.\)$","1","",1,c372
-r17687,3,"^Instant/Powdered Tea \(e\.g\. Iced Tea Mix with sugar\)$","1","",1,c372
-r17688,3,"^Machine Dispensed Tea/K-Cups$","1","",1,c372
-r17689,3,"^Plain Green Tea Bags$","1","",1,c372
 r1769,3,"^Cookies/sweet snacks$","1","",1,c91
 r17690,3,"^Likely$","1","",1,c372
-r17691,3,"^Lipton$","1","",1,c372
 r17692,3,"^A few times a week$","1","",1,c372
 r17693,3,"^At home$","1","",1,c372
 r17694,3,"^Late Morning \(9am-12pm\)$","1","",1,c372
@@ -14209,15 +14210,7 @@ r20032,3,"^120mg$","1","",1,c501
 r20033,3,"^Slightly important$","1","",1,c501
 r20034,3,"^A morning energy boost$","1","",1,c501
 r20035,3,"^Accounting and finance \(e\.g\., accountant, financial advisor, banker\)$","1","",1,c403
-r20036,3,"^Chick-Fil-A$","1","",1,c502
-r20037,3,"^Taco Bell$","1","",1,c502
-r20038,3,"^KFC$","1","",1,c502
-r20039,3,"^Subway$","1","",1,c502
 r2004,3,"^Beer/Cider/Seltzers$","1","",1,c103
-r20040,3,"^McDonald’s$","1","",1,c502
-r20041,3,"^Wendy’s$","1","",1,c502
-r20042,3,"^Burger King$","1","",1,c502
-r20043,3,"^Dunkin’$","1","",1,c502
 r20044,3,"^88$","1","",1,c502
 r20045,3,"^34$","1","",1,c502
 r20046,3,"^I have primary responsibility for grocery shopping$","1","",1,c502
