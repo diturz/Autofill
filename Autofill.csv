@@ -671,6 +671,17 @@ c1738094645763,"Lighter Design Testing","",,,,
 c1738095359170,"Let’s talk","",,,,
 c1738095731022,"We want to hear from you","",,,,
 c1738103243852,"Tell us about products you use to treat your Pain!","",,,,
+c1738152496555,"How are you celebrating life ...","",,,,
+c1738163601914,"Cookie Go Cups","",,,,
+c1738163820391,"We want to learn more about how you use different types of Cracker packs!","",,,,
+c1738164839701,"Do you like creams or creamers?","",,,,
+c1738165677178,"How do you get your protein??","",,,,
+c1738165935724,"Throwback Movies","",,,,
+c1738166697610,"How are you watching?","",,,,
+c1738166765410,"Whatcha Watching?","",,,,
+c1738166997523,"Questions about shopping!","",,,,
+c1738168269101,"5G Plan","",,,,
+c1738170563734,"Are you a Content Creator? Tell us more","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -11410,6 +11421,87 @@ r1738104050327,3,"^Reebok$","1","",1,c40
 r1738104059882,3,"^New Balance$","1","",1,c40
 r1738104545619,3,"^Like$","1","",1,c510
 r1738104603589,3,"^I would seriously consider it$","1","",1,c510
+r1738162525126,3,"^Happy$","1","",1,c1738152496555
+r1738162530806,3,"^Optimistic$","1","",1,c1738152496555
+r1738162538906,3,"^Romantic$","1","",1,c1738152496555
+r1738162549761,3,"^Excited$","1","",1,c1738152496555
+r1738162612834,3,"^I am celebrating it with my spouse\.$","1","",1,c1738152496555
+r1738162624752,3,"^I am celebrating it with my children\.$","1","",1,c1738152496555
+r1738162661804,3,"^2025$","1","",1,c1738152496555
+r1738162751447,3,"^Finance or accounting$","1","",1,c55
+r1738162782903,3,"^Both online and in-stores$","1","",1,c55
+r1738163623046,3,"^Oreo Multipacks$","1","",1,c1738163601914
+r1738163630353,3,"^Regular Oreo Packs$","1","",1,c1738163601914
+r1738163649097,3,"^Very Likely To Purchase$","1","",1,c1738163601914
+r1738163663188,3,"^Very satisfied$","1","",1,c1738163601914
+r1738163681580,3,"^Very important$","1","",1,c1738163601914
+r1738163700239,3,"^2 ounce \(18 mini cookies\)$","1","",1,c1738163601914
+r1738163839355,3,"^I would buy this impulsively when I shop$","1","",1,c1738163820391
+r1738163949592,3,"^Myself Only$","1","",1,c1738163820391
+r1738164006345,3,"^Mostly At Home$","1","",1,c1738163820391
+r1738164049563,3,"^While watching tv/screen time$","1","",1,c1738163820391
+r1738164095865,3,"^Comes in sizes good for sharing$","1","",1,c1738163820391
+r1738164850888,3,"^Creamers$","1","",1,c1738164839701
+r1738164857696,3,"^Half & Half$","1","",1,c1738164839701
+r1738164893341,3,"^Plant Based: Made with Almondmilk, Oatmilk, Soymilk, Coconutmilk \(Califia Farms, Silk, Nutpods, Planet Oat, or other\)$","1","",1,c1738164839701
+r1738164901292,3,"^Dairy: Made with Cows Milk \(Chobani or other brand\)$","1","",1,c1738164839701
+r1738164924259,3,"^Silk$","1","",1,c1738164839701
+r1738164945862,3,"^Dunkin$","1","",1,c1738164839701
+r1738164954887,3,"^Baking$","1","",1,c1738164839701
+r1738164961648,3,"^Hot Chocolate$","1","",1,c1738164839701
+r1738164966712,3,"^Ice Cream$","1","",1,c1738164839701
+r1738164981306,3,"^Dairy Half & Half$","1","",1,c1738164839701
+r1738165014251,3,"^Grocery Store$","1","",1,c1738164839701
+r1738165021188,3,"^Mass retailers \(e\.g\., Target, Walmart\)$","1","",1,c1738164839701
+r1738165692746,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c1738165677178
+r1738165819125,3,"^Muscle Milk$","1","",1,c1738165677178
+r1738165856110,3,"^2-3 times a month$","1","",1,c1738165677178
+r1738165871476,3,"^20-29 grams$","1","",1,c1738165677178
+r1738165896127,3,"^Nutrition / Pharmacy$","1","",1,c1738165677178
+r1738165913525,3,"^I am always looking for the next new food trend$","1","",1,c1738165677178
+r1738165953981,3,"^The Proposal$","1","",1,c1738165935724
+r1738165976412,3,"^Enjoyed a lot$","1","",1,c1738165935724
+r1738166714546,3,"^Through an app on your smart TV$","1","",1,c1738166697610
+r1738166791752,3,"^Through an app on your smart TV$","1","",1,c1738166765410
+r1738167009892,3,"^Big-Box Stores \(e\.g\., Walmart, Target, etc\.\)$","1","",1,c1738166997523
+r1738167020036,3,"^Discount Retailers \(e\.g\. Dollar General, DollarTree, etc\.\)$","1","",1,c1738166997523
+r1738167027398,3,"^Grocery Stores or Supermarkets \(e\.g\. Publix,Kroger, Aldi, etc\.\)$","1","",1,c1738166997523
+r1738167039684,3,"^Club / Warehouse Stores \(e\.g\. Costco, Sam'sClub, etc\.\)$","1","",1,c1738166997523
+r1738167043729,3,"^Convenience Stores \(e\.g\. 7-Eleven, Kwik Trip,etc\.\)$","1","",1,c1738166997523
+r1738167058353,3,"^Sam’s Club$","1","",1,c1738166997523
+r1738167063834,3,"^Costco$","1","",1,c1738166997523
+r1738167074807,3,"^ I am primarily responsible for buying groceries for my household$","1","",1,c1738166997523
+r1738167095513,3,"^Target$","1","",1,c1738166997523
+r1738167104716,3,"^Kroger \(includes City Market, Dillons, Fred Meyer, Fry’s, Harris Teeter, King Soopers, QFC, Ralphs, Roundy’s/Mariano’s, Smith’s\)$","1","",1,c1738166997523
+r1738167120969,3,"^I am primarily responsible for buying at a Club/Warehouse for my household$","1","",1,c1738166997523
+r1738167137214,3,"^Office Supplies \(e\.g\., paper, ink cartridges, etc\)$","1","",1,c1738166997523
+r1738167159500,3,"^I am practical$","1","",1,c1738166997523
+r1738167168056,3,"^I often analyze situations$","1","",1,c1738166997523
+r1738168284905,3,"^Employed full time$","1","",1,c1738168269101
+r1738168300178,3,"^Finance / Insurance$","1","",1,c1738168269101
+r1738168353798,3,"^Finance$","1","",1,c1738168269101
+r1738169687054,3,"^5 Very important$","1","",1,c119
+r1738169864661,3,"^Protein powder$","1","",1,c119
+r1738169871972,3,"^Over-the-counter medication$","1","",1,c119
+r1738169879111,3,"^Vitamins$","1","",1,c119
+r1738170571647,3,"^Occasionally \(less than once per month\)$","1","",1,c1738170563734
+r1738170606578,3,"^Instagram$","1","",1,c1738170563734
+r1738170613273,3,"^Facebook$","1","",1,c1738170563734
+r1738170624295,3,"^Yes - I always do everything myself$","1","",1,c1738170563734
+r1738170649888,3,"^Under 1 hour$","1","",1,c1738170563734
+r1738170666956,3,"^I enjoy creating and sharing regularly\. I do it just for myself without any specific goal$","1","",1,c1738170563734
+r1738170693854,3,"^Generating text captions$","1","",1,c1738170563734
+r1738170697139,3,"^Tracking latest trends$","1","",1,c1738170563734
+r1738170706942,3,"^Maintaining consistency and scheduling$","1","",1,c1738170563734
+r1738170735007,3,"^Yellow$","1","",1,c1738170563734
+r1738170740985,3,"^1,000 - 10K$","1","",1,c1738170563734
+r1738170753763,3,"^No, it is just an organic part of my activity with or without income$","1","",1,c1738170563734
+r1738170773280,3,"^No, I do not want to share this information$","1","",1,c1738170563734
+r1738170787881,3,"^Short Text$","1","",1,c1738170563734
+r1738170800697,3,"^Yes, I use ONLY free tools$","1","",1,c1738170563734
+r1738170819272,3,"^Canva$","1","",1,c1738170563734
+r1738170828967,3,"^CapCut$","1","",1,c1738170563734
+r1738170845754,3,"^\$0 \(I only use free tools\)$","1","",1,c1738170563734
 r17382,3,"^Private Label$","1","",1,c347
 r17383,3,"^Brand reputation$","1","",1,c347
 r17384,3,"^Better quality$","1","",1,c347
@@ -13800,7 +13892,7 @@ r19552,3,"^Mineral Supplements \(Magnesium, Iron, etc\.\)$","1","",1,c472
 r19553,3,"^1/2 Letter Vitamins \(Vitamin D, Vitamin C, etc\.\)$","1","",1,c472
 r19554,3,"^Multi-Vitamins$","1","",1,c472
 r19555,3,"^Pre-Workout$","1","",1,c472
-r19556,3,"^Pure Protein$","1","",1,c472
+r19556,3,"^Muscle Milk$","1","",1,c472
 r19557,3,"^Saw the product promoted on Social Media \(TikTok, Instagram, Facebook\)$","1","",1,c472
 r19558,3,"^Value$","1","",1,c472
 r19559,3,"^Performed better than expected$","1","",1,c472
