@@ -682,6 +682,13 @@ c1738166765410,"Whatcha Watching?","",,,,
 c1738166997523,"Questions about shopping!","",,,,
 c1738168269101,"5G Plan","",,,,
 c1738170563734,"Are you a Content Creator? Tell us more","",,,,
+c1738787826437,"Tell us about yourself and technology!","",,,,
+c1738794499666,"You and Your Health","",,,,
+c1738797626284,"Your experiences in Adult Entertainment!","",,,,
+c1738798987162,"Let's talk about Hair Care Products","",,,,
+c1738800329464,"Your Social Media Engagement","",,,,
+c1738800414137,"Pizza Restaurants","",,,,
+c1738800492764,"Online Grocery Shopping behavior","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -2296,7 +2303,6 @@ r1729904349312,3,"^Pastel Solids$","1","",1,c1729903610996
 r1729904361247,3,"^Basic Prints$","1","",1,c1729903610996
 r1729904370531,3,"^Agree$","1","",1,c1729903610996
 r1729904440310,3,"^Cotton$","1","",1,c1729903610996
-r1729904454811,3,"^13\+ years$","1","",1,c1729903610996
 r1729904477666,3,"^8 9 7 5 4 3$","1","",1,c1729903610996
 r1729904496892,3,"^5 4$","1","",1,c1729903610996
 r1729904507377,3,"^6 4 2 3 0$","1","",1,c1729903610996
@@ -2314,7 +2320,6 @@ r1729904598175,3,"^Discord$","1","",1,c1729903610996
 r1729904604990,3,"^LinkedIn$","1","",1,c1729903610996
 r1729904612310,3,"^Snapchat$","1","",1,c1729903610996
 r1729904618273,3,"^YouTube$","1","",1,c1729903610996
-r1729904624008,3,"^Threads$","1","",1,c1729903610996
 r1729904630207,3,"^X / Twitter$","1","",1,c1729903610996
 r1729904635409,3,"^Pinterest$","1","",1,c1729903610996
 r1729904640607,3,"^TikTok$","1","",1,c1729903610996
@@ -11496,7 +11501,6 @@ r1738170706942,3,"^Maintaining consistency and scheduling$","1","",1,c1738170563
 r1738170735007,3,"^Yellow$","1","",1,c1738170563734
 r1738170740985,3,"^1,000 - 10K$","1","",1,c1738170563734
 r1738170753763,3,"^No, it is just an organic part of my activity with or without income$","1","",1,c1738170563734
-r1738170773280,3,"^No, I do not want to share this information$","1","",1,c1738170563734
 r1738170787881,3,"^Short Text$","1","",1,c1738170563734
 r1738170800697,3,"^Yes, I use ONLY free tools$","1","",1,c1738170563734
 r1738170819272,3,"^Canva$","1","",1,c1738170563734
@@ -11508,7 +11512,142 @@ r17384,3,"^Better quality$","1","",1,c347
 r17385,3,"^Left$","1","",1,c347
 r17386,3,"^Buy online$","1","",1,c347
 r17387,3,"^The same$","1","",1,c347
+r1738787075842,3,"^Facial Skincare, i\.e\., acne, anti-aging, cleansing, moisturizing$","1","",1,c1733443986608
+r1738787101642,3,"^Sun Protection$","1","",1,c1733443986608
+r1738787122573,3,"^Sam's Club$","1","",1,c1733443986608
+r1738787125698,3,"^Amazon\.com$","1","",1,c1733443986608
+r1738787258341,3,"^Walgreens$","1","",1,c1733443986608
+r1738787262646,3,"^Grocery store$","1","",1,c1733443986608
+r1738787265705,3,"^CVS$","1","",1,c1733443986608
+r1738787272512,3,"^Costco$","1","",1,c1733443986608
+r1738787276324,3,"^Walmart$","1","",1,c1733443986608
+r1738787282698,3,"^Target$","1","",1,c1733443986608
+r1738787292298,3,"^Dollar General$","1","",1,c1733443986608
+r1738787456865,3,"^LiquidIV$","1","",1,c1733443986608
+r1738787700766,3,"^Health Insurance \(not Medicaid or Medicare\)$","1","",1,c1733443986608
+r1738787831131,3,"^Apple iPhone$","1","",1,c1738787826437
+r1738787842002,3,"^I'm often among the first to buy new technology, and I like to do my research$","1","",1,c1738787826437
+r1738787998856,3,"^VR Headset \(Meta Quest/Oculus, Playstation VR, Apple Vision Pro, HTC Vive\)$","1","",1,c1738787826437
+r1738788005097,3,"^Smartwatches \(Apple Watch, Samsung Galaxy Watch\)$","1","",1,c1738787826437
+r1738788009444,3,"^Wearable health/fitness trackers \(FitBit, Garmin watches, Oura Ring\)$","1","",1,c1738787826437
+r1738788017073,3,"^Smart Displays or Speakers \(Alex, Google Home\)$","1","",1,c1738787826437
+r1738788246993,3,"^I am an active AR/VR device owner$","1","",1,c1738787826437
+r1738788267600,3,"^Apple Vision Pro$","1","",1,c1738787826437
+r1738788311649,3,"^A few times a week$","1","",1,c1738787826437
+r1738788728522,3,"^Play VR games$","1","",1,c1738787826437
+r1738788748867,3,"^Watch movies or tv shows$","1","",1,c1738787826437
+r1738788766592,3,"^Watch short form content \(YouTube, TikTok\)$","1","",1,c1738787826437
+r1738788851740,3,"^Somewhat satisfied$","1","",1,c1738787826437
+r1738789121584,3,"^I use my headset\(s\) only for personal use\.$","1","",1,c1738787826437
+r1738789763665,3,"^More apps/content/games$","1","",1,c1738787826437
+r1738789771707,3,"^Faster or easier setup and startup$","1","",1,c1738787826437
+r1738789856944,3,"^More options for social use$","1","",1,c1738787826437
+r1738789882469,3,"^I believe that AR/VR headsets will inevitably be mainstream once they improve enough and become more affordable\.$","1","",1,c1738787826437
+r1738789895941,3,"^I am unsure if smart glasses will ever become mainstream and widely accepted\.$","1","",1,c1738787826437
+r1738790484038,3,"^I typically do not wear glasses for corrective vision$","1","",1,c1738787826437
+r1738790497935,3,"^Employed full-time, working 30 hours or more per week$","1","",1,c1738787826437
+r1738791358132,3,"^I work mostly with the buying/selling of goods or services \(eg\. realtor, sales rep, account manager\)$","1","",1,c1738787826437
+r1738791369798,3,"^Google Workspace \(formerly G Suite\)$","1","",1,c1738787826437
+r1738791374968,3,"^Microsoft Office$","1","",1,c1738787826437
+r1738791379193,3,"^Microsoft Teams$","1","",1,c1738787826437
+r1738791383488,3,"^Google Meet$","1","",1,c1738787826437
+r1738791389246,3,"^Zoom$","1","",1,c1738787826437
+r1738791397587,3,"^Dropbox$","1","",1,c1738787826437
+r1738791404908,3,"^GenAI Tools \(ChatGPT, Claude, Google Gemini, MS Copilot, etc\.\)$","1","",1,c1738787826437
+r1738791434015,3,"^In Office: I primarily work from an office, although I may occasionally work from home or offsite$","1","",1,c1738787826437
+r1738791524134,3,"^If I could focus better on my work and reduce distractions$","1","",1,c1738787826437
+r1738791536357,3,"^Sometimes$","1","",1,c1738787826437
+r1738791564057,3,"^Likely$","1","",1,c1738787826437
+r1738791792938,3,"^Grass lawn \(active or dormant\)$","1","",1,c160
+r1738791809879,3,"^1001 - 2500 sq ft$","1","",1,c160
+r1738792277136,3,"^Repair bare spots \(fill small areas with little/no grass\)$","1","",1,c160
+r1738792379258,3,"^Bermudagrass$","1","",1,c160
+r1738792442314,3,"^Scotts Classic$","1","",1,c160
+r1738792484387,3,"^Some Experience – Done basic lawn care and have some have knowledge but no routine$","1","",1,c160
+r1738792498848,3,"^The Home Depot website$","1","",1,c160
+r1738792504727,3,"^Amazon\.com$","1","",1,c160
+r1738792515947,3,"^The Home Depot in person$","1","",1,c160
+r1738792863676,3,"^Somewhat interested$","1","",1,c160
+r1738792927979,3,"^Used a few times but not familiar with best practices$","1","",1,c160
+r1738793270423,3,"^I have children at home$","1","",1,c5
+r1738793282680,3,"^9 - 12 years old$","1","",1,c5
+r1738793287354,3,"^13 - 17 years old$","1","",1,c5
+r1738793378104,3,"^I would purchase all of the above brands\.$","1","",1,c5
+r1738793760757,3,"^Microsoft$","1","",1,c20
+r1738794514727,3,"^Allergy medication$","1","",1,c1738794499666
+r1738794520989,3,"^Dietary supplement \(e\.g\., vitamins, minerals, herbs\)$","1","",1,c1738794499666
+r1738794525605,3,"^Oral over the counter pain relief medication$","1","",1,c1738794499666
+r1738794704196,3,"^1-2 times a week$","1","",1,c1738794499666
+r1738794911130,3,"^Faucet$","1","",1,c41
+r1738795031522,3,"^Mass retailer \(e\.g\., Walmart, Target\)$","1","",1,c41
+r1738795039699,3,"^Online retailer \(e\.g\. Amazon\)$","1","",1,c41
+r1738795121486,3,"^Air fresheners and deodorizers$","1","",1,c41
+r1738795133307,3,"^All-purpose cleaners for sink and countertops$","1","",1,c41
+r1738795144725,3,"^Mirror and glass cleaners$","1","",1,c41
+r1738796991647,3,"^Creative block$","1","",1,c1738170563734
+r1738797186633,3,"^Nothing at all$","1","",1,c1738170563734
+r1738797209714,3,"^Personal Short Videos \(<3 mins\)$","1","",1,c1738170563734
+r1738797214391,3,"^Personal Photographs$","1","",1,c1738170563734
+r1738797257792,3,"^Filmora$","1","",1,c1738170563734
+r1738797265608,3,"^InShot$","1","",1,c1738170563734
+r1738797271529,3,"^ChatGPT$","1","",1,c1738170563734
+r1738797629061,3,"^I agree$","1","",1,c1738797626284
+r1738797659100,3,"^Cisgender Man$","1","",1,c1738797626284
+r1738797683749,3,"^Straight$","1","",1,c1738797626284
+r1738797720039,3,"^Yes, I have paid for premium \(paid\) porn sites in the past, but not currently$","1","",1,c1738797626284
+r1738797747658,3,"^Brazzers$","1","",1,c1738797626284
+r1738797881978,3,"^I have become less interested in the content$","1","",1,c1738797626284
+r1738797905548,3,"^1-6 months$","1","",1,c1738797626284
+r1738797948772,3,"^More affordable pricing$","1","",1,c1738797626284
+r1738797960990,3,"^Better variety and diversity of content offered$","1","",1,c1738797626284
+r1738798076287,3,"^Yes, but its role should be limited\.$","1","",1,c1738797626284
+r1738798212350,3,"^Personalized recommendations based on user preferences\.$","1","",1,c1738797626284
+r1738798257949,3,"^I believe that AI could provide more opportunities for personalization and customization$","1","",1,c1738797626284
+r1738798448922,3,"^Ready-to-drink coffee \(in a bottle or can\)$","1","",1,c23
+r1738798457109,3,"^K-Cup Pods compatible with Keurig machines$","1","",1,c23
+r1738798794567,3,"^Valentine’s Day$","1","",1,c358
+r1738798803558,3,"^Mother’s Day$","1","",1,c358
+r1738798807414,3,"^Birthday$","1","",1,c358
+r1738798811344,3,"^Holiday season \(e\.g\., Christmas, Hannukah, Kwanzaa, etc\.\)$","1","",1,c358
+r1738798816948,3,"^Anniversary$","1","",1,c358
+r1738798841152,3,"^Spouse/partner/significant other$","1","",1,c358
+r1738798847207,3,"^Children$","1","",1,c358
+r1738799093575,3,"^It offers several benefits$","1","",1,c1738798987162
+r1738799097985,3,"^It is innovative$","1","",1,c1738798987162
+r1738799104321,3,"^The quality of the ingredients$","1","",1,c1738798987162
+r1738799194693,3,"^It is from a brand I trust$","1","",1,c1738798987162
+r1738799198137,3,"^Is made with effective ingredients$","1","",1,c1738798987162
+r1738799207632,3,"^It comes in a convenient format packaging$","1","",1,c1738798987162
+r1738799213248,3,"^It comes in the right size$","1","",1,c1738798987162
+r1738799273599,3,"^Approved by dermatologists$","1","",1,c1738798987162
+r1738799279317,3,"^Trusted by dermatologists$","1","",1,c1738798987162
+r1738799863524,3,"^Calvin Klein$","1","",1,c1729903610996
+r1738799876983,3,"^I purchase a mix of solid colors and designs/patterns$","1","",1,c1729903610996
 r17388,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c347
+r1738800052483,3,"^Occasionally \(4-6x per month\)$","1","",1,c15
+r1738800083805,3,"^cocktail$","1","",1,c15
+r1738800139356,3,"^It's too intimidating to find a good bottle$","1","",1,c15
+r1738800336439,3,"^Facebook$","1","",1,c1738800329464
+r1738800341350,3,"^Instagram$","1","",1,c1738800329464
+r1738800345382,3,"^Reddit$","1","",1,c1738800329464
+r1738800357156,3,"^TikTok$","1","",1,c1738800329464
+r1738800360872,3,"^X \(formerly known as Twitter\)$","1","",1,c1738800329464
+r1738800365044,3,"^YouTube$","1","",1,c1738800329464
+r1738800419791,3,"^10 or more times$","1","",1,c1738800414137
+r1738800431842,3,"^Domino's$","1","",1,c1738800414137
+r1738800439592,3,"^Pizza Hut$","1","",1,c1738800414137
+r1738800497090,3,"^Online and Instore$","1","",1,c1738800492764
+r1738800524106,3,"^Protein Bars$","1","",1,c1738800492764
+r1738800528340,3,"^Regular chips/salty snacks$","1","",1,c1738800492764
+r1738800535990,3,"^Energy drinks$","1","",1,c1738800492764
+r1738800542841,3,"^Protein Shakes$","1","",1,c1738800492764
+r1738800547782,3,"^Protein Chips$","1","",1,c1738800492764
+r1738801126505,3,"^Somewhat interested$","1","",1,c1729903610996
+r1738801159723,3,"^Amazon$","1","",1,c1729903610996
+r1738801177754,3,"^Target$","1","",1,c1729903610996
+r1738801192568,3,"^Dick's Sporting Goods$","1","",1,c1729903610996
+r1738801199221,3,"^Zara$","1","",1,c1729903610996
+r1738801217659,3,"^Streaming Audio / Music \(e\.g\. Spotify, Apple Music\)$","1","",1,c1729903610996
 r17389,0,"input\[_ngcontent-ljo-c77\]","400","",1,c347
 r1739,3,"^In-store samples$","1","",1,c90
 r17390,3,"^I don’t pay attention to price when making my purchases$","1","",1,c347
@@ -17848,7 +17987,6 @@ r474,3,"^Listened to a podcast$","1","",1,c27
 r4740,3,"^A tablet$","1","",1,c20
 r4741,3,"^An AC unit$","1","",1,c20
 r4742,3,"^Google$","1","",1,c20
-r4744,3,"^Adobe$","1","",1,c20
 r475,3,"^Joined a gym/fitness studio or renewed your membership$","1","",1,c27
 r477,3,"^Gym membership \(e\.g\., YMCA, Anytime Fitness\)$","1","",1,c27
 r478,3,"^Nutrition/ food diary apps \(e\.g\., MyFitnessPal, Noom\)$","1","",1,c27
