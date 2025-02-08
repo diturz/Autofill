@@ -11588,7 +11588,6 @@ r1738793378104,3,"^I would purchase all of the above brands\.$","1","",1,c5
 r1738794514727,3,"^Allergy medication$","1","",1,c1738794499666
 r1738794520989,3,"^Dietary supplement \(e\.g\., vitamins, minerals, herbs\)$","1","",1,c1738794499666
 r1738794525605,3,"^Oral over the counter pain relief medication$","1","",1,c1738794499666
-r1738794704196,3,"^1-2 times a week$","1","",1,c1738794499666
 r1738794911130,3,"^Faucet$","1","",1,c41
 r1738795031522,3,"^Mass retailer \(e\.g\., Walmart, Target\)$","1","",1,c41
 r1738795039699,3,"^Online retailer \(e\.g\. Amazon\)$","1","",1,c41
@@ -12120,6 +12119,12 @@ r1738978103730,3,"^Fewer repetitive recommendations$","1","",1,c1738976929700
 r1738978107388,3,"^Better organization of suggestions$","1","",1,c1738976929700
 r1739,3,"^In-store samples$","1","",1,c90
 r17390,3,"^I don’t pay attention to price when making my purchases$","1","",1,c347
+r1739052042237,3,"^Daily$","1","",1,c1738794499666
+r1739052068980,3,"^Specific letter vitamins \(such as Vitamin B, C, D, E etc\.\)$","1","",1,c1738794499666
+r1739052370119,3,"^Brave$","1","",1,c1738969736278
+r1739052377865,3,"^Yahoo!$","1","",1,c1738969736278
+r1739052517256,3,"^Security suites / antivirus$","1","",1,c1738969736278
+r1739052988850,3,"^Kind$","1","",1,c1732344416005
 r17391,3,"^4$","1","",1,c347
 r17392,3,"^Green bricks$","1","",1,c348
 r17393,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c348
