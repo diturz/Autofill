@@ -707,6 +707,9 @@ c1738825682591,"Shopping Habits Surrounding Food, Groceries, and Luxury Goods","
 c1738826136415,"Eye Products","",,,,
 c1738826195396,"Self-Care Routines","",,,,
 c1738828258358,"Financial wellness study","",,,,
+c1738969736278,"Technology Usage Survey","",,,,
+c1738973530121,"Questions About you","",,,,
+c1738976929700,"A few questions for you about tablet usage -- please take all the way through!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -1276,7 +1279,6 @@ r1221,3,"^Store-financing \(e\.g\., payment plans, installment loan\)$","1","",1
 r1222,3,"^Personal loan from a bank/financial institution$","1","",1,c40
 r1223,3,"^Very open$","1","",1,c40
 r1224,3,"^I have a Home Depot credit card$","1","",1,c40
-r1225,3,"^You$","1","",1,c5
 r1226,3,"^\$100,000-\$149,999$","1","",1,c5
 r1227,3,"^Own$","1","",1,c5
 r1228,3,"^I'm more than able to make ends meet each month and am learning or already know how to maximize the value of my money\.$","1","",1,c5
@@ -6042,10 +6044,7 @@ r1732199980584,3,"^Hilton Resorts$","1","",1,c140
 r17322,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c344
 r1732200000286,3,"^Very favorable$","1","",1,c140
 r1732200099236,3,"^Homeowner$","1","",1,c168
-r1732200144543,3,"^Purchase/lease a used vehicle$","1","",1,c168
-r1732200151116,3,"^Invest or trade stocks$","1","",1,c168
 r1732200157804,3,"^Invest in cryptocurrency$","1","",1,c168
-r1732200167295,3,"^Invest in mutual funds$","1","",1,c168
 r1732200240975,3,"^Somewhat likely$","1","",1,c168
 r1732200253628,3,"^Somewhat likely$","1","",1,c168
 r1732200269872,3,"^Tesla$","1","",1,c168
@@ -8124,7 +8123,6 @@ r1733707747152,3,"^Dips \(e\.g\., ranch, queso, bean\)$","1","",1,c1733707684705
 r1733707753569,3,"^Crackers$","1","",1,c1733707684705
 r1733707759609,3,"^Fruit$","1","",1,c1733707684705
 r1733707774663,3,"^Cheese puffs$","1","",1,c1733707684705
-r1733707783136,3,"^Corn chips$","1","",1,c1733707684705
 r1733707789161,3,"^Tortilla chips$","1","",1,c1733707684705
 r1733707807024,3,"^My spouse/partner$","1","",1,c1733707684705
 r1733707812490,3,"^Myself$","1","",1,c1733707684705
@@ -9442,11 +9440,8 @@ r1735029935461,3,"^Costco\.com$","1","",1,c1735029501036
 r1735029992163,3,"^Social media \(e\.g\., Instagram, Facebook, etc\.\)$","1","",1,c1735029501036
 r1735029998231,3,"^On TV \(e\.g\., news, specific shows, etc\.\)$","1","",1,c1735029501036
 r1735030053826,3,"^Facebook$","1","",1,c1735029501036
-r1735030068291,3,"^Twitch$","1","",1,c1735029501036
-r1735030077421,3,"^Discord$","1","",1,c1735029501036
 r1735030087573,3,"^X / Twitter$","1","",1,c1735029501036
 r1735030099198,3,"^TikTok$","1","",1,c1735029501036
-r1735030106132,3,"^Telegram$","1","",1,c1735029501036
 r1735030114820,3,"^Youtube$","1","",1,c1735029501036
 r1735030125468,3,"^Instagram$","1","",1,c1735029501036
 r1735030132997,3,"^Snapchat$","1","",1,c1735029501036
@@ -9755,7 +9750,6 @@ r1735927284025,3,"^Smart thermostat\(s\)$","1","",1,c1735926907734
 r1735927287459,3,"^Smart video doorbell\(s\)$","1","",1,c1735926907734
 r1735927297385,3,"^Smart home appliance\(s\)$","1","",1,c1735926907734
 r1735927317241,3,"^Wyze$","1","",1,c1735926907734
-r1735927493175,3,"^Organized sports$","1","",1,c3
 r1735927503377,3,"^Walking for exercise$","1","",1,c3
 r1735927516526,3,"^Cycling$","1","",1,c3
 r1735927578307,3,"^Intermediate - I have a good grasp of the activity and can handle most situations or challenges$","1","",1,c3
@@ -11591,7 +11585,6 @@ r1738793270423,3,"^I have children at home$","1","",1,c5
 r1738793282680,3,"^9 - 12 years old$","1","",1,c5
 r1738793287354,3,"^13 - 17 years old$","1","",1,c5
 r1738793378104,3,"^I would purchase all of the above brands\.$","1","",1,c5
-r1738793760757,3,"^Microsoft$","1","",1,c20
 r1738794514727,3,"^Allergy medication$","1","",1,c1738794499666
 r1738794520989,3,"^Dietary supplement \(e\.g\., vitamins, minerals, herbs\)$","1","",1,c1738794499666
 r1738794525605,3,"^Oral over the counter pain relief medication$","1","",1,c1738794499666
@@ -11955,6 +11948,176 @@ r1738828050046,3,"^Flavored \(i\.e\. hot & spicy, sour, tabasco\)$","1","",1,c12
 r1738828160140,3,"^Yes, I have life insurance\.$","1","",1,c1732195883297
 r1738828268460,3,"^Employed by a business or corporation as a full-time or part-time employee \(e\.g\., W2 employee\)$","1","",1,c1738828258358
 r17389,0,"input\[_ngcontent-ljo-c77\]","400","",1,c347
+r1738958071386,3,"^Finance & Banking$","1","",1,c1731719830708
+r1738958137798,3,"^Video game console$","1","",1,c1731719830708
+r1738958140033,3,"^Smart TV$","1","",1,c1731719830708
+r1738958144729,3,"^Smartwatch or fitness tracker$","1","",1,c1731719830708
+r1738958148325,3,"^Smart home speaker$","1","",1,c1731719830708
+r1738958151704,3,"^Tablet$","1","",1,c1731719830708
+r1738958156550,3,"^Smartphone$","1","",1,c1731719830708
+r1738958160876,3,"^Computer \(e\.g\., desktop or laptop\)$","1","",1,c1731719830708
+r1738958164375,3,"^Virtual Reality \(VR\) headset$","1","",1,c1731719830708
+r1738958169639,3,"^Wireless earbuds / headphones$","1","",1,c1731719830708
+r1738958931737,3,"^Smart TV \(e\.g\. LG, Samsung\)$","1","",1,c20
+r1738966183956,3,"^Somewhat interested$","1","",1,c158
+r1738966202406,3,"^Used a few times but not familiar with best practices$","1","",1,c158
+r1738966467985,3,"^Apple iPhone$","1","",1,c5
+r1738966489737,3,"^I have kids at home$","1","",1,c5
+r1738966518858,3,"^9-12 years old$","1","",1,c5
+r1738966522435,3,"^13-15 years old$","1","",1,c5
+r1738966617865,3,"^Reading$","1","",1,c5
+r1738966622089,3,"^Listening to music$","1","",1,c5
+r1738966627909,3,"^Outdoor activities, such as hiking or camping$","1","",1,c5
+r1738966632785,3,"^Watching movies or TV$","1","",1,c5
+r1738966664621,3,"^Urban$","1","",1,c5
+r1738966747601,3,"^It’s good, but there may be occasional issues$","1","",1,c5
+r1738967296480,3,"^Wireless earbuds$","1","",1,c15
+r1738967300634,3,"^Headphones \(e\.g\., Wired/On or Over ear\)$","1","",1,c15
+r1738968009284,3,"^Candles$","1","",1,c166
+r1738968535362,3,"^Reddit$","1","",1,c1731546701422
+r1738968541249,3,"^LinkedIn$","1","",1,c1731546701422
+r1738969742873,3,"^House$","1","",1,c1738969736278
+r1738969763761,3,"^Google$","1","",1,c1738969736278
+r1738969768375,3,"^Microsoft Bing$","1","",1,c1738969736278
+r1738969772554,3,"^Firefox$","1","",1,c1738969736278
+r1738969787579,3,"^iPhone$","1","",1,c1738969736278
+r1738969805094,3,"^Safari$","1","",1,c1738969736278
+r1738969811983,3,"^Chrome$","1","",1,c1738969736278
+r1738969842435,3,"^Windows laptop, or desktop$","1","",1,c1738969736278
+r1738970117279,3,"^ChatGPT$","1","",1,c1738969736278
+r1738970534285,3,"^I have never used DuckDuckGo$","1","",1,c1738969736278
+r1738970657776,3,"^Somewhat concerned$","1","",1,c1738969736278
+r1738970675820,3,"^Use a private or incognito mode in my browser$","1","",1,c1738969736278
+r1738970691800,3,"^Somewhat agree$","1","",1,c1738969736278
+r1738971110157,3,"^I do not know anyone affected by identity theft, but am concerned about the impact\.$","1","",1,c1738969736278
+r1738971141422,3,"^Specific letter vitamins \(such as Vitamin B, C, D, E etc\.\)$","1","",1,c1738794499666
+r1738971146144,3,"^Specialty supplements \(such as Probiotics, Fruit & Vegetable supplements etc\.\)$","1","",1,c1738794499666
+r1738971161822,3,"^Mineral supplements \(such as Iron, Potassium, Zinc, etc\.\)$","1","",1,c1738794499666
+r1738971421080,3,"^Grocery store \(e\.g\., Kroger, Publix, etc\.\)$","1","",1,c1732344416005
+r1738971424954,3,"^Drug store \(e\.g\., CVS, Walgreen’s, etc\.\)$","1","",1,c1732344416005
+r1738971428926,3,"^Dollar store \(e\.g\., Dollar General, Dollar Tree, etc\.\)$","1","",1,c1732344416005
+r1738971432865,3,"^Convenience store \(e\.g\., 7-11, WaWa, etc\.\)$","1","",1,c1732344416005
+r1738971454371,3,"^Beverages \(e\.g\., coffee, soda, etc\.\)$","1","",1,c1732344416005
+r1738971457972,3,"^Nicotine products \(e\.g\., cigarettes, vapes, etc\.\)$","1","",1,c1732344416005
+r1738971509120,3,"^Chocolate \(e\.g\., chocolate bars, chocolate candy, etc\.\)$","1","",1,c1732344416005
+r1738971594541,3,"^Once every 2 or 3 days$","1","",1,c1732344416005
+r1738972193473,3,"^Apple$","1","",1,c168
+r1738972508900,3,"^At work$","1","",1,c168
+r1738972677107,3,"^To help protect the environment$","1","",1,c168
+r1738972713397,3,"^Pringles$","1","",1,c1732344416005
+r1738972718047,3,"^Lay’s$","1","",1,c1732344416005
+r1738972721452,3,"^Doritos$","1","",1,c1732344416005
+r1738972725373,3,"^Ruffles$","1","",1,c1732344416005
+r1738972728998,3,"^Cheetos$","1","",1,c1732344416005
+r1738972742369,3,"^Hershey’s$","1","",1,c1732344416005
+r1738972746366,3,"^M&M’s$","1","",1,c1732344416005
+r1738972761663,3,"^\$100,000 - \$149,999$","1","",1,c1732344416005
+r1738972769801,3,"^Urban \(i\.e\. city or large town with high population density\)$","1","",1,c1732344416005
+r1738972868579,3,"^I am the primary grocery shopper$","1","",1,c41
+r1738972880862,3,"^Personal Care$","1","",1,c41
+r1738972884324,3,"^Baking Products$","1","",1,c41
+r1738972888559,3,"^Breakfast Products$","1","",1,c41
+r1738972893839,3,"^Frozen Meals$","1","",1,c41
+r1738972897981,3,"^Snack Foods$","1","",1,c41
+r1738972911185,3,"^Instant Oatmeal$","1","",1,c41
+r1738972921953,3,"^Kroger$","1","",1,c41
+r1738972936986,3,"^Nature's Path$","1","",1,c41
+r1738972957782,3,"^Bob's Red Mill$","1","",1,c41
+r1738973008123,3,"^Potato Chips$","1","",1,c41
+r1738973047553,3,"^When snacking, I want something delicious and fun but made with real ingredients$","1","",1,c41
+r1738973052317,3,"^I’m willing to pay more for high-quality snacks$","1","",1,c41
+r1738973056574,3,"^I try to choose healthier snacks when possible$","1","",1,c41
+r1738973060883,3,"^I often have friends or family over for food and drinks$","1","",1,c41
+r1738973065432,3,"^I love trying new BFY \(better-for-you\) snacks and chips$","1","",1,c41
+r1738973132603,3,"^Child\(ren\) 9–12 years$","1","",1,c41
+r1738973136654,3,"^Child\(ren\) 13-18 years$","1","",1,c41
+r1738973152487,3,"^I am primarily responsible for grocery shopping\.$","1","",1,c41
+r1738973262635,3,"^Cereal, fruit, granola, or energy bars$","1","",1,c41
+r1738973270007,3,"^Fresh vegetables$","1","",1,c41
+r1738973275629,3,"^Dairy-based snacks \(e\.g\., yogurt, kefir, cheese sticks\)$","1","",1,c41
+r1738973279390,3,"^Fresh fruit$","1","",1,c41
+r1738973371325,3,"^I am an employee; I do not make purchase decisions$","1","",1,c17
+r1738973534292,3,"^Banana$","1","",1,c1738973530121
+r1738973543724,3,"^Bars \(Grain, Cereal, Nutrition, Biscuits, Granola, Energy, etc\.\)$","1","",1,c1738973530121
+r1738973553449,3,"^Oatmeal/Oats$","1","",1,c1738973530121
+r1738973558908,3,"^Fruit Snacks$","1","",1,c1738973530121
+r1738973565628,3,"^Ice Cream$","1","",1,c1738973530121
+r1738973571891,3,"^Yogurt$","1","",1,c1738973530121
+r1738973579640,3,"^Frozen Meals$","1","",1,c1738973530121
+r1738973607108,3,"^Accounting or Tax Preparation$","1","",1,c41
+r1738973739632,3,"^Snack bars \(e\.g\., granola bars, protein bars, cereal bars\)$","1","",1,c1733707684705
+r1738973751767,3,"^Potato chips$","1","",1,c1733707684705
+r1738973783541,3,"^Pringles$","1","",1,c1733707684705
+r1738973786633,3,"^Lay’s$","1","",1,c1733707684705
+r1738973798832,3,"^Lightly Salted \(classic, BBQ, or Wavy original\)$","1","",1,c1733707684705
+r1738973802494,3,"^Original$","1","",1,c1733707684705
+r1738974138688,3,"^Running$","1","",1,c3
+r1738974465310,3,"^Twitter/X$","1","",1,c1738170563734
+r1738974795975,3,"^Cruelty-free \(not tested on animals\)$","1","",1,c137
+r1738974888079,3,"^Online marketplaces \(e\.g\., Amazon, brand websites\)$","1","",1,c137
+r1738974911718,3,"^Moisturizing or hydrating properties$","1","",1,c137
+r1738974976605,3,"^8-12 years$","1","",1,c137
+r1738974980191,3,"^13-17 years$","1","",1,c137
+r1738975221841,3,"^Wendy’s$","1","",1,c3
+r1738975434950,3,"^Laptop Computer$","1","",1,c5
+r1738975440334,3,"^Printer$","1","",1,c5
+r1738975444448,3,"^Computer Monitor$","1","",1,c5
+r1738975448478,3,"^Desktop Computer$","1","",1,c5
+r1738975458503,3,"^Windows \(Microsoft\)$","1","",1,c5
+r1738975538830,3,"^Microsoft Edge$","1","",1,c5
+r1738975579773,3,"^Very open$","1","",1,c5
+r1738976509774,3,"^Samsung$","1","",1,c1729980882634
+r1738976632853,3,"^A couple times a week$","1","",1,c1729980882634
+r1738976937038,3,"^Chrome$","1","",1,c1738976929700
+r1738976958583,3,"^I downloaded it myself$","1","",1,c1738976929700
+r1738976987223,3,"^Useful and personalized content and website recommendations$","1","",1,c1738976929700
+r1738976992891,3,"^Familiar with it from other devices$","1","",1,c1738976929700
+r1738977000901,3,"^Handles multiple browser tabs well$","1","",1,c1738976929700
+r1738977005641,3,"^Syncs with my other devices$","1","",1,c1738976929700
+r1738977010796,3,"^Works well with my preferred search engine$","1","",1,c1738976929700
+r1738977048788,3,"^Set it as your default browser$","1","",1,c1738976929700
+r1738977053825,3,"^Signed in with an account \(e\.g\. Google, Amazon, Apple\)$","1","",1,c1738976929700
+r1738977062832,3,"^Customized your browser settings$","1","",1,c1738976929700
+r1738977179958,3,"^High device memory usage$","1","",1,c1738976929700
+r1738977185956,3,"^Takes up too much storage on my device$","1","",1,c1738976929700
+r1738977206690,3,"^Somewhat likely$","1","",1,c1738976929700
+r1738977212773,3,"^Browser tab management$","1","",1,c1738976929700
+r1738977222536,3,"^Can sync my bookmarks and content across devices$","1","",1,c1738976929700
+r1738977234681,3,"^Password and login management$","1","",1,c1738976929700
+r1738977316784,3,"^Habit/familiarity$","1","",1,c1738976929700
+r1738977322436,3,"^Better mobile optimization$","1","",1,c1738976929700
+r1738977326654,3,"^Syncs with specific services$","1","",1,c1738976929700
+r1738977427156,3,"^Desktop/laptop computer$","1","",1,c1738976929700
+r1738977436381,3,"^Smartphone$","1","",1,c1738976929700
+r1738977446289,3,"^Other tablet brand \(not an Amazon Fire Tablet\)$","1","",1,c1738976929700
+r1738977511431,3,"^Shared passwords$","1","",1,c1738976929700
+r1738977514762,3,"^Shared payment methods$","1","",1,c1738976929700
+r1738977518328,3,"^Shared bookmarks$","1","",1,c1738976929700
+r1738977522285,3,"^Shared browsing history$","1","",1,c1738976929700
+r1738977532747,3,"^Faster sync across device browsers$","1","",1,c1738976929700
+r1738977556521,3,"^Apple$","1","",1,c1738976929700
+r1738977568574,3,"^Music streaming$","1","",1,c1738976929700
+r1738977572070,3,"^Online shopping/browsing products$","1","",1,c1738976929700
+r1738977576456,3,"^Reading product reviews$","1","",1,c1738976929700
+r1738977583686,3,"^Watching videos/streaming content$","1","",1,c1738976929700
+r1738977587971,3,"^Social media browsing$","1","",1,c1738976929700
+r1738977659106,3,"^Sometimes$","1","",1,c1738976929700
+r1738977689316,3,"^Entertainment$","1","",1,c1738976929700
+r1738977695293,3,"^Productivity$","1","",1,c1738976929700
+r1738977736181,3,"^Faster page loading$","1","",1,c1738976929700
+r1738977739944,3,"^Better touch optimization$","1","",1,c1738976929700
+r1738977743570,3,"^Smoother scrolling$","1","",1,c1738976929700
+r1738977774656,3,"^Switch to a different device$","1","",1,c1738976929700
+r1738977880728,3,"^Search engine suggestions$","1","",1,c1738976929700
+r1738977887913,3,"^Online forums/communities$","1","",1,c1738976929700
+r1738977891500,3,"^Personalized content feeds$","1","",1,c1738976929700
+r1738977895146,3,"^Search engine results$","1","",1,c1738976929700
+r1738977898856,3,"^"Related articles" suggestions$","1","",1,c1738976929700
+r1738978080074,3,"^Search history$","1","",1,c1738976929700
+r1738978085869,3,"^Browsing history$","1","",1,c1738976929700
+r1738978098446,3,"^More accurate recommendations$","1","",1,c1738976929700
+r1738978103730,3,"^Fewer repetitive recommendations$","1","",1,c1738976929700
+r1738978107388,3,"^Better organization of suggestions$","1","",1,c1738976929700
 r1739,3,"^In-store samples$","1","",1,c90
 r17390,3,"^I don’t pay attention to price when making my purchases$","1","",1,c347
 r17391,3,"^4$","1","",1,c347
@@ -15712,7 +15875,6 @@ r20809,3,"^I have no decision-making authority around technology purchases at my
 r2081,3,"^Online \(e\.g\., Amazon, Instacart, Uber Eats, Store Delivery / Driveup\)$","1","",1,c105
 r20810,3,"^I am primarily responsible for buying technology for my household$","1","",1,c5
 r20811,3,"^HP$","1","",1,c5
-r20812,3,"^Sony$","1","",1,c5
 r20813,3,"^Microsoft Xbox$","1","",1,c5
 r20814,3,"^Sony Playstation$","1","",1,c5
 r20815,3,"^Nintendo Switch$","1","",1,c5
@@ -16510,7 +16672,6 @@ r2391,3,"^Prescription medicine purchase and usage$","1","",1,c119
 r2392,3,"^Gender identity and sexual preference$","1","",1,c119
 r2393,3,"^Tobacco purchase and usage$","1","",1,c119
 r2394,3,"^\$100,000 - \$150,000$","1","",1,c119
-r2395,3,"^Somewhat disagree$","1","",1,c119
 r2396,3,"^Firefox$","1","",1,c120
 r2397,3,"^Microsoft Bing$","1","",1,c120
 r2398,3,"^Google$","1","",1,c120
@@ -18112,7 +18273,6 @@ r3916,3,"^Internet Explorer$","1","",1,c1729980882634
 r3917,3,"^Safari$","1","",1,c1729980882634
 r3918,3,"^Microsoft Edge$","1","",1,c1729980882634
 r3919,3,"^Google Chrome$","1","",1,c1729980882634
-r3920,3,"^Daily or almost daily$","1","",1,c1729980882634
 r3921,3,"^Somewhat Excited$","1","",1,c1729980882634
 r3922,3,"^ChatGPT$","1","",1,c1729980882634
 r3923,3,"^Copilot$","1","",1,c1729980882634
