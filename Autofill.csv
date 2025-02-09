@@ -710,6 +710,13 @@ c1738828258358,"Financial wellness study","",,,,
 c1738969736278,"Technology Usage Survey","",,,,
 c1738973530121,"Questions About you","",,,,
 c1738976929700,"A few questions for you about tablet usage -- please take all the way through!","",,,,
+c1739116767421,"3 Fun Questions","",,,,
+c1739119716753,"Eating and Playing","",,,,
+c1739119792356,"Exercising at Gyms & Fitness Clubs","",,,,
+c1739119981319,"Your Eatertainment Experiences","",,,,
+c1739120385758,"Your Gyms & Fitness Clubs Experiences","",,,,
+c1739121220805,"Laptop Support Package Consideration","",,,,
+c1739121340869,"All About Pets!","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -12126,6 +12133,54 @@ r1739052377865,3,"^Yahoo!$","1","",1,c1738969736278
 r1739052517256,3,"^Security suites / antivirus$","1","",1,c1738969736278
 r1739052988850,3,"^Kind$","1","",1,c1732344416005
 r17391,3,"^4$","1","",1,c347
+r1739118032116,3,"^ESPN\+$","1","",1,c439
+r1739119741200,3,"^Trampoline & adventure parks \(such as Big Air and Adventure City\)$","1","",1,c1739119716753
+r1739119775962,3,"^3 - 5 times$","1","",1,c1739119716753
+r1739119808486,3,"^Community center gym \(e\.g\., The YMCA\)$","1","",1,c1739119792356
+r1739119814113,3,"^ Mid-tier: traditional gyms costing \$25-\$50 in monthly membership fees \(e\.g\., Gold's Gym; LA Fitness\)$","1","",1,c1739119792356
+r1739119831443,3,"^Home-based gym or fitness room in a housing/apartment complex$","1","",1,c1739119792356
+r1739119854435,3,"^A few times per week$","1","",1,c1739119792356
+r1739120001598,3,"^For the activities/entertainment$","1","",1,c1739119981319
+r1739120024337,3,"^2 or 3 times a year$","1","",1,c1739119981319
+r1739120157681,3,"^Iced tea$","1","",1,c1739119981319
+r1739120164764,3,"^Juice$","1","",1,c1739119981319
+r1739120262762,3,"^Red Bull$","1","",1,c1739119981319
+r1739120269807,3,"^Gatorade$","1","",1,c1739119981319
+r1739120278533,3,"^Dunkin$","1","",1,c1739119981319
+r1739120308679,3,"^I prefer buying non-alcoholic drinks at eatertainment venues$","1","",1,c1739119981319
+r1739120359572,3,"^Opportunity to win a "money can't buy" exclusive experience$","1","",1,c1739119981319
+r1739120413337,3,"^Drink it every now and then$","1","",1,c1739120385758
+r1739120440283,3,"^Gatorade Zero Powder$","1","",1,c1739120385758
+r1739120447089,3,"^Liquid IV$","1","",1,c1739120385758
+r1739120458735,3,"^Likely$","1","",1,c1739120385758
+r1739120472908,3,"^More convenient for on-the-go portability$","1","",1,c1739120385758
+r1739120480448,3,"^More flavor variety$","1","",1,c1739120385758
+r1739120494571,3,"^Better taste$","1","",1,c1739120385758
+r1739120513493,3,"^Shaker bottles$","1","",1,c1739120385758
+r1739120522322,3,"^Water bottles \(squeeze and rigid\)$","1","",1,c1739120385758
+r1739120862875,3,"^To make or view payments$","1","",1,c20
+r1739120884380,3,"^Roadside assistance$","1","",1,c20
+r1739120899694,3,"^1 year to less than 2 years$","1","",1,c20
+r1739120921302,3,"^In-person, with a local agent$","1","",1,c20
+r1739120951017,3,"^I have never filed an auto insurance claim$","1","",1,c20
+r1739120971906,3,"^Home security system$","1","",1,c20
+r1739120978749,3,"^Smart locks$","1","",1,c20
+r1739121052124,3,"^I have never filed a homeowners insurance claim$","1","",1,c20
+r1739121230236,3,"^Retailer \(e\.g\. Best Buy, Amazon, or Costco\)$","1","",1,c1739121220805
+r1739121259701,3,"^24/7 Support and Onsite Repair$","1","",1,c1739121220805
+r1739121281066,3,"^Network Connectivity Boost$","1","",1,c1739121220805
+r1739121350264,3,"^Shampoo$","1","",1,c1739121340869
+r1739121355920,3,"^Conditioner$","1","",1,c1739121340869
+r1739121363427,3,"^Pet Deodorizing Sprays \(for fur\)$","1","",1,c1739121340869
+r1739121369755,3,"^Oral Care \(Pet Toothpaste, Toothbrushes, etc\.\)$","1","",1,c1739121340869
+r1739121394181,3,"^Pet-Specific Carpet Cleaner $","1","",1,c1739121340869
+r1739121412876,3,"^Online pet store \(Petco\.com, Chewy\.com, etc\)$","1","",1,c1739121340869
+r1739121421345,3,"^Veterinarian’s office$","1","",1,c1739121340869
+r1739121426748,3,"^Amazon\.com$","1","",1,c1739121340869
+r1739121462138,3,"^Yes, I purchase cleaning products that are specifically made for pet areas$","1","",1,c1739121340869
+r1739121495805,3,"^Pet Head$","1","",1,c1739121340869
+r1739121523039,3,"^I look for reviews and recommendations online before buying$","1","",1,c1739121340869
+r1739121533925,3,"^I have trusted brands that I usually buy from$","1","",1,c1739121340869
 r17392,3,"^Green bricks$","1","",1,c348
 r17393,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c348
 r17394,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c348
