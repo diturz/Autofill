@@ -717,6 +717,7 @@ c1739119981319,"Your Eatertainment Experiences","",,,,
 c1739120385758,"Your Gyms & Fitness Clubs Experiences","",,,,
 c1739121220805,"Laptop Support Package Consideration","",,,,
 c1739121340869,"All About Pets!","",,,,
+c1739329488191,"Shopping Survey","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -12183,6 +12184,13 @@ r1739121523039,3,"^I look for reviews and recommendations online before buying$"
 r1739121533925,3,"^I have trusted brands that I usually buy from$","1","",1,c1739121340869
 r17392,3,"^Green bricks$","1","",1,c348
 r17393,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c348
+r1739329493357,3,"^Club store \(Costco, Sam's Club, BJs\)$","1","",1,c1739329488191
+r1739329497505,3,"^Walmart$","1","",1,c1739329488191
+r1739329508684,3,"^Amazon$","1","",1,c1739329488191
+r1739329512170,3,"^Online Delivery Service \(Instacart, FreshDirect etc\)$","1","",1,c1739329488191
+r1739329515965,3,"^Target$","1","",1,c1739329488191
+r1739329519227,3,"^Local grocery chain$","1","",1,c1739329488191
+r1739329653729,3,"^White, Caucasian$","1","",1,c1739329488191
 r17394,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c348
 r17395,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c348
 r17396,3,"^Target$","1","",1,c348
