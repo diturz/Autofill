@@ -765,6 +765,7 @@ c1739663078843,"Tea Gifting","",,,,
 c1739663392259,"Buying Hot Sauce","",,,,
 c1739664128733,"Shaving Habits: What Drives Your Choices?","",,,,
 c1739665648577,"Hey there!","",,,,
+c1739883062914,"The Places You Shop","",,,,
 c174,"Experience with GLP-1s","crowdtap.com/dashboard","",,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
@@ -1500,7 +1501,6 @@ r1330,3,"^Doritos$","1","",1,c71
 r13300,3,"^YouTube$","1","",1,c20
 r13301,3,"^Twitch$","1","",1,c20
 r13302,3,"^Reddit$","1","",1,c20
-r13303,3,"^Snapchat$","1","",1,c20
 r13304,3,"^Facebook$","1","",1,c20
 r13305,3,"^Twitter$","1","",1,c20
 r13306,3,"^LinkedIn$","1","",1,c20
@@ -2034,7 +2034,6 @@ r1695,3,"^NFL$","1","",1,c89
 r16955,3,"^Laptop / desktop computer$","1","",1,c1729980882634
 r16956,3,"^Smartwatch$","1","",1,c1729980882634
 r16957,3,"^\$1200\+$","1","",1,c1729980882634
-r16958,3,"^Snapchat$","1","",1,c1729980882634
 r16959,3,"^Instagram$","1","",1,c1729980882634
 r1696,3,"^Soccer \(MLS, Premier League\)$","1","",1,c89
 r16960,3,"^Twitter$","1","",1,c1729980882634
@@ -2393,7 +2392,6 @@ r1729904583394,3,"^Radio$","1","",1,c1729903610996
 r1729904592481,3,"^Reddit$","1","",1,c1729903610996
 r1729904598175,3,"^Discord$","1","",1,c1729903610996
 r1729904604990,3,"^LinkedIn$","1","",1,c1729903610996
-r1729904612310,3,"^Snapchat$","1","",1,c1729903610996
 r1729904618273,3,"^YouTube$","1","",1,c1729903610996
 r1729904630207,3,"^X / Twitter$","1","",1,c1729903610996
 r1729904635409,3,"^Pinterest$","1","",1,c1729903610996
@@ -2544,7 +2542,6 @@ r1729914659280,3,"^More than 300 pages$","1","",1,c1729914417094
 r1729914702161,3,"^About weekly$","1","",1,c1729914417094
 r1729914743509,3,"^Instagram$","1","",1,c1729914735980
 r1729914749626,3,"^TikTok$","1","",1,c1729914735980
-r1729914754649,3,"^Snapchat$","1","",1,c1729914735980
 r1729914762439,3,"^Pinterest$","1","",1,c1729914735980
 r1729914769109,3,"^Facebook$","1","",1,c1729914735980
 r1729914774395,3,"^YouTube$","1","",1,c1729914735980
@@ -2718,7 +2715,6 @@ r1729918568843,3,"^Facebook$","1","",1,c1729918259152
 r1729918574254,3,"^X \(Twitter\)$","1","",1,c1729918259152
 r1729918579731,3,"^Instagram$","1","",1,c1729918259152
 r1729918584643,3,"^TikTok$","1","",1,c1729918259152
-r1729918589679,3,"^Snapchat$","1","",1,c1729918259152
 r1729918595859,3,"^Pinterest$","1","",1,c1729918259152
 r1729918602893,3,"^YouTube$","1","",1,c1729918259152
 r1729918609245,3,"^No$","1","",1,c1729918259152
@@ -3507,7 +3503,6 @@ r1730577666166,3,"^I purchased a smart watch and/or tablet with a monthly connec
 r1730578128571,3,"^TikTok$","1","",1,c1730578125032
 r1730578189616,3,"^X \(formerly Twitter\)$","1","",1,c1730578125032
 r1730578194061,3,"^Facebook$","1","",1,c1730578125032
-r1730578197796,3,"^Snapchat$","1","",1,c1730578125032
 r1730578201756,3,"^YouTube$","1","",1,c1730578125032
 r1730578206351,3,"^Pinterest$","1","",1,c1730578125032
 r1730578211419,3,"^Instagram$","1","",1,c1730578125032
@@ -3616,7 +3611,6 @@ r1730765812955,3,"^LinkedIn$","1","",1,c1730765788320
 r1730765816377,3,"^TikTok$","1","",1,c1730765788320
 r1730765820103,3,"^Instagram$","1","",1,c1730765788320
 r1730765824506,3,"^X \(formerly Twitter\)$","1","",1,c1730765788320
-r1730765828016,3,"^Snapchat$","1","",1,c1730765788320
 r1730766041612,3,"^I don’t know what VPN is\.$","1","",1,c1730765788320
 r1730766336576,3,"^Bird$","1","",1,c1730765788320
 r17308,3,"^Target$","1","",1,c344
@@ -3923,7 +3917,7 @@ r1730968876970,3,"^Manual disposable razor$","1","",1,c1730968616284
 r1730968884540,3,"^Electric razor$","1","",1,c1730968616284
 r1730968955755,3,"^3 blades$","1","",1,c1730968616284
 r1730968998270,3,"^Pocket lighters$","1","",1,c1730968616284
-r1730969052166,3,"^4 to 5$","1","",1,c1730968616284
+r1730969052166,3,"^2 to 3$","1","",1,c1730968616284
 r1730969071232,3,"^Once a week$","1","",1,c1730968616284
 r1730969086133,3,"^To light a grill/BBQ$","1","",1,c1730968616284
 r1730969093905,3,"^To light house candles$","1","",1,c1730968616284
@@ -4603,7 +4597,6 @@ r1731547508768,3,"^X \(Twitter\)$","1","",1,c1731546701422
 r1731547515676,3,"^WhatsApp$","1","",1,c1731546701422
 r1731547525881,3,"^Pinterest$","1","",1,c1731546701422
 r1731547532936,3,"^Facebook$","1","",1,c1731546701422
-r1731547541130,3,"^Snapchat$","1","",1,c1731546701422
 r1731547554041,3,"^TikTok$","1","",1,c1731546701422
 r1731547559853,3,"^Discord$","1","",1,c1731546701422
 r1731547569487,3,"^Twitch$","1","",1,c1731546701422
@@ -5082,7 +5075,6 @@ r1731729623495,3,"^Social media posts$","1","",1,c1731263449390
 r1731729629396,3,"^Videos$","1","",1,c1731263449390
 r1731729664656,3,"^Instagram$","1","",1,c1731263449390
 r1731729668129,3,"^Facebook$","1","",1,c1731263449390
-r1731729671064,3,"^Snapchat$","1","",1,c1731263449390
 r1731729674078,3,"^YouTube$","1","",1,c1731263449390
 r1731729677350,3,"^Pinterest$","1","",1,c1731263449390
 r1731729680510,3,"^Twitter/X$","1","",1,c1731263449390
@@ -5350,8 +5342,6 @@ r1731734651390,3,"^I am responsible for buying pet products for my household$","
 r1731734655475,3,"^Wet or semi-moist pet food$","1","",1,c1729980882634
 r1731734660143,3,"^Dry pet food$","1","",1,c1729980882634
 r1731734664377,3,"^Fresh or Raw pet food$","1","",1,c1729980882634
-r1731769984259,3,"^Ages 7-10$","1","",1,c1730968616284
-r1731769993690,3,"^Ages 13-17$","1","",1,c1730968616284
 r1731770224658,3,"^Green Supreme$","1","",1,c1731727797922
 r1731770421706,3,"^Lipton Unsweetened Iced Tea$","1","",1,c1731770408449
 r1731770429330,3,"^Pepsi$","1","",1,c1731770408449
@@ -5536,7 +5526,6 @@ r1731779673317,3,"^Instagram$","1","",1,c4
 r1731779683421,3,"^TikTok$","1","",1,c4
 r1731779689866,3,"^Pinterest$","1","",1,c4
 r1731779698403,3,"^X \(formerly Twitter\)$","1","",1,c4
-r1731779704807,3,"^Snapchat$","1","",1,c4
 r1731779711108,3,"^Facebook$","1","",1,c4
 r1731779716758,3,"^YouTube$","1","",1,c4
 r1731779891132,3,"^Somewhat likely$","1","",1,c1730356497312
@@ -6759,7 +6748,6 @@ r1733331151696,3,"^Amazon$","1","",1,c1733331007065
 r1733331160039,3,"^CVS$","1","",1,c1733331007065
 r1733331166017,3,"^Ulta$","1","",1,c1733331007065
 r1733331172687,3,"^Sephora$","1","",1,c1733331007065
-r1733331418880,3,"^I never/rarely order plant-based meat alternatives when dining out, as I prefer animal proteins\.$","1","",1,c119
 r1733331472511,3,"^Reading$","1","",1,c119
 r1733331478776,3,"^Running$","1","",1,c119
 r1733331488002,3,"^Video Games/Online Gaming$","1","",1,c119
@@ -7143,7 +7131,6 @@ r1733459858986,3,"^Sound bar$","1","",1,c1733459617092
 r1733459862696,3,"^Desktop/laptop$","1","",1,c1733459617092
 r1733459866800,3,"^Smartphone$","1","",1,c1733459617092
 r1733459902162,3,"^X \(Formerly known as Twitter\)$","1","",1,c1733459617092
-r1733459905877,3,"^Snapchat$","1","",1,c1733459617092
 r1733459909218,3,"^TikTok$","1","",1,c1733459617092
 r1733459912310,3,"^Discord$","1","",1,c1733459617092
 r1733459915851,3,"^Instagram$","1","",1,c1733459617092
@@ -7551,7 +7538,6 @@ r1733655720196,3,"^Apple$","1","",1,c1733655635568
 r1733655792611,3,"^No\. I am not using any paid health & fitness service$","1","",1,c1733655635568
 r1733655828871,3,"^Probably will$","1","",1,c1733655635568
 r1733655849717,3,"^Increase energy level$","1","",1,c1733655635568
-r1733655863605,3,"^Maintain weight$","1","",1,c1733655635568
 r1733655872667,3,"^Promote relaxation or reduce stress$","1","",1,c1733655635568
 r1733655969763,3,"^1-2 times$","1","",1,c1733655635568
 r1733656002193,3,"^Boxers$","1","",1,c1733655993586
@@ -7591,7 +7577,6 @@ r1733656890770,3,"^Wireless earbuds/headphones \(e\.g\. AirPods, Samsung Galaxy 
 r1733656906709,3,"^Tablet \(e\.g\. iPad, Surface, Galaxy Tablet, etc\.\)$","1","",1,c1732191984249
 r1733656914125,3,"^Smartphone \(e\.g\. iPhone, Android phone, etc\.\)$","1","",1,c1732191984249
 r1733656919482,3,"^Desktop or laptop computer$","1","",1,c1732191984249
-r1733657182096,3,"^Somewhat satisfied$","1","",1,c1733655635568
 r1733657201594,3,"^Ford$","1","",1,c17
 r1733659160720,3,"^Wellness Real Eats Green 2$","1","",1,c1733659151662
 r1733659719082,3,"^Cheese Tortellini$","1","",1,c1733659684320
@@ -9443,7 +9428,6 @@ r1734985131617,3,"^Tropicana$","1","",1,c1734985044039
 r1734985143395,3,"^Gatorade$","1","",1,c1734985044039
 r1734985197743,3,"^5 - very important$","1","",1,c1734985044039
 r1734985260269,3,"^Chipotle$","1","",1,c119
-r1734985372620,3,"^12 - 24 times$","1","",1,c119
 r1734985384901,3,"^DINE-IN in person at a Chipotle restaurant$","1","",1,c119
 r1734985395734,3,"^TAKE-OUT in-person at a Chipotle restaurant$","1","",1,c119
 r1734985405470,3,"^DELIVERY through Chipotle's app/website$","1","",1,c119
@@ -9497,7 +9481,6 @@ r1735030087573,3,"^X / Twitter$","1","",1,c1735029501036
 r1735030099198,3,"^TikTok$","1","",1,c1735029501036
 r1735030114820,3,"^Youtube$","1","",1,c1735029501036
 r1735030125468,3,"^Instagram$","1","",1,c1735029501036
-r1735030132997,3,"^Snapchat$","1","",1,c1735029501036
 r1735030164110,3,"^I am the primary shopper for groceries in my household$","1","",1,c1735030153130
 r1735030182506,3,"^Club \(Costco, Sam’s Club, BJ’s\)$","1","",1,c1735030153130
 r1735030188311,3,"^Mass Merchandiser \(Target, Walmart\)$","1","",1,c1735030153130
@@ -9526,7 +9509,6 @@ r1735031276204,3,"^Facebook$","1","",1,c1735030701488
 r1735031280998,3,"^Discord$","1","",1,c1735030701488
 r1735031287552,3,"^Telegram$","1","",1,c1735030701488
 r1735031292693,3,"^Tik Tok$","1","",1,c1735030701488
-r1735031297190,3,"^Snapchat$","1","",1,c1735030701488
 r1735031301910,3,"^WhatsApp$","1","",1,c1735030701488
 r1735031307836,3,"^Instagram$","1","",1,c1735030701488
 r1735031658132,3,"^Be an additional purchase to the digestive supplements I currently buy$","1","",1,c1735031611829
@@ -9560,7 +9542,6 @@ r1735033282455,3,"^Salty snacks \(e\.g\., chips, pretzels, popcorn\)$","1","",1,
 r1735033326191,3,"^This product has similar packaging$","1","",1,c1735032852847
 r1735033361855,3,"^Low sodium$","1","",1,c1735032852847
 r1735033505093,3,"^X \(formerly Twitter\)$","1","",1,c1734055203556
-r1735033509624,3,"^Snapchat$","1","",1,c1734055203556
 r1735033519645,3,"^TikTok$","1","",1,c1734055203556
 r1735033531495,3,"^Instagram$","1","",1,c1734055203556
 r1735033537833,3,"^YouTube$","1","",1,c1734055203556
@@ -10771,7 +10752,6 @@ r1736877161173,3,"^Gone on social media$","1","",1,c1736877102588
 r1736877705625,3,"^2 hours – 3 hours$","1","",1,c1736877102588
 r1736878736107,3,"^YouTube$","1","",1,c1736877102588
 r1736878790533,3,"^Facebook$","1","",1,c1736877102588
-r1736878796841,3,"^Snapchat$","1","",1,c1736877102588
 r1736878802305,3,"^Twitch$","1","",1,c1736877102588
 r1736878808513,3,"^TikTok$","1","",1,c1736877102588
 r1736878823451,3,"^LinkedIn$","1","",1,c1736877102588
@@ -10881,7 +10861,6 @@ r1736890427425,3,"^Wendy's$","1","",1,c1736890400679
 r1736890433916,3,"^McDonald's$","1","",1,c1736890400679
 r1736891685147,3,"^Telegram$","1","",1,c1736890400679
 r1736891690672,3,"^Facebook Messenger$","1","",1,c1736890400679
-r1736891695665,3,"^Snapchat$","1","",1,c1736890400679
 r1736891706764,3,"^iMessage$","1","",1,c1736890400679
 r1736891711361,3,"^Discord$","1","",1,c1736890400679
 r1736891716373,3,"^WhatsApp$","1","",1,c1736890400679
@@ -12301,8 +12280,6 @@ r1739400338565,3,"^Probably would buy$","1","",1,c1739400310549
 r1739400363312,3,"^Irish Spring National Park Edition: Glacier \(The Scent of Crisp Mountain Air\)$","1","",1,c1739400310549
 r1739401151073,3,"^Customer Service$","1","",1,c20
 r1739401177177,3,"^No, have never participated$","1","",1,c20
-r1739401201710,3,"^Child\(ren\) ages 13-15$","1","",1,c20
-r1739401206859,3,"^Child\(ren\) ages 12 or younger$","1","",1,c20
 r1739401211832,3,"^Partner / Spouse$","1","",1,c20
 r1739401393644,3,"^Pre-workout drinks$","1","",1,c179
 r1739401398973,3,"^Electrolyte powders/sport drink powders \(mix-ins or tablets\)$","1","",1,c179
@@ -12900,6 +12877,32 @@ r1739667469643,3,"^Budget spreadsheet$","1","",1,c1729921702855
 r1739667489120,3,"^30-60 minutes$","1","",1,c1729921702855
 r17397,3,"^Walmart$","1","",1,c348
 r17398,3,"^Shopping experience$","1","",1,c348
+r1739881665977,3,"^LTE Connected Smartwatch \(with Internet connection, typically with monthly data plan you pay for\)$","1","",1,c1733655635568
+r1739881775146,3,"^Lose weight$","1","",1,c1733655635568
+r1739881879398,3,"^Improve my eating habits$","1","",1,c1733655635568
+r1739881889399,3,"^Lose weight$","1","",1,c1733655635568
+r1739881902325,3,"^Improve sleep time and quality$","1","",1,c1733655635568
+r1739881962892,3,"^Somewhat dissatisfied$","1","",1,c1733655635568
+r1739882362926,3,"^Grocery Chain \(Wegman’s, Publix, Kroger, Shop Rite\)$","1","",1,c18
+r1739882479436,3,"^Gift for Children$","1","",1,c18
+r1739882733708,3,"^7-Eleven$","1","",1,c1730968616284
+r1739883082309,3,"^Pet supply stores \(such as Petco & PetSmart\)$","1","",1,c1739883062914
+r1739883104581,3,"^Home improvement stores \(such as Home Depot & Harbor Freight Tools\)$","1","",1,c1739883062914
+r1739883108302,3,"^Electronics stores \(such as Best Buy & Fry's Electronics\)$","1","",1,c1739883062914
+r1739883144868,3,"^Twice$","1","",1,c1739883062914
+r1739883164553,3,"^Best Buy$","1","",1,c1739883062914
+r1739883184966,3,"^Twice$","1","",1,c1739883062914
+r1739883233326,3,"^Petco$","1","",1,c1739883062914
+r1739883238232,3,"^PetSmart$","1","",1,c1739883062914
+r1739883325204,3,"^Mid-tier: traditional gyms costing \$25-\$50 in monthly membership fees \(e\.g\., Gold's Gym; LA Fitness\)$","1","",1,c1739119792356
+r1739883909040,3,"^Smart home assistant device \(e\.g\., Amazon Echo, Nest Hub\)$","1","",1,c41
+r1739883929694,3,"^Home gym equipment \(e\.g\., basic treadmill, stationary bike, weights\)$","1","",1,c41
+r1739886766627,3,"^I sometimes order plant-based meat alternatives when dining out, but also purchase meat products$","1","",1,c119
+r1739886830408,3,"^Gambling / Sports Betting$","1","",1,c119
+r1739886875225,3,"^4 - 11 times$","1","",1,c119
+r1739887957645,3,"^Granola$","1","",1,c41
+r1739888022774,3,"^KIND$","1","",1,c41
+r1739888059779,3,"^Tortilla Chips$","1","",1,c41
 r17399,3,"^Convenient store location$","1","",1,c348
 r174,3,"^Yes, but mostly after the 'promo code' box reminds me on the checkout page$","1","",1,c9
 r1740,3,"^Celebrity endorsements$","1","",1,c90
@@ -13071,7 +13074,6 @@ r17549,3,"^Whole Foods$","1","",1,c362
 r1755,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
 r17550,3,"^Instacart$","1","",1,c362
 r17551,3,"^Sam’s Club$","1","",1,c362
-r17552,3,"^Snapchat$","1","",1,c362
 r17553,3,"^Reddit$","1","",1,c362
 r17554,3,"^Twitter/X$","1","",1,c362
 r17555,3,"^Threads$","1","",1,c362
@@ -13235,7 +13237,6 @@ r17702,3,"^Instagram$","1","",1,c372
 r17703,3,"^X \(Twitter\)$","1","",1,c372
 r17704,3,"^LinkedIn$","1","",1,c372
 r17705,3,"^TikTok$","1","",1,c372
-r17706,3,"^Snapchat$","1","",1,c372
 r17707,3,"^Threads$","1","",1,c372
 r17708,3,"^Somewhat bothered$","1","",1,c373
 r17709,3,"^Agree somewhat$","1","",1,c373
@@ -13511,7 +13512,6 @@ r17957,3,"^Finance$","1","",1,c376
 r17958,3,"^Instagram$","1","",1,c376
 r17959,3,"^Pinterest$","1","",1,c376
 r1796,3,"^Sony$","1","",1,c94
-r17960,3,"^Snapchat$","1","",1,c376
 r17961,3,"^YouTube$","1","",1,c376
 r17962,3,"^X$","1","",1,c376
 r17963,3,"^Twitch/Kick$","1","",1,c376
@@ -13641,7 +13641,6 @@ r18073,3,"^LinkedIn$","1","",1,c389
 r18074,3,"^Reddit$","1","",1,c389
 r18075,3,"^Pinterest$","1","",1,c389
 r18076,3,"^TikTok$","1","",1,c389
-r18077,3,"^Snapchat$","1","",1,c389
 r18078,3,"^Twitter$","1","",1,c389
 r18079,3,"^No - not of Hispanic, Latino, or Spanish origin$","1","",1,c389
 r1808,3,"^Better product selection$","1","",1,c94
@@ -14004,7 +14003,6 @@ r1840,3,"^Herbal & Natural Remedies \(e\.g\., echinacea, turmeric, ginseng, esse
 r18400,3,"^Aveeno$","1","",1,c418
 r18401,3,"^CeraVe$","1","",1,c418
 r18402,3,"^Reddit$","1","",1,c418
-r18403,3,"^Snapchat$","1","",1,c418
 r18404,3,"^TikTok$","1","",1,c418
 r18405,3,"^X \(Formerly known as Twitter\)$","1","",1,c418
 r18406,3,"^Facebook$","1","",1,c418
@@ -14754,7 +14752,6 @@ r19085,3,"^Television – Streaming \(e\.g\., Netflix, Hulu, Max\)$","1","",1,c4
 r19086,3,"^Television – Cable \(e\.g\., ABC, Fox, NBC, CBS\)$","1","",1,c442
 r19087,3,"^Online Publications \(e\.g\., NYTimes, Bon Appetit, Food&Wine, Fox News\)$","1","",1,c442
 r19088,3,"^Reddit$","1","",1,c442
-r19089,3,"^Snapchat$","1","",1,c442
 r19090,3,"^TikTok$","1","",1,c442
 r19091,3,"^LinkedIn$","1","",1,c442
 r19092,3,"^Twitch$","1","",1,c442
@@ -14852,7 +14849,6 @@ r19175,3,"^Pedigree$","1","",1,c451
 r19176,3,"^Purina$","1","",1,c451
 r19177,3,"^Enjoyment and taste are most important when feeding my dog and I often indulge them with treats\.$","1","",1,c451
 r19178,3,"^Twitch$","1","",1,c451
-r19179,3,"^Snapchat$","1","",1,c451
 r1918,3,"^Mass merchandiser/supercenter stores \(Walmart, Target, etc\.\)$","1","",1,c100
 r19180,3,"^Reddit$","1","",1,c451
 r19181,3,"^Twitter / X$","1","",1,c451
@@ -15368,7 +15364,6 @@ r19640,3,"^TikTok$","1","",1,c469
 r19641,3,"^Instagram$","1","",1,c469
 r19642,3,"^Twitter$","1","",1,c469
 r19643,3,"^Linkedin$","1","",1,c469
-r19644,3,"^Snapchat$","1","",1,c469
 r19645,3,"^Pinterest$","1","",1,c469
 r19646,3,"^Facebook$","1","",1,c469
 r19647,3,"^International Delight Cinnabon Creamer$","1","",1,c469
@@ -15635,7 +15630,6 @@ r19884,3,"^Going to the movies$","1","",1,c417
 r19885,3,"^Facebook$","1","",1,c417
 r19886,3,"^Pinterest$","1","",1,c417
 r19887,3,"^TikTok$","1","",1,c417
-r19888,3,"^Snapchat$","1","",1,c417
 r19889,3,"^YouTube$","1","",1,c417
 r1989,3,"^Gourmet gift baskets \(e\.g\. Harry & David\)$","1","",1,c15
 r19890,3,"^Instagram$","1","",1,c417
@@ -15728,7 +15722,6 @@ r19969,3,"^X \(Twitter\)$","1","",1,c500
 r1997,3,"^Juice drinks$","1","",1,c103
 r19970,3,"^Pinterest$","1","",1,c500
 r19971,3,"^Reddit$","1","",1,c500
-r19972,3,"^Snapchat$","1","",1,c500
 r19973,3,"^Discord$","1","",1,c500
 r19974,3,"^Instagram$","1","",1,c500
 r19975,3,"^Facebook$","1","",1,c500
@@ -16444,7 +16437,6 @@ r20628,3,"^LinkedIn$","1","",1,c41
 r20629,3,"^Threads$","1","",1,c41
 r2063,3,"^No concerns$","1","",1,c105
 r20630,3,"^YouTube$","1","",1,c41
-r20631,3,"^Snapchat$","1","",1,c41
 r20632,3,"^Instagram$","1","",1,c41
 r20633,3,"^Reddit$","1","",1,c41
 r20634,3,"^Twitter/X$","1","",1,c41
@@ -17773,7 +17765,6 @@ r2707,3,"^Moisture / Hydration$","1","",1,c130
 r2708,3,"^Facebook$","1","",1,c130
 r2709,3,"^YouTube$","1","",1,c130
 r271,3,"^Better product displays$","1","",1,c13
-r2710,3,"^Snapchat$","1","",1,c130
 r2711,3,"^Instagram$","1","",1,c130
 r2712,3,"^Twitter/X$","1","",1,c130
 r2713,3,"^Threads$","1","",1,c130
@@ -18414,7 +18405,6 @@ r3303,3,"^Online Publications \(e\.g\., NYTimes, Bon Appetit, Food&Wine, Fox New
 r3304,3,"^Music streaming \(e\.g\., Spotify, Apple Music, Pandora\)$","1","",1,c163
 r3305,3,"^Television - Streaming \(e\.g\., Netflix, Hulu, Max\)$","1","",1,c163
 r3306,3,"^Twitter/X$","1","",1,c163
-r3307,3,"^Snapchat$","1","",1,c163
 r3308,3,"^Discord$","1","",1,c163
 r3309,3,"^YouTube$","1","",1,c163
 r331,3,"^Prepackaged Cookies \(Keebler, Oreo, Chips Ahoy, Pepperidge Farm\)$","1","",1,c18
@@ -18516,7 +18506,6 @@ r3397,3,"^Google One$","1","",1,c17
 r3398,3,"^Apple \(iCloud / Apple One\)$","1","",1,c17
 r3399,3,"^Netflix$","1","",1,c17
 r34,3,"^I have teenage children, 13-18 yrs old$","1","",1,c1
-r340,3,"^Amazon$","1","",1,c18
 r3400,3,"^Spotify$","1","",1,c17
 r3401,3,"^Apple One$","1","",1,c17
 r3402,3,"^Google Play$","1","",1,c17
@@ -18716,7 +18705,6 @@ r3591,3,"^Every Man Jack$","1","",1,c171
 r3592,3,"^No$","1","",1,c171
 r3593,3,"^\$21\+$","1","",1,c171
 r3594,3,"^Acne$","1","",1,c171
-r3595,3,"^Snapchat$","1","",1,c171
 r3596,3,"^Discord$","1","",1,c171
 r3597,3,"^Facebook$","1","",1,c171
 r3598,3,"^Twitter$","1","",1,c171
@@ -19403,7 +19391,6 @@ r5258,3,"^Pinterest$","1","",1,c4
 r5259,3,"^Discord$","1","",1,c4
 r526,3,"^I have never used a personal fitness trainer or coach$","1","",1,c27
 r5260,3,"^X \(formerly Twitter\)$","1","",1,c4
-r5261,3,"^Snapchat$","1","",1,c4
 r5262,3,"^Instagram$","1","",1,c4
 r5263,3,"^YouTube$","1","",1,c4
 r5264,3,"^Fitness/Wellness$","1","",1,c4
@@ -20115,7 +20102,6 @@ r7241,3,"^Costco Membership$","1","",1,c64
 r7242,3,"^Productivity apps \(e\.g\., note taking, to do lists, calendars, etc\.\)$","1","",1,c1729980882634
 r7243,3,"^Food delivery apps$","1","",1,c1729980882634
 r7244,3,"^TV / Video streaming apps \(e\.g\., Netflix, Hulu, Peacock, etc\.\)$","1","",1,c1729980882634
-r7245,3,"^Social media apps \(e\.g\., Instagram, Facebook, TikTok, Snapchat, etc\.\)$","1","",1,c1729980882634
 r7246,3,"^Music streaming apps \(e\.g\., Spotify, Apple Music, Pandora, etc\.\)$","1","",1,c1729980882634
 r7247,3,"^Health & wellness apps \(e\.g\., overall health tracking, fitness tracking, sleep tracking, weight management, meditation, menstrual tracking, etc\.\)$","1","",1,c1729980882634
 r7248,3,"^Learning Apps \(e\.g\. Duolingo\)$","1","",1,c1729980882634
