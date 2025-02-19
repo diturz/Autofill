@@ -11997,7 +11997,6 @@ r1738966622089,3,"^Listening to music$","1","",1,c5
 r1738966627909,3,"^Outdoor activities, such as hiking or camping$","1","",1,c5
 r1738966632785,3,"^Watching movies or TV$","1","",1,c5
 r1738966664621,3,"^Urban$","1","",1,c5
-r1738966747601,3,"^It’s good, but there may be occasional issues$","1","",1,c5
 r1738967296480,3,"^Wireless earbuds$","1","",1,c15
 r1738967300634,3,"^Headphones \(e\.g\., Wired/On or Over ear\)$","1","",1,c15
 r1738968009284,3,"^Candles$","1","",1,c166
@@ -12920,6 +12919,30 @@ r1739910900278,3,"^HomeGoods$","1","",1,c1739883062914
 r1739910914682,3,"^Harbor Freight Tools$","1","",1,c1739883062914
 r1739910942540,3,"^Office Depot$","1","",1,c1739883062914
 r1739916147837,3,"^Monster$","1","",1,c496
+r1739981638270,3,"^Unlimited Data$","1","",1,c439
+r1739981650615,3,"^A pre-paid data plan$","1","",1,c439
+r1739981694809,3,"^Alarm\.com$","1","",1,c439
+r1739981718647,3,"^Verizon FiOS \(Internet or TV\)$","1","",1,c439
+r1739981730018,3,"^Verizon / Verizon Wireless \(Mobile Phone / Home Security / Automation\)$","1","",1,c439
+r1739981767085,3,"^Verizon 5G home internet$","1","",1,c439
+r1739981832960,3,"^Blood pressure or glucose monitor \(non-connected\)$","1","",1,c439
+r1739982003696,3,"^Somewhat dissatisfied$","1","",1,c439
+r1739988064974,3,"^Arts and Crafts Stores \(e\.g\. Michael’s, Hobby Lobby, etc\.\)$","1","",1,c1730968616284
+r1739988075316,3,"^Other Online shopping locations \(i\.e\. ebay\.com, etsy\.com, etc\.\)$","1","",1,c1730968616284
+r1739988113882,3,"^Circle K$","1","",1,c1730968616284
+r1739988124188,3,"^Speedway$","1","",1,c1730968616284
+r1739988142116,3,"^USB/Electric lighters$","1","",1,c1730968616284
+r1739988170592,3,"^To prepare for an emergency$","1","",1,c1730968616284
+r1739988305640,3,"^Discount stores \(such as Dollar General & Five Below\)$","1","",1,c1739883062914
+r1739988460781,3,"^Nordstrom$","1","",1,c1739883062914
+r1739988473608,3,"^Macy’s$","1","",1,c1739883062914
+r1739988539486,3,"^Ace Hardware$","1","",1,c1739883062914
+r1739988941272,3,"^Baseball \(such as Home Run Dugout and Batbox\)$","1","",1,c1739883062914
+r1739988950471,3,"^Golf \(such as Topgolf and Putt Shack\)$","1","",1,c1739883062914
+r1739988970345,3,"^Gaming & Simulated Experiences \(such as MB2 or F1 Arcade\)$","1","",1,c1739883062914
+r1739989222831,3,"^Volunteering and community service$","1","",1,c1739883062914
+r1739989228988,3,"^Exercising and fitness$","1","",1,c1739883062914
+r1739989289989,3,"^It’s excellent\. I never have any issues$","1","",1,c5
 r174,3,"^Yes, but mostly after the 'promo code' box reminds me on the checkout page$","1","",1,c9
 r1740,3,"^Celebrity endorsements$","1","",1,c90
 r17400,3,"^Sephora$","1","",1,c348
@@ -14642,7 +14665,6 @@ r18973,3,"^4-6$","1","",1,c439
 r18974,3,"^All members of the household use same mobile provider, but their lines are NOT ALL on the same plan$","1","",1,c439
 r18975,3,"^Unlimited Data$","1","",1,c439
 r18976,3,"^A pre-paid data plan$","1","",1,c439
-r18977,3,"^Do not have a home security system$","1","",1,c439
 r18979,3,"^Somewhat likely$","1","",1,c439
 r1898,3,"^YouTube$","1","",1,c98
 r18980,3,"^Single family home detached home$","1","",1,c439
