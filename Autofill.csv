@@ -1849,7 +1849,6 @@ r1592,3,"^Private Label for Hair Re-Growth with Minoxidil \(i\.e\., Great Value,
 r1593,3,"^1\. Unnoticeable hair thinning around the temples or hairline$","1","",1,c82
 r1594,3,"^I have started searching around and still not using anything$","1","",1,c82
 r1595,3,"^No$","1","",1,c82
-r1596,3,"^Aging \(it has become thinner of lack of volume as I aged\)$","1","",1,c82
 r1597,3,"^Accounting & Finance$","1","",1,c83
 r1598,3,"^10-13$","1","",1,c84
 r1599,3,"^Over 13$","1","",1,c84
@@ -3357,7 +3356,6 @@ r1730356526897,3,"^Somewhat likely$","1","",1,c1730356497312
 r1730356532163,3,"^Yes$","1","",1,c1730356497312
 r1730356540406,3,"^Occasionally \(Once a month\)$","1","",1,c1730356497312
 r1730356586392,3,"^I am the sole decision-maker$","1","",1,c541
-r1730356752231,3,"^\$60,000\+$","1","",1,c23
 r1730356766857,3,"^Over-the-counter Allergy medication$","1","",1,c23
 r1730356770196,3,"^Over-the-counter nausea medication$","1","",1,c23
 r1730356778787,3,"^Over-the-counter Cough/congestion, Cold/flu, Sinus, or Sore throat relief products$","1","",1,c23
@@ -4983,7 +4981,6 @@ r1731720876867,3,"^Energy drinks$","1","",1,c1731720802915
 r1731720894827,3,"^A few times a week$","1","",1,c1731720802915
 r1731720906829,3,"^Red Bull$","1","",1,c1731720802915
 r1731720909874,3,"^Alani Nu$","1","",1,c1731720802915
-r1731720913234,3,"^Bang$","1","",1,c1731720802915
 r1731720917290,3,"^Prime$","1","",1,c1731720802915
 r1731720924361,3,"^CELSIUS$","1","",1,c1731720802915
 r1731720964503,3,"^Costco$","1","",1,c1731720802915
@@ -5067,7 +5064,6 @@ r1731728799031,3,"^Supermarkets$","1","",1,c1731263449390
 r1731728804274,3,"^Mass Merchandisers$","1","",1,c1731263449390
 r1731728992485,3,"^Before workout$","1","",1,c1731263449390
 r1731728996556,3,"^During workout$","1","",1,c1731263449390
-r1731729305723,3,"^Bang$","1","",1,c1731263449390
 r1731729309562,3,"^Celsius$","1","",1,c1731263449390
 r1731729313396,3,"^Red Bull$","1","",1,c1731263449390
 r1731729318423,3,"^Alani Nu$","1","",1,c1731263449390
@@ -12882,7 +12878,6 @@ r1739881775146,3,"^Lose weight$","1","",1,c1733655635568
 r1739881879398,3,"^Improve my eating habits$","1","",1,c1733655635568
 r1739881889399,3,"^Lose weight$","1","",1,c1733655635568
 r1739881902325,3,"^Improve sleep time and quality$","1","",1,c1733655635568
-r1739881962892,3,"^Somewhat dissatisfied$","1","",1,c1733655635568
 r1739882362926,3,"^Grocery Chain \(Wegman’s, Publix, Kroger, Shop Rite\)$","1","",1,c18
 r1739882479436,3,"^Gift for Children$","1","",1,c18
 r1739882733708,3,"^7-Eleven$","1","",1,c1730968616284
@@ -12904,6 +12899,27 @@ r1739887957645,3,"^Granola$","1","",1,c41
 r1739888022774,3,"^KIND$","1","",1,c41
 r1739888059779,3,"^Tortilla Chips$","1","",1,c41
 r17399,3,"^Convenient store location$","1","",1,c348
+r1739908925417,3,"^Keranique$","1","",1,c82
+r1739909079186,3,"^External conditions \(water, sun, pollution\)$","1","",1,c82
+r1739909364970,3,"^Disposable household goods and cleaning supplies$","1","",1,c40
+r1739909376477,3,"^Sporting goods$","1","",1,c40
+r1739909379165,3,"^Interior home decor$","1","",1,c40
+r1739909385138,3,"^Automotive repair/accessories$","1","",1,c40
+r1739909390344,3,"^Bedding and bath products$","1","",1,c40
+r1739909398379,3,"^Home improvement products$","1","",1,c40
+r1739909428287,3,"^Smart home devices/accessories$","1","",1,c40
+r1739909450714,3,"^School or home office furniture/supplies$","1","",1,c40
+r1739909459928,3,"^Personal care products$","1","",1,c40
+r1739909918488,3,"^Office supply stores \(such as Staples & Office Depot\)$","1","",1,c1739883062914
+r1739909929758,3,"^Home decor stores \(such as HomeGoods\)$","1","",1,c1739883062914
+r1739909937157,3,"^Discount stores \(such as Dollar General & Five Below$","1","",1,c1739883062914
+r1739909945234,3,"^Auto supply stores \(such as AutoZone & Advanced Auto Parts\)$","1","",1,c1739883062914
+r1739910838199,3,"^AutoZone$","1","",1,c1739883062914
+r1739910859184,3,"^Ross$","1","",1,c1739883062914
+r1739910900278,3,"^HomeGoods$","1","",1,c1739883062914
+r1739910914682,3,"^Harbor Freight Tools$","1","",1,c1739883062914
+r1739910942540,3,"^Office Depot$","1","",1,c1739883062914
+r1739916147837,3,"^Monster$","1","",1,c496
 r174,3,"^Yes, but mostly after the 'promo code' box reminds me on the checkout page$","1","",1,c9
 r1740,3,"^Celebrity endorsements$","1","",1,c90
 r17400,3,"^Sephora$","1","",1,c348
@@ -13384,7 +13400,6 @@ r17839,3,"^Pepsi Zero$","1","",1,c382
 r17840,3,"^Olipop$","1","",1,c382
 r17841,3,"^Red Bull$","1","",1,c382
 r17842,3,"^Alani Nu$","1","",1,c382
-r17843,3,"^Bang$","1","",1,c382
 r17844,3,"^Arizona$","1","",1,c382
 r17845,3,"^8\. There are no sugar substitutes I avoid$","1","",1,c382
 r17846,3,"^I am buying the same amount of Regular/Full Calorie Soft Drinks$","1","",1,c382
@@ -13482,7 +13497,6 @@ r1793,3,"^TV$","1","",1,c94
 r17930,3,"^Alani Nu$","1","",1,c376
 r17931,3,"^Red Bull$","1","",1,c376
 r17932,3,"^Starbucks Ready To Drink Coffee$","1","",1,c376
-r17933,3,"^Bang$","1","",1,c376
 r17934,3,"^Prime$","1","",1,c376
 r17935,3,"^A few times per week$","1","",1,c376
 r17936,3,"^About the same$","1","",1,c376
@@ -15680,7 +15694,6 @@ r19930,3,"^Immunity, vitamin, or health shots$","1","",1,c496
 r19931,3,"^Every day$","1","",1,c496
 r19932,3,"^Red Bull$","1","",1,c496
 r19933,3,"^Alani Nu$","1","",1,c496
-r19934,3,"^Bang$","1","",1,c496
 r19935,3,"^None, I would consider any of these brands$","1","",1,c496
 r19936,3,"^Pepperidge Farm \(e\.g Milano, Farmhouse, Chocolate Chunk Classic\)$","1","",1,c498
 r19937,3,"^Chips Ahoy!$","1","",1,c498
@@ -17704,7 +17717,6 @@ r2649,3,"^Prime Energy$","1","",1,c127
 r2650,3,"^Red Bull$","1","",1,c127
 r2651,3,"^Celsius$","1","",1,c127
 r2653,3,"^Rockstar$","1","",1,c127
-r2654,3,"^Bang$","1","",1,c127
 r2655,3,"^Alani Nu$","1","",1,c127
 r2656,3,"^Daily$","1","",1,c127
 r2657,3,"^Spending time with friends/family$","1","",1,c127
@@ -19290,7 +19302,6 @@ r5054,3,"^Plant-based beverages \(e\.g\., soy milk, hemp milk\)$","1","",1,c4
 r5055,3,"^Sparkling water$","1","",1,c4
 r5056,3,"^Smoothies$","1","",1,c4
 r5057,3,"^Flavored water$","1","",1,c4
-r5058,3,"^A few times a week$","1","",1,c23
 r5059,3,"^Sprite$","1","",1,c23
 r506,3,"^Stress relief/manage anxiety$","1","",1,c27
 r5060,3,"^Coca-Cola$","1","",1,c23
@@ -20344,7 +20355,6 @@ r846,3,"^Increased slightly$","1","",1,c39
 r847,3,"^Choosing brands with eco-friendly packaging$","1","",1,c39
 r848,3,"^IKEA$","1","",1,c40
 r849,3,"^The Home Depot$","1","",1,c40
-r850,3,"^Amazon$","1","",1,c40
 r851,3,"^Walmart$","1","",1,c40
 r852,3,"^Target$","1","",1,c40
 r853,3,"^In-store$","1","",1,c40
