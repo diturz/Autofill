@@ -774,6 +774,18 @@ c1740027885084,"Payment tools you use","",,,,
 c1740027948713,"All about collabs - Snack Food and Fast Food restaurant menu item","",,,,
 c1740029477218,"Adult Cat Food","",,,,
 c1740029997487,"How you use technology!","",,,,
+c1740034232323,"Headphone owners - we need you!","",,,,
+c1740037367282,"Calling all Smartphone Users!","",,,,
+c1740037537195,"Let's talk about Wheat Thins!","",,,,
+c1740038120565,"Household Questions - Q1 2025","",,,,
+c1740038646408,"Audio Electronics are a part of our everyday lives!","",,,,
+c1740039170014,"Quick & Easy Survey about Freelancing & Artificial Intelligence!","",,,,
+c1740039911827,"About energy drinks!","",,,,
+c1740040071369,"Using Hot Sauce","",,,,
+c1740040567250,"Quick Survey About Products You Use!","",,,,
+c1740040758551,"Traveling and you!","",,,,
+c1740041290195,"Valentine's","",,,,
+c1740041529153,"Airline opinions & you!","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -3785,7 +3797,6 @@ r1730960837434,3,"^No, I didn’t know I can do that$","1","",1,c1730960318258
 r1730960842502,3,"^Lack of variety of options$","1","",1,c1730960318258
 r1730960847560,3,"^Didn’t know about it$","1","",1,c1730960318258
 r1730960852567,3,"^Disliked the watch faces that are available for download$","1","",1,c1730960318258
-r1730961426314,3,"^Finance$","1","",1,c1730855985550
 r1730961436336,3,"^2$","1","",1,c1730855985550
 r1730961445209,3,"^9-11$","1","",1,c1730855985550
 r1730961453906,3,"^12-14$","1","",1,c1730855985550
@@ -5161,7 +5172,6 @@ r1731731150468,3,"^Entertainment/streaming \(videos, music, etc\.\)$","1","",1,c
 r1731731155355,3,"^Work/professional use$","1","",1,c1731730926092
 r1731731160432,3,"^General browsing and productivity tasks$","1","",1,c1731730926092
 r1731731225860,3,"^0 to 1 year ago$","1","",1,c1731730926092
-r1731731238814,3,"^\$2,000-\$2,499$","1","",1,c1731730926092
 r1731731252309,3,"^16-inch$","1","",1,c1731730926092
 r1731731260596,3,"^I will probably buy a Windows laptop$","1","",1,c1731730926092
 r1731731455661,3,"^Home decor items$","1","",1,c1731731451527
@@ -8298,7 +8308,6 @@ r1733879017630,3,"^Oreo Cakesters$","1","",1,c5
 r1733879026568,3,"^Nabisco Handi-Snacks \(Oreo, Ritz dippers\)$","1","",1,c5
 r1733879086254,3,"^I am the primary decision-maker$","1","",1,c1733879076724
 r1733879110304,3,"^Verizon$","1","",1,c1733879076724
-r1733879370198,3,"^A financial services / accounting firm or department$","1","",1,c538
 r1733879419642,3,"^Bertolli$","1","",1,c538
 r1733879673785,3,"^5 - 12 years of age$","1","",1,c1731550064486
 r1733879681539,3,"^13 - 17 years of age$","1","",1,c1731550064486
@@ -12611,7 +12620,6 @@ r1739413506844,3,"^Takis$","1","",1,c1735057490096
 r1739413510934,3,"^Doritos$","1","",1,c1735057490096
 r1739413515227,3,"^Lay’s$","1","",1,c1735057490096
 r1739413519108,3,"^Ruffles$","1","",1,c1735057490096
-r1739413523063,3,"^Pringles$","1","",1,c1735057490096
 r1739413607385,3,"^Takis rolled tortilla chips$","1","",1,c1735057490096
 r1739413621719,3,"^Fuego \(Spicy Chili Pepper and Lime\)$","1","",1,c1735057490096
 r1739413630048,3,"^Facebook$","1","",1,c1735057490096
@@ -12731,7 +12739,6 @@ r1739658677698,3,"^Employed full time$","1","",1,c1739658673299
 r1739658904971,3,"^I'm happy in my current position, but am open to new opportunities$","1","",1,c1739658673299
 r1739659129858,3,"^Used an online social network to advance your career$","1","",1,c1739658673299
 r1739659220397,3,"^Suction mount$","1","",1,c1729918038332
-r1739659353990,3,"^\$100,000-\$199,999$","1","",1,c358
 r1739659425045,3,"^7 – 12 years$","1","",1,c358
 r1739659429076,3,"^13 – 17 years$","1","",1,c358
 r1739659839109,3,"^Somewhat new and different$","1","",1,c1739659831441
@@ -12794,7 +12801,6 @@ r1739663185858,3,"^Target \(incl\. Super Target\)$","1","",1,c1739663078843
 r1739663396862,3,"^Mustard$","1","",1,c1739663392259
 r1739663399987,3,"^Hot Sauce$","1","",1,c1739663392259
 r1739663404527,3,"^Ketchup$","1","",1,c1739663392259
-r1739663408116,3,"^Soy Sauce$","1","",1,c1739663392259
 r1739663417230,3,"^Sometimes$","1","",1,c1739663392259
 r1739663434992,3,"^Research hot sauce products on websites or social media\.$","1","",1,c1739663392259
 r1739663438907,3,"^Read online product reviews$","1","",1,c1739663392259
@@ -12839,7 +12845,6 @@ r1739664611852,3,"^Positive reviews and recommendations$","1","",1,c173966412873
 r1739664618105,3,"^Availability of exclusive models or brands$","1","",1,c1739664128733
 r1739664631497,3,"^Preference for online shopping to avoid the hassle$","1","",1,c1739664128733
 r1739664635082,3,"^Fear of feeling rushed or pressured by staff$","1","",1,c1739664128733
-r1739664651967,3,"^Financial Services and Banking$","1","",1,c358
 r1739664816955,3,"^I currently own a home printer$","1","",1,c358
 r1739665105021,3,"^Online \(Amazon, Brand Websites\)$","1","",1,c1739662891519
 r1739665119782,3,"^Mass Merchandisers \(Walmart, Target\)$","1","",1,c1739662891519
@@ -13406,6 +13411,221 @@ r1740030048229,3,"^Somewhat agree$","1","",1,c1740029997487
 r1740030061169,3,"^31 – 40 years old$","1","",1,c1740029997487
 r1740030072195,3,"^Yes$","1","",1,c1740029997487
 r1740030083417,3,"^All office / on-site$","1","",1,c1740029997487
+r1740031073462,3,"^Drug Stores \(Walgreens, CVS, etc\)$","1","",1,c1729980882634
+r1740031087853,3,"^Albertsons \(including Alberstons banner stores - Safeway, Vons, Jewel-Osco, etc\)$","1","",1,c1729980882634
+r1740031091968,3,"^Publix$","1","",1,c1729980882634
+r1740031126013,3,"^Pasta sauce$","1","",1,c1729980882634
+r1740031129717,3,"^Mustard$","1","",1,c1729980882634
+r1740031154303,3,"^Primal Kitchen$","1","",1,c1729980882634
+r1740031159358,3,"^Rao’s$","1","",1,c1729980882634
+r1740031182862,3,"^Salad Dressing$","1","",1,c1729980882634
+r1740031185912,3,"^BBQ Sauce$","1","",1,c1729980882634
+r1740031198695,3,"^Red \(marinara, vodka, arrabiata, etc\.\)$","1","",1,c1729980882634
+r1740031243230,3,"^Store Brand / Private Label$","1","",1,c1729980882634
+r1740031264878,3,"^Regularly$","1","",1,c1729980882634
+r1740031281650,3,"^Artificial sweeteners$","1","",1,c1729980882634
+r1740031673686,3,"^Somewhat dissatisfied$","1","",1,c1739665648577
+r1740032400848,3,"^Work Boots$","1","",1,c1730855985550
+r1740032506008,3,"^Education$","1","",1,c1730855985550
+r1740033055928,3,"^Refrigerated cat food \(sold from in-store refrigerator/cooler\)$","1","",1,c24
+r1740033062983,3,"^Supplement products to address cat’s health concerns \(e\.g\., skin & coat, hairball, etc\.\)$","1","",1,c24
+r1740033069048,3,"^Cat treats or snacks to feed between meals \(e\.g\., crunchy treats, chews, etc\.\)$","1","",1,c24
+r1740033092917,3,"^Soft-moist cat food \(moist and meaty\)$","1","",1,c24
+r1740033205610,3,"^IAMS$","1","",1,c24
+r1740033213497,3,"^9lives$","1","",1,c24
+r1740033251745,3,"^Blue Buffalo$","1","",1,c24
+r1740033282605,3,"^Soft-moist dog food \(moist and meaty\)$","1","",1,c24
+r1740033287450,3,"^Refrigerated dog food \(sold from in-store refrigerator/cooler\)$","1","",1,c24
+r1740033292114,3,"^Supplement products to address dog’s health concerns \(e\.g\., skin & coat, hip & joint, etc\.\)$","1","",1,c24
+r1740033295765,3,"^Dog Snacks & Treats to feed between meals \(e\.g\., biscuits, treats, chews, etc\.\)$","1","",1,c24
+r1740033336071,3,"^Iams$","1","",1,c24
+r1740033688461,3,"^Grocery Store or Chain \(Kroger, Publix, Whole Foods, Local grocery, etc\.\)$","1","",1,c377
+r1740033692887,3,"^Target$","1","",1,c377
+r1740033698248,3,"^Costco$","1","",1,c377
+r1740033704714,3,"^Lowe’s$","1","",1,c377
+r1740033708110,3,"^Walmart$","1","",1,c377
+r1740033712224,3,"^Sam’s Club$","1","",1,c377
+r1740033888278,3,"^I currently don't participate in any of these gardening activities$","1","",1,c377
+r1740034075755,3,"^Home Improvement Store \(e\.g\., Lowe’s, The Home Depot, etc\.\)$","1","",1,c377
+r1740034087252,3,"^Mass Store \(e\.g\., Walmart, Target, etc\.\)$","1","",1,c377
+r1740034091167,3,"^Club Store \(e\.g\., Sam’s Club, Costco, etc\.\)$","1","",1,c377
+r1740034238521,3,"^Watch movies$","1","",1,c1740034232323
+r1740034241974,3,"^Listen to music$","1","",1,c1740034232323
+r1740034255012,3,"^Play sports$","1","",1,c1740034232323
+r1740034259836,3,"^Walk / hike$","1","",1,c1740034232323
+r1740034262895,3,"^Play video games$","1","",1,c1740034232323
+r1740034266109,3,"^Run or jog$","1","",1,c1740034232323
+r1740034270479,3,"^Work out at a gym, at home, or in an exercise class$","1","",1,c1740034232323
+r1740034327966,3,"^Portable speaker$","1","",1,c1740034232323
+r1740034332102,3,"^Headphones/earbuds$","1","",1,c1740034232323
+r1740034337527,3,"^Laptop$","1","",1,c1740034232323
+r1740034374125,3,"^Smartwatch$","1","",1,c1740034232323
+r1740034376915,3,"^Tablet$","1","",1,c1740034232323
+r1740034381646,3,"^Smartphone$","1","",1,c1740034232323
+r1740034392805,3,"^Wireless earbuds$","1","",1,c1740034232323
+r1740034396719,3,"^Wireless headphones$","1","",1,c1740034232323
+r1740034402026,3,"^Wired earbuds$","1","",1,c1740034232323
+r1740034405296,3,"^Wired headphones$","1","",1,c1740034232323
+r1740034443631,3,"^Samsung$","1","",1,c1740034232323
+r1740034447664,3,"^Sony$","1","",1,c1740034232323
+r1740034450905,3,"^Apple$","1","",1,c1740034232323
+r1740035139888,3,"^\$75,000-\$99,999$","1","",1,c358
+r1740035736823,3,"^Store/Private Label$","1","",1,c179
+r1740035787025,3,"Bagged Popcorn","1","",1,c1735057490096
+r1740035790488,3,"^Corn snacks$","1","",1,c1735057490096
+r1740035793510,3,"^Tortilla chips$","1","",1,c1735057490096
+r1740035821295,3,"^Albertsons \(e\.g\., Albertsons, Safeway, Vons\)$","1","",1,c1735057490096
+r1740035826537,3,"^Publix$","1","",1,c1735057490096
+r1740035922957,3,"^Organic$","1","",1,c1735057490096
+r1740036036490,3,"^Tostitos$","1","",1,c1735057490096
+r1740036066092,3,"^Pringles$","1","",1,c1735057490096
+r1740036421515,3,"^Apple$","1","",1,c1731730926092
+r1740036450985,3,"^\$1,500-\$1,999$","1","",1,c1731730926092
+r1740036561301,3,"^Avast Online Security$","1","",1,c1738969736278
+r1740036686055,3,"^Amazon Instant Video \(pay-per view via Amazon\)$","1","",1,c1731732925076
+r1740036690847,3,"^DIRECTV \(satellite\)$","1","",1,c1731732925076
+r1740036698371,3,"^Hulu \(\$6\.99 /mo provides access to on-demand streaming\)$","1","",1,c1731732925076
+r1740036719731,3,"^None of the TV/video services I currently pay for include advertisements$","1","",1,c1731732925076
+r1740036740237,3,"^Samsung TV Plus$","1","",1,c1731732925076
+r1740037255180,3,"^Triscuit Snack Mix$","1","",1,c1735057490096
+r1740037373392,3,"^iPhone$","1","",1,c1740037367282
+r1740037542743,3,"^Store Brand$","1","",1,c1740037537195
+r1740037553474,3,"^Cheez-It$","1","",1,c1740037537195
+r1740037559196,3,"^Ritz$","1","",1,c1740037537195
+r1740037589313,3,"^I prefer to buy other crackers instead$","1","",1,c1740037537195
+r1740037595301,3,"^They don't have enough flavor variety$","1","",1,c1740037537195
+r1740037603430,3,"^I only purchase them for certain occasions \(e\.g\., hosting\)$","1","",1,c1740037537195
+r1740038142450,3,"^Insurance provider$","1","",1,c1740038120565
+r1740038147265,3,"^Laundry detergent$","1","",1,c1740038120565
+r1740038150741,3,"^Breakfast cereal$","1","",1,c1740038120565
+r1740038154085,3,"^Cell phone provider$","1","",1,c1740038120565
+r1740038309514,3,"^Yes$","1","",1,c1740038120565
+r1740038314653,3,"^State Farm$","1","",1,c1740038120565
+r1740038430265,3,"^Own a home/condo$","1","",1,c1740038120565
+r1740038585410,3,"^Yes, children ages 8-11$","1","",1,c1740038120565
+r1740038589261,3,"^Yes, children ages 11-14$","1","",1,c1740038120565
+r1740038635185,3,"^White/Caucasian$","1","",1,c1740038120565
+r1740038656073,3,"^Bluetooth Speaker$","1","",1,c1740038646408
+r1740038659158,3,"^4K TV$","1","",1,c1740038646408
+r1740038662828,3,"^Over-the-ear Headphones$","1","",1,c1740038646408
+r1740038668010,3,"^Smartphone$","1","",1,c1740038646408
+r1740038673711,3,"^Gaming Device$","1","",1,c1740038646408
+r1740038683663,3,"^Truly Wireless Earbuds$","1","",1,c1740038646408
+r1740038687949,3,"^Voice command device \(e\.g\., Google, Amazon Echo\)$","1","",1,c1740038646408
+r1740038699960,3,"^Sony$","1","",1,c1740038646408
+r1740038708309,3,"^Samsung$","1","",1,c1740038646408
+r1740038715026,3,"^Apple$","1","",1,c1740038646408
+r1740038758944,3,"^Within the last 7-12 months$","1","",1,c1740038646408
+r1740038824584,3,"^\$100-\$199$","1","",1,c1740038646408
+r1740038851733,3,"^Over-the-ear headphones$","1","",1,c1740038646408
+r1740038932384,3,"^Go to a physical store first$","1","",1,c1740038646408
+r1740038942572,3,"^Read reviews$","1","",1,c1740038646408
+r1740038949908,3,"^Visit physical retail store \(Best Buy, Costco\)$","1","",1,c1740038646408
+r1740038954154,3,"^Compared prices in-store$","1","",1,c1740038646408
+r1740038960089,3,"^Watch videos and reviews on social media \(YouTube, TikTok, Instagram\)$","1","",1,c1740038646408
+r1740038968381,3,"^Visit online retailer \(Amazon, Bestbuy\.com, etc\)$","1","",1,c1740038646408
+r1740038977006,3,"^Compared prices online$","1","",1,c1740038646408
+r1740038995704,3,"^From a physical retail store \(Best Buy, Costco, Walmart, Target, etc\.\)$","1","",1,c1740038646408
+r1740039109025,3,"^Better product selection$","1","",1,c1740038646408
+r1740039112985,3,"^Same day purchase$","1","",1,c1740038646408
+r1740039116740,3,"^More convenient$","1","",1,c1740038646408
+r1740039135977,3,"^I would purchase from any of these brands$","1","",1,c1740038646408
+r1740039175095,3,"^No$","1","",1,c1740039170014
+r1740039329856,3,"^4-10$","1","",1,c178
+r1740039347192,3,"^Me$","1","",1,c178
+r1740039562487,3,"^My dog does not like rawhide$","1","",1,c178
+r1740039575101,3,"^Salmon/Fish$","1","",1,c178
+r1740039580370,3,"^Chicken$","1","",1,c178
+r1740039688888,3,"^Facial cleansing/makeup remover wipes$","1","",1,c5
+r1740039866653,3,"^Frequently \(Several times a month\)$","1","",1,c95
+r1740039919174,3,"^A few times a week$","1","",1,c1740039911827
+r1740040013917,3,"^Flavor I like$","1","",1,c1740039911827
+r1740040019125,3,"^Balanced flavor - something not overly sweet$","1","",1,c1740039911827
+r1740040023116,3,"^Natural source of caffeine$","1","",1,c1740039911827
+r1740040037410,3,"^Lack of additional functional ingredients \(e\.g\., electrolytes, vitamins, etc\.\)$","1","",1,c1740039911827
+r1740040041923,3,"^Being overly sweet$","1","",1,c1740039911827
+r1740040075021,3,"^Ketchup$","1","",1,c1740040071369
+r1740040078039,3,"^Hot Sauce$","1","",1,c1740040071369
+r1740040081681,3,"^Mustard$","1","",1,c1740040071369
+r1740040095661,3,"^Dinner table$","1","",1,c1740040071369
+r1740040098610,3,"^Cabinet / Pantry$","1","",1,c1740040071369
+r1740040110793,3,"^2-3 brands$","1","",1,c1740040071369
+r1740040121720,3,"^Tabasco$","1","",1,c1740040071369
+r1740040133884,3,"^Classic Red$","1","",1,c1740040071369
+r1740040145364,3,"^2-3 flavors$","1","",1,c1740040071369
+r1740040154840,3,"^The brand of hot sauce I buy\.$","1","",1,c1740040071369
+r1740040168859,3,"^I like to have variety when choosing my hot sauce\.$","1","",1,c1740040071369
+r1740040178152,3,"^I like to have a variety of flavors to use on different types of foods\.$","1","",1,c1740040071369
+r1740040185461,3,"^I like to switch up different heat levels\.$","1","",1,c1740040071369
+r1740040275351,3,"^friend/family member recommended$","1","",1,c1740040071369
+r1740040280756,3,"^cooking shows$","1","",1,c1740040071369
+r1740040284562,3,"^recipe sites$","1","",1,c1740040071369
+r1740040326852,3,"^A few weeks$","1","",1,c1740040071369
+r1740040344790,3,"^Everyone uses the same hot sauce\.$","1","",1,c1740040071369
+r1740040351788,3,"^Different members of your household prefer to use different heat levels\.$","1","",1,c1740040071369
+r1740040355599,3,"^Different members of your household prefer to use different flavors of hot sauce\.$","1","",1,c1740040071369
+r1740040374652,3,"^I would recommend my favorite hot sauce brand to a friend\.$","1","",1,c1740040071369
+r1740040468842,3,"^Chips$","1","",1,c178
+r1740040472960,3,"^Crackers$","1","",1,c178
+r1740040477073,3,"^Cookies$","1","",1,c178
+r1740040481297,3,"^Non-chocolate candy \(gummy candy, hard candy, licorice, chews, ropes, belts\)$","1","",1,c178
+r1740040484904,3,"^Chocolate Candy$","1","",1,c178
+r1740040488882,3,"^Popcorn$","1","",1,c178
+r1740040492407,3,"^Nuts and Seeds$","1","",1,c178
+r1740040502951,3,"^Potato Chips$","1","",1,c178
+r1740040517983,3,"^Pastries$","1","",1,c178
+r1740040521147,3,"^Low-Sugar or Organic Candy$","1","",1,c178
+r1740040525138,3,"^Traditional Candy \(full-sugar\)$","1","",1,c178
+r1740040528957,3,"^Vegetable-Based Snacks$","1","",1,c178
+r1740040578920,3,"^Oral Medication \(Children's Tylenol/Motrin/etc\.\)$","1","",1,c1740040567250
+r1740040607210,3,"^Yes$","1","",1,c1740040567250
+r1740040669213,3,"^Drug-free alternative$","1","",1,c1740040567250
+r1740040737615,3,"^Easy to use for my child, they don't like taking oral medicine$","1","",1,c1740040567250
+r1740040811954,3,"^Flown on a domestic flight \(for business\)$","1","",1,c1740040758551
+r1740040816955,3,"^Flown on a domestic flight \(not for business\)$","1","",1,c1740040758551
+r1740040852126,3,"^American Airlines$","1","",1,c1740040758551
+r1740040857528,3,"^United Airlines$","1","",1,c1740040758551
+r1740040861574,3,"^Delta Airlines$","1","",1,c1740040758551
+r1740040908157,3,"^Flying for business$","1","",1,c1740040758551
+r1740040911571,3,"^Flying for vacation$","1","",1,c1740040758551
+r1740040975281,3,"^My children \(under the age of 18\)$","1","",1,c1740040758551
+r1740040978806,3,"^Spouse/boyfriend/girlfriend/partner$","1","",1,c1740040758551
+r1740041070170,3,"^My child or children who are under age$","1","",1,c1740040758551
+r1740041073215,3,"^My spouse or partner$","1","",1,c1740040758551
+r1740041294877,3,"^Walmart$","1","",1,c1740041290195
+r1740041299049,3,"^Target$","1","",1,c1740041290195
+r1740041306274,3,"^Dollar General$","1","",1,c1740041290195
+r1740041309401,3,"^Grocery Store$","1","",1,c1740041290195
+r1740041312844,3,"^Drug Store \(ie CVS, Walgreens\)$","1","",1,c1740041290195
+r1740041316154,3,"^Convenience Store/ Gas Station$","1","",1,c1740041290195
+r1740041343579,3,"^Chocolate$","1","",1,c1740041290195
+r1740041348071,3,"^Non-chocolate Chewy Candy$","1","",1,c1740041290195
+r1740041410152,3,"^Strawberry$","1","",1,c1740041290195
+r1740041445018,3,"^Raspberry$","1","",1,c1740041290195
+r1740041452442,3,"^Passion Punch \(Tropical Punch\)$","1","",1,c1740041290195
+r1740041622490,3,"^Delta Airlines$","1","",1,c1740041529153
+r1740041628688,3,"^American Airlines$","1","",1,c1740041529153
+r1740041633136,3,"^United Airlines$","1","",1,c1740041529153
+r1740041789907,3,"^Tap Water$","1","",1,c1739662725337
+r1740041802018,3,"^Machine Dispensed Tea/K-Cups$","1","",1,c1739662725337
+r1740041811239,3,"^Functional Tea Bags \(e\.g\. Sleep, Digestion, Immunity, etc\.\)$","1","",1,c1739662725337
+r1740041819527,3,"^Iced Tea Concentrate \(e\.g\. Sweet Tea, Black Tea with Lemon\)$","1","",1,c1739662725337
+r1740041849950,3,"^Iced$","1","",1,c1739662891519
+r1740041873694,3,"^Specialty Retailer \(Whole Foods, Sprouts\)$","1","",1,c1739662891519
+r1740041877639,3,"^Kroger, Publix, Wegmans, Stop & Shop, Albertsons\)$","1","",1,c1739662891519
+r1740041881069,3,"^Club \(Costco, Sams, BJs\)$","1","",1,c1739662891519
+r1740041886341,3,"^Drug \(CVS, Walgreens\)$","1","",1,c1739662891519
+r1740041940717,3,"^Drug Store \(e\.g\., CVS, Walgreens, Rite Aid\)$","1","",1,c156
+r1740041944674,3,"^Dollar Store \(e\.g\., Dollar General, Family Dollar, Dollar Tree\)$","1","",1,c156
+r1740042019793,3,"^Albertsons/Safeway$","1","",1,c156
+r1740042023999,3,"^Publix$","1","",1,c156
+r1740042247435,3,"^Drug Stores \(Walgreens, CVS, etc\.\)$","1","",1,c1739663392259
+r1740042253956,3,"^Dollar Stores \(Dollar Tree, Dollar General, etc\.\)$","1","",1,c1739663392259
+r1740042259745,3,"^Traditional Grocery Store \(Kroger, Safeway, Publix, Shop Rite\)$","1","",1,c1739663392259
+r1740042263408,3,"^Warehouse Club \(Costco, Sam's, BJs\)$","1","",1,c1739663392259
+r1740042268364,3,"^Natural Foods store \(Whole Foods, Trader Joe’s, Sprouts\)$","1","",1,c1739663392259
+r1740042421570,3,"^I consider myself a tech enthusiast interested in innovation and entrepreneurship\.$","1","",1,c358
+r1740042472793,3,"^I frequently use AI tools or applications in my daily life \(e\.g\., chatbots, voice assistants, generative tools like ChatGPT, etc\.\)\.$","1","",1,c358
 r17401,3,"^Amazon$","1","",1,c348
 r17402,3,"^High-quality products$","1","",1,c348
 r17403,3,"^Convenient$","1","",1,c348
@@ -14092,19 +14312,15 @@ r18031,3,"^Metropolitan \(large city or densely populated urban area\)$","1","",
 r18032,3,"^Fences or retaining walls$","1","",1,c377
 r18033,3,"^Driveways, patios, walkways or sidewalks$","1","",1,c377
 r18034,3,"^Grass lawn \(full or partial\)$","1","",1,c377
-r18035,3,"^Live flowers/decorative plants$","1","",1,c377
 r18036,3,"^Grass seed$","1","",1,c377
-r18037,3,"^Scotts$","1","",1,c377
 r18038,3,"^Bonnie Plants$","1","",1,c377
 r18039,3,"^Average$","1","",1,c377
 r1804,3,"^Visit online retailer \(Amazon, Bestbuy\.com, etc\)$","1","",1,c94
-r18040,3,"^Outdoor raised garden bed with edible plants$","1","",1,c377
 r18041,3,"^Somewhat confident$","1","",1,c377
 r18042,3,"^Somewhat important$","1","",1,c377
 r18043,3,"^I'm willing to pay significantly more$","1","",1,c377
 r18044,3,"^Specialty plant store or website$","1","",1,c377
 r18045,3,"^Online Only Retailer \(e\.g\., Amazon\)$","1","",1,c377
-r18046,3,"^Farm Supply Store \(e\.g\., Farm & Fleet, Tractor Supply, etc\.\)$","1","",1,c377
 r18047,3,"^The Home Depot$","1","",1,c377
 r18048,3,"^Amazon$","1","",1,c377
 r18049,3,"^2 children$","1","",1,c389
