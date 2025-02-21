@@ -786,6 +786,7 @@ c1740040567250,"Quick Survey About Products You Use!","",,,,
 c1740040758551,"Traveling and you!","",,,,
 c1740041290195,"Valentine's","",,,,
 c1740041529153,"Airline opinions & you!","",,,,
+c1740100746644,"This is a survey about skin care products","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -3556,7 +3557,6 @@ r1730581252595,3,"^Laptop computer$","1","",1,c47
 r1730581256400,3,"^Gaming console \(e\.g\., Xbox, PlayStation, etc\.\)$","1","",1,c47
 r1730581260872,3,"^AI Virtual assistant \(e\.g\., Google Home, Alexa, etc\.\)$","1","",1,c47
 r1730581390357,3,"^30-44$","1","",1,c5
-r1730584459521,3,"^Microsoft – Windows$","1","",1,c1729980882634
 r17306,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c344
 r17307,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c344
 r1730726921637,3,"^Slept$","1","",1,c1730726896862
@@ -5980,11 +5980,9 @@ r1732195731638,3,"^Clorox$","1","",1,c166
 r1732195754927,3,"^Tide$","1","",1,c166
 r1732195770383,3,"^Arm & Hammer$","1","",1,c166
 r1732195790175,3,"^Ajax Liquid Dish Soap$","1","",1,c166
-r1732195799070,3,"^Method Liquid Dish Soap$","1","",1,c166
 r1732195827168,3,"^Plug-in Scented Oils$","1","",1,c166
 r1732195833534,3,"^Fabric Spray$","1","",1,c166
 r1732195838199,3,"^Air Spray Aerosols$","1","",1,c166
-r1732195850166,3,"^Glade$","1","",1,c166
 r1732195899814,3,"^Yes$","1","",1,c1732195883297
 r1732195911270,3,"^Crocs$","1","",1,c1732195883297
 r1732195917025,3,"^Adidas$","1","",1,c1732195883297
@@ -7546,7 +7544,6 @@ r1733655649543,3,"^Apple smartphone \(iPhone\)$","1","",1,c1733655635568
 r1733655672635,3,"^Fitness tracker \(e\.g\., wrist band, clip-on, ring\)$","1","",1,c1733655635568
 r1733655689302,3,"^Home gym equipment \(e\.g\., basic treadmill, stationary bike, weights\)$","1","",1,c1733655635568
 r1733655720196,3,"^Apple$","1","",1,c1733655635568
-r1733655792611,3,"^No\. I am not using any paid health & fitness service$","1","",1,c1733655635568
 r1733655828871,3,"^Probably will$","1","",1,c1733655635568
 r1733655849717,3,"^Increase energy level$","1","",1,c1733655635568
 r1733655872667,3,"^Promote relaxation or reduce stress$","1","",1,c1733655635568
@@ -12432,7 +12429,6 @@ r1739407871701,3,"^Hot coffee \(i\.e\.: drip coffee, latte, cappuccino\)$","1","
 r1739407875576,3,"^Carbonated soft drink \(i\.e\.: Coca Cola, Dr\. Pepper\)$","1","",1,c1730863555353
 r1739407880793,3,"^Hydration or electrolyte beverage \(i\.e\. Liquid I\.V\., Biosteel\)$","1","",1,c1730863555353
 r1739407885978,3,"^Energy drink \(i\.e\. Red Bull, Monster\)$","1","",1,c1730863555353
-r1739408030050,3,"^An accountant$","1","",1,c1738828258358
 r1739408044681,3,"^Paid time off \(e\.g\., designated unpaid time for vacations or personal leave\)$","1","",1,c1738828258358
 r1739408049873,3,"^Healthcare \(e\.g\., medical, vision, dental\)$","1","",1,c1738828258358
 r1739408193484,3,"^Yes, via my employer / business$","1","",1,c1738828258358
@@ -12964,7 +12960,6 @@ r1740013539934,3,"^Home gym equipment \(e\.g\., treadmill, stationary bike, weig
 r1740013721028,3,"^Somewhat interested$","1","",1,c15
 r1740013732696,3,"^Improve my eating habits$","1","",1,c15
 r1740013738396,3,"^Improve sleep time and quality$","1","",1,c15
-r1740013742872,3,"^Increase physical activity$","1","",1,c15
 r1740013747025,3,"^Increase energy level$","1","",1,c15
 r1740013751663,3,"^Lose weight$","1","",1,c15
 r1740013756322,3,"^Promote relaxation or reduce stress$","1","",1,c15
@@ -13008,7 +13003,6 @@ r1740015380379,3,"^method$","1","",1,c166
 r1740015393039,3,"^Method$","1","",1,c166
 r1740015428376,3,"^Seventh Generation Liquid Dish Soap$","1","",1,c166
 r1740015611370,3,"^2-250$","1","",1,c5
-r1740015669559,3,"^Day-to-day operations$","1","",1,c5
 r1740015757503,3,"^Spectracide$","1","",1,c160
 r1740015781911,3,"^Expert Gardener Grass Seed$","1","",1,c160
 r1740015838243,3,"^Somewhat likely$","1","",1,c1740015833260
@@ -13048,7 +13042,6 @@ r1740017443108,3,"^Severance$","1","",1,c17
 r1740017446760,3,"^The Pitt$","1","",1,c17
 r1740017657815,3,"^Education \(i\.e\. Teachers, Administration, Other Educational Staff\)$","1","",1,c1738828258358
 r1740017677235,3,"^100-249 employees$","1","",1,c1738828258358
-r1740017708443,3,"^Technology platforms \(e\.g\., data tools, email services\)$","1","",1,c1738828258358
 r1740018114823,3,"^Fish$","1","",1,c139
 r1740018123249,3,"^Christmas$","1","",1,c139
 r1740018127940,3,"^New Years$","1","",1,c139
@@ -13080,7 +13073,6 @@ r1740019269262,3,"^Save for emergencies$","1","",1,c3
 r1740019277371,3,"^Yes, I have a credit card$","1","",1,c3
 r1740019287503,3,"^670 – 739$","1","",1,c3
 r1740019315954,3,"^Been roughly the same each month$","1","",1,c3
-r1740019332033,3,"^Once or twice$","1","",1,c3
 r1740019343242,3,"^Manageable$","1","",1,c3
 r1740019461067,3,"^OK - I get by, but there's not a lot left by the time the basics are taken care of$","1","",1,c431
 r1740019487148,3,"^Specialty/health food store \(such as Whole Food, Trader Joe’s\)$","1","",1,c431
@@ -13131,7 +13123,6 @@ r1740020084997,3,"^Buying products in bulk or family sizes$","1","",1,c172998088
 r1740020089549,3,"^Shopping for private-label or store-brand products$","1","",1,c1729980882634
 r1740020095500,3,"Researching products or brands before making a purchase","1","",1,c1729980882634
 r1740020100360,3,"^Hosting parties or gatherings$","1","",1,c1729980882634
-r1740020115194,3,"^Student - I understand basic financial concepts, such as the difference between stocks and bonds, but don’t have a defined long-term financial plan$","1","",1,c1738828258358
 r1740020147637,3,"^Very frequently \(daily\)$","1","",1,c1729980882634
 r1740020181208,3,"^Pinterest$","1","",1,c1729980882634
 r1740020184532,3,"^Reddit$","1","",1,c1729980882634
@@ -13171,8 +13162,6 @@ r1740021815204,3,"^Twitter$","1","",1,c168
 r1740021843087,3,"^Education$","1","",1,c168
 r1740021879509,3,"^Professor / Educator / Teacher$","1","",1,c168
 r1740021905445,3,"^100 to 249$","1","",1,c168
-r1740021988686,3,"^Suggest or specify brands/products/services/vendors$","1","",1,c168
-r1740022076509,3,"^Technical/Computer Support/Help Desk$","1","",1,c168
 r1740022372041,3,"^AI \(product evaluations, tools, latest news, etc\.\)$","1","",1,c168
 r1740022534725,3,"^Dollar stores \(ex: Family Dollar, Dollar Tree\)$","1","",1,c522
 r1740022538580,3,"^Drug Stores \(ex: CVS, Walgreens\)$","1","",1,c522
@@ -13626,7 +13615,56 @@ r1740042263408,3,"^Warehouse Club \(Costco, Sam's, BJs\)$","1","",1,c17396633922
 r1740042268364,3,"^Natural Foods store \(Whole Foods, Trader Joe’s, Sprouts\)$","1","",1,c1739663392259
 r1740042421570,3,"^I consider myself a tech enthusiast interested in innovation and entrepreneurship\.$","1","",1,c358
 r1740042472793,3,"^I frequently use AI tools or applications in my daily life \(e\.g\., chatbots, voice assistants, generative tools like ChatGPT, etc\.\)\.$","1","",1,c358
+r1740087619820,3,"^Yes\. I am paying for health & fitness service\(s\)$","1","",1,c1733655635568
+r1740089117851,3,"^Potato chips$","1","",1,c1740027948713
+r1740089703939,3,"^Method Liquid Dish Soap$","1","",1,c166
+r1740089741453,3,"^Reed Diffusers$","1","",1,c166
+r1740089773380,3,"^Bath & Body Works$","1","",1,c166
+r1740089821123,3,"^Glade$","1","",1,c166
+r1740090350633,3,"^Snack Duo Multi-Pack \(i\.e\. cookie or cracker and a dip/spread\)$","1","",1,c431
+r1740091222031,3,"^Microsoft – Windows$","1","",1,c1729980882634
+r1740091610161,3,"^Square$","1","",1,c1738828258358
+r1740091788229,3,"^Novice - I’m brand new to investing\. I have little understanding of financial concepts and am just starting to consider my long-term financial plans\.$","1","",1,c1738828258358
+r1740096098214,3,"^Tostitos$","1","",1,c431
+r1740096818708,3,"^Coffee machine$","1","",1,c168
+r1740098383096,3,"^Costco$","1","",1,c4
+r1740098423774,3,"^Whole Foods$","1","",1,c4
+r1740098428811,3,"^Target$","1","",1,c4
+r1740098433086,3,"^Sam's Club$","1","",1,c4
+r1740098437816,3,"^Albertson's/Safeway$","1","",1,c4
+r1740098442269,3,"^Amazon$","1","",1,c4
+r1740098446769,3,"^Publix$","1","",1,c4
+r1740098450346,3,"^Kroger$","1","",1,c4
+r1740098454542,3,"^Walmart$","1","",1,c4
+r1740098458521,3,"^CVS$","1","",1,c4
+r1740098463758,3,"^Walgreens$","1","",1,c4
 r17401,3,"^Amazon$","1","",1,c348
+r1740100751073,3,"^Normal$","1","",1,c1740100746644
+r1740100768068,3,"^Face lotion/cream$","1","",1,c1740100746644
+r1740100771755,3,"^Hand lotion/cream$","1","",1,c1740100746644
+r1740100776588,3,"^Face wash/cleanser$","1","",1,c1740100746644
+r1740100781979,3,"^Body sunscreen$","1","",1,c1740100746644
+r1740100785709,3,"^Body wash/cleanser$","1","",1,c1740100746644
+r1740100790543,3,"^Face sunscreen$","1","",1,c1740100746644
+r1740100800945,3,"^Costco$","1","",1,c1740100746644
+r1740100805453,3,"^Target$","1","",1,c1740100746644
+r1740100808980,3,"^Walgreens$","1","",1,c1740100746644
+r1740100812315,3,"^Instacart$","1","",1,c1740100746644
+r1740100816371,3,"^CVS$","1","",1,c1740100746644
+r1740100820827,3,"^Amazon$","1","",1,c1740100746644
+r1740100824003,3,"^Walmart$","1","",1,c1740100746644
+r1740100829365,3,"^Beauty/Specialist shop \(i\.e, Ulta, Sephora, Bath & Body Works, etc\.\)$","1","",1,c1740100746644
+r1740100844437,3,"^I use body lotion/cream for my body and face lotion/cream for my face$","1","",1,c1740100746644
+r1740100858584,3,"^I use body wash/cleaser for my body and face wash/cleanser for my face$","1","",1,c1740100746644
+r1740100941016,3,"^3 -1 times a week$","1","",1,c1740100746644
+r1740101154408,3,"^Acne/ breakouts$","1","",1,c1740100746644
+r1740101219477,3,"^All day or more skin hydration/moisturization$","1","",1,c1740100746644
+r1740101223592,3,"^Recommended/designed by dermatologist$","1","",1,c1740100746644
+r1740101230211,3,"^Has a pleasant fragrance/scent$","1","",1,c1740100746644
+r1740101425761,3,"^I have lost weight$","1","",1,c1740100746644
+r1740101430016,3,"^I am eating healthier$","1","",1,c1740100746644
+r1740101438556,3,"^I have gained self-confidence$","1","",1,c1740100746644
+r1740101901232,3,"^Stay in paid accommodations$","1","",1,c114
 r17402,3,"^High-quality products$","1","",1,c348
 r17403,3,"^Convenient$","1","",1,c348
 r17404,3,"^Private Label$","1","",1,c348
@@ -19040,7 +19078,6 @@ r324,3,"^Chocolate Confections \(Reese’s, Twix, Kinder, etc\.\)$","1","",1,c18
 r3240,3,"^Pepper$","1","",1,c164
 r3241,3,"^Grill Seasoning or Dry Rubs$","1","",1,c164
 r3242,3,"^Single ingredient dried spice \(e\.g\. paprika, garlic, cinnamon, etc\.\)$","1","",1,c164
-r3243,3,"^Fortified with vitamins$","1","",1,c164
 r3244,3,"^I enjoy cooking$","1","",1,c164
 r3245,3,"^I regularly cook from scratch \(at least every week or every other week\)$","1","",1,c164
 r3246,3,"^I regularly use fresh ingredients in my meals \(fresh produce, raw meat/poultry, etc\)$","1","",1,c164
