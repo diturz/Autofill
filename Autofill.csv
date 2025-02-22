@@ -12074,7 +12074,6 @@ r1738973558908,3,"^Fruit Snacks$","1","",1,c1738973530121
 r1738973565628,3,"^Ice Cream$","1","",1,c1738973530121
 r1738973571891,3,"^Yogurt$","1","",1,c1738973530121
 r1738973579640,3,"^Frozen Meals$","1","",1,c1738973530121
-r1738973607108,3,"^Accounting or Tax Preparation$","1","",1,c41
 r1738973739632,3,"^Snack bars \(e\.g\., granola bars, protein bars, cereal bars\)$","1","",1,c1733707684705
 r1738973751767,3,"^Potato chips$","1","",1,c1733707684705
 r1738973783541,3,"^Pringles$","1","",1,c1733707684705
@@ -12869,7 +12868,6 @@ r1739882479436,3,"^Gift for Children$","1","",1,c18
 r1739882733708,3,"^7-Eleven$","1","",1,c1730968616284
 r1739883082309,3,"^Pet supply stores \(such as Petco & PetSmart\)$","1","",1,c1739883062914
 r1739883104581,3,"^Home improvement stores \(such as Home Depot & Harbor Freight Tools\)$","1","",1,c1739883062914
-r1739883108302,3,"^Electronics stores \(such as Best Buy & Fry's Electronics\)$","1","",1,c1739883062914
 r1739883144868,3,"^Twice$","1","",1,c1739883062914
 r1739883164553,3,"^Best Buy$","1","",1,c1739883062914
 r1739883184966,3,"^Twice$","1","",1,c1739883062914
@@ -12950,7 +12948,6 @@ r1740012634155,3,"^Somewhat satisfied$","1","",1,c1733655635568
 r1740012692935,3,"^I agree$","1","",1,c1733655635568
 r1740012714364,3,"^Opened an online store or marketplace profile \(e\.g\., Etsy, eBay\)\.$","1","",1,c1740012709636
 r1740013398830,3,"^Own my home$","1","",1,c40
-r1740013412229,3,"^Amazon$","1","",1,c40
 r1740013417252,3,"^Lowe’s$","1","",1,c40
 r1740013453588,3,"^Independence Day$","1","",1,c18
 r1740013527342,3,"^Apple smartphone \(iPhone\)$","1","",1,c15
@@ -13071,7 +13068,6 @@ r1740019254260,3,"^Save for my family’s future$","1","",1,c3
 r1740019262987,3,"^Manage my money/finances efficiently$","1","",1,c3
 r1740019269262,3,"^Save for emergencies$","1","",1,c3
 r1740019277371,3,"^Yes, I have a credit card$","1","",1,c3
-r1740019287503,3,"^670 – 739$","1","",1,c3
 r1740019315954,3,"^Been roughly the same each month$","1","",1,c3
 r1740019343242,3,"^Manageable$","1","",1,c3
 r1740019461067,3,"^OK - I get by, but there's not a lot left by the time the basics are taken care of$","1","",1,c431
@@ -13665,7 +13661,27 @@ r1740101425761,3,"^I have lost weight$","1","",1,c1740100746644
 r1740101430016,3,"^I am eating healthier$","1","",1,c1740100746644
 r1740101438556,3,"^I have gained self-confidence$","1","",1,c1740100746644
 r1740101901232,3,"^Stay in paid accommodations$","1","",1,c114
+r1740197332695,3,"^Apparel/clothing stores \(such as Old Navy & T\.J\. Maxx\)$","1","",1,c1739883062914
+r1740197337928,3,"^Outdoor recreation/sporting goods stores \(such as Bass Pro Shops & PGA TOUR Superstore\)$","1","",1,c1739883062914
+r1740197385406,3,"^Electronics stores \(such as Best Buy & Fry's Electronics\)$","1","",1,c1739883062914
+r1740197666704,3,"^Bass Pro Shops$","1","",1,c1739883062914
 r17402,3,"^High-quality products$","1","",1,c348
+r1740200296791,3,"^I am a teacher or administrator$","1","",1,c1731546701422
+r1740200780328,3,"^Education$","1","",1,c519
+r1740200820095,3,"^Cold Cereal \(Ready to Eat\)$","1","",1,c519
+r1740200938316,3,"^Froot Loops$","1","",1,c519
+r1740200959831,3,"^Frosted Flakes$","1","",1,c519
+r1740200981024,3,"^Corn Flakes$","1","",1,c519
+r1740200990407,3,"^Special K$","1","",1,c519
+r1740201003163,3,"^Nature Valley$","1","",1,c519
+r1740201078020,3,"^Income \$70000 - \$99999$","1","",1,c519
+r1740201257793,3,"^Apple One$","1","",1,c6
+r1740201271298,3,"^Subscription provider \(e\.g\., Spotify, Hulu\)$","1","",1,c6
+r1740202137547,3,"^Technology platforms \(e\.g\., data tools, email services\)$","1","",1,c1738828258358
+r1740202889980,3,"^740 – 800$","1","",1,c3
+r1740203406787,3,"^\$75,000 to less than \$100,000$","1","",1,c41
+r1740203936802,3,"^Clyde's$","1","",1,c522
+r1740203952758,3,"^Just Desserts$","1","",1,c522
 r17403,3,"^Convenient$","1","",1,c348
 r17404,3,"^Private Label$","1","",1,c348
 r17405,3,"^Brand reputation$","1","",1,c348
@@ -16879,7 +16895,6 @@ r2035,3,"^Quality$","1","",1,c105
 r20350,3,"^Milk-chocolate$","1","",1,c452
 r20351,3,"^Dark chocolate$","1","",1,c452
 r20352,3,"^Peanut Butter$","1","",1,c452
-r20353,3,"^Finance$","1","",1,c519
 r20354,3,"^I do all of the shopping for my household$","1","",1,c519
 r20355,3,"^Yogurt$","1","",1,c519
 r20356,3,"^Granola$","1","",1,c519
@@ -16887,7 +16902,6 @@ r20357,3,"^Ice Cream$","1","",1,c519
 r20358,3,"^Oatmeal/Oats$","1","",1,c519
 r20359,3,"^Baking Mix$","1","",1,c519
 r2036,3,"^Availability$","1","",1,c105
-r20360,3,"^Fruit Snacks$","1","",1,c519
 r20361,3,"^Frozen Meals$","1","",1,c519
 r20362,3,"^Bars \(Grain, Cereal, Nutrition, Biscuits, Granola, Energy, etc\.\)$","1","",1,c519
 r20363,3,"^Store Brand/Private Label$","1","",1,c519
@@ -16906,7 +16920,6 @@ r20374,3,"^Eating more organic foods$","1","",1,c519
 r20375,3,"^Increasing protein intake$","1","",1,c519
 r20376,3,"^I am taking active steps to lose weight$","1","",1,c519
 r20377,3,"^I’m willing to make some big changes to my usual routine so I can rapidly get to showing off my new self\.$","1","",1,c519
-r20378,3,"^Income \$100000 - \$129999$","1","",1,c519
 r20379,3,"^I am the primary decision-maker\.$","1","",1,c520
 r2038,3,"^Flavor$","1","",1,c105
 r20380,3,"^No, I do not currently take maintenance medications$","1","",1,c520
