@@ -787,6 +787,8 @@ c1740040758551,"Traveling and you!","",,,,
 c1740041290195,"Valentine's","",,,,
 c1740041529153,"Airline opinions & you!","",,,,
 c1740100746644,"This is a survey about skin care products","",,,,
+c1740449138415,"Just a few quick questions for you!","",,,,
+c1740451478996,"Tell us about yourself.","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -13615,6 +13617,22 @@ r1740357744489,3,"^Snack bars, protein bars, or granola bars$","1","",1,c20
 r1740357753686,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c20
 r1740363869232,3,"^I am a parent or guardian of a child under 18 years old\.$","1","",1,c1729915019313
 r17404,3,"^Private Label$","1","",1,c348
+r1740449143540,3,"^Functional beverages \(i\.e\., kombucha, prebiotic soda, etc\.\)$","1","",1,c1740449138415
+r1740449147805,3,"^Other supplements such as digestive enzymes or vitamin/mineral supplements$","1","",1,c1740449138415
+r1740449151661,3,"^Probiotic supplements \(i\.e\., Align, Trubiotics, Culturelle, etc\.\)$","1","",1,c1740449138415
+r1740449155989,3,"^Food products \(i\.e\., digestive health benefit cereal or tea, fermented foods, etc\.\)$","1","",1,c1740449138415
+r1740451484837,3,"^Urban$","1","",1,c1740451478996
+r1740451573482,3,"^Pharmacy \(CVS, Walgreens, etc\.\)$","1","",1,c1740451478996
+r1740451576909,3,"^Online \(Amazon, \.com, etc\.\)$","1","",1,c1740451478996
+r1740451580095,3,"^Dollar Store$","1","",1,c1740451478996
+r1740451584494,3,"^Department Stores$","1","",1,c1740451478996
+r1740451587795,3,"^Grocery Store$","1","",1,c1740451478996
+r1740451591394,3,"^Cosmetic Store \(Ulta, Sephora, etc\.\)$","1","",1,c1740451478996
+r1740452458812,3,"^Beauty products \(hair styling products, blow dryers\)$","1","",1,c1740451478996
+r1740452464332,3,"^Homegoods$","1","",1,c1740451478996
+r1740452513047,3,"^Full-time employed$","1","",1,c1729916942305
+r1740452526405,3,"^50-1000 employees$","1","",1,c1729916942305
+r1740452559548,3,"^Somewhat important – I use a computer for certain aspects of my job$","1","",1,c1729916942305
 r17405,3,"^Brand reputation$","1","",1,c348
 r17406,3,"^Better quality$","1","",1,c348
 r17407,3,"^Left$","1","",1,c348
