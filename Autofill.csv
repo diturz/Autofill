@@ -818,6 +818,7 @@ c1740547545771,"Thank you in advance for answering a few questions for us.","",,
 c1740547848412,"We have some questions about your habits and preferences!","",,,,
 c1740548653061,"Let’s talk baking!","",,,,
 c1740549042451,"Relationship Status","",,,,
+c1740580776912,"Let's talk mobile providers!","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -14317,6 +14318,13 @@ r1740550256965,3,"^friend/family member recommended$","1","",1,c1739663392259
 r1740550268555,3,"^A few weeks$","1","",1,c1739663392259
 r1740550276685,3,"^I would recommend Tabasco to a friend\.$","1","",1,c1739663392259
 r1740550284603,3,"^I would follow Tabasco on social media\.$","1","",1,c1739663392259
+r1740580791636,3,"^I am the primary decision-maker$","1","",1,c1740580776912
+r1740580833095,3,"^Verizon$","1","",1,c1740580776912
+r1740580847003,3,"^4 - Somewhat likely$","1","",1,c1740580776912
+r1740580891655,3,"^Month-by-month$","1","",1,c1740580776912
+r1740580918244,3,"^Yes, my phone is fully paid off$","1","",1,c1740580776912
+r1740580938869,3,"^3 - Somewhat familiar$","1","",1,c1740580776912
+r1740580949891,3,"^I would not like to participate in a video interview$","1","",1,c1740580776912
 r17406,3,"^Better quality$","1","",1,c348
 r17407,3,"^Left$","1","",1,c348
 r17408,3,"^Buy online$","1","",1,c348
