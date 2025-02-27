@@ -12756,7 +12756,6 @@ r1739663459462,3,"^Needed for a specific recipe/meal for meal planning\.$","1","
 r1739663467973,3,"^Ran out of it at home$","1","",1,c1739663392259
 r1739663483156,3,"^Tabasco$","1","",1,c1739663392259
 r1739663526927,3,"^Classic Red$","1","",1,c1739663392259
-r1739663547666,3,"^I planned to buy hot sauce and to decide the brands and flavors once I begin shopping in store or online\.$","1","",1,c1739663392259
 r1739663598230,3,"^I researched a specific brand of hot sauce online$","1","",1,c1739663392259
 r1739663607234,3,"^Someone I know recommended the brand$","1","",1,c1739663392259
 r1739663614482,3,"^I read an article that mentioned a specific brand of hot sauce$","1","",1,c1739663392259
@@ -14279,15 +14278,10 @@ r1740549382555,3,"^Chipotle$","1","",1,c1739663392259
 r1740549386931,3,"^Sweet & Spicy$","1","",1,c1739663392259
 r1740549467985,3,"^I planned to buy the Tabasco brand before shopping but decided on which flavor once I began shopping\.$","1","",1,c1739663392259
 r1740549548799,3,"^A friend/family member recommended it\.$","1","",1,c1739663392259
-r1740549555162,3,"^Read or heard about it through social media,$","1","",1,c1739663392259
 r1740549561573,3,"^Saw an advertisement for the brand$","1","",1,c1739663392259
-r1740549570438,3,"^A well-known chef used it\.$","1","",1,c1739663392259
-r1740549584291,3,"^I researched Tabasco online\.$","1","",1,c1739663392259
 r1740549587466,3,"^Someone I know recommended Tabasco\.$","1","",1,c1739663392259
 r1740549594742,3,"^Tabasco was specifically called for in a recipe\.$","1","",1,c1739663392259
-r1740549663170,3,"^I read an article that mentioned Tabasco\.$","1","",1,c1739663392259
 r1740549667250,3,"^I saw Tabasco used on a TV /cooking shows\.$","1","",1,c1739663392259
-r1740549673532,3,"^A well-known chef recommended Tabasco\.$","1","",1,c1739663392259
 r1740549680439,3,"^I saw an advertisement for Tabasco\.$","1","",1,c1739663392259
 r1740549697038,3,"^I saw an advertisement on a shopping or retailer app or website\.$","1","",1,c1739663392259
 r1740549701419,3,"^I saw an advertisement on TV \(traditional or streaming\)$","1","",1,c1739663392259
@@ -14298,27 +14292,21 @@ r1740549848299,3,"^Differences between flavors of Tabasco$","1","",1,c1739663392
 r1740549852668,3,"^Recipes for dishes using Tabasco$","1","",1,c1739663392259
 r1740549857154,3,"^Differences in heat levels$","1","",1,c1739663392259
 r1740549861995,3,"^Brand or product reviews$","1","",1,c1739663392259
-r1740550022241,3,"^Will buy a single bottle or multiple bottles of just Tabasco \(and no other food items\)\.$","1","",1,c1739663392259
 r1740550065251,3,"^Cabinet / Pantry$","1","",1,c1739663392259
 r1740550068960,3,"^Dinner table$","1","",1,c1739663392259
-r1740550072722,3,"^Countertop$","1","",1,c1739663392259
 r1740550081622,3,"^2-3 flavors$","1","",1,c1739663392259
-r1740550094619,3,"^Different recipes require different flavors\.$","1","",1,c1739663392259
 r1740550105332,3,"^I like to switch up different heat levels\.$","1","",1,c1739663392259
 r1740550110175,3,"^I like to have variety when choosing my hot sauce\.$","1","",1,c1739663392259
-r1740550114527,3,"^I like to have mainstream flavors for everyday use and more artisan flavors for special occasions\.$","1","",1,c1739663392259
 r1740550118362,3,"^I like to have a variety of flavors to use on different types of foods\.$","1","",1,c1739663392259
 r1740550148939,3,"^2-3 other brands$","1","",1,c1739663392259
 r1740550158560,3,"^Different brands have different consistencies \(thin, thicker\)\.$","1","",1,c1739663392259
 r1740550164259,3,"^I need a flavor that Tabasco does not offer\.$","1","",1,c1739663392259
-r1740550169739,3,"^I like to have certain brands for everyday use and more artisan brands for special occasions\.$","1","",1,c1739663392259
 r1740550173200,3,"^I like to have a variety of brands to use on different types of foods\.$","1","",1,c1739663392259
 r1740550246328,3,"^recipe sites$","1","",1,c1739663392259
 r1740550252125,3,"^cooking shows$","1","",1,c1739663392259
 r1740550256965,3,"^friend/family member recommended$","1","",1,c1739663392259
 r1740550268555,3,"^A few weeks$","1","",1,c1739663392259
 r1740550276685,3,"^I would recommend Tabasco to a friend\.$","1","",1,c1739663392259
-r1740550284603,3,"^I would follow Tabasco on social media\.$","1","",1,c1739663392259
 r1740580791636,3,"^I am the primary decision-maker$","1","",1,c1740580776912
 r1740580833095,3,"^Verizon$","1","",1,c1740580776912
 r1740580847003,3,"^4 - Somewhat likely$","1","",1,c1740580776912
@@ -14338,6 +14326,18 @@ r1740610473646,3,"^Powerade$","1","",1,c68
 r1740610481332,3,"^Liquid I\.V\.$","1","",1,c68
 r1740610897450,3,"^Hiking or Trail Running$","1","",1,c1740610881441
 r1740610911637,3,"^Skiing/Snowboarding$","1","",1,c1740610881441
+r1740641803646,3,"^Sweet & Spicy$","1","",1,c1740040071369
+r1740641808954,3,"^Chipotle$","1","",1,c1740040071369
+r1740642107155,3,"^Visit website/app to check the product’s availability$","1","",1,c1739663392259
+r1740642111202,3,"^Visit website/app to read the product’s details$","1","",1,c1739663392259
+r1740642329461,3,"^I planned to buy a specific brand of hot sauce but to decide on the flavors I want once I begin shopping in store or online\.$","1","",1,c1739663392259
+r1740642347139,3,"^I will switch to another flavor so I can buy the brand I am looking for\.$","1","",1,c1739663392259
+r1740642375235,3,"^I bought the brand I planned on buying before shopping in store or online\.$","1","",1,c1739663392259
+r1740642408765,3,"^It was a brand specifically called for in a recipe$","1","",1,c1739663392259
+r1740642419636,3,"^I saw the brand used on a TV /cooking shows\.$","1","",1,c1739663392259
+r1740642440952,3,"^I saw an advertisement for the brand\.$","1","",1,c1739663392259
+r1740642772374,3,"^Ran out of it at home\.$","1","",1,c1739663392259
+r1740643014782,3,"^Will wait and consolidate the Tabasco purchase with when I place a larger grocery order\.$","1","",1,c1739663392259
 r17407,3,"^Left$","1","",1,c348
 r17408,3,"^Buy online$","1","",1,c348
 r17409,3,"^The same$","1","",1,c348
