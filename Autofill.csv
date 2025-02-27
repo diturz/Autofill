@@ -819,6 +819,7 @@ c1740547848412,"We have some questions about your habits and preferences!","",,,
 c1740548653061,"Let’s talk baking!","",,,,
 c1740549042451,"Relationship Status","",,,,
 c1740580776912,"Let's talk mobile providers!","",,,,
+c1740610881441,"Outdoor Fun!","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -14326,6 +14327,17 @@ r1740580918244,3,"^Yes, my phone is fully paid off$","1","",1,c1740580776912
 r1740580938869,3,"^3 - Somewhat familiar$","1","",1,c1740580776912
 r1740580949891,3,"^I would not like to participate in a video interview$","1","",1,c1740580776912
 r17406,3,"^Better quality$","1","",1,c348
+r1740610218084,3,"^Very Active \(exercise or play sports 3-5 times a week\)$","1","",1,c68
+r1740610253049,3,"^Fitness trackers or smartwatches \(e\.g\. Fitbit, Apple Watch\)$","1","",1,c68
+r1740610284295,3,"^Health supplements$","1","",1,c68
+r1740610293096,3,"^Sports drinks$","1","",1,c68
+r1740610314970,3,"^Athletic Apparel/ Shoes$","1","",1,c68
+r1740610323258,3,"^Water Bottles$","1","",1,c68
+r1740610468048,3,"^Gatorade$","1","",1,c68
+r1740610473646,3,"^Powerade$","1","",1,c68
+r1740610481332,3,"^Liquid I\.V\.$","1","",1,c68
+r1740610897450,3,"^Hiking or Trail Running$","1","",1,c1740610881441
+r1740610911637,3,"^Skiing/Snowboarding$","1","",1,c1740610881441
 r17407,3,"^Left$","1","",1,c348
 r17408,3,"^Buy online$","1","",1,c348
 r17409,3,"^The same$","1","",1,c348
