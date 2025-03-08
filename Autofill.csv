@@ -1539,7 +1539,6 @@ r132,3,"^Apple Music$","1","",1,c6
 r1320,3,"^Baking Aisle$","1","",1,c71
 r1321,3,"^Dairy Section$","1","",1,c71
 r1322,3,"^Deli Section$","1","",1,c71
-r1323,3,"^Pretzels$","1","",1,c71
 r1324,3,"^Unflavored Tortilla Chips$","1","",1,c71
 r1325,3,"^Fresh Dips and/or Salsa$","1","",1,c71
 r1326,3,"^Shelf Stable Dips and/or salsa$","1","",1,c71
@@ -1817,7 +1816,6 @@ r1489,3,"^Protein bars$","1","",1,c19
 r149,3,"^Toys$","1","",1,c4
 r1490,3,"^Granola bars$","1","",1,c19
 r1491,3,"^Crackers$","1","",1,c19
-r1492,3,"^Pretzels$","1","",1,c19
 r1493,3,"^Snack mixes \(e\.g\., trail mix, Chex mix\)$","1","",1,c19
 r1494,3,"^Fruit snacks \(e\.g\., fruit leather, fruit gummies\)$","1","",1,c19
 r1495,3,"^Potato chips$","1","",1,c19
@@ -2499,7 +2497,6 @@ r1729908089334,3,"^iPhone$","1","",1,c1729908078576
 r1729908109814,3,"^Yes$","1","",1,c1729908078576
 r1729908124947,3,"^Online through provider's website$","1","",1,c1729908078576
 r1729908157186,3,"^I save them for something big$","1","",1,c1729908143538
-r1729908168213,3,"^Popcorn$","1","",1,c1729908143538
 r1729908183267,3,"^Decorating my house$","1","",1,c1729908143538
 r1729908205558,3,"^Chick-fil-A$","1","",1,c1729908199484
 r1729908463921,3,"^KFC$","1","",1,c1729908199484
@@ -4436,7 +4433,6 @@ r1731382122451,3,"^Cereal$","1","",1,c1731382035356
 r1731382127055,3,"^Ice Cream$","1","",1,c1731382035356
 r1731382131416,3,"^Granola Bars$","1","",1,c1731382035356
 r1731382135076,3,"^Candy$","1","",1,c1731382035356
-r1731382146708,3,"^Popcorn$","1","",1,c1731382035356
 r1731382154593,3,"^Spices$","1","",1,c1731382035356
 r1731382158836,3,"^Canned Soup$","1","",1,c1731382035356
 r1731382166533,3,"^Potato Chips$","1","",1,c1731382035356
@@ -6520,7 +6516,6 @@ r1733267801985,3,"^Pizza$","1","",1,c1733267481281
 r1733267804522,3,"^Frozen drinks$","1","",1,c1733267481281
 r1733267811298,3,"^BBQ$","1","",1,c1733267481281
 r1733267817628,3,"^Iced Tea$","1","",1,c1733267481281
-r1733267824731,3,"^Pretzels$","1","",1,c1733267481281
 r1733267838296,3,"^I am the primary purchase decision maker$","1","",1,c1733267481281
 r1733267859708,3,"^Subway$","1","",1,c1733267481281
 r1733267865708,3,"^Popeye’s$","1","",1,c1733267481281
@@ -7170,8 +7165,6 @@ r1733461483031,3,"^Convenience Stores \(i\.e\., 7-Eleven\)$","1","",1,c4
 r1733461486866,3,"^Club Stores \(i\.e\., Costco, Sam's Club\)$","1","",1,c4
 r1733461737070,3,"^Potato chips$","1","",1,c5
 r1733461740873,3,"^Tortilla chips$","1","",1,c5
-r1733461744623,3,"^Popcorn$","1","",1,c5
-r1733461748883,3,"^Pretzels$","1","",1,c5
 r1733461815985,3,"^Almost all of the work is done by external contractors$","1","",1,c1733461761910
 r1733461838494,3,"^Straight/Heterosexual$","1","",1,c15
 r1733461865658,3,"^A child or children between the ages of 6 and 11$","1","",1,c15
@@ -7475,7 +7468,6 @@ r1733653882304,3,"^Canned Goods$","1","",1,c502
 r1733653892516,3,"^Fruit$","1","",1,c502
 r1733653900860,3,"^Cookies$","1","",1,c502
 r1733653927278,3,"^Potato chips$","1","",1,c502
-r1733653938141,3,"^Pretzels$","1","",1,c502
 r1733653946788,3,"^Tortilla chips$","1","",1,c502
 r1733653954255,3,"^Corn chips$","1","",1,c502
 r1733653967384,3,"^Lay’s$","1","",1,c502
@@ -9465,7 +9457,6 @@ r1735032362899,3,"^Doritos$","1","",1,c1735032161532
 r1735032668717,3,"^Crackers \(savory or sweet\)$","1","",1,c1735032161532
 r1735032674334,3,"^Chocolates or candy$","1","",1,c1735032161532
 r1735032729900,3,"^Chips \(potato, tortilla, etc\.\)$","1","",1,c1735032161532
-r1735032742506,3,"^Popcorn$","1","",1,c1735032161532
 r1735032752844,3,"^Granola or protein bars$","1","",1,c1735032161532
 r1735032787467,3,"^Savory snack mixes \(pretzels, party mixes, etc\.\)$","1","",1,c1735032161532
 r1735032798309,3,"^Ice cream or frozen treats$","1","",1,c1735032161532
@@ -12522,9 +12513,7 @@ r1739652758995,3,"^Colgate$","1","",1,c1739649285001
 r1739652790459,3,"^Alcohol-free/zero-alcohol mouthwash$","1","",1,c1739649285001
 r1739653238641,3,"^Flavored tortilla chips \(i\.e\. Doritos\)$","1","",1,c1739653224893
 r1739653246160,3,"^Trail mix$","1","",1,c1739653224893
-r1739653250662,3,"^Ready-to-eat popcorn$","1","",1,c1739653224893
 r1739653254990,3,"^Potato chips$","1","",1,c1739653224893
-r1739653258602,3,"^Microwave popcorn$","1","",1,c1739653224893
 r1739653291568,3,"^Within the past 6 months$","1","",1,c1739653224893
 r1739653303302,3,"^My purchasing has not changed$","1","",1,c1739653224893
 r1739653408326,3,"^During movie night with family or friends$","1","",1,c1739653224893
@@ -12858,7 +12847,6 @@ r1740015838243,3,"^Somewhat likely$","1","",1,c1740015833260
 r1740015860316,3,"^Customized insights about your health data$","1","",1,c1740015833260
 r1740015869767,3,"^Ability to connect to other health & fitness apps$","1","",1,c1740015833260
 r1740015873422,3,"^Access to health screening & checkup tools$","1","",1,c1740015833260
-r1740015897443,3,"^Popcorn$","1","",1,c126
 r1740015941860,3,"^My child\(ren\) age 5 – 12$","1","",1,c126
 r1740015949088,3,"^My child\(ren\) age 13 – 17$","1","",1,c126
 r1740016132871,3,"^Albertsons$","1","",1,c164
@@ -12922,7 +12910,6 @@ r1740019461067,3,"^OK - I get by, but there's not a lot left by the time the bas
 r1740019487148,3,"^Specialty/health food store \(such as Whole Food, Trader Joe’s\)$","1","",1,c431
 r1740019495128,3,"^Grocery Stores \(ex: Meijer, Kroger, Publix\)$","1","",1,c431
 r1740019517960,3,"^Target\.com$","1","",1,c431
-r1740019536490,3,"^Popcorn - Prepackaged, Ready-To-Eat \(Not microwavable\)$","1","",1,c431
 r1740019541844,3,"^Portable shelf-stable breakfast foods \(e\.g\. breakfast bars, granola bars, breakfast biscuits, etc\.\)$","1","",1,c431
 r1740019545901,3,"^Energy or Protein bars$","1","",1,c431
 r1740019566910,3,"^Multi-Pack Crackers$","1","",1,c431
@@ -13069,7 +13056,6 @@ r1740024787743,3,"^Publix$","1","",1,c41
 r1740024791789,3,"^Albertson's$","1","",1,c41
 r1740024814512,3,"^Nature Valley$","1","",1,c41
 r1740024832201,3,"^Puffed Snacks$","1","",1,c41
-r1740024835380,3,"^Popcorn$","1","",1,c41
 r1740024846613,3,"^More than once a week$","1","",1,c41
 r1740024869519,3,"^Albertson’s$","1","",1,c41
 r1740024875082,3,"^Whole Foods$","1","",1,c41
@@ -13178,7 +13164,6 @@ r1740027923912,3,"^Wells Fargo$","1","",1,c1740027885084
 r1740027934704,3,"^Yes$","1","",1,c1740027885084
 r1740027951983,3,"^Nuts$","1","",1,c1740027948713
 r1740027955581,3,"^Trail mix or mixed nuts$","1","",1,c1740027948713
-r1740027959723,3,"^Bagged Popcorn$","1","",1,c1740027948713
 r1740027973451,3,"^Corn snacks$","1","",1,c1740027948713
 r1740027979332,3,"^Corn snacks$","1","",1,c1740027948713
 r1740027988333,3,"^Tortilla chips$","1","",1,c1740027948713
@@ -13274,7 +13259,6 @@ r1740034447664,3,"^Sony$","1","",1,c1740034232323
 r1740034450905,3,"^Apple$","1","",1,c1740034232323
 r1740035139888,3,"^\$75,000-\$99,999$","1","",1,c358
 r1740035736823,3,"^Store/Private Label$","1","",1,c179
-r1740035787025,3,"Bagged Popcorn","1","",1,c1735057490096
 r1740035790488,3,"^Corn snacks$","1","",1,c1735057490096
 r1740035793510,3,"^Tortilla chips$","1","",1,c1735057490096
 r1740035821295,3,"^Albertsons \(e\.g\., Albertsons, Safeway, Vons\)$","1","",1,c1735057490096
@@ -13373,7 +13357,6 @@ r1740040472960,3,"^Crackers$","1","",1,c178
 r1740040477073,3,"^Cookies$","1","",1,c178
 r1740040481297,3,"^Non-chocolate candy \(gummy candy, hard candy, licorice, chews, ropes, belts\)$","1","",1,c178
 r1740040484904,3,"^Chocolate Candy$","1","",1,c178
-r1740040488882,3,"^Popcorn$","1","",1,c178
 r1740040492407,3,"^Nuts and Seeds$","1","",1,c178
 r1740040502951,3,"^Potato Chips$","1","",1,c178
 r1740040517983,3,"^Pastries$","1","",1,c178
@@ -13494,7 +13477,6 @@ r1740357689240,3,"^Frozen breakfast item \(pancakes, waffles, biscuits, sandwich
 r1740357696933,3,"^Ready-to-eat packaged cookies$","1","",1,c20
 r1740357702347,3,"^Hot cereal \(including instant oatmeal, rolled oats, steel cut oats, grits, polenta, etc\.\)$","1","",1,c20
 r1740357708017,3,"^Breakfast pastries, pop ups, bars$","1","",1,c20
-r1740357712759,3,"^Shelf-stable, hand-held breakfast \(pop tarts, nutrigrain\)$","1","",1,c20
 r1740357723070,3,"^Baking aids \(baking powder, baking soda, yeast, shredded/flaked coconut, guar gum, xanthan gum, egg replacer, coconut sugar, dry milk powder, etc\.\)$","1","",1,c20
 r1740357727811,3,"^Baking mixes \(including pancake mix, waffle mix, brownie mix, cake mix, muffin mix, bread mix, etc\.\)$","1","",1,c20
 r1740357738907,3,"^Cold cereal \(including granola, wheat bran, wheat germ, muesli, etc\.\)$","1","",1,c20
@@ -13563,13 +13545,6 @@ r1740530202741,3,"^A voice-controlled virtual assistant \(e\.g\., Amazon Alexa, 
 r1740530210128,3,"^A robotic vacuum \(e\.g\., Roomba, Shark IQ\)$","1","",1,c1740530115310
 r1740530233412,3,"^My neighborhood is safe$","1","",1,c1740530115310
 r1740530669846,3,"^Side dishes Kits with Pasta or rice, like Near East, Rice a Roni, Ancient Grains, Knorr, Uncle Ben’s$","1","",1,c20
-r1740530682941,3,"^Flour \(including wheat-based or other type of flour\)$","1","",1,c20
-r1740530693120,3,"^Grains \(including quinoa, teff, millet, sorghum, amaranth, buckwheat, farro, bulgur, barley, couscous, etc\.\)$","1","",1,c20
-r1740530760855,3,"^DESCRIBES ME: Comforting$","1","",1,c20
-r1740530764841,3,"^DESCRIBES ME: Gourmet$","1","",1,c20
-r1740530774122,3,"^I try new or unfamiliar foods/entrees at home when I feel like cooking creatively$","1","",1,c20
-r1740530783643,3,"^I use recipes as a guideline, but include my own ingredients as well or put my own spin on it$","1","",1,c20
-r1740530795692,3,"^I do small things to watch my health \(e\.g\., taking the stairs, eating less junk food, etc\.\)$","1","",1,c20
 r1740530958755,3,"^Maintained my lawn personally$","1","",1,c19
 r1740531248705,3,"^Uber One \(formerly Eats Pass\)$","1","",1,c1740531244477
 r1740531251644,3,"^Amazon Prime$","1","",1,c1740531244477
@@ -14832,6 +14807,15 @@ r1741421697713,3,"^Once per week$","1","",1,c3
 r1741422027114,3,"^Tiger$","1","",1,c1729917526671
 r1741422043570,3,"^I am primarily responsible for purchasing groceries for my household$","1","",1,c1729917526671
 r1741423686426,3,"^Snapchat$","1","",1,c1740543989089
+r1741425216223,3,"^Yes$","1","",1,c6
+r1741425391515,3,"^Websites not associated with Apple \(e\.g\., CNET, TechCrunch\)$","1","",1,c6
+r1741425524883,3,"^Peanut Butter$","1","",1,c179
+r1741425529731,3,"^Granola bars$","1","",1,c179
+r1741425533884,3,"^Energy bars$","1","",1,c179
+r1741426280473,3,"^Organic$","1","",1,c3
+r1741426286085,3,"^Pre-Washed$","1","",1,c3
+r1741426292055,3,"^Pesticide-Free$","1","",1,c3
+r1741426314727,3,"^Taylor Farms$","1","",1,c3
 r17415,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c350
 r17416,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c350
 r17417,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c350
@@ -16266,7 +16250,6 @@ r18743,3,"^Chocolate$","1","",1,c433
 r18744,3,"^Cookies$","1","",1,c433
 r18745,3,"^Non-Chocolate Candy$","1","",1,c433
 r18746,3,"^Potato Chips$","1","",1,c433
-r18747,3,"^Pretzels$","1","",1,c433
 r18748,3,"^M&M's$","1","",1,c433
 r18749,3,"^In-store only$","1","",1,c396
 r1875,3,"^Somewhat likely$","1","",1,c81
@@ -18125,7 +18108,6 @@ r20481,3,"^Primarily through in-person sessions$","1","",1,c1729980882634
 r20482,3,"^25 to 34$","1","",1,c1729980882634
 r20483,3,"^Male$","1","",1,c1729980882634
 r20484,3,"^Fruit snacks$","1","",1,c526
-r20485,3,"^Pretzels$","1","",1,c526
 r20486,3,"^Energy bars$","1","",1,c526
 r20487,3,"^Granola bars$","1","",1,c526
 r20488,3,"^Crackers$","1","",1,c526
@@ -19489,7 +19471,6 @@ r2610,3,"^Bars \(e\.g\., energy, nutrition, protein, granola, cereal, etc\.\)$",
 r2611,3,"^Candy and/or chocolate$","1","",1,c126
 r2612,3,"^Fruit snacks \(e\.g\., dried fruit, fruit cups, etc\.\)$","1","",1,c126
 r2613,3,"^Snacking cheese \(e\.g\., string cheese, Babybel, etc\.\)$","1","",1,c126
-r2614,3,"^Pretzels$","1","",1,c126
 r2615,3,"^Chips$","1","",1,c126
 r2616,3,"^Yogurt$","1","",1,c126
 r2617,3,"^Protein bars \(e\.g\., Clif Builders bar, Pure Protein, Quest, etc\.\)$","1","",1,c126
@@ -19818,7 +19799,6 @@ r2927,3,"^Walmart \(In-store\)$","1","",1,c139
 r2928,3,"^Walmart\.com$","1","",1,c139
 r293,3,"^Alcoholic Beverages \(e\.g\., Beer, Wine, Spirits\)$","1","",1,c14
 r2930,3,"^Cat$","1","",1,c139
-r2931,3,"^Popcorn - Prepackaged, Ready-To-Eat \(Not microwavable\)$","1","",1,c139
 r2932,3,"^Chocolate$","1","",1,c139
 r2933,3,"^Cheese snacks \(i\.e\. Cheetos, Whisps, etc\.\)$","1","",1,c139
 r2934,3,"^Chips of any kind \(e\.g\. Potato, Baked, Corn, Pita, Multigrain, Veggie, Tortilla, etc\.\)$","1","",1,c139
@@ -19831,7 +19811,6 @@ r294,3,"^Functional Beverages \(e\.g\., Vitamin Water, Kombucha, Protein Shakes\
 r2940,3,"^Portable shelf-stable breakfast foods \(e\.g\. breakfast bars, granola bars, breakfast biscuits, etc\.\)$","1","",1,c139
 r2941,3,"^Cookies - Prepackaged, Ready-To-Eat$","1","",1,c139
 r2942,3,"^Pre-Packaged Snack Cakes \(e\.g\. Little Debbie cakes, other sweet soft cakes, brownies, etc\.\)$","1","",1,c139
-r2943,3,"^Pretzels$","1","",1,c139
 r2944,3,"^Single-Serve$","1","",1,c139
 r2945,3,"^Full size$","1","",1,c139
 r2946,3,"^Chips Ahoy!$","1","",1,c139
@@ -20831,16 +20810,13 @@ r394,3,"^In the next 6 months to 1 year$","1","",1,c4
 r395,3,"^OS \(Apple iPhone\)$","1","",1,c4
 r396,3,"^Android \(Samsung Galaxy, Google Pixel, etc\.\)$","1","",1,c4
 r397,3,"^Being open to new ideas and experiences$","1","",1,c20
-r398,3,"^Enjoying relationships that give my life meaning$","1","",1,c20
 r399,3,"^DESCRIBES ME: Authentic$","1","",1,c20
 r4,3,"^Best Buy$","1","",1,c1
 r40,3,"^Costco membership$","1","",1,c1
 r400,3,"^I like to cook or bake from scratch$","1","",1,c20
 r401,3,"^I cook for fun/enjoyment$","1","",1,c20
 r402,3,"^I cook or eat frozen meals/entrees$","1","",1,c20
-r403,3,"^I cook or bake from box mixes$","1","",1,c20
 r404,3,"^I feel responsible for helping my family to eat better$","1","",1,c20
-r405,3,"^I will go out of my way to find unique foods and drinks$","1","",1,c20
 r406,3,"^Cat$","1","",1,c20
 r407,3,"^Employed Full Time$","1","",1,c21
 r408,3,"^Manager$","1","",1,c21
