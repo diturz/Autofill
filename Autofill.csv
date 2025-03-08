@@ -852,6 +852,8 @@ c1741409203895,"We're conducting a survey to better understand the experiences a
 c1741409589422,"Snacking Survey","",,,,
 c1741409812774,"Let's talk snacks","",,,,
 c1741410474083,"What does healthcare management look like for YOU","",,,,
+c1741416040970,"Asking About Your Favorite Stores and Brands!","",,,,
+c1741418303610,"Tell us a bit more about what products and services you use.","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -2040,7 +2042,6 @@ r16597,3,"^Seafood$","1","",1,c17
 r16598,3,"^Household cleaning products$","1","",1,c17
 r16599,3,"^Over-the-counter medications$","1","",1,c17
 r166,3,"^Children items \(e\.g\. clothing, shoes, toys, school uniforms\)$","1","",1,c9
-r1660,3,"^Panera Bread$","1","",1,c87
 r16600,3,"^Dairy products \(milk, cheese, yogurt\)$","1","",1,c17
 r16601,3,"^Personal care items \(shampoo, soap, toothpaste\)$","1","",1,c17
 r16602,3,"^Canned goods \(soups, vegetables, beans\)$","1","",1,c17
@@ -2577,7 +2578,6 @@ r1729913134332,3,"^Toothpaste$","1","",1,c1729912798272
 r1729913141414,3,"^Bar Soap$","1","",1,c1729912798272
 r1729913159373,3,"^Colgate$","1","",1,c1729912798272
 r1729913174800,3,"^Olay$","1","",1,c1729912798272
-r1729913213334,3,"^A few times a week$","1","",1,c5
 r1729914426530,3,"^Mix of both, personal and business needs$","1","",1,c1729914417094
 r1729914442377,3,"^Very interesting$","1","",1,c1729914417094
 r1729914451000,3,"^Somewhat likely$","1","",1,c1729914417094
@@ -3241,7 +3241,6 @@ r1730350108869,3,"^Mobile payments \(e\.g\. GPay or Apple Pay\)$","1","",1,c15
 r1730350113647,3,"^Media controls \(Controlling and listening to media / audio content\)$","1","",1,c15
 r1730350117828,3,"^Receiving and sending messages$","1","",1,c15
 r1730350124550,3,"^Receiving and placing calls$","1","",1,c15
-r1730350132750,3,"^Very satisfied$","1","",1,c15
 r1730350146223,3,"^Google Pixel Watch$","1","",1,c15
 r1730350174529,3,"^Cellular connectivity \(the watch could work independently from phone\)$","1","",1,c15
 r1730350184971,3,"^Apple AirPods$","1","",1,c15
@@ -4118,7 +4117,6 @@ r1731256686148,3,"^TikTok$","1","",1,c41
 r1731256706462,3,"^Exceptional customer service$","1","",1,c41
 r1731256725697,3,"^Often$","1","",1,c41
 r1731256745123,3,"^By engaging with their audience on social media$","1","",1,c41
-r1731257065907,3,"^Albertsons$","1","",1,c76
 r1731257082007,3,"^Walmart$","1","",1,c76
 r1731257090281,3,"^Target$","1","",1,c76
 r1731257971346,3,"^Ferrero Rocher$","1","",1,c380
@@ -4955,7 +4953,6 @@ r1731720217609,3,"^National Football League \(NFL\)$","1","",1,c384
 r1731720222454,3,"^National Hockey League \(NHL\)$","1","",1,c384
 r1731720227050,3,"^NASCAR$","1","",1,c384
 r1731720230936,3,"^National Basketball Association \(NBA\)$","1","",1,c384
-r1731720378959,3,"^Accounting$","1","",1,c384
 r1731720397382,3,"^I do all or most of the shopping$","1","",1,c1731720393051
 r1731720416969,3,"^Spouse or partner$","1","",1,c1731720393051
 r1731720433044,3,"^Teenager\(s\) age 13-17$","1","",1,c1731720393051
@@ -9562,7 +9559,6 @@ r1735052075407,3,"^Pompeiian$","1","",1,c466
 r1735052816363,3,"^Local Game Store$","1","",1,c23
 r1735052823980,3,"^Walmart$","1","",1,c23
 r1735053282085,3,"^Heinz 57$","1","",1,c387
-r1735053373221,3,"^Texas Roadhouse$","1","",1,c387
 r1735053384735,3,"^Kentucky Fried Chicken \(KFC\)$","1","",1,c387
 r1735053594378,3,"^Life Savers$","1","",1,c58
 r1735053795574,3,"^Heinz Ketchup$","1","",1,c58
@@ -10771,7 +10767,6 @@ r1736889424303,3,"^Apple Pay$","1","",1,c1736889297030
 r1736889430689,3,"^PayPal$","1","",1,c1736889297030
 r1736889454207,3,"^Wells Fargo$","1","",1,c1736889297030
 r1736889461634,3,"^Bank of America$","1","",1,c1736889297030
-r1736890408489,3,"^Panera Bread$","1","",1,c1736890400679
 r1736890412873,3,"^Papa John's$","1","",1,c1736890400679
 r1736890422433,3,"^Subway$","1","",1,c1736890400679
 r1736890427425,3,"^Wendy's$","1","",1,c1736890400679
@@ -12548,7 +12543,6 @@ r1739653620958,3,"^/we are on a weight loss drug and don’t eat as much$","1","
 r1739654027518,3,"^Brand name$","1","",1,c496
 r1739654030629,3,"^Flavors$","1","",1,c496
 r1739654034506,3,"^Amount of caffeine$","1","",1,c496
-r1739654057835,3,"^Panera Bread$","1","",1,c1739654053214
 r1739654061558,3,"^Subway$","1","",1,c1739654053214
 r1739654229424,3,"^Ozempic$","1","",1,c519
 r1739654346462,3,"^For the last 3-6 months$","1","",1,c519
@@ -13637,7 +13631,6 @@ r1740535543644,3,"^Subway$","1","",1,c1740535495654
 r1740535547120,3,"^McDonald’s$","1","",1,c1740535495654
 r1740535551688,3,"^Taco Bell$","1","",1,c1740535495654
 r1740535555731,3,"^Chipotle Mexican Grill$","1","",1,c1740535495654
-r1740535558880,3,"^Panera Bread$","1","",1,c1740535495654
 r1740535562127,3,"^Wendy's$","1","",1,c1740535495654
 r1740535612756,3,"^I like to wear timeless classics that can be worn for many occasions$","1","",1,c1731449109661
 r1740535617767,3,"^I have a stylish and simplistic wardrobe$","1","",1,c1731449109661
@@ -13864,16 +13857,11 @@ r1740544045658,3,"^Cocktail Mixers \(e\.g\., Margarita, Bloody Mary, Pina Colada
 r1740544052821,3,"^Refrigerated/chilled fruit juice or juice drinks$","1","",1,c1740543989089
 r1740544056687,3,"^Frozen smoothie kits$","1","",1,c1740543989089
 r1740544062589,3,"^Shelf-stable/non-chilled fruit juice or juice drinks$","1","",1,c1740543989089
-r1740544066889,3,"^Canned/jarred fruits$","1","",1,c1740543989089
 r1740544070821,3,"^Frozen novelties/desserts/ice creams$","1","",1,c1740543989089
 r1740544074377,3,"^Trail Mix$","1","",1,c1740543989089
-r1740544080478,3,"^Dried fruit bites/chips$","1","",1,c1740543989089
-r1740544085262,3,"^Frozen fruits$","1","",1,c1740543989089
 r1740544091018,3,"^Frozen smoothie/acai bowls$","1","",1,c1740543989089
 r1740544123347,3,"^Ready to eat fruit snacks \(e\.g\. fruit cups, fruit bowls, fruit chips, etc\.\)$","1","",1,c1740543989089
-r1740544134716,3,"^Juicy Juice$","1","",1,c1740543989089
 r1740544138268,3,"^Tropicana$","1","",1,c1740543989089
-r1740544141770,3,"^Ocean Spray$","1","",1,c1740543989089
 r1740544145818,3,"^Mott's$","1","",1,c1740543989089
 r1740544149291,3,"^Capri Sun$","1","",1,c1740543989089
 r1740544152512,3,"^Minute Maid$","1","",1,c1740543989089
@@ -14222,7 +14210,6 @@ r1741035690860,3,"^2 years or less$","1","",1,c1741035670382
 r1741036054370,3,"^I own or lease a car$","1","",1,c1741036047449
 r1741036058218,3,"^I own or rent the home I live in$","1","",1,c1741036047449
 r1741036585340,3,"^Glass jar$","1","",1,c1730176781056
-r1741036868787,3,"^Publix$","1","",1,c76
 r1741036872571,3,"^Kroger$","1","",1,c76
 r1741036914660,3,"^Refrigerated Wellness Shots \(e\.g\., Suja, Vive Organic, So Good So You\)$","1","",1,c76
 r1741036966228,3,"^Tropicana$","1","",1,c76
@@ -14728,6 +14715,123 @@ r1741412064633,3,"^Tide$","1","",1,c166
 r1741412071841,3,"^Lysol$","1","",1,c166
 r1741412112075,3,"^Palmolive Liquid Dish Soap$","1","",1,c166
 r1741412151134,3,"^Ajax Liquid Dish Soap$","1","",1,c166
+r1741414882578,3,"^Snapchat$","1","",1,c1731546701422
+r1741415820167,3,"^Electric/Battery toothbrush or refill head$","1","",1,c15
+r1741416047321,3,"^New Balance$","1","",1,c1741416040970
+r1741416053608,3,"^Converse$","1","",1,c1741416040970
+r1741416058318,3,"^Puma$","1","",1,c1741416040970
+r1741416065438,3,"^Adidas$","1","",1,c1741416040970
+r1741416079995,3,"^Vans$","1","",1,c1741416040970
+r1741416240497,3,"^Nike$","1","",1,c1741416040970
+r1741416395182,3,"^Adventurous outdoor activities \(e\.g\., hiking, climbing, skiing, trail running, mountain biking\)$","1","",1,c1741416040970
+r1741416402211,3,"^Socializing \(e\.g\., night-out, dinner\)$","1","",1,c1741416040970
+r1741416407880,3,"^Sports activities \(e\.g\., running, tennis, basketball, skateboarding\)$","1","",1,c1741416040970
+r1741416418642,3,"^Workouts/fitness activities \(e\.g\., cardio, yoga, pilates\)$","1","",1,c1741416040970
+r1741416430123,3,"^Casual/recreational outdoor activities \(e\.g\., exploring the city, picnicking, gardening\)$","1","",1,c1741416040970
+r1741416556985,3,"^To feel alive$","1","",1,c1741416040970
+r1741416565703,3,"^To express myself$","1","",1,c1741416040970
+r1741416573020,3,"^To find balance$","1","",1,c1741416040970
+r1741416589225,3,"^Athletic/Sporty$","1","",1,c1741416040970
+r1741416596214,3,"^Minimalistic$","1","",1,c1741416040970
+r1741416618466,3,"^Sophisticated$","1","",1,c1741416040970
+r1741416637358,3,"^Two$","1","",1,c1741416040970
+r1741417250280,3,"^Dry Pasta or Noodles \(sold in main grocery aisle\)$","1","",1,c387
+r1741417261982,3,"^Salad Dressings \(sold in main grocery aisle\)$","1","",1,c387
+r1741417285390,3,"^Salsa$","1","",1,c387
+r1741417478577,3,"^Store Brand Veggie/Chip Dip$","1","",1,c387
+r1741417598177,3,"^Dry Pasta \(sold in main grocery aisle\)$","1","",1,c387
+r1741418139902,3,"^Websites not associated with manufacturer or service provider \(e\.g\., CNET, TechCrunch\)$","1","",1,c6
+r1741418312583,3,"^Four$","1","",1,c1741418303610
+r1741418329112,3,"^Homeowner$","1","",1,c1741418303610
+r1741418349185,3,"^Single-family home$","1","",1,c1741418303610
+r1741418372596,3,"^Urban$","1","",1,c1741418303610
+r1741418393384,3,"^I am responsible for deciding which services to use$","1","",1,c1741418303610
+r1741418550710,3,"^Electrical Repair Services$","1","",1,c1741418303610
+r1741418630920,3,"^Coffee or coffee-based drinks \(hot or cold\)$","1","",1,c20
+r1741418635395,3,"^Eggs$","1","",1,c20
+r1741418641553,3,"^Olive Oil$","1","",1,c20
+r1741418645739,3,"^Dairy milk \(from a cow - including cream, half-and-half, whole milk, etc\.\)$","1","",1,c20
+r1741418650151,3,"^Plant-based milk or creamers \(including almond, oat, soy, coconut, etc\.\)$","1","",1,c20
+r1741418654306,3,"^Fruit juice or smoothies$","1","",1,c20
+r1741418660111,3,"^Nutrition bars \(like a Clif bar or protein bar\)$","1","",1,c20
+r1741418664606,3,"^Bread \(including english muffins\)$","1","",1,c20
+r1741418682539,3,"^WEEKLY \(at least once per week or more, but not daily\)$","1","",1,c20
+r1741418761104,3,"^Dairy milk \(including skim, 2%, and/or whole milk\)$","1","",1,c20
+r1741418766586,3,"^Traditional non-dairy coffee creamers \(like Coffee Mate or International Delight\)$","1","",1,c20
+r1741418772853,3,"^Plant-based milk \(including almond, oat, soy, coconut, etc\.\)$","1","",1,c20
+r1741418785034,3,"^Cream \(including whipping cream, heavy or light cream, etc\.\)$","1","",1,c20
+r1741418788880,3,"^Plant-based creamers \(made from almond, oat, soy, coconut, etc\.\)$","1","",1,c20
+r1741418804844,3,"^30% Plant Based - 70% Dairy$","1","",1,c20
+r1741418938471,3,"^Any type of restaurant$","1","",1,c5
+r1741418943480,3,"^Shopping Mall$","1","",1,c5
+r1741418948097,3,"^Movie theatre$","1","",1,c5
+r1741418952259,3,"^Museum$","1","",1,c5
+r1741418994803,3,"^Fast Food Restaurant \(customers typically order at a counter, seat themselves, and carry their trays to the table\. Like Burger King or McDonald’s$","1","",1,c5
+r1741418998981,3,"^Fast Casual Restaurants \(these are restaurants that have higher prices then fast-food restaurants\. The food is made to order\. Like Panera, Chipotle\)$","1","",1,c5
+r1741419005115,3,"^Midscale Restaurants \(these are restaurants where a waiter takes your order and serves you at your table\. Examples might be IHOP, Denny’s\)$","1","",1,c5
+r1741419009744,3,"^Casual Dining \(Waiter takes your order and serves you\. They serve lunch and dinner that may include alcohol\. Like Olive Garden, Applebee’s$","1","",1,c5
+r1741419100421,3,"^Burgers \(such as Burger King, McDonalds, Fatburger, Five Guys Burger and Fries, etc\.\)$","1","",1,c5
+r1741419105113,3,"^Chicken \(such as Chick-fil-a, Popeye’s, KFC, etc\.\)$","1","",1,c5
+r1741419109577,3,"^Sandwiches/Subs \(such as Subway, Jason’s Deli, Firehouse Subs, Panera, Potbelly, Corner Bakery, etc\.\)$","1","",1,c5
+r1741419114173,3,"^Mexican or Tex Mex \(such as Taco Bell, Qdoba, Moe’s Southwestern Grill, Chipotle, Baja Fresh, etc\.\)$","1","",1,c5
+r1741419628709,3,"^A few times a week$","1","",1,c5
+r1741419636364,3,"^Iced Tea$","1","",1,c5
+r1741419648152,3,"^Smoothies$","1","",1,c5
+r1741419715278,3,"^Sandwiches$","1","",1,c5
+r1741419719802,3,"^Baked goods$","1","",1,c5
+r1741419724491,3,"^Salads$","1","",1,c5
+r1741419728565,3,"^Soda / Pop$","1","",1,c5
+r1741419732707,3,"^Energy Drinks$","1","",1,c5
+r1741419752097,3,"^Steak and Cheese$","1","",1,c5
+r1741419759130,3,"^Italian \(Salami, ham, pepperoni, cheese\)$","1","",1,c5
+r1741419818759,3,"^I order for myself$","1","",1,c5
+r1741419827200,3,"^I order for myself and for others$","1","",1,c5
+r1741419832970,3,"^I order for someone else$","1","",1,c5
+r1741419943658,3,"^I order at-home delivery$","1","",1,c5
+r1741419947410,3,"^I order take-out$","1","",1,c5
+r1741419952980,3,"^I order at the counter to dine at the restaurant$","1","",1,c5
+r1741419958052,3,"^I order at the drive-through$","1","",1,c5
+r1741419984972,3,"^I order take-out through a food service app$","1","",1,c5
+r1741419989407,3,"^I order take-out through the restaurant’s website$","1","",1,c5
+r1741420056252,3,"^I order delivery through a food service app$","1","",1,c5
+r1741420062256,3,"^I order delivery through the restaurant’s website$","1","",1,c5
+r1741420079934,3,"^McDonald’s$","1","",1,c5
+r1741420084422,3,"^Wendy’s$","1","",1,c5
+r1741420090741,3,"^Burger King$","1","",1,c5
+r1741420106229,3,"^KFC$","1","",1,c5
+r1741420188585,3,"^Somewhat optimistic$","1","",1,c5
+r1741420218287,3,"^Somewhat better than a year ago$","1","",1,c5
+r1741420245386,3,"^Somewhat more often than a year ago$","1","",1,c5
+r1741420299139,3,"^I am spiritual but do not attend any organized religious services$","1","",1,c5
+r1741420316923,3,"^Somewhat conservative$","1","",1,c5
+r1741420382593,3,"^Republican$","1","",1,c5
+r1741420547085,3,"^Gasoline powered vehicle$","1","",1,c15
+r1741420567710,3,"^I am the sole decision maker$","1","",1,c15
+r1741420634825,3,"^Went directly to a mechanic, quick lube, car dealership, or similar and purchased and had them do a full-service oil change$","1","",1,c15
+r1741420639931,3,"^Purchased motor oil at a retail store or online and did the oil change myself$","1","",1,c15
+r1741420786305,3,"^I purchased it at a retail store or online and changed the oil myself$","1","",1,c15
+r1741420792257,3,"^I had my oil change at a location by a professional mechanic$","1","",1,c15
+r1741420865916,3,"^Conventional$","1","",1,c15
+r1741420882752,3,"^Valvoline$","1","",1,c15
+r1741420929554,3,"^WalMart \(in the store\)$","1","",1,c15
+r1741421034682,3,"^One quart bottles only$","1","",1,c15
+r1741421073708,3,"^More than 4- up to 5 quarts$","1","",1,c15
+r1741421419207,3,"^I am primarily responsible for buying the groceries$","1","",1,c3
+r1741421492544,3,"^Ice Cream$","1","",1,c3
+r1741421495765,3,"^Potato chips$","1","",1,c3
+r1741421499619,3,"^Fresh fruit$","1","",1,c3
+r1741421503054,3,"^Pasta$","1","",1,c3
+r1741421507274,3,"^Bread$","1","",1,c3
+r1741421511171,3,"^Cheese$","1","",1,c3
+r1741421515562,3,"^Fresh vegetables$","1","",1,c3
+r1741421519115,3,"^Meat$","1","",1,c3
+r1741421560069,3,"^Potatoes$","1","",1,c3
+r1741421565998,3,"^Lettuce / Leafy Greens \(iceberg lettuce, romaine, arugula, etc\.\)$","1","",1,c3
+r1741421681024,3,"^Green Leaf Lettuce$","1","",1,c3
+r1741421697713,3,"^Once per week$","1","",1,c3
+r1741422027114,3,"^Tiger$","1","",1,c1729917526671
+r1741422043570,3,"^I am primarily responsible for purchasing groceries for my household$","1","",1,c1729917526671
+r1741423686426,3,"^Snapchat$","1","",1,c1740543989089
 r17415,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c350
 r17416,3,"^eCommerce \(e\.g\., Amazon, retailer websites like Target\.com\)$","1","",1,c350
 r17417,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c350
@@ -15238,7 +15342,6 @@ r1789,3,"^Gaming Console$","1","",1,c94
 r17890,3,"^Plain$","1","",1,c361
 r17891,3,"^Pre-marinated$","1","",1,c361
 r17892,3,"^Employed full time \(at least 30 hours per week\)$","1","",1,c370
-r17893,3,"^Accounting$","1","",1,c370
 r17894,3,"^500-999$","1","",1,c370
 r17895,3,"^I am not involved in purchase decision making for business products and/or services$","1","",1,c370
 r17896,3,"^I work full-time$","1","",1,c370
@@ -15346,7 +15449,6 @@ r17993,3,"^Shelf Stable Salad Dressings \(sold in main grocery aisle\)$","1","",
 r17994,3,"^Chip dips$","1","",1,c387
 r17995,3,"^Cheese dips$","1","",1,c387
 r17996,3,"^Cooking sauces \(e\.g\. Marinades/Glazes, Simmer sauce\)$","1","",1,c387
-r17997,3,"^Asian sauces \(e\.g\. Soy sauce, Yum Yum, Sriracha, Indian sauce\)$","1","",1,c387
 r17998,3,"^Steak Sauces$","1","",1,c387
 r17999,3,"^Hot sauces$","1","",1,c387
 r18,3,"^Home Products-Cook & Dining$","1","",1,c1
@@ -16481,19 +16583,15 @@ r19041,3,"^Frozen meals$","1","",1,c442
 r19042,3,"^Eggs or liquid egg products$","1","",1,c442
 r19043,3,"^Protein bars$","1","",1,c442
 r19044,3,"^Cereal or granola$","1","",1,c442
-r19045,3,"^Canned vegetables$","1","",1,c442
-r19046,3,"^Canned fruit$","1","",1,c442
 r19047,3,"^Meat alternatives \(e\.g\., Beyond, Impossible, Field Roast, etc\.\)$","1","",1,c442
 r19048,3,"^Dairy alternatives \(e\.g\., non-dairy products like almond milk, coconut milk, soy milk, etc\.\)$","1","",1,c442
 r19049,3,"^Ice Cream Novelties \(such as ice cream bars, cones, sandwiches, etc\.\)$","1","",1,c442
 r1905,3,"^Holiday$","1","",1,c98
-r19050,3,"^Sour Cream \(any size container\)$","1","",1,c442
 r19051,3,"^Fluid Milk \(any size container\)$","1","",1,c442
 r19052,3,"^Yogurt \(any size container and/or multi-pack\)$","1","",1,c442
 r19053,3,"^Butter \(any size package – this does NOT include margarine\)$","1","",1,c442
 r19054,3,"^Family Size Ice Cream Cartons \(greater than 16oz\)$","1","",1,c442
 r19055,3,"^Natural Cheese \(found in the deli area/dairy case or general refrigerated section – this does NOT include processed cheese like Velveeta\)$","1","",1,c442
-r19056,3,"^Cream Cheese \(any size package\)$","1","",1,c442
 r19057,3,"^Snack \(e\.g\., cheese bars, string cheese, stick cheese, cheese rounds\)$","1","",1,c442
 r19058,3,"^Chunk/Block$","1","",1,c442
 r19059,3,"^Slices$","1","",1,c442
@@ -16541,7 +16639,6 @@ r19098,3,"^Twitter/X$","1","",1,c442
 r19099,3,"^Social media$","1","",1,c442
 r191,3,"^Credit/debit card issued from a bank$","1","",1,c9
 r1910,3,"^Tap Water$","1","",1,c99
-r19100,3,"^Accounting / Bookkeeping$","1","",1,c442
 r19101,3,"^United$","1","",1,c448
 r19102,3,"^Delta$","1","",1,c448
 r19103,3,"^American$","1","",1,c448
@@ -19965,7 +20062,6 @@ r316,3,"^Packaging and ease of use$","1","",1,c17
 r3160,3,"^Own$","1","",1,c160
 r3161,3,"^Yes$","1","",1,c161
 r3162,3,"^6$","1","",1,c162
-r3163,3,"^Accounting/Bookkeeping$","1","",1,c163
 r3164,3,"^I am primarily responsible for grocery shopping$","1","",1,c20
 r3165,3,"^\$0-\$24,999$","1","",1,c3
 r3166,3,"^Green$","1","",1,c23
@@ -20799,7 +20895,6 @@ r444,3,"^I am primarily responsible$","1","",1,c24
 r4455,3,"^I am the primary decision maker$","1","",1,c3
 r446,3,"^10 or more times$","1","",1,c25
 r447,3,"^Subway$","1","",1,c25
-r448,3,"^Panera Bread$","1","",1,c25
 r45,3,"^Prime Day$","1","",1,c1
 r450,3,"^Coca-Cola$","1","",1,c25
 r451,3,"^Coca-Cola Zero Sugar$","1","",1,c25
@@ -21248,7 +21343,6 @@ r5658,3,"^Within the past week$","1","",1,c3
 r5659,3,"^Starbucks$","1","",1,c3
 r5660,3,"^Chick-fil-A$","1","",1,c3
 r5661,3,"^Taco Bell$","1","",1,c3
-r5662,3,"^Panera Bread$","1","",1,c3
 r5663,3,"^Subway$","1","",1,c3
 r5664,3,"^McDonald’s$","1","",1,c3
 r5665,3,"^Domino’s$","1","",1,c3
@@ -21627,7 +21721,6 @@ r657,3,"^Cryptocurrency$","1","",1,c33
 r658,3,"^Apprentice - I understand the difference between a wide variety of investment vehicles and how to strategically build a financial plan\.$","1","",1,c33
 r6586,3,"^Smartwatch \(e\.g\. Apple Watch, Samsung Galaxy, Garmin, etc\.\)$","1","",1,c17
 r6587,3,"^Apple smartphone \(iPhone\)$","1","",1,c17
-r659,3,"^Accounting \(CPA\)$","1","",1,c33
 r6590,3,"^Fitness tracker \(e\.g\., wrist band, clip-on, ring\)$","1","",1,c17
 r6592,3,"^A few times per week$","1","",1,c17
 r660,3,"^Financial reporting$","1","",1,c33
