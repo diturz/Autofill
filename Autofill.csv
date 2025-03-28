@@ -910,6 +910,14 @@ c1743151793484,"Let’s talk about TV features and your preferences!","",,,,
 c1743152170314,"Tell us about your shopping habits for large electronics","",,,,
 c1743152327661,"Lets talk about a fun topic!","",,,,
 c1743153942408,"Shopping Habits Q1 2025","",,,,
+c1743195916474,"Let's talk about Rice!","",,,,
+c1743196065187,"Questions For You","",,,,
+c1743196144627,"How do you work on your own health?","",,,,
+c1743196601624,"Job Application Tool","",,,,
+c1743196949608,"Help us Understand Your Job Search Experiences and Expectations","",,,,
+c1743197429664,"Snacks Purchasing","",,,,
+c1743197558185,"Bars Purchasing","",,,,
+c1743197651423,"All about beauty & personal care products","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -16064,6 +16072,28 @@ r1743154105080,3,"^Over \$400$","1","",1,c1743153942408
 r1743154114724,3,"^Affordable \(Olay, L’Oreal, The Ordinary, etc\.\)$","1","",1,c1743153942408
 r1743154130686,3,"^Affordable-Moderate \(Ariana Grande, Victoria’s Secret, Pacifica, etc\.\)$","1","",1,c1743153942408
 r1743154237028,3,"^I will spend more time if it means I will save money$","1","",1,c3
+r1743195872470,3,"^Both$","1","",1,c490
+r1743195929885,3,"^Weekly$","1","",1,c1743195916474
+r1743196081261,3,"^Insurance provider$","1","",1,c1743196065187
+r1743196085174,3,"^Cell phone provider$","1","",1,c1743196065187
+r1743196088999,3,"^Breakfast cereal$","1","",1,c1743196065187
+r1743196092086,3,"^Laundry detergent$","1","",1,c1743196065187
+r1743196128444,3,"^Business and Finance \(e\.g\. banking, consulting\)$","1","",1,c1729980882634
+r1743196605483,3,"^Employed full time$","1","",1,c1743196601624
+r1743196955631,3,"^Employed full-time$","1","",1,c1743196949608
+r1743197291334,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c5
+r1743197447857,3,"^Yes$","1","",1,c1743197429664
+r1743197563798,3,"^Yes$","1","",1,c1743197558185
+r1743197658121,3,"^Hand soap$","1","",1,c1743197651423
+r1743197662038,3,"^Bar soap$","1","",1,c1743197651423
+r1743197668405,3,"^Laundry detergent$","1","",1,c1743197651423
+r1743197857618,3,"^Antiperspirant or deodorant$","1","",1,c1743197651423
+r1743197865949,3,"^Fragrance mist or body spray$","1","",1,c1743197651423
+r1743197876422,3,"^Scented candles$","1","",1,c1743197651423
+r1743197880662,3,"^Shampoo$","1","",1,c1743197651423
+r1743197887663,3,"^Fine fragrance \(parfum, cologne, eau de cologne, eau de toilette, eau de parfum, etc\.\)$","1","",1,c1743197651423
+r1743197904540,3,"^Fragrances designed for men$","1","",1,c1743197651423
+r1743197941835,3,"^Dior: Sauvage$","1","",1,c1743197651423
 r17432,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c350
 r17433,0,"input\[_ngcontent-ljo-c77\]","400","",1,c350
 r17434,3,"^I don’t pay attention to price when making my purchases$","1","",1,c350
