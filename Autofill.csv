@@ -906,6 +906,10 @@ c1743147625290,"We are want to know about how you use Face Care products. Please
 c1743147740771,"Metabolic Health Survey","",,,,
 c1743148323580,"A few questions about you","",,,,
 c1743148485174,"Got Oats? Share Your Milk Preferences!","",,,,
+c1743151793484,"Let’s talk about TV features and your preferences!","",,,,
+c1743152170314,"Tell us about your shopping habits for large electronics","",,,,
+c1743152327661,"Lets talk about a fun topic!","",,,,
+c1743153942408,"Shopping Habits Q1 2025","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -1282,7 +1286,6 @@ r1042,3,"^Costco$","1","",1,c55
 r1043,3,"^Sephora$","1","",1,c55
 r1044,3,"^Target$","1","",1,c55
 r1045,3,"^Amazon$","1","",1,c55
-r1046,3,"^Walmart$","1","",1,c55
 r10462,3,"^Driveways, patios, walkways or sidewalks$","1","",1,c19
 r10463,3,"^Fences or retaining walls$","1","",1,c19
 r10464,3,"^Buying a home/property$","1","",1,c15
@@ -3265,7 +3268,6 @@ r1730348994641,3,"^Male$","1","",1,c3
 r1730349148803,3,"^4 or more$","1","",1,c3
 r1730349175652,3,"^I am typically able to manage the stress in my life$","1","",1,c3
 r1730349209171,3,"^I am more of a saver when I have extra money$","1","",1,c3
-r1730349225582,3,"^I will pay more money in order to save time$","1","",1,c3
 r1730349462749,3,"^I typically buy the product I want, even if it’s not on sale or I don’t have a coupon\.$","1","",1,c3
 r1730349475667,3,"^I typically buy name brand products$","1","",1,c3
 r1730349755871,3,"^Smartphone \(e\.g\. iPhone, Android, etc\.\)$","1","",1,c15
@@ -13788,7 +13790,6 @@ r1740543476372,3,"^Natural or Organic products$","1","",1,c1740543109963
 r1740543487813,3,"^Somewhat likely$","1","",1,c1740543109963
 r1740543496628,3,"^I am usually willing to pay extra for healthier products$","1","",1,c1740543109963
 r1740543645212,3,"^Capri Sun$","1","",1,c1740543109963
-r1740543658067,3,"^Juicy Juice$","1","",1,c1740543109963
 r1740543760874,3,"^The bottle can be recycled after use$","1","",1,c1739663392259
 r1740543805418,3,"^To look for deals on apps \(example Fetch, Ibotta\)$","1","",1,c1739663392259
 r1740543812570,3,"^To pay for my groceries$","1","",1,c1739663392259
@@ -15990,6 +15991,79 @@ r1743148501098,3,"^Mass Merchandiser \(e\.g\. Walmart or Target\)$","1","",1,c17
 r1743148504914,3,"^Convenience Store / Gas Station Store \(e\.g\. 7-Eleven\)$","1","",1,c1743148485174
 r1743148509016,3,"^Club Store \(e\.g\. Sam's Club, Costco\)$","1","",1,c1743148485174
 r1743148512735,3,"^Natural Food Store \(e\.g\. Whole Foods, Sprouts\)$","1","",1,c1743148485174
+r1743151806026,3,"^Very important$","1","",1,c1743151793484
+r1743152151297,3,"^Somewhat prefer QLED$","1","",1,c1743151793484
+r1743152174640,3,"^Amazon Prime$","1","",1,c1743152170314
+r1743152178839,3,"^Costco$","1","",1,c1743152170314
+r1743152182006,3,"^Sam’s Club$","1","",1,c1743152170314
+r1743152185754,3,"^Target RedCard$","1","",1,c1743152170314
+r1743152188928,3,"^Walmart\+$","1","",1,c1743152170314
+r1743152239207,3,"^Ask friends and/or family for recommendations$","1","",1,c1743152170314
+r1743152243268,3,"^Look on social media for opinions$","1","",1,c1743152170314
+r1743152246974,3,"^Visit a physical store to see TVs in person$","1","",1,c1743152170314
+r1743152269139,3,"^I checked options and/or prices at a warehouse club first$","1","",1,c1743152170314
+r1743152331395,3,"^I understand!$","1","",1,c1743152327661
+r1743152347271,3,"^Satisfies cravings$","1","",1,c1743152327661
+r1743152351602,3,"^Convenient and easy to eat on the go$","1","",1,c1743152327661
+r1743152355533,3,"^Tastes great$","1","",1,c1743152327661
+r1743152392910,3,"^Shelf Life & Freshness \(long-lasting, recently stocked\)$","1","",1,c1743152327661
+r1743152397721,3,"^Protein & Energy Boost \(keeps me full, provides lasting energy\)$","1","",1,c1743152327661
+r1743152401755,3,"^Portion Size \(single-serve, shareable, family-size\)$","1","",1,c1743152327661
+r1743152435274,3,"^Early evening \(6 PM–8 PM\)$","1","",1,c1743152327661
+r1743152446393,3,"^As a late-night snack$","1","",1,c1743152327661
+r1743152450344,3,"^As a quick energy boost between meals$","1","",1,c1743152327661
+r1743152455842,3,"^While gaming or using social media$","1","",1,c1743152327661
+r1743152478874,3,"^Nuts or seeds \(e\.g\., almonds, peanuts, sunflower seeds, trail mix\)$","1","",1,c1743152327661
+r1743152482680,3,"^Protein bars or snack bars$","1","",1,c1743152327661
+r1743152487506,3,"^Candy or chocolate$","1","",1,c1743152327661
+r1743152490945,3,"^Chips \(e\.g\., potato chips, tortilla chips, veggie chips\)$","1","",1,c1743152327661
+r1743152495646,3,"^Fresh fruits \(e\.g\., apples, bananas, berries\)$","1","",1,c1743152327661
+r1743152499849,3,"^Crackers \(e\.g\., Ritz, Wheat Thins, Triscuit\)$","1","",1,c1743152327661
+r1743152504059,3,"^Sweet baked goods \(e\.g\., cookies, muffins, pastries\)$","1","",1,c1743152327661
+r1743152510284,3,"^Yogurt or pudding$","1","",1,c1743152327661
+r1743152514921,3,"^Granola or cereal-based snacks$","1","",1,c1743152327661
+r1743152547240,3,"^Single-serve packs \(individually portioned for personal consumption\)$","1","",1,c1743152327661
+r1743152552565,3,"^Multi-pack snacks \(multiple single-serve packs in one purchase\)$","1","",1,c1743152327661
+r1743152557881,3,"^Sharing-size trays or platters \(for family or group consumption\)$","1","",1,c1743152327661
+r1743152572002,3,"^When purchasing food or drinks from restaurants, cafes, or convenience stores$","1","",1,c1743152327661
+r1743152600520,3,"^I haven’t bought them before but I’m open to trying them$","1","",1,c1743152327661
+r1743152655863,3,"^Larger portion size$","1","",1,c1743152327661
+r1743152660981,3,"^Longer shelf life while maintaining freshness$","1","",1,c1743152327661
+r1743152666062,3,"^Better availability in stores where I shop$","1","",1,c1743152327661
+r1743152677366,3,"^Taylor Farms$","1","",1,c1743152327661
+r1743152705704,3,"^Somewhat interested$","1","",1,c1743152327661
+r1743152865545,3,"^Intermittent Fasting$","1","",1,c1743152327661
+r1743152900084,3,"^1 year or less$","1","",1,c1743152170314
+r1743152978045,3,"^5=I buy the latest technology, even if it costs more$","1","",1,c1743152170314
+r1743152989304,3,"^Over \$300 more$","1","",1,c1743152170314
+r1743152999748,3,"^The smoothness of the video/amount of motion blur$","1","",1,c1743152170314
+r1743153004329,3,"^TV display technology \(e\.g\., LED, OLED, QLED , Mini-LED, etc\.\)$","1","",1,c1743152170314
+r1743153008993,3,"^Resolution \(e\.g\., 4K, 8K, etc\.\)$","1","",1,c1743152170314
+r1743153019823,3,"^LG$","1","",1,c1743152170314
+r1743153023384,3,"^Sony$","1","",1,c1743152170314
+r1743153026906,3,"^Samsung$","1","",1,c1743152170314
+r1743153556911,3,"^Walmart$","1","",1,c55
+r1743153701786,3,"^Yes, I plan to shop for Easter or shop Easter sales this year$","1","",1,c358
+r1743153716669,3,"^“I don’t really know what I’m getting yet”$","1","",1,c358
+r1743153734764,3,"^Gifts$","1","",1,c358
+r1743153738423,3,"^Clothing$","1","",1,c358
+r1743153742165,3,"^Décor$","1","",1,c358
+r1743153853178,3,"^Costco/Sam’s Club$","1","",1,c358
+r1743153945572,3,"^Male$","1","",1,c1743153942408
+r1743153960161,3,"^Bought fragrance \(e\.g\., perfume, cologne\)$","1","",1,c1743153942408
+r1743153964917,3,"^Bought electronics \(e\.g\. phone, computer\)$","1","",1,c1743153942408
+r1743153975001,3,"^Bought skincare products \(e\.g\., facial moisturizers / creams, anti-aging products, serums\)$","1","",1,c1743153942408
+r1743153982628,3,"^Celebrated a holiday, birthday, or special occasion$","1","",1,c1743153942408
+r1743153998471,3,"^Electronics \(e\.g\. phone, computer\)$","1","",1,c1743153942408
+r1743154002257,3,"^Fragrance \(e\.g\., perfume, cologne\)$","1","",1,c1743153942408
+r1743154025252,3,"^Facial moisturizer$","1","",1,c1743153942408
+r1743154029348,3,"^Facial sunscreen/SPF$","1","",1,c1743153942408
+r1743154032959,3,"^Acne products$","1","",1,c1743153942408
+r1743154053346,3,"^3-4 products$","1","",1,c1743153942408
+r1743154105080,3,"^Over \$400$","1","",1,c1743153942408
+r1743154114724,3,"^Affordable \(Olay, L’Oreal, The Ordinary, etc\.\)$","1","",1,c1743153942408
+r1743154130686,3,"^Affordable-Moderate \(Ariana Grande, Victoria’s Secret, Pacifica, etc\.\)$","1","",1,c1743153942408
+r1743154237028,3,"^I will spend more time if it means I will save money$","1","",1,c3
 r17432,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c350
 r17433,0,"input\[_ngcontent-ljo-c77\]","400","",1,c350
 r17434,3,"^I don’t pay attention to price when making my purchases$","1","",1,c350
