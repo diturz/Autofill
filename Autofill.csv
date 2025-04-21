@@ -945,6 +945,7 @@ c1744119361126,"Your Thoughts on Beverages!","",,,,
 c1744119975637,"Questions about your current role!","",,,,
 c1744120121766,"Learning about services for job seeking and networking support","",,,,
 c1744121503093,"Let's Talk K-Culture!","",,,,
+c1745203810862,"How Do You Shop?","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -16989,6 +16990,60 @@ r1745,3,"^Product reviews$","1","",1,c90
 r17450,3,"^Better quality$","1","",1,c351
 r17451,3,"^Left$","1","",1,c351
 r17452,3,"^Buy online$","1","",1,c351
+r1745200971599,3,"^24-33$","1","",1,c439
+r1745200996854,3,"^Traditional wireline/landline home phone service$","1","",1,c439
+r1745201004784,3,"^Wireless/mobile phone service$","1","",1,c439
+r1745201010289,3,"^Traditional paid home television service \(Cable, Satellite or Fiber Optic TV\)$","1","",1,c439
+r1745201014366,3,"^Paid streaming video service \(e\.g\., Netflix, Disney\+, HBO Max, etc\.\)$","1","",1,c439
+r1745201030539,3,"^Access to paid streaming/live streaming service via external device/box \(e\.g\., Roku Ultra, Apple TV, 4K, Xfinity Flex, etc\.\)$","1","",1,c439
+r1745201034303,3,"^Home Internet/Wi-Fi Service$","1","",1,c439
+r1745201045769,3,"^Home automation \(e\.g\., smart appliances, smart thermostat, connected light switches, etc\.\)$","1","",1,c439
+r1745201173033,3,"^Own$","1","",1,c439
+r1745201186396,3,"^\$75,000 to less than \$100,000$","1","",1,c439
+r1745201206852,3,"^Others often ask my advice on technology products$","1","",1,c439
+r1745201794564,3,"^I own a detached house$","1","",1,c551
+r1745201847791,3,"^Patio/Porch$","1","",1,c551
+r1745201850899,3,"^Driveway$","1","",1,c551
+r1745201853980,3,"^Fence$","1","",1,c551
+r1745201857696,3,"^Sidewalk/walkway$","1","",1,c551
+r1745201867853,3,"^Grass Lawn$","1","",1,c551
+r1745201900277,3,"^Overgrown grass and/or plants$","1","",1,c551
+r1745201918390,3,"^No, but I expect to experience weeds around my home in the future$","1","",1,c551
+r1745201929063,3,"^Grass seed$","1","",1,c551
+r1745201989177,3,"^Amazon$","1","",1,c1
+r1745201992349,3,"^Ikea$","1","",1,c1
+r1745203041385,3,"^Several times a week$","1","",1,c1
+r1745203111370,3,"^I usually make the decision$","1","",1,c1
+r1745203124332,3,"^Social media \(e\.g\., Instagram, TikTok, YouTube\)$","1","",1,c1
+r1745203130196,3,"^Online search \(e\.g\., Google, Amazon\)$","1","",1,c1
+r1745203168911,3,"^In-store browsing$","1","",1,c1
+r1745203281915,3,"^Yes, I follow influencers in the fitness/health category$","1","",1,c1
+r1745203286943,3,"^Yes, I follow influencers in the fashion/beauty category$","1","",1,c1
+r1745203293014,3,"^Yes, I follow influencers in the entertainment/movies category$","1","",1,c1
+r1745203304170,3,"^Somewhat likely$","1","",1,c1
+r1745203361930,3,"^Technology and gadgets$","1","",1,c1
+r1745203366840,3,"^Watching movies and TV shows$","1","",1,c1
+r1745203372855,3,"^Sports and fitness$","1","",1,c1
+r1745203378665,3,"^Gaming and esports$","1","",1,c1
+r1745203384101,3,"^Fashion and beauty$","1","",1,c1
+r1745203396582,3,"^Shopping or browsing online$","1","",1,c1
+r1745203406849,3,"^Relaxing at home \(e\.g\., watching TV, reading\)$","1","",1,c1
+r1745203419744,3,"^Playing sports or working out$","1","",1,c1
+r1745203427263,3,"^Playing video games$","1","",1,c1
+r1745203432593,3,"^Engaging in outdoor activities \(e\.g\., hiking, cycling\)$","1","",1,c1
+r1745203455071,3,"^VR Headset$","1","",1,c1
+r1745203458251,3,"^PC$","1","",1,c1
+r1745203461716,3,"^Console$","1","",1,c1
+r1745203465249,3,"^Mobile$","1","",1,c1
+r1745203475455,3,"^Laptop / notebook computer$","1","",1,c1
+r1745203480377,3,"^Smartphone$","1","",1,c1
+r1745203488781,3,"^Apple \(iPhone\)$","1","",1,c1
+r1745203628234,3,"^Tried a smart home device \(e\.g\., smart thermostat, smart lighting\)$","1","",1,c1
+r1745203632333,3,"^Used Virtual Reality \(VR\) devices or applications$","1","",1,c1
+r1745203636485,3,"^Used voice-activated assistants \(e\.g\., Alexa, Google Assistant\)$","1","",1,c1
+r1745203641443,3,"^Used wearable fitness technology \(e\.g\., Fitbit, Apple Watch\)$","1","",1,c1
+r1745203653554,3,"^Weekly$","1","",1,c1
+r1745203827777,3,"^I'd shop any of the above in the future$","1","",1,c1745203810862
 r17453,3,"^The same$","1","",1,c351
 r17454,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c351
 r17455,0,"input\[_ngcontent-ljo-c77\]","400","",1,c351
