@@ -960,6 +960,12 @@ c1745217649567,"A few questions about your preferences in the rapid rehydration 
 c1745218242103,"We would like to understand you and your general eating habits.","",,,,
 c1745219343708,"Help us understand what goes in your Kitchen","",,,,
 c1745220826379,"Household Questions","",,,,
+c1745562574496,"Getting to know you. Getting to know all about you.","",,,,
+c1745562811117,"Household appliances","",,,,
+c1745563318348,"A few quick questions","",,,,
+c1745564543522,"Your Recent Shopping!","",,,,
+c1745566346315,"Grocery shopping!","",,,,
+c1745567864796,"We want to know about you!","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -17003,7 +17009,6 @@ r1745,3,"^Product reviews$","1","",1,c90
 r17450,3,"^Better quality$","1","",1,c351
 r17451,3,"^Left$","1","",1,c351
 r17452,3,"^Buy online$","1","",1,c351
-r1745200971599,3,"^24-33$","1","",1,c439
 r1745200996854,3,"^Traditional wireline/landline home phone service$","1","",1,c439
 r1745201004784,3,"^Wireless/mobile phone service$","1","",1,c439
 r1745201010289,3,"^Traditional paid home television service \(Cable, Satellite or Fiber Optic TV\)$","1","",1,c439
@@ -17447,6 +17452,114 @@ r1745225199942,3,"^Online$","1","",1,c138
 r17453,3,"^The same$","1","",1,c351
 r17454,3,"^Planned \(I usually decide what to buy before shopping\)$","1","",1,c351
 r17455,0,"input\[_ngcontent-ljo-c77\]","400","",1,c351
+r1745562583818,3,"^Laptop / desktop computer$","1","",1,c1745562574496
+r1745562587691,3,"^Tablet$","1","",1,c1745562574496
+r1745562592159,3,"^Smartwatch$","1","",1,c1745562574496
+r1745562595433,3,"^Smartphone$","1","",1,c1745562574496
+r1745562684211,3,"^Apple iPhone$","1","",1,c1745562574496
+r1745562699070,3,"^Apple Watch$","1","",1,c1745562574496
+r1745562761662,3,"^Making calls$","1","",1,c1745562574496
+r1745562767990,3,"^Health & fitness tracking$","1","",1,c1745562574496
+r1745562778277,3,"^Sending or receiving messages via iMessage$","1","",1,c1745562574496
+r1745562797749,3,"^Bicycle$","1","",1,c1745562574496
+r1745562837433,3,"^2nd position$","1","",1,c1745562811117
+r1745562842993,3,"^6th position$","1","",1,c1745562811117
+r1745562846545,3,"^7th position$","1","",1,c1745562811117
+r1745562863889,3,"^Finance services / Banking$","1","",1,c1745562811117
+r1745562874133,3,"^Single-family home \(detached house\)$","1","",1,c1745562811117
+r1745562882141,3,"^I own$","1","",1,c1745562811117
+r1745562894920,3,"^I am solely responsible for choosing the major appliances I buy$","1","",1,c1745562811117
+r1745562906876,3,"^LG$","1","",1,c1745562811117
+r1745562910250,3,"^Samsung$","1","",1,c1745562811117
+r1745562914960,3,"^Whirlpool$","1","",1,c1745562811117
+r1745563325281,3,"^Casual Dining \(e\.g\., Applebee’s, Chili’s, Buffalo Wild Wings, etc\.\)$","1","",1,c1745563318348
+r1745563331580,3,"^Full-service Dining \(e\.g\., steakhouses, upscale restaurants, white-tablecloth service\)$","1","",1,c1745563318348
+r1745563336180,3,"^Fast Food \(e\.g\., Pizza Hut, Taco Bell, Burger King, etc\.\)$","1","",1,c1745563318348
+r1745563340735,3,"^Fast Casual \(e\.g\., Chipotle, Panera Bread, Five Guys, etc\.\)$","1","",1,c1745563318348
+r1745563352548,3,"^Pizza$","1","",1,c1745563318348
+r1745563356501,3,"^Chinese$","1","",1,c1745563318348
+r1745563363343,3,"^Chicken$","1","",1,c1745563318348
+r1745563366705,3,"^Burger$","1","",1,c1745563318348
+r1745563373502,3,"^Tex Mex or Mexican$","1","",1,c1745563318348
+r1745563386791,3,"^Domino’s$","1","",1,c1745563318348
+r1745563390958,3,"^Pizza Hut$","1","",1,c1745563318348
+r1745563405679,3,"^Ketchup$","1","",1,c1745563318348
+r1745563409399,3,"^Pasta$","1","",1,c1745563318348
+r1745563413376,3,"^Lettuce/salad greens$","1","",1,c1745563318348
+r1745563550652,3,"^I make lifestyle changes \(e\.g\., diet, exercise\) to keep my blood sugar in a healthy range\.$","1","",1,c5
+r1745563695999,3,"^Not a huge priority, but considering actions to manage$","1","",1,c5
+r1745564136377,3,"^Vitamin, Mineral or Supplement \(Self-Selected\)$","1","",1,c5
+r1745564141283,3,"^Exercise modifications$","1","",1,c5
+r1745564147606,3,"^Vitamin, Mineral or Supplement \(Recommended by Doctor\)$","1","",1,c5
+r1745564410092,3,"^My doctor has mentioned that I’ve made impact with my actions$","1","",1,c5
+r1745564549153,3,"^Cookies$","1","",1,c1745564543522
+r1745564553305,3,"^Protein Bars \(e\.g\., MetRX, Cliff Protein, Quest, etc\.\)$","1","",1,c1745564543522
+r1745564556871,3,"^Salty Snacks \(Chips, Cheese Puffs, Tortilla Chips, Crackers, Popcorn etc\.\)$","1","",1,c1745564543522
+r1745564560651,3,"^Bottled Coffee or Tea$","1","",1,c1745564543522
+r1745564564423,3,"^Fruit Juices & Fruit Drinks \(Orange juice, apple juice, cranberry juice, etc\.\)$","1","",1,c1745564543522
+r1745564568113,3,"^Nuts, Seeds & Trail Mix$","1","",1,c1745564543522
+r1745564572293,3,"^Hot Cereal \(Oatmeal, Grits\)$","1","",1,c1745564543522
+r1745564576229,3,"^Sports Drinks$","1","",1,c1745564543522
+r1745564581357,3,"^Cold Cereal$","1","",1,c1745564543522
+r1745564584993,3,"^Bottled Still Water$","1","",1,c1745564543522
+r1745564589031,3,"^Snack/Breakfast Bars \(e\.g\., Chewy, Cliff Kidz, etc\.\)$","1","",1,c1745564543522
+r1745564595279,3,"^Candy \(Chocolate, Non-Chocolate Candy\)$","1","",1,c1745564543522
+r1745564599969,3,"^Sparkling Beverages \(Soda, sparkling water, seltzer, energy drinks, etc\.\)$","1","",1,c1745564543522
+r1745564615620,3,"^Nature’s Valley$","1","",1,c1745564543522
+r1745564618993,3,"^KIND$","1","",1,c1745564543522
+r1745564623556,3,"^Quaker Chewy$","1","",1,c1745564543522
+r1745565836594,3,"^Bob’s Red Mill$","1","",1,c1745564543522
+r1745565840153,3,"^Quaker$","1","",1,c1745564543522
+r1745565921844,3,"^Yes, I have access to an internet subscription or mobile data plan that allows me to stream videos$","1","",1,c5
+r1745566184709,3,"^A TV streaming device that plugs into your TV and allows you to stream music or video from online applications \(i\.e\. Roku, Amazon Fire TV Stick, etc\.\)$","1","",1,c5
+r1745566188735,3,"^A smart speaker with a home assistant that can answer questions and control different devices in your home, such as lighting or speakers$","1","",1,c5
+r1745566192146,3,"^A smartphone$","1","",1,c5
+r1745566196102,3,"^An internet-connected video game console such as PlayStation or Xbox$","1","",1,c5
+r1745566209350,3,"^A desktop or laptop computer$","1","",1,c5
+r1745566213451,3,"^A tablet$","1","",1,c5
+r1745566217918,3,"^A Smart TV that is connected to the Internet and allows you to stream videos or music from online applications$","1","",1,c5
+r1745566232264,3,"^Amazon Prime Video$","1","",1,c5
+r1745566235783,3,"^Disney\+$","1","",1,c5
+r1745566239616,3,"^Max \(formerly HBO Max\)$","1","",1,c5
+r1745566243082,3,"^Hulu$","1","",1,c5
+r1745566246487,3,"^Netflix$","1","",1,c5
+r1745566350884,3,"^I am primarily responsible for managing retail purchases\.$","1","",1,c1745566346315
+r1745566360894,3,"^A few times a week$","1","",1,c1745566346315
+r1745566368589,3,"^Costco$","1","",1,c1745566346315
+r1745566372560,3,"^Walmart\+$","1","",1,c1745566346315
+r1745566375982,3,"^Amazon Prime$","1","",1,c1745566346315
+r1745566379237,3,"^Target Circle$","1","",1,c1745566346315
+r1745567539677,3,"^Sparkling water / Seltzer \(e\.g\., LaCroix, Spindrift, Bubly\)$","1","",1,c551
+r1745567544610,3,"^Coffee \(e\.g, brewed, single-serve pods, instant\)$","1","",1,c551
+r1745567549705,3,"^Flavored water \(e\.g\., Hint, Propel, Vitaminwater\)$","1","",1,c551
+r1745567553391,3,"^Sports drinks \(e\.g\., Gatorade, Powerade\)$","1","",1,c551
+r1745567557781,3,"^Energy drinks \(e\.g\., Monster, Red Bull, Celcius\)$","1","",1,c551
+r1745567561706,3,"^Iced Refreshers \(e\.g\. Starbucks, Dunkin’\)$","1","",1,c551
+r1745567565506,3,"^Fruit juice \(e\.g\., apple, orange, cranberry\)$","1","",1,c551
+r1745567570945,3,"^Soft drinks / Soda \(e\.g\., Coke, Pepsi, Sprite\)$","1","",1,c551
+r1745567576080,3,"^Plant-based milk alternatives \(e\.g\., almond, oat, soy milk\)$","1","",1,c551
+r1745567580069,3,"^Dairy milk \(e\.g\., whole, 2%, skim\)$","1","",1,c551
+r1745567583965,3,"^Tea \(e\.g\., black, green, iced\)$","1","",1,c551
+r1745567595835,3,"^Iced Refreshers \(e\.g\. single-serve pod-based versions of the refreshing and fruit-forward café-style beverages from places like Starbucks or Dunkin’\)$","1","",1,c551
+r1745567644996,3,"^A few times per week$","1","",1,c551
+r1745567663148,3,"^Traditional drip coffee maker$","1","",1,c551
+r1745567670404,3,"^Espresso machine$","1","",1,c551
+r1745567675296,3,"^Single-serve pod brewer \(e\.g\., Keurig\)$","1","",1,c551
+r1745567683530,3,"^Dunkin’$","1","",1,c551
+r1745567687184,3,"^Starbucks$","1","",1,c551
+r1745567708167,3,"^7-10 years old$","1","",1,c551
+r1745567712774,3,"^14 - 17 years old$","1","",1,c551
+r1745567740766,3,"^Coffee \(e\.g\., brewed, single-serve pods, instant\)$","1","",1,c551
+r1745567744539,3,"^Energy drinks \(e\.g\., Monster, Red Bull, Celsius\)$","1","",1,c551
+r1745567754108,3,"^Coffee \(e\.g\., hot, iced, espresso\)$","1","",1,c551
+r1745567763174,3,"^3-4 days per week$","1","",1,c551
+r1745567788176,3,"^Espresso/cappuccino maker$","1","",1,c551
+r1745567797618,3,"^Hamilton Beach$","1","",1,c551
+r1745567800930,3,"^Nespresso$","1","",1,c551
+r1745567805150,3,"^Cuisinart$","1","",1,c551
+r1745567808649,3,"^Ninja$","1","",1,c551
+r1745567835332,3,"^5 – Strongly agree$","1","",1,c551
+r1745567916679,3,"^No$","1","",1,c1745567864796
 r17456,3,"^I don’t pay attention to price when making my purchases$","1","",1,c351
 r17457,3,"^4$","1","",1,c351
 r17458,3,"^Green bricks$","1","",1,c352
