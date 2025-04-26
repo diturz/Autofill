@@ -966,6 +966,10 @@ c1745563318348,"A few quick questions","",,,,
 c1745564543522,"Your Recent Shopping!","",,,,
 c1745566346315,"Grocery shopping!","",,,,
 c1745567864796,"We want to know about you!","",,,,
+c1745622352182,"Let’s Talk About Activities!","",,,,
+c1745623984893,"Understanding your shopping experiences!","",,,,
+c1745629772230,"Wait! Share Your Thoughts","",,,,
+c1745631395507,"Tell us about YOU!","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -17561,6 +17565,101 @@ r1745567808649,3,"^Ninja$","1","",1,c551
 r1745567835332,3,"^5 – Strongly agree$","1","",1,c551
 r1745567916679,3,"^No$","1","",1,c1745567864796
 r17456,3,"^I don’t pay attention to price when making my purchases$","1","",1,c351
+r1745622198618,3,"^Online at Walmart\.com$","1","",1,c1736893741915
+r1745622203072,3,"^Using the Walmart app$","1","",1,c1736893741915
+r1745622207576,3,"^In-store at a Walmart location$","1","",1,c1736893741915
+r1745622253731,3,"^A small chocolate candy bar$","1","",1,c380
+r1745622259660,3,"^A bag / pouch containing unwrapped chocolate pieces$","1","",1,c380
+r1745622262989,3,"^A bag / pouch containing individually wrapped pieces$","1","",1,c380
+r1745622357242,3,"^Bowling Center/Alley \(A place with lanes for bowling that may also offer food, drinks, arcade games, and other entertainment\)$","1","",1,c1745622352182
+r1745622361944,3,"^Trampoline & adventure parks \(such as Big Air and Adventure City\)$","1","",1,c1745622352182
+r1745622366084,3,"^Baseball \(such as Home Run Dugout and Batbox\)$","1","",1,c1745622352182
+r1745622371710,3,"^Golf \(such as Topgolf and Putt Shack\)$","1","",1,c1745622352182
+r1745622386563,3,"^About once a week$","1","",1,c1745622352182
+r1745622399687,3,"^Green$","1","",1,c1745622352182
+r1745622779990,3,"^I participate in many activities that involve movement, but don't have a regular training program\.$","1","",1,c114
+r1745622898631,3,"^Headaches / Migraines$","1","",1,c114
+r1745622917187,3,"^CVS$","1","",1,c114
+r1745622921261,3,"^Amazon\.com$","1","",1,c114
+r1745622924641,3,"^Walmart$","1","",1,c114
+r1745622965243,3,"^I want the tape to blend in with my skin and not be seen\.$","1","",1,c114
+r1745623991838,3,"^I regularly make these purchasing decisions myself$","1","",1,c1745623984893
+r1745624064608,3,"^No, I am not interested in participating$","1","",1,c1745623984893
+r1745629783455,3,"^Started a new exercise routine$","1","",1,c1745629772230
+r1745629788972,3,"^Filled or refilled a medication at the pharmacy$","1","",1,c1745629772230
+r1745629975889,3,"^Other IS/IT or computer-related function$","1","",1,c168
+r1745630235707,3,"^I do all or most of the decision making$","1","",1,c41
+r1745631136769,3,"^Banking/Finance$","1","",1,c41
+r1745631159644,3,"^6-12$","1","",1,c41
+r1745631175677,3,"^13-17$","1","",1,c41
+r1745631178849,3,"^25-34$","1","",1,c41
+r1745631310729,3,"^CVS$","1","",1,c41
+r1745631320331,3,"^Oral Care Products \(ex: Toothbrushes, Toothpaste, Mouthwash\)$","1","",1,c41
+r1745631324416,3,"^Floor, Surface, or Multi-Purpose Cleaning Products \(ex: Countertop cleaning spray, bathroom all-purpose cleaning solution\)$","1","",1,c41
+r1745631327779,3,"^Skin Care or Cleansing Products \(ex: Facial Cleaners, Hand soap, Moisturizer\)$","1","",1,c41
+r1745631333087,3,"^Laundry Care Products \(ex: Laundry Detergent, Fabric Softener, Dryer Sheets or Beads\)$","1","",1,c41
+r1745631342742,3,"^Laundry Detergent$","1","",1,c41
+r1745631347277,3,"^Battery Toothbrush \(e\.g\.: using AA or AAA batteries\)$","1","",1,c41
+r1745631352781,3,"^At-home teeth whitening products - ex: whitening strips, pens, LED kits \(not including toothpastes or mouthwashes\)$","1","",1,c41
+r1745631357267,3,"^Electric Toothbrush \(e\.g\.: rechargeable\)$","1","",1,c41
+r1745631363166,3,"^Toothpaste$","1","",1,c41
+r1745631367552,3,"^Bar Soap$","1","",1,c41
+r1745631372055,3,"^Manual Toothbrush$","1","",1,c41
+r1745631376561,3,"^Liquid Hand Soap$","1","",1,c41
+r1745631381467,3,"^Liquid Fabric Softener/ Fabric Conditioner$","1","",1,c41
+r1745631400091,3,"^I do all or most of the decision making$","1","",1,c1745631395507
+r1745631410680,3,"^Banking/Finance$","1","",1,c1745631395507
+r1745631832158,3,"^6-12$","1","",1,c1745631395507
+r1745631835597,3,"^13-17$","1","",1,c1745631395507
+r1745631840517,3,"^25-34$","1","",1,c1745631395507
+r1745632197268,3,"^Cosmetics Retailer \(ex: Sephora, Ulta\)$","1","",1,c1745631395507
+r1745632200739,3,"^Amazon$","1","",1,c1745631395507
+r1745632205047,3,"^Grocery Store$","1","",1,c1745631395507
+r1745632219426,3,"^Mass merchandiser \(ex: Walmart, Target\)$","1","",1,c1745631395507
+r1745632223492,3,"^Convenience \(ex: 7-Eleven, Kwik Shop\)$","1","",1,c1745631395507
+r1745632229459,3,"^Home Improvement \(ex: Home Depot, Lowe's\)$","1","",1,c1745631395507
+r1745632233609,3,"^Drug Store \(ex: CVS, Walgreens\)$","1","",1,c1745631395507
+r1745632237839,3,"^Club \(ex: BJs, Costco, Sam's Club\)$","1","",1,c1745631395507
+r1745632251610,3,"^Costco$","1","",1,c1745631395507
+r1745632323408,3,"^Target$","1","",1,c1745631395507
+r1745632327844,3,"^Whole Foods$","1","",1,c1745631395507
+r1745632330751,3,"^Home Depot$","1","",1,c1745631395507
+r1745632334058,3,"^Walmart$","1","",1,c1745631395507
+r1745632337994,3,"^Kroger$","1","",1,c1745631395507
+r1745632341270,3,"^Sam's Club$","1","",1,c1745631395507
+r1745632344444,3,"^CVS$","1","",1,c1745631395507
+r1745632356115,3,"^Oral Care Products \(ex: Toothbrushes, Toothpaste, Mouthwash\)$","1","",1,c1745631395507
+r1745632359963,3,"^Skin Care or Cleansing Products \(ex: Facial Cleaners, Hand soap, Moisturizer\)$","1","",1,c1745631395507
+r1745632364799,3,"^Laundry Care Products \(ex: Laundry Detergent, Fabric Softener, Dryer Sheets or Beads\)$","1","",1,c1745631395507
+r1745632368757,3,"^Floor, Surface, or Multi-Purpose Cleaning Products \(ex: Countertop cleaning spray, bathroom all-purpose cleaning solution\)$","1","",1,c1745631395507
+r1745632377697,3,"^Liquid Fabric Softener/ Fabric Conditioner$","1","",1,c1745631395507
+r1745632381451,3,"^Liquid Hand Soap$","1","",1,c1745631395507
+r1745632384918,3,"^Bar Soap$","1","",1,c1745631395507
+r1745632389610,3,"^Battery Toothbrush \(e\.g\.: using AA or AAA batteries\)$","1","",1,c1745631395507
+r1745632393104,3,"^At-home teeth whitening products - ex: whitening strips, pens, LED kits \(not including toothpastes or mouthwashes\)$","1","",1,c1745631395507
+r1745632397119,3,"^Liquid dish soap$","1","",1,c1745631395507
+r1745632400731,3,"^Laundry Detergent$","1","",1,c1745631395507
+r1745632403983,3,"^Manual Toothbrush$","1","",1,c1745631395507
+r1745632408348,3,"^Electric Toothbrush \(e\.g\.: rechargeable\)$","1","",1,c1745631395507
+r1745632412502,3,"^Toothpaste$","1","",1,c1745631395507
+r1745632448982,3,"^Colgate$","1","",1,c1745631395507
+r1745632455003,3,"^Crest$","1","",1,c1745631395507
+r1745632492814,3,"^Optic White$","1","",1,c1745631395507
+r1745632498352,3,"^Triple Action$","1","",1,c1745631395507
+r1745632503101,3,"^Total$","1","",1,c1745631395507
+r1745632515731,3,"^Method$","1","",1,c1745631395507
+r1745632535556,3,"^Seventh Generation$","1","",1,c1745631395507
+r1745632540372,3,"^Ajax$","1","",1,c1745631395507
+r1745632544267,3,"^Palmolive$","1","",1,c1745631395507
+r1745632575276,3,"^Dove$","1","",1,c1745631395507
+r1745632595946,3,"^Bath & Body Works$","1","",1,c1745631395507
+r1745632606844,3,"^Colgate Optic White$","1","",1,c1745631395507
+r1745633134611,3,"^Female$","1","",1,c1745631395507
+r1745633139854,3,"^I am primarily responsible$","1","",1,c1745631395507
+r1745633161150,3,"^Specifically made for kids$","1","",1,c1745631395507
+r1745633171305,3,"^Oral-B$","1","",1,c1745631395507
+r1745635962739,3,"^I like to stay up to date on current news and events$","1","",1,c4
+r1745636087598,3,"^I buy shoes for comfort and everyday wear$","1","",1,c4
 r17457,3,"^4$","1","",1,c351
 r17458,3,"^Green bricks$","1","",1,c352
 r17459,3,"^Beauty store \(e\.g\., Ulta, Sephora\)$","1","",1,c352
