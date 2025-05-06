@@ -970,6 +970,10 @@ c1745622352182,"Let’s Talk About Activities!","",,,,
 c1745623984893,"Understanding your shopping experiences!","",,,,
 c1745629772230,"Wait! Share Your Thoughts","",,,,
 c1745631395507,"Tell us about YOU!","",,,,
+c1746561867070,"OTC Purchases","",,,,
+c1746569807607,"All About Your Butter Purchasing","",,,,
+c1746570428303,"Summer is coming, what are you excited for?","",,,,
+c1746570769265,"Just a few questions to learn more about you.","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -17670,6 +17674,112 @@ r17462,3,"^Target$","1","",1,c352
 r17463,3,"^Walmart$","1","",1,c352
 r17464,3,"^Shopping experience$","1","",1,c352
 r17465,3,"^Convenient store location$","1","",1,c352
+r1746561871864,3,"^Topical pain relief \(e\.g\., creams, ointments\)$","1","",1,c1746561867070
+r1746561876096,3,"^Oral pain relief products \(i\.e\., for gum or tooth pain\)$","1","",1,c1746561867070
+r1746561887725,3,"^Wet wipes / moist towelettes$","1","",1,c1746561867070
+r1746561891658,3,"^Face moisturizer$","1","",1,c1746561867070
+r1746561896286,3,"^Skin moisturizer \(excluding face\)$","1","",1,c1746561867070
+r1746562340289,3,"^\$25,000 - \$100,000$","1","",1,c517
+r1746563238657,3,"^Alien$","1","",1,c482
+r1746564844896,3,"^A financial services / accounting firm or department$","1","",1,c538
+r1746565932289,3,"^Salad Kits \(with salad dressing, etc include\)$","1","",1,c384
+r1746565954501,3,"^Target$","1","",1,c384
+r1746565958866,3,"^Walmart$","1","",1,c384
+r1746565963742,3,"^Kroger$","1","",1,c384
+r1746565968852,3,"^Costco$","1","",1,c384
+r1746565973358,3,"^Sam's Club$","1","",1,c384
+r1746569314050,3,"^Coffee$","1","",1,c551
+r1746569320503,3,"^Shelf-stable smoothies or juice blends \(e\.g\., Naked, Bolthouse Farms\)$","1","",1,c551
+r1746569326598,3,"^Dairy-based milk$","1","",1,c551
+r1746569330594,3,"^Sports drinks/electrolyte beverages \(e\.g\., Gatorade, Powerade\)$","1","",1,c551
+r1746569334305,3,"^Bottled still water$","1","",1,c551
+r1746569337831,3,"^Tea$","1","",1,c551
+r1746569341924,3,"^Plant-based “milk” \(almond, soy, oat, coconut, etc\.\)$","1","",1,c551
+r1746569346290,3,"^Soda \(e\.g\., Coca-Cola, Root Beer\)$","1","",1,c551
+r1746569350253,3,"^Juice \(e\.g\., orange, apple\)$","1","",1,c551
+r1746569355375,3,"^Flavored or sparkling water / seltzer \(e\.g\., LaCroix, Spindrift\)$","1","",1,c551
+r1746569360059,3,"^Energy drinks \(e\.g\., Red Bull, Monster, Celsius\)$","1","",1,c551
+r1746569612093,3,"^Instant coffee \(the kind that you scoop into a cup, add water, and it dissolves\)$","1","",1,c551
+r1746569618024,3,"^Coffee pods/capsules \(the kind you make in a Keurig, Nespresso etc\. machine\)$","1","",1,c551
+r1746569811362,3,"^I am primarily responsible for grocery shopping for my household$","1","",1,c1746569807607
+r1746569819919,3,"^Butter$","1","",1,c1746569807607
+r1746569823138,3,"^Margarine$","1","",1,c1746569807607
+r1746569826922,3,"^Fruit$","1","",1,c1746569807607
+r1746569830384,3,"^Snacks$","1","",1,c1746569807607
+r1746569833595,3,"^Vegetables$","1","",1,c1746569807607
+r1746569836814,3,"^Milk$","1","",1,c1746569807607
+r1746569841524,3,"^Milk alternatives \(e\.g\. plant-based milks\)$","1","",1,c1746569807607
+r1746569845579,3,"^Eggs$","1","",1,c1746569807607
+r1746569850455,3,"^Bread/grains/rice$","1","",1,c1746569807607
+r1746569854786,3,"^Meats$","1","",1,c1746569807607
+r1746569858630,3,"^Pasta$","1","",1,c1746569807607
+r1746569862355,3,"^Frozen foods/frozen meals$","1","",1,c1746569807607
+r1746569865980,3,"^Spices$","1","",1,c1746569807607
+r1746569871466,3,"^Prepared meals/meal kits$","1","",1,c1746569807607
+r1746569875485,3,"^Cooking oil \(olive, avocado, grapeseed, canola, etc\.\)$","1","",1,c1746569807607
+r1746569908539,3,"^I select butter that delivers the best results for cooking and baking$","1","",1,c1746569807607
+r1746569919303,3,"^Several times per week$","1","",1,c1746569807607
+r1746569946672,3,"^I enjoy cooking and baking but don’t experiment much$","1","",1,c1746569807607
+r1746569956149,3,"^Semi-homemade: I prefer using mixes, refrigerated dough, or frozen products for convenience$","1","",1,c1746569807607
+r1746569965023,3,"^Semi-homemade: I enjoy cooking but rely on time-saving products like pre-cut ingredients or meal kits$","1","",1,c1746569807607
+r1746570145040,3,"^\$75,000 - \$99,999$","1","",1,c1731874477027
+r1746570163449,3,"^Financial Services$","1","",1,c1731874477027
+r1746570612483,3,"^MLB Games$","1","",1,c1746570428303
+r1746570617527,3,"^FIFA Club World Cup$","1","",1,c1746570428303
+r1746570623820,3,"^Summer Music Festivals$","1","",1,c1746570428303
+r1746570635580,3,"^I am a casual fan of the World Cup$","1","",1,c1746570428303
+r1746570780033,3,"^Over-the-counter medications for cold or flu symptoms$","1","",1,c1746570769265
+r1746570785369,3,"^Greeting cards for any occasion$","1","",1,c1746570769265
+r1746570789543,3,"^Pet products, such as food, treats and/or litter$","1","",1,c1746570769265
+r1746570793106,3,"^Salty snacks \(e\.g\., pretzels, potato chips, tortilla chips, etc\.\)$","1","",1,c1746570769265
+r1746570798326,3,"^Nutritional supplements \(e\.g\., vitamins, minerals, protein, creatine, pre-workouts, amino acids, etc\.\)$","1","",1,c1746570769265
+r1746570808342,3,"^I am the primary person responsible$","1","",1,c1746570769265
+r1746571107102,3,"^Health and fitness food and beverages \(e\.g\., energy/hydration drinks, protein bars, etc\.\)$","1","",1,c1746570769265
+r1746571116919,3,"^Vitamins/Minerals \(Vitamin B, Magnesium, Calcium, etc\.\)$","1","",1,c1746570769265
+r1746571120895,3,"^Protein powders$","1","",1,c1746570769265
+r1746571125173,3,"^Multivitamins$","1","",1,c1746570769265
+r1746571130665,3,"^Probiotics$","1","",1,c1746570769265
+r1746571135843,3,"^Pre-workouts$","1","",1,c1746570769265
+r1746571146658,3,"^Diet aids/weight control products, excluding protein powders$","1","",1,c1746570769265
+r1746571165938,3,"^Once a month \(about 12 times a year\)$","1","",1,c1746570769265
+r1746571199962,3,"^CVS$","1","",1,c1746570769265
+r1746571204537,3,"^Walmart$","1","",1,c1746570769265
+r1746571210434,3,"^Amazon\.com$","1","",1,c1746570769265
+r1746571241457,3,"^\$250 to under \$500$","1","",1,c1746570769265
+r1746571446247,3,"^I do most of the grocery shopping for my household$","1","",1,c1735030153130
+r1746571456819,3,"^Organic/natural$","1","",1,c1735030153130
+r1746571464599,3,"^Plant-based$","1","",1,c1735030153130
+r1746571469560,3,"^Store/private label brands \(e\.g\., Kirkland, Good & Gather, Nature’s Promise, etc\.\)$","1","",1,c1735030153130
+r1746571478514,3,"^Cereal$","1","",1,c1735030153130
+r1746571485431,3,"^Pantry staples \(flour, sugar, etc\.\)$","1","",1,c1735030153130
+r1746571489048,3,"^Beverages \(flavored water, seltzer, soft drinks, etc\.\)$","1","",1,c1735030153130
+r1746571492309,3,"^Dairy/eggs$","1","",1,c1735030153130
+r1746571497872,3,"^Fruit/vegetables$","1","",1,c1735030153130
+r1746571523303,3,"^Bob's Red Mill$","1","",1,c1735030153130
+r1746571534136,3,"^Olipop$","1","",1,c1735030153130
+r1746571594106,3,"^Normal$","1","",1,c1735034743101
+r1746571601755,3,"^Sometimes$","1","",1,c1735034743101
+r1746571616303,3,"^Acne/ Blemishes$","1","",1,c1735034743101
+r1746571734202,3,"^\$400 - \$499$","1","",1,c1735034743101
+r1746571743366,3,"^I'm open, but typically stick with the same brands$","1","",1,c1735034743101
+r1746571754039,3,"^Brand$","1","",1,c1735034743101
+r1746571761636,3,"^Natural ingredients$","1","",1,c1735034743101
+r1746571767491,3,"^Anti-Aging Properties$","1","",1,c1735034743101
+r1746571778444,3,"^I am not a member of a beauty retailer loyalty program$","1","",1,c1735034743101
+r1746571788545,3,"^Equally between online and in-store$","1","",1,c1735034743101
+r1746571798098,3,"^Amazon$","1","",1,c1735034743101
+r1746571811727,3,"^Sephora$","1","",1,c1735034743101
+r1746571816558,3,"^Walmart$","1","",1,c1735034743101
+r1746571946505,3,"^Facebook$","1","",1,c1735034743101
+r1746571949991,3,"^Instagram$","1","",1,c1735034743101
+r1746571954715,3,"^Pinterest$","1","",1,c1735034743101
+r1746571958916,3,"^Reddit$","1","",1,c1735034743101
+r1746571962998,3,"^TikTok$","1","",1,c1735034743101
+r1746571966229,3,"^Twitter/X$","1","",1,c1735034743101
+r1746571969652,3,"^YouTube$","1","",1,c1735034743101
+r1746571981747,3,"^Social Media$","1","",1,c1735034743101
+r1746571989674,3,"^Online \(e\.g\. YouTube, Twitch, Discord etc\.\)$","1","",1,c1735034743101
+r1746572009151,3,"^In-Store Displays$","1","",1,c1735034743101
 r17466,3,"^Sephora$","1","",1,c352
 r17467,3,"^Amazon$","1","",1,c352
 r17468,3,"^High-quality products$","1","",1,c352
