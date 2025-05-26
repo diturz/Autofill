@@ -1007,6 +1007,22 @@ c1747170392776,"Just a couple questions about you!","",,,,
 c1747174254546,"All About Women's Health","",,,,
 c1747178158434,"We want to hear about your experience!","",,,,
 c1747180042421,"All About Your Health","",,,,
+c1748223167946,"Products you use to care for your home","",,,,
+c1748223636452,"Let's talk about some of your purchases!","",,,,
+c1748224419921,"Let’s talk about drinks!","",,,,
+c1748224486916,"All About Tech","",,,,
+c1748230616224,"Calling All the Gamers 🎮","",,,,
+c1748230698782,"Past and Future Purchasing!","",,,,
+c1748232729952,"Help us understand your drinking habits","",,,,
+c1748239032763,"Let’s Get Cooking!","",,,,
+c1748241540896,"Men, We'd Love to Hear From You!","",,,,
+c1748242943699,"Overnight Trip Screener","",,,,
+c1748244781483,"Day Trip Screener","",,,,
+c1748245772700,"All About YoU!","",,,,
+c1748248216404,"Questions about Greek Yogurt, Drinks, Prebiotics, and Toppings.","",,,,
+c1748249283553,"Working Status","",,,,
+c1748249359974,"Let’s talk about technology!","",,,,
+c1748249925423,"Tell us about your work","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -18414,6 +18430,439 @@ r1748,3,"^If I like the label design$","1","",1,c90
 r17480,3,"^\$25-\$50/month$","1","",1,c355
 r17481,3,"^Save up points for something big$","1","",1,c355
 r17482,0,"^response$","points","",1,c355
+r1748223319843,3,"^I own a detached house$","1","",1,c1748223167946
+r1748223333997,3,"^I am solely responsible$","1","",1,c1748223167946
+r1748223379433,3,"^Fence$","1","",1,c1748223167946
+r1748223384265,3,"^Grass Lawn$","1","",1,c1748223167946
+r1748223389790,3,"^Driveway$","1","",1,c1748223167946
+r1748223394477,3,"^Sidewalk/walkway$","1","",1,c1748223167946
+r1748223399930,3,"^Garage \(fully enclosed\)$","1","",1,c1748223167946
+r1748223417110,3,"^Grass seed$","1","",1,c1748223167946
+r1748223499914,3,"^Very important$","1","",1,c1748223167946
+r1748223512198,3,"^Scotts$","1","",1,c1748223167946
+r1748223518820,3,"^Spectracide$","1","",1,c1748223167946
+r1748223584353,3,"^Is from a brand I trust vs\. Gives me great results every time$","1","",1,c1748223167946
+r1748223597219,3,"^No - I would not like to participate$","1","",1,c1748223167946
+r1748223643235,3,"^Chocolate chips or baking ingredients$","1","",1,c1748223636452
+r1748223650782,3,"^Printer paper or office supplies$","1","",1,c1748223636452
+r1748223662131,3,"^Sports or fitness apparel$","1","",1,c1748223636452
+r1748223666132,3,"^Computer monitor or TV$","1","",1,c1748223636452
+r1748223670412,3,"^Headphones or earbuds$","1","",1,c1748223636452
+r1748223675686,3,"^Supplements for exercise or performance \(e\.g\., creatine, pre-workout\)$","1","",1,c1748223636452
+r1748223680689,3,"^Breakfast cereal$","1","",1,c1748223636452
+r1748223685387,3,"^Vitamins, minerals, or general supplements$","1","",1,c1748223636452
+r1748223689568,3,"^Soda or soft drinks$","1","",1,c1748223636452
+r1748223703795,3,"^Digestive health aids \(e\.g\., probiotics, prebiotics\)$","1","",1,c1748223636452
+r1748223780824,3,"^Multivitamins$","1","",1,c1748223636452
+r1748223794652,3,"^Preworkout$","1","",1,c1748223636452
+r1748223809303,3,"^Pre-Workout and/or Recovery Supplement$","1","",1,c1748223636452
+r1748223815280,3,"^Probiotics$","1","",1,c1748223636452
+r1748223826272,3,"^Protein Powder$","1","",1,c1748223636452
+r1748223831624,3,"^Vitamin C$","1","",1,c1748223636452
+r1748224081485,3,"^More than once a week$","1","",1,c178
+r1748224093550,3,"^I do all or most of the decision making$","1","",1,c178
+r1748224114623,3,"^BOTH ONLINE & IN-STORE$","1","",1,c1731946759207
+r1748224132765,3,"^Snack/Nutrition Bars$","1","",1,c1731946759207
+r1748224141420,3,"^Sparkling Beverages \(Soda, sparkling water, seltzer, energy drinks, etc\.\)$","1","",1,c1731946759207
+r1748224148255,3,"^Candy \(Chocolate, Non-Chocolate Candy\)$","1","",1,c1731946759207
+r1748224162142,3,"^Fruit Juices & Fruit Drinks \(Orange juice, apple juice, cranberry juice, etc\.\)$","1","",1,c1731946759207
+r1748224166462,3,"^Nuts, Seeds & Trail Mix$","1","",1,c1731946759207
+r1748224172026,3,"^Bottled Still Water$","1","",1,c1731946759207
+r1748224177927,3,"^Bottled Coffee or Tea$","1","",1,c1731946759207
+r1748224182170,3,"^Cookies$","1","",1,c1731946759207
+r1748224189979,3,"^Breakfast Food \(Hot Cereals, Ready to Eat Cold Cereal or Granola, etc\.\)$","1","",1,c1731946759207
+r1748224197785,3,"^Salty Snacks \(Chips, Cheese Puffs, Tortilla Chips, Crackers, Popcorn etc\.\)$","1","",1,c1731946759207
+r1748224224502,3,"^Fresh Products & Dairy \(Produce, Meat, Milk, Eggs, Cheese, etc\.\)$","1","",1,c1731946759207
+r1748224230526,3,"^Dips & Salsa$","1","",1,c1731946759207
+r1748224247254,3,"^Sports Drinks$","1","",1,c1731946759207
+r1748224424783,3,"^Wendy’s$","1","",1,c1748224419921
+r1748224430172,3,"^Chick-fil-A$","1","",1,c1748224419921
+r1748224435902,3,"^In-N-Out$","1","",1,c1748224419921
+r1748224440246,3,"^McDonald’s$","1","",1,c1748224419921
+r1748224445673,3,"^Burger King$","1","",1,c1748224419921
+r1748224491977,3,"^Smartphone$","1","",1,c1748224486916
+r1748224497356,3,"^Tablet$","1","",1,c1748224486916
+r1748224504011,3,"^Laptop / desktop computer$","1","",1,c1748224486916
+r1748224509137,3,"^Smartwatch$","1","",1,c1748224486916
+r1748224529741,3,"^Apple$","1","",1,c1748224486916
+r1748224607572,3,"^BOTH ONLINE & IN-STORE$","1","",1,c68
+r1748224629356,3,"^Sparkling Beverages \(Soda, sparkling water, seltzer, energy drinks, etc\.\)$","1","",1,c68
+r1748224633530,3,"^Bottled Still Water$","1","",1,c68
+r1748224639112,3,"^Cookies$","1","",1,c68
+r1748224643882,3,"^Dips & Salsa$","1","",1,c68
+r1748224648390,3,"^Candy \(Chocolate, Non-Chocolate Candy\)$","1","",1,c68
+r1748224656545,3,"^Nuts, Seeds & Trail Mix$","1","",1,c68
+r1748224661536,3,"^Snack/Nutrition Bars$","1","",1,c68
+r1748224666254,3,"^Sports Drinks$","1","",1,c68
+r1748224671394,3,"^Bottled Coffee or Tea$","1","",1,c68
+r1748224674877,3,"^Breakfast Food \(Hot Cereals, Ready to Eat Cold Cereal or Granola, etc\.\)$","1","",1,c68
+r1748224678805,3,"^Fruit Juices & Fruit Drinks \(Orange juice, apple juice, cranberry juice, etc\.\)$","1","",1,c68
+r1748224683503,3,"^Salty Snacks \(Chips, Cheese Puffs, Tortilla Chips, Crackers, Popcorn etc\.\)$","1","",1,c68
+r1748224688033,3,"^Fresh Products & Dairy \(Produce, Meat, Milk, Eggs, Cheese, etc\.\)$","1","",1,c68
+r1748224744271,3,"^I’m the primary decision maker$","1","",1,c5
+r1748224760462,3,"^NBA$","1","",1,c5
+r1748224768352,3,"^NFL$","1","",1,c5
+r1748224772430,3,"^NHL$","1","",1,c5
+r1748224786070,3,"^MLB$","1","",1,c5
+r1748224801814,3,"^Most weeks$","1","",1,c5
+r1748224813847,3,"^Somewhat interested$","1","",1,c5
+r1748225136554,3,"^Know a fair amount$","1","",1,c5
+r1748225296132,3,"^Fast Casual \(e\.g\., Chipotle, Panera\)$","1","",1,c1730282815342
+r1748225299672,3,"^Casual Dining \(e\.g\., Applebee’s, Chili’s, Olive Garden\)$","1","",1,c1730282815342
+r1748225305648,3,"^Upscale/Full-Service Dining$","1","",1,c1730282815342
+r1748225312357,3,"^Fast Food \(e\.g\., McDonald's, Taco Bell\)$","1","",1,c1730282815342
+r1748225344031,3,"^Buffalo Wild Wings$","1","",1,c1730282815342
+r1748225412315,3,"^I’m open to it, but haven’t eaten there recently$","1","",1,c1730282815342
+r1748225430654,3,"^Carbonated soft drinks \(e\.g\., Pepsi, Sierra Mist\)$","1","",1,c1730282815342
+r1748225437282,3,"^Lemonade$","1","",1,c1730282815342
+r1748225442595,3,"^Iced Tea$","1","",1,c1730282815342
+r1748225458167,3,"^Sometimes$","1","",1,c1730282815342
+r1748225473009,3,"^Professional sports$","1","",1,c1730282815342
+r1748225476779,3,"^Movies$","1","",1,c1730282815342
+r1748225480415,3,"^Music$","1","",1,c1730282815342
+r1748225485864,3,"^Gaming$","1","",1,c1730282815342
+r1748225491297,3,"^Cooking/food$","1","",1,c1730282815342
+r1748225512330,3,"^NFL \(National Football League\)$","1","",1,c1730282815342
+r1748225518059,3,"^NBA \(National Basketball Association\)$","1","",1,c1730282815342
+r1748225524246,3,"^MLB \(Major League Baseball\)$","1","",1,c1730282815342
+r1748225531104,3,"^NHL \(National Hockey League\)$","1","",1,c1730282815342
+r1748225535945,3,"^MLS \(Major League Soccer\)$","1","",1,c1730282815342
+r1748225968551,3,"^Alani Nu$","1","",1,c430
+r1748225973192,3,"^Prime$","1","",1,c430
+r1748225977938,3,"^Liquid I\.V\.$","1","",1,c430
+r1748225986124,3,"^Gatorade$","1","",1,c430
+r1748225992400,3,"^Nuun$","1","",1,c430
+r1748226115663,3,"^3-4 times a week$","1","",1,c430
+r1748226138564,3,"^I push myself during workouts because I enjoy seeing improvements in my strength, endurance, or performance$","1","",1,c430
+r1748226247165,3,"^Electrolyte powders/mixes$","1","",1,c430
+r1748226251274,3,"^Pre-workouts$","1","",1,c430
+r1748226255371,3,"^Sports drinks$","1","",1,c430
+r1748226258931,3,"^Bottled ready-to-drink protein shakes$","1","",1,c430
+r1748226262356,3,"^Energy drinks$","1","",1,c430
+r1748226268887,3,"^Bottled ready-to-drink electrolyte drinks$","1","",1,c430
+r1748226279767,3,"^Protein powders$","1","",1,c430
+r1748226475077,3,"^Urban Area$","1","",1,c4
+r1748226485082,3,"^30-34$","1","",1,c4
+r1748227526660,3,"^Both online & In-store$","1","",1,c1731946759207
+r1748227546634,3,"^DoorDash$","1","",1,c1731946759207
+r1748227559381,3,"^Hot Cereal \(Oatmeal, Grits\)$","1","",1,c1731946759207
+r1748227566900,3,"^Cold Cereal$","1","",1,c1731946759207
+r1748227572449,3,"^Snack/Breakfast Bars \(e\.g\., Chewy, Cliff Kidz, etc\.\)$","1","",1,c1731946759207
+r1748227576177,3,"^Protein Bars \(e\.g\., MetRX, Cliff Protein, Quest, etc\.\)$","1","",1,c1731946759207
+r1748228289371,3,"^Hygiene products \(e\.g\., hand sanitizer, soap, feminine hygiene\)$","1","",1,c1745211627720
+r1748228295718,3,"^Over-the-counter \(OTC\) medications \(e\.g\., allergy meds, pain relievers, cold medicine, etc\.\)$","1","",1,c1745211627720
+r1748228301899,3,"^Herbal or natural remedies$","1","",1,c1745211627720
+r1748228305757,3,"^Personal care products \(e\.g\., toothpaste, shampoo, deodorant\)$","1","",1,c1745211627720
+r1748228312493,3,"^First aid supplies \(e\.g\., bandages, antiseptics\)$","1","",1,c1745211627720
+r1748228316200,3,"^Vitamins or dietary supplements$","1","",1,c1745211627720
+r1748228335145,3,"^Seasonal or environmental allergies \(e\.g\., pollen, dust, mold – not food or skin allergies\)$","1","",1,c1745211627720
+r1748228352883,3,"^Limited impact – their life isn’t really affected; symptoms bother them occasionally but don’t slow them down$","1","",1,c1745211627720
+r1748228487235,3,"^Over the Counter liquid allergy medication$","1","",1,c1745211627720
+r1748228493981,3,"^Over the Counter Allergy Tablets/Pills$","1","",1,c1745211627720
+r1748228519158,3,"^Store Brand/Generic$","1","",1,c1745211627720
+r1748228620652,3,"^I AGREE$","1","",1,c1745211627720
+r1748228647159,3,"^I would not like to participate$","1","",1,c1745211627720
+r1748228905458,3,"^I’m the primary decision-maker$","1","",1,c17
+r1748228927520,3,"^650 – 699$","1","",1,c17
+r1748228951807,3,"^Personal loan \(installment loan with fixed interest rates\)$","1","",1,c17
+r1748228955641,3,"^Online payment app \(Venmo, Zelle, ApplePay, GooglePay, etc\.\)$","1","",1,c17
+r1748228960702,3,"^Payday or cash advance loan$","1","",1,c17
+r1748229029622,3,"^A retirement account such as a pension, IRA, 401\(k\), or 403\(b\), etc\.$","1","",1,c17
+r1748229033346,3,"^Credit card$","1","",1,c17
+r1748229037735,3,"^Checking account at a bank or credit union$","1","",1,c17
+r1748229041628,3,"^Debit card$","1","",1,c17
+r1748229045259,3,"^Savings account at a bank or credit union$","1","",1,c17
+r1748229064402,3,"^Capital One Venture Rewards$","1","",1,c17
+r1748229070127,3,"^Wells Fargo Active Cash Card$","1","",1,c17
+r1748229145369,3,"^Full Time Employee$","1","",1,c17
+r1748230782795,3,"^Computer or Tablet \(e\.g\. Laptop, Desktop, 2in1, etc\)$","1","",1,c1748230698782
+r1748230787005,3,"^Household Appliances \(e\.g\. Refrigerator, Washing Machine, Dishwasher, etc\.\)$","1","",1,c1748230698782
+r1748230792763,3,"^Mobile Phone or Accessories \(e\.g\. Smartphone, Smartwatch, Charging Dock, etc\.\)$","1","",1,c1748230698782
+r1748230799521,3,"^Home Entertainment Devices \(e\.g\. Television, Streaming Device, Soundbar, etc\.\)$","1","",1,c1748230698782
+r1748230804463,3,"^Video Gaming Equipment or Video Games \(e\.g\. Consoles, Headsets, Controllers, Assassin’s Creed, etc\.\)$","1","",1,c1748230698782
+r1748230809777,3,"^Smarthome Devices \(e\.g\. Smart Thermostat, Smart lightbulb, Smart Plugs, etc\)$","1","",1,c1748230698782
+r1748230813854,3,"^Kitchen Gadgets or Small Appliances \(e\.g\. Air Fryer, Coffee Machine, Blender, etc\.\)$","1","",1,c1748230698782
+r1748230852816,3,"^Digital video games \(e\.g\. Games downloaded from PlayStation Store, Xbox Marketplace, Steam, etc\.\)$","1","",1,c1748230698782
+r1748230862792,3,"^Gaming accessories \(e\.g\. Controllers, Headsets, Gaming Chair, Charging Stations\)$","1","",1,c1748230698782
+r1748230866721,3,"^Game subscriptions \(e\.g\. Xbox Game Pass, PlayStation Plus, Nintendo Switch Online\)$","1","",1,c1748230698782
+r1748230871330,3,"^PC gaming upgrades \(e\.g\. Graphics card, gaming keyboard/mouse, custom-built PC parts\)$","1","",1,c1748230698782
+r1748230875440,3,"^A new gaming console \(e\.g\. PlayStation 5, Xbox Series X, Nintendo Switch, Steam Deck\)$","1","",1,c1748230698782
+r1748230880185,3,"^In-game purchases \(e\.g\. Skins, virtual currency, loot boxes\)$","1","",1,c1748230698782
+r1748230902909,3,"^Mobile \(e\.g\. iOS App Store, Google Play Store, mobile game purchases or accessories\)$","1","",1,c1748230698782
+r1748230906958,3,"^PC \(e\.g\. Steam, Epic Games Store, custom gaming rigs, PC gaming peripherals\)$","1","",1,c1748230698782
+r1748230910492,3,"^Nintendo \(e\.g\. Nintendo Switch, Switch Lite, eShop, Nintendo Switch Online\)$","1","",1,c1748230698782
+r1748230917477,3,"^Xbox \(e\.g\. Xbox Series X/S, Xbox One, Xbox Marketplace, Game Pass\)$","1","",1,c1748230698782
+r1748231246064,3,"^Secondhand marketplace \(e\.g\. eBay, Facebook Marketplace, local resale store\)$","1","",1,c1748230698782
+r1748231251345,3,"^In a physical retail store \(e\.g\. Best Buy, GameStop, Walmart, Target\)$","1","",1,c1748230698782
+r1748231256952,3,"^Online retailer \(e\.g\. Amazon, Best Buy, Walmart\.com, Target\.com\)$","1","",1,c1748230698782
+r1748231272145,3,"^For myself$","1","",1,c1748230698782
+r1748231576513,3,"^None of the above – I’m open to purchasing any of these platforms/brands$","1","",1,c1748230698782
+r1748231590706,3,"^I would not like to participate$","1","",1,c1748230698782
+r1748232509563,3,"^Banking or Finance$","1","",1,c180
+r1748232733584,3,"^Gin$","1","",1,c1748232729952
+r1748232738388,3,"^Rum$","1","",1,c1748232729952
+r1748232742185,3,"^Tequila$","1","",1,c1748232729952
+r1748232745301,3,"^Vodka$","1","",1,c1748232729952
+r1748232749366,3,"^Whiskey/ Bourbon/ Scotch$","1","",1,c1748232729952
+r1748232754302,3,"^Non-alcoholic mocktails or zero-proof spirits$","1","",1,c1748232729952
+r1748232758489,3,"^Wine$","1","",1,c1748232729952
+r1748232764098,3,"^Ready-to-serve bottled cocktails$","1","",1,c1748232729952
+r1748232767748,3,"^Beer$","1","",1,c1748232729952
+r1748232772018,3,"^Ready-to-drink canned cocktails$","1","",1,c1748232729952
+r1748233302071,3,"^Pillsbury$","1","",1,c1729921997198
+r1748233678379,3,"^Music concerts / festivals \(e\.g\., Lollapalooza, Taylor Swift Eras Tour, Austin City Limits, etc\.\)$","1","",1,c384
+r1748233684639,3,"^Arts / cultural events \(e\.g\., Art Basel, Fringe Festival\)$","1","",1,c384
+r1748233688546,3,"^Entertainment / pop culture events \(e\.g\., Comic-Con, TEDx, etc\.\)$","1","",1,c384
+r1748233691810,3,"^Sports games \(e\.g\., NFL, MLB, NBA, NHL, MLS, etc\.\)$","1","",1,c384
+r1748233706049,3,"^Film festivals / premieres \(e\.g\., Cannes, Tribeca Film Festival, Sundance, etc\.\)$","1","",1,c384
+r1748233727271,3,"^Own$","1","",1,c551
+r1748233860866,3,"^Canned tuna or chicken$","1","",1,c551
+r1748233896917,3,"^Ramen or instant noodles$","1","",1,c551
+r1748233902913,3,"^Canned or jarred pasta sauces \(e\.g\., Alfredo, marinara in jars\)$","1","",1,c551
+r1748233906206,3,"^Canned soup or stew$","1","",1,c551
+r1748233911288,3,"^Shelf stable mac & cheese$","1","",1,c551
+r1748233925902,3,"^Boxed breakfast cereal$","1","",1,c551
+r1748233931009,3,"^Boxed or bagged pancake mix$","1","",1,c551
+r1748233946220,3,"^Mac & Cheese in a box with powder cheese sauce$","1","",1,c551
+r1748233951305,3,"^Mac & Cheese in a box with liquid cheese sauce$","1","",1,c551
+r1748234010586,3,"^Cheetos$","1","",1,c551
+r1748234018515,3,"^Kraft$","1","",1,c551
+r1748234286335,3,"^Smartphone$","1","",1,c23
+r1748234290697,3,"^Printer$","1","",1,c23
+r1748234300876,3,"^Monitor$","1","",1,c23
+r1748234317350,3,"^Desktop computer \(i\.e\. PC\)$","1","",1,c23
+r1748234325377,3,"^Tablet$","1","",1,c23
+r1748234365407,3,"^Gaming console \(e\.g\. Xbox, PlayStation, etc\.\)$","1","",1,c23
+r1748234371495,3,"^Laptop$","1","",1,c23
+r1748234397157,3,"^2-in-1 \(laptop with detachable keyboard\)$","1","",1,c23
+r1748234534339,3,"^Battery life$","1","",1,c23
+r1748234538510,3,"^RAM \(Memory\)$","1","",1,c23
+r1748234543495,3,"^Operating system$","1","",1,c23
+r1748234606978,3,"^\$800–\$1,199$","1","",1,c23
+r1748234754412,3,"^I mainly use it for one purpose \(e\.g\., work, gaming, or browsing\)$","1","",1,c23
+r1748234825368,3,"^I do research and compare multiple options$","1","",1,c23
+r1748234843153,3,"^I occasionally use AI Tools$","1","",1,c23
+r1748234885131,3,"^Somewhat excited$","1","",1,c23
+r1748235367185,3,"^Grocery/food$","1","",1,c1745567864796
+r1748235371890,3,"^Skincare$","1","",1,c1745567864796
+r1748235375815,3,"^Personal care \(ex: soap, deodorant, oral care, etc\.\)$","1","",1,c1745567864796
+r1748235380628,3,"^Cleaning Supplies$","1","",1,c1745567864796
+r1748235385490,3,"^Hair Care$","1","",1,c1745567864796
+r1748235512364,3,"^Suncare \(e\.g\., sunscreen, SPF moisturizer\)$","1","",1,c1745567864796
+r1748235518236,3,"^Acne treatments$","1","",1,c1745567864796
+r1748235522660,3,"^Facial Cleansers$","1","",1,c1745567864796
+r1748235537226,3,"^Face Sunscreen$","1","",1,c1745567864796
+r1748235544071,3,"^Body Sunscreen$","1","",1,c1745567864796
+r1748235616806,3,"^Both face and body$","1","",1,c1745567864796
+r1748235640655,3,"^Acne$","1","",1,c1745567864796
+r1748235645066,3,"^Sun protection$","1","",1,c1745567864796
+r1748235660518,3,"^Normal$","1","",1,c1745567864796
+r1748235685490,3,"^\$25\+$","1","",1,c1745567864796
+r1748235698947,3,"^Sunscreen$","1","",1,c1745567864796
+r1748235705393,3,"^Serum / Treatment$","1","",1,c1745567864796
+r1748235710185,3,"^Facial Moisturizer$","1","",1,c1745567864796
+r1748235785739,3,"^Specialty Beauty Retailers \(Sephora, Ulta\)$","1","",1,c1745567864796
+r1748235792623,3,"^Mass Retailer \(e\.g\., Walmart, Target\)$","1","",1,c1745567864796
+r1748235797397,3,"^Amazon$","1","",1,c1745567864796
+r1748238470942,3,"^Banking/finance$","1","",1,c164
+r1748238486238,3,"^All of it$","1","",1,c164
+r1748238500909,3,"^Non-chocolate candy$","1","",1,c164
+r1748238506076,3,"^Chocolate candy \(e\.g\., chocolate bars, truffles, bonbons, fudge, etc\.\)$","1","",1,c164
+r1748238514217,3,"^Potato chips$","1","",1,c164
+r1748238580088,3,"^e-Concierge \(ex\. Instacart\)$","1","",1,c164
+r1748238587583,3,"^Online Only \(ex\. Amazon, etc\.\)$","1","",1,c164
+r1748238592552,3,"^Grocery Store \(ex\. Kroger, Publix, ShopRite, your local supermarket, etc\.\)$","1","",1,c164
+r1748238596583,3,"^Local Convenience Store/Bodega/Gas Station$","1","",1,c164
+r1748238602467,3,"^Mass Merchandiser \(ex\. Target, Walmart, etc\.\)$","1","",1,c164
+r1748238608042,3,"^Online Retailer \(ex\. Walmart\.com, Target\.com, etc\.\)$","1","",1,c164
+r1748238612607,3,"^Club Stores \(ex\. BJs, Sams, Costco, etc\.\)$","1","",1,c164
+r1748238865904,3,"^M&Ms$","1","",1,c164
+r1748238887061,3,"^Hershey’s$","1","",1,c164
+r1748238945368,3,"^Chocolate pieces \(e\.g\., M&M’s\)$","1","",1,c164
+r1748238951183,3,"^Solid chocolate bars \(e\.g\., Hershey’s\)$","1","",1,c164
+r1748239111737,3,"^I do all of the grocery shopping$","1","",1,c1748239032763
+r1748239127178,3,"^A few times per week$","1","",1,c1748239032763
+r1748239145170,3,"^I’m comfortable with cooking a variety of dishes but wouldn’t call myself advanced$","1","",1,c1748239032763
+r1748239533936,3,"^I am the primary purchaser of groceries for my household$","1","",1,c20
+r1748239857871,3,"^10-12 years old$","1","",1,c20
+r1748239861339,3,"^13-17 years old$","1","",1,c20
+r1748239887005,3,"^Left$","1","",1,c20
+r1748239891888,3,"^Grocery Stores \(ex: Meijer, Kroger, Publix\)$","1","",1,c20
+r1748239899995,3,"^Online \(ex: Amazon\.com\)$","1","",1,c20
+r1748239903589,3,"^Natural/specialty food store \(ex: Whole Foods, Trader Joe’s\)$","1","",1,c20
+r1748239907535,3,"^Warehouse/club stores \(ex: Costco, Sam’s Club, BJ’s\)$","1","",1,c20
+r1748239911730,3,"^Mass merchandise/discount department store \(ex: Walmart, Target, Kmart\)$","1","",1,c20
+r1748239916504,3,"^Gas/Convenience stores \(ex: 7-Eleven, Circle K\)$","1","",1,c20
+r1748239931927,3,"^Snack Bars \(e\.g\., Nutrition bars, protein bars, granola bars, etc\.\)$","1","",1,c20
+r1748239940091,3,"^Confectionery \(e\.g\., Chocolate bars, candy, etc\.\)$","1","",1,c20
+r1748239952370,3,"^Cookies$","1","",1,c20
+r1748239958685,3,"^Refrigerated Cheese Snacks \(e\.g\., Sargento Balanced Breaks, Babybel\)$","1","",1,c20
+r1748240007775,3,"^Snacks that require freezing \(e\.g\., ice cream, pizza rolls, etc\.\)$","1","",1,c20
+r1748240011332,3,"^Baking Chocolate Chips$","1","",1,c20
+r1748240015307,3,"^Snacks that require refrigeration \(ex\. refrigerated bars, fruit cups, pudding, etc\.\)$","1","",1,c20
+r1748240021605,3,"^Salty Snacks \(e\.g\., Potato Chips, Pretzels, Popcorn\)$","1","",1,c20
+r1748240040146,3,"^Sweet Baked Goods \(e\.g\., Donuts, Scones, Brownies, Cupcakes, etc\.\)$","1","",1,c20
+r1748240045102,3,"^Granola and/or Cereal$","1","",1,c20
+r1748240051715,3,"^Packaged Pastries \(e\.g\., Hostess, Little Debbie’s, etc\.\)$","1","",1,c20
+r1748240085543,3,"^Chocolate Chip Cookies$","1","",1,c20
+r1748240233970,3,"^Fresh Baked Cookies$","1","",1,c20
+r1748240243528,3,"^Peanut Butter Cookies$","1","",1,c20
+r1748240469835,3,"^Once a week$","1","",1,c20
+r1748240505346,3,"^Chips Ahoy! Original \(Blue\)$","1","",1,c20
+r1748240533737,3,"^Chips Ahoy! Minis$","1","",1,c20
+r1748240569328,3,"^OREO Minis$","1","",1,c20
+r1748240574159,3,"^OREO Original$","1","",1,c20
+r1748240639969,3,"^Yes, myself$","1","",1,c20
+r1748240651738,3,"^Soy$","1","",1,c20
+r1748240734587,3,"^Clothing & Accessories \(e\.g\., apparel, footwear, jewelry, handbags\)$","1","",1,c179
+r1748240738442,3,"^Electronics & Gadgets \(e\.g\., smartphones, accessories, home appliances\)$","1","",1,c179
+r1748240867289,3,"^Health & Wellness Products \(e\.g\., vitamins, supplements, personal hygiene\)$","1","",1,c179
+r1748240872329,3,"^Food & Beverage Products \(e\.g\., groceries, snacks, beverages, meal kits\)$","1","",1,c179
+r1748240881460,3,"^Pet Care Products \(e\.g\., pet food, treats, grooming supplies\)$","1","",1,c179
+r1748240885034,3,"^Household & Cleaning Products \(e\.g\., detergents, surface cleaners, paper goods\)$","1","",1,c179
+r1748240889749,3,"^Home & Kitchen Products \(e\.g\., cookware, utensils, furniture, bedding\)$","1","",1,c179
+r1748240894115,3,"^Beauty & Personal Care Products \(e\.g\., skincare, haircare, cosmetics, body care\)$","1","",1,c179
+r1748240934270,3,"^Haircare \(e\.g\., shampoo, conditioner, styling products, hair treatments\)$","1","",1,c179
+r1748240942939,3,"^Body Care \(e\.g\., body lotion, shower gel, deodorant, body scrubs\)$","1","",1,c179
+r1748240947577,3,"^Skincare \(e\.g\., moisturizers, serums, cleansers, sunscreen, face masks\)$","1","",1,c179
+r1748240976703,3,"^Hair Gel or Wax$","1","",1,c179
+r1748240981585,3,"^Dry Shampoo$","1","",1,c179
+r1748241622853,3,"^Issues with sexual performance \(e\.g\., lasting longer in bed, getting a firmer erection\)$","1","",1,c1748241540896
+r1748241626578,3,"^Obesity or desire to lose weight$","1","",1,c1748241540896
+r1748241722308,3,"^Low energy$","1","",1,c1748241540896
+r1748241739756,3,"^Reduced sex drive$","1","",1,c1748241540896
+r1748241790856,3,"^I'm focused on staying strong and fit as I age, and I want to make sure I maintain my muscle mass and physical performance for as long as possible$","1","",1,c1748241540896
+r1748243143603,3,"^Other business trip$","1","",1,c1748242943699
+r1748243172835,3,"^2$","1","",1,c1748242943699
+r1748243220987,3,"^Business associate\(s\)$","1","",1,c1748242943699
+r1748243408566,3,"^7-8 hours$","1","",1,c1748242943699
+r1748243849013,3,"^Hotel$","1","",1,c1748242943699
+r1748244027127,3,"^1 month or less$","1","",1,c1748242943699
+r1748244167841,3,"^Travel company websites \(airlines, hotels, attractions\)$","1","",1,c1748242943699
+r1748244405700,3,"^Fine/upscale dining$","1","",1,c1748242943699
+r1748244409645,3,"^Fast food$","1","",1,c1748242943699
+r1748244413477,3,"^Casual dining$","1","",1,c1748242943699
+r1748244531654,3,"^Historic places, sites and landmarks$","1","",1,c1748242943699
+r1748244601784,3,"^Somewhat Satisfied$","1","",1,c1748242943699
+r1748244786064,3,"^Somewhat important$","1","",1,c1748244781483
+r1748244873907,3,"^Other business trip$","1","",1,c1748244781483
+r1748244910467,3,"^Business associate\(s\)$","1","",1,c1748244781483
+r1748245060922,3,"^7-8 hours$","1","",1,c1748244781483
+r1748245100761,3,"^Hotel$","1","",1,c1748244781483
+r1748245130960,3,"^1 month or less$","1","",1,c1748244781483
+r1748245189938,3,"^Travel company websites \(airlines, hotels, attractions\)$","1","",1,c1748244781483
+r1748245400974,3,"^Casual dining$","1","",1,c1748244781483
+r1748245404691,3,"^Fast food$","1","",1,c1748244781483
+r1748245408977,3,"^Fine/upscale dining$","1","",1,c1748244781483
+r1748245426202,3,"^Historic places, sites and landmarks$","1","",1,c1748244781483
+r1748245438648,3,"^Somewhat Satisfied$","1","",1,c1748244781483
+r1748245575854,3,"^30–34$","1","",1,c1729980882634
+r1748245632702,3,"^White$","1","",1,c1729980882634
+r1748245646109,3,"^Urban$","1","",1,c1729980882634
+r1748245660201,3,"^Spirits \(vodka, tequila, whiskey, etc\.\)$","1","",1,c1729980882634
+r1748245664264,3,"^Flavored malt beverages \(e\.g\., Smirnoff Ice, Mike’s Hard\)$","1","",1,c1729980882634
+r1748245671236,3,"^Beer$","1","",1,c1729980882634
+r1748245677757,3,"^Hard seltzers$","1","",1,c1729980882634
+r1748245683098,3,"^Ready-to-drink cocktails$","1","",1,c1729980882634
+r1748245688439,3,"^Wine$","1","",1,c1729980882634
+r1748245742585,3,"^I would drink all of the above options$","1","",1,c1729980882634
+r1748245778869,3,"^Illinois$","1","",1,c1748245772700
+r1748245794142,3,"^Once a week$","1","",1,c1748245772700
+r1748245806235,3,"^Warehouse clubs \(e\.g\., Costco, Sam’s Club\)$","1","",1,c1748245772700
+r1748245810774,3,"^Whole Foods$","1","",1,c1748245772700
+r1748245814576,3,"^Walmart$","1","",1,c1748245772700
+r1748245819236,3,"^Kroger$","1","",1,c1748245772700
+r1748245827575,3,"^Online grocery delivery services$","1","",1,c1748245772700
+r1748245833725,3,"^Local or specialty grocery stores$","1","",1,c1748245772700
+r1748245837589,3,"^Target$","1","",1,c1748245772700
+r1748245863636,3,"^21–30 minutes$","1","",1,c1748245772700
+r1748245876996,3,"^Within the past week$","1","",1,c1748245772700
+r1748245923931,3,"^I only buy them when the name-brand version is too expensive or not in stock$","1","",1,c1748245772700
+r1748245941069,3,"^Social media \(e\.g\., Instagram, TikTok, Pinterest\)$","1","",1,c1748245772700
+r1748246023275,3,"^YouTube$","1","",1,c1748245772700
+r1748246030600,3,"^TikTok$","1","",1,c1748245772700
+r1748246035152,3,"^Instagram$","1","",1,c1748245772700
+r1748246073057,3,"^Fresh, high-quality produce$","1","",1,c1748245772700
+r1748246078132,3,"^Convenient store location$","1","",1,c1748245772700
+r1748246083331,3,"^Trusted brands and products$","1","",1,c1748245772700
+r1748246223985,3,"^Fresh, high-quality ingredients$","1","",1,c1748245772700
+r1748246231677,3,"^Nutritious, better-for-you products$","1","",1,c1748245772700
+r1748246235344,3,"^Finding everything in one place$","1","",1,c1748245772700
+r1748246269874,3,"^Shopping quickly and efficiently$","1","",1,c1748245772700
+r1748246282384,3,"^Having a stress-free experience$","1","",1,c1748245772700
+r1748246286725,3,"^Feeling inspired to cook$","1","",1,c1748245772700
+r1748246302652,3,"^I enjoy it and look forward to it$","1","",1,c1748245772700
+r1748246350934,3,"^Making healthier food choices$","1","",1,c1748245772700
+r1748246363464,3,"^Feeling healthier & happier$","1","",1,c1748245772700
+r1748246369253,3,"^Having more variety in meals$","1","",1,c1748245772700
+r1748246445069,3,"^Staying within budget$","1","",1,c1748245772700
+r1748246449420,3,"^Getting meal inspiration$","1","",1,c1748245772700
+r1748246453135,3,"^Finding specialty items$","1","",1,c1748245772700
+r1748246559432,3,"^Finding all the ingredients$","1","",1,c1748245772700
+r1748246564300,3,"^Meal planning is hard$","1","",1,c1748245772700
+r1748246568104,3,"^Accommodating dietary needs$","1","",1,c1748245772700
+r1748247063529,3,"^Potato chips$","1","",1,c538
+r1748247070313,3,"^Crackers$","1","",1,c538
+r1748247074764,3,"^Bread$","1","",1,c538
+r1748247078101,3,"^Canned vegetables$","1","",1,c538
+r1748247081834,3,"^Frozen meals$","1","",1,c538
+r1748247085716,3,"^Pasta$","1","",1,c538
+r1748247089877,3,"^Fresh fruit$","1","",1,c538
+r1748247093567,3,"^Cereal$","1","",1,c538
+r1748247096806,3,"^Soup$","1","",1,c538
+r1748247100299,3,"^Soda$","1","",1,c538
+r1748247104639,3,"^Yogurt$","1","",1,c538
+r1748247108972,3,"^Granola bars$","1","",1,c538
+r1748247194535,3,"^Canned Condensed Soups traditionally used in baking, casseroles$","1","",1,c538
+r1748247340592,3,"^Once a week$","1","",1,c538
+r1748247365676,3,"^Organic ingredients$","1","",1,c538
+r1748247369350,3,"^Brand$","1","",1,c538
+r1748247379795,3,"^Nutritional content$","1","",1,c538
+r1748247441292,3,"^Intermediate – I cook regularly and can follow most recipes$","1","",1,c538
+r1748247456253,3,"^3-4 nights per week$","1","",1,c538
+r1748247468630,3,"^Moderately adventurous – I enjoy exploring a variety of new flavors$","1","",1,c538
+r1748247514159,3,"^Important: I often prioritize sustainability, but not exclusively\.$","1","",1,c538
+r1748248047942,3,"^Employed full-time \(30 or more hrs\. per week\)$","1","",1,c178
+r1748248232493,3,"^Accounting / Bookkeeping$","1","",1,c1748248216404
+r1748248252978,3,"^Prebiotic beverages \(e\.g\., Olipop, Poppi\)$","1","",1,c1748248216404
+r1748248259947,3,"^Carbonated soft drinks \(e\.g\., Coca-Cola, Pepsi\)$","1","",1,c1748248216404
+r1748248271430,3,"^Bottled water or flavored water$","1","",1,c1748248216404
+r1748248279553,3,"^Energy drinks \(e\.g\., Red Bull, Monster\)$","1","",1,c1748248216404
+r1748248284563,3,"^Hot Tea or Hot Coffee$","1","",1,c1748248216404
+r1748248288233,3,"^Sparkling water \(e\.g\., LaCroix, Spindrift\)$","1","",1,c1748248216404
+r1748248292626,3,"^Alcoholic Drinks/cocktails$","1","",1,c1748248216404
+r1748248296170,3,"^Juice or Fruit drinks$","1","",1,c1748248216404
+r1748248300611,3,"^RTD Coffee or Cold brew$","1","",1,c1748248216404
+r1748248335148,3,"^Greek yogurt \(any brand or flavor\)$","1","",1,c1748248216404
+r1748248341919,3,"^Fresh Fruit$","1","",1,c1748248216404
+r1748248346559,3,"^Refrigerated smoothies or drinkable yogurts$","1","",1,c1748248216404
+r1748248352591,3,"^Ice cream or frozen desserts$","1","",1,c1748248216404
+r1748248356288,3,"^Chocolate or Candy$","1","",1,c1748248216404
+r1748248359957,3,"^Breakfast bars \(e\.g\., BelVita, KIND\)$","1","",1,c1748248216404
+r1748248363354,3,"^Eggs$","1","",1,c1748248216404
+r1748248367458,3,"^Dairy or Non-dairy coffee creamer$","1","",1,c1748248216404
+r1748248370868,3,"^Cereal$","1","",1,c1748248216404
+r1748248374370,3,"^Whipped Cream$","1","",1,c1748248216404
+r1748248400388,3,"^I’ve heard of them and have tried a few products$","1","",1,c1748248216404
+r1748248413724,3,"^A few times a week$","1","",1,c1748248216404
+r1748248565800,3,"^No$","1","",1,c1748248216404
+r1748248589059,3,"^I am primarily responsible for grocery shopping$","1","",1,c1748248216404
+r1748248608912,3,"^Yes, ages 9-12 years$","1","",1,c1748248216404
+r1748248613915,3,"^Yes, ages 13-15 years$","1","",1,c1748248216404
+r1748248725723,3,"^Top pink line$","1","",1,c20
+r1748248852831,3,"^Apple Safari$","1","",1,c20
+r1748248859159,3,"^Google Chrome$","1","",1,c20
+r1748248982607,3,"^Somewhat agree$","1","",1,c20
+r1748248995417,3,"^Somewhat excited$","1","",1,c20
+r1748249008113,3,"^No, I am not interested in participating$","1","",1,c20
+r1748249286640,3,"^Employed full-time$","1","",1,c1748249283553
+r1748249311471,3,"^Real Estate/Financial Services$","1","",1,c1748249283553
+r1748249370031,3,"^Safari$","1","",1,c1748249359974
+r1748249373538,3,"^Firefox$","1","",1,c1748249359974
+r1748249379352,3,"^Google Chrome$","1","",1,c1748249359974
+r1748249671762,3,"^31-35 years old$","1","",1,c551
+r1748249931645,3,"^I work for a company I do not own$","1","",1,c1748249925423
+r1748249957404,3,"^101-1000$","1","",1,c1748249925423
 r17483,3,"^Redeem \$5 reward for every 1000 points earned$","1","",1,c353
 r17484,3,"^Pass the time while earning passive income$","1","",1,c353
 r17485,3,"^Have fun!$","1","",1,c353
