@@ -1023,6 +1023,13 @@ c1748248216404,"Questions about Greek Yogurt, Drinks, Prebiotics, and Toppings."
 c1748249283553,"Working Status","",,,,
 c1748249359974,"Let’s talk about technology!","",,,,
 c1748249925423,"Tell us about your work","",,,,
+c1748305285066,"Let’s Talk about food!","",,,,
+c1748306418008,"Let's talk about Kid's Clothing!","",,,,
+c1748306553445,"Are you a bread lover??","",,,,
+c1748306586663,"Everywhere you eat","",,,,
+c1748306693031,"Let's Hear About What You Buy & Why","",,,,
+c1748307336243,"All about your shopping!","",,,,
+c1748308535870,"Cough Drop Usage","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -18864,6 +18871,189 @@ r1748249671762,3,"^31-35 years old$","1","",1,c551
 r1748249931645,3,"^I work for a company I do not own$","1","",1,c1748249925423
 r1748249957404,3,"^101-1000$","1","",1,c1748249925423
 r17483,3,"^Redeem \$5 reward for every 1000 points earned$","1","",1,c353
+r1748305291132,3,"^I am primarily responsible for grocery shopping for my household$","1","",1,c1748305285066
+r1748305412855,3,"^Prepared meals / meal kits$","1","",1,c1748305285066
+r1748305417156,3,"^Vegetables$","1","",1,c1748305285066
+r1748305419965,3,"^Beverages$","1","",1,c1748305285066
+r1748305423649,3,"^Pasta$","1","",1,c1748305285066
+r1748305429272,3,"^Frozen foods / frozen meals$","1","",1,c1748305285066
+r1748305432540,3,"^Snacks$","1","",1,c1748305285066
+r1748305435874,3,"^Meats$","1","",1,c1748305285066
+r1748305439397,3,"^Spices$","1","",1,c1748305285066
+r1748305442512,3,"^Butter \(dairy\)$","1","",1,c1748305285066
+r1748305446750,3,"^Milk alternatives \(i\.e\. nut, oat, soy\)$","1","",1,c1748305285066
+r1748305451040,3,"^Cooking oils \(i\.e\. olive, canola, avocado\)$","1","",1,c1748305285066
+r1748305455339,3,"^Fruit$","1","",1,c1748305285066
+r1748305462131,3,"^Eggs$","1","",1,c1748305285066
+r1748305466383,3,"^Milk \(dairy\)$","1","",1,c1748305285066
+r1748305470535,3,"^Bread / grains / rice$","1","",1,c1748305285066
+r1748305903941,3,"^Spreadable butter \(dairy\)$","1","",1,c1748305285066
+r1748305910461,3,"^Stick butter \(dairy\)$","1","",1,c1748305285066
+r1748305933157,3,"^Grocery store$","1","",1,c1748305285066
+r1748305937650,3,"^Convenience store \(e\.g\., 7-Eleven, Speedway\)$","1","",1,c1748305285066
+r1748305941265,3,"^Club store \(e\.g\., Costco, Sam’s Club\)$","1","",1,c1748305285066
+r1748305945268,3,"^Online only retailer \(e\.g\., Amazon\)$","1","",1,c1748305285066
+r1748305950350,3,"^Mass merchandiser/supercenter store \(e\.g\., Walmart, Target\)$","1","",1,c1748305285066
+r1748306206726,3,"^Land O'Lakes$","1","",1,c1748305285066
+r1748306210077,3,"^Organic Valley$","1","",1,c1748305285066
+r1748306398081,3,"^Olive Oil / Extra Virgin Olive Oil \(blue cap\)$","1","",1,c1748305285066
+r1748306422581,3,"^30–35$","1","",1,c1748306418008
+r1748306438178,3,"^White or Caucasian$","1","",1,c1748306418008
+r1748306453747,3,"^I live with children and partner$","1","",1,c1748306418008
+r1748306533370,3,"^Ages 10–12$","1","",1,c1748306418008
+r1748306537518,3,"^Ages 13–17$","1","",1,c1748306418008
+r1748306558508,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c1748306553445
+r1748306569065,3,"^Tortillas$","1","",1,c1748306553445
+r1748306574427,3,"^Regular Bread$","1","",1,c1748306553445
+r1748306591461,3,"^Multiple times a week$","1","",1,c1748306586663
+r1748306602166,3,"^McDonald's$","1","",1,c1748306586663
+r1748306605008,3,"^Wendy's$","1","",1,c1748306586663
+r1748306608564,3,"^Panera Bread$","1","",1,c1748306586663
+r1748306612093,3,"^KFC$","1","",1,c1748306586663
+r1748306615491,3,"^Burger King$","1","",1,c1748306586663
+r1748306619793,3,"^Papa John's$","1","",1,c1748306586663
+r1748306623719,3,"^Chipotle$","1","",1,c1748306586663
+r1748306627328,3,"^Subway$","1","",1,c1748306586663
+r1748306631623,3,"^Domino's$","1","",1,c1748306586663
+r1748306635380,3,"^Pizza Hut$","1","",1,c1748306586663
+r1748306639719,3,"^Taco Bell$","1","",1,c1748306586663
+r1748306643495,3,"^Chick-Fil-A$","1","",1,c1748306586663
+r1748306671825,3,"^I’ve never tried Arby’s, but I would be open to it$","1","",1,c1748306586663
+r1748306718128,3,"^Café/Coffee Shop$","1","",1,c1748306693031
+r1748306722357,3,"^Quick Service Restaurant \(Mcdonalds, Panera, Subway\)$","1","",1,c1748306693031
+r1748306725995,3,"^Club Warehouse \(Costco, Sam’s Club, BJs, etc\.\)$","1","",1,c1748306693031
+r1748306730883,3,"^Drug Store$","1","",1,c1748306693031
+r1748306737564,3,"^Convenience Store$","1","",1,c1748306693031
+r1748306741523,3,"^Smoothie/Bowl Shop$","1","",1,c1748306693031
+r1748306745639,3,"^Sit-down Restaurant$","1","",1,c1748306693031
+r1748306749254,3,"^Grocery Store$","1","",1,c1748306693031
+r1748306752520,3,"^Online$","1","",1,c1748306693031
+r1748306756202,3,"^Mass Merchandiser \(e\.g\. Walmart, Target, etc\)$","1","",1,c1748306693031
+r1748306778918,3,"^6\+ times$","1","",1,c1748306693031
+r1748306788077,3,"^Smoothies$","1","",1,c1748306693031
+r1748306809464,3,"^Coffee shops with smoothie/bowl options \(e\.g\., Starbucks, local cafés\)$","1","",1,c1748306693031
+r1748306813732,3,"^Dedicated smoothie or bowl shops \(e\.g\., Playa Bowls, Vitality Bowls, Smoothie King\)$","1","",1,c1748306693031
+r1748306822257,3,"^I am the primary grocery shopper in my household$","1","",1,c1748306693031
+r1748306831499,3,"^Kombucha$","1","",1,c1748306693031
+r1748306835323,3,"^Functional Drinks \(probiotic soda, protein shakes, etc\)$","1","",1,c1748306693031
+r1748306839188,3,"^Granola$","1","",1,c1748306693031
+r1748306843085,3,"^Refrigerated Smoothies$","1","",1,c1748306693031
+r1748306847575,3,"^Frozen fruit$","1","",1,c1748306693031
+r1748306853936,3,"^Fruit Juice / Drinks$","1","",1,c1748306693031
+r1748306858102,3,"^Frozen Novelty Treats \(ice cream sandwiches, fruit bars, cones, etc\)$","1","",1,c1748306693031
+r1748306865395,3,"^Frozen Smoothie Blends$","1","",1,c1748306693031
+r1748306868622,3,"^Ice cream$","1","",1,c1748306693031
+r1748306872798,3,"^Energy drinks$","1","",1,c1748306693031
+r1748306876768,3,"^Frozen Smoothie Bowls$","1","",1,c1748306693031
+r1748306880670,3,"^Yogurt$","1","",1,c1748306693031
+r1748306884373,3,"^Refrigerated snacks$","1","",1,c1748306693031
+r1748306943633,3,"^Taste$","1","",1,c1748306693031
+r1748307263032,3,"^Suja$","1","",1,c1748306693031
+r1748307267881,3,"^Naked$","1","",1,c1748306693031
+r1748307309079,3,"^Chia Seeds$","1","",1,c1748306693031
+r1748307363052,3,"^I am the primary purchaser of groceries for my household$","1","",1,c1748307336243
+r1748307389217,3,"^H$","1","",1,c1748307336243
+r1748307400986,3,"^Healthy - I have money left at the end of the month for a few luxuries or to add to my savings$","1","",1,c1748307336243
+r1748307420976,3,"^10-12 years old$","1","",1,c1748307336243
+r1748307424639,3,"^13-17 years old$","1","",1,c1748307336243
+r1748307499691,3,"^Online \(ex: Amazon\.com\)$","1","",1,c1748307336243
+r1748307505703,3,"^Warehouse/club stores \(ex: Costco, Sam’s Club, BJ’s\)$","1","",1,c1748307336243
+r1748307509455,3,"^Specialty/health food store \(such as Whole Food, Trader Joe’s\)$","1","",1,c1748307336243
+r1748307513895,3,"^Gas/Convenience stores \(ex: 7-Eleven, Quick Check\)$","1","",1,c1748307336243
+r1748307517999,3,"^Grocery Stores \(ex: Meijer, Kroger, Publix\)$","1","",1,c1748307336243
+r1748307524968,3,"^Mass Merchandise/discount department store \(such as Walmart, Target, Kmart\)$","1","",1,c1748307336243
+r1748307542449,3,"^Target \(In-Store\)$","1","",1,c1748307336243
+r1748307545562,3,"^Target\.com$","1","",1,c1748307336243
+r1748307549412,3,"^Walmart \(In-store\)$","1","",1,c1748307336243
+r1748307552694,3,"^Walmart\.com$","1","",1,c1748307336243
+r1748307564481,3,"^Energy or Protein bars$","1","",1,c1748307336243
+r1748307568280,3,"^Chips of any kind \(e\.g\. Potato, Baked, Corn, Pita, Multigrain, Veggie, Tortilla, etc\.\)$","1","",1,c1748307336243
+r1748307571987,3,"^Chocolate$","1","",1,c1748307336243
+r1748307576745,3,"^Ice Cream and Frozen Novelties$","1","",1,c1748307336243
+r1748307583464,3,"^Cookies - Prepackaged, Ready-To-Eat$","1","",1,c1748307336243
+r1748307588181,3,"^Cheese snacks \(i\.e\. Cheetos, Whisps, etc\.\)$","1","",1,c1748307336243
+r1748307592095,3,"^Pre-Packaged, shelf-stable bakery items \(e\.g\. Little Debbie cakes, Hostess Donettes, Entenmann’s Little Bites, doughnuts, brownies, cupcakes etc\.\)$","1","",1,c1748307336243
+r1748307596174,3,"^Nuts, Seeds, or Trail Mix$","1","",1,c1748307336243
+r1748307600226,3,"^Non-Chocolate Candy \(e\.g\. gummies, sour candy, hard candy, etc\.\)$","1","",1,c1748307336243
+r1748307608143,3,"^Portable shelf-stable breakfast foods \(e\.g\. breakfast bars, granola bars, breakfast biscuits, etc\.\)$","1","",1,c1748307336243
+r1748307611505,3,"^Crackers$","1","",1,c1748307336243
+r1748307616986,3,"^Fresh Bakery Items \(e\.g\. fresh cakes, doughnuts, cookies, muffins, etc\.\)$","1","",1,c1748307336243
+r1748307791674,3,"^Muffins \(e\.g\. Entenmann’s Little Bites, Bimbo muffins, Hostess muffins, other pre-packaged muffins etc\.\)$","1","",1,c1748307336243
+r1748307796640,3,"^Cinnamon and other sweet rolls \(e\.g\. TastyKake Pecan Swirls, Entenmann’s Cinnamon Swirl buns, other pre-packaged rolls etc\.\)$","1","",1,c1748307336243
+r1748307803667,3,"^Snack Cakes \(e\.g\. Little Debbie cakes, Swiss Rolls, Hostess Twinkies, Moon Pies, Oreo Cakesters, other sweet soft cakes etc\.\)$","1","",1,c1748307336243
+r1748307813132,3,"^Dessert Bars \(e\.g\. Rice Krispie Treats\)$","1","",1,c1748307336243
+r1748307817130,3,"^Pies \(e\.g\. Little Debbie mini pies, Entenmann’s mini pies, other pre-packaged pies etc\.\)$","1","",1,c1748307336243
+r1748307826212,3,"^Cupcakes \(e\.g\. Hostess cupcakes, TastyKake cupcakes, other pre-packaged cupcakes etc\.\)$","1","",1,c1748307336243
+r1748307830807,3,"^Brownies \(e\.g\. Little Debbie Cosmic Brownies, Little Bites brownies, other pre-packaged brownies etc\.\)$","1","",1,c1748307336243
+r1748307834536,3,"^Cookies \(e\.g\. Little Debbie Oatmeal crème pies, Little Debbie Fudge Rounds, other pre-packaged cookies etc\.\)$","1","",1,c1748307336243
+r1748307852886,3,"^Cookies$","1","",1,c1748307336243
+r1748307857021,3,"^Muffins$","1","",1,c1748307336243
+r1748307860520,3,"^Pastries$","1","",1,c1748307336243
+r1748307863657,3,"^Cinnamon and other sweet rolls$","1","",1,c1748307336243
+r1748307867509,3,"^Cake$","1","",1,c1748307336243
+r1748307871912,3,"^Brownies$","1","",1,c1748307336243
+r1748307876512,3,"^Pies$","1","",1,c1748307336243
+r1748307881152,3,"^Cupcakes$","1","",1,c1748307336243
+r1748307960944,3,"^Multi-Pack Salty Snacks \(i\.e\. chips, pretzels, popcorn, etc\.\)$","1","",1,c1748307336243
+r1748307967747,3,"^Multi-Pack Pre-Packaged Bakery items \(e\.g\. Little Debbie cakes, etc\.\)$","1","",1,c1748307336243
+r1748307972068,3,"^Multiple Snack Categories Multi-Pack \(i\.e\. chips and cookies, etc\.\)$","1","",1,c1748307336243
+r1748307977537,3,"^Multi-Pack Cookies$","1","",1,c1748307336243
+r1748307981870,3,"^Multi-Pack Crackers$","1","",1,c1748307336243
+r1748307988801,3,"^Multi-Pack Filled Cracker Sandwiches \(e\.g\. Ritz Cracker Sandwiches, etc\.\)$","1","",1,c1748307336243
+r1748307992958,3,"^Snack Duo Multi-Pack \(i\.e\. cookie or cracker and a dip/spread\)$","1","",1,c1748307336243
+r1748308384103,3,"^OREO$","1","",1,c1748307336243
+r1748308391204,3,"^Chips Ahoy!$","1","",1,c1748307336243
+r1748308398220,3,"^Pepperidge Farm \(e\.g Milano, Farmhouse, Chocolate Chunk Classic\)$","1","",1,c1748307336243
+r1748308418804,3,"^Kind Bars$","1","",1,c1748307336243
+r1748308423412,3,"^Kellogg’s Special K Bars$","1","",1,c1748307336243
+r1748308428007,3,"^Quaker Chewy Bars$","1","",1,c1748307336243
+r1748308432681,3,"^Nature Valley Granola Bars$","1","",1,c1748307336243
+r1748308437434,3,"^Quest Bars$","1","",1,c1748307336243
+r1748308474086,3,"^Little Debbie$","1","",1,c1748307336243
+r1748308477528,3,"^Kellogg's$","1","",1,c1748307336243
+r1748308541476,3,"^In the last week$","1","",1,c1748308535870
+r1748308553450,3,"^Private Label$","1","",1,c1748308535870
+r1748308645851,3,"^Convenience Store$","1","",1,c1748308535870
+r1748308652214,3,"^Target$","1","",1,c1748308535870
+r1748308656271,3,"^Drug Store$","1","",1,c1748308535870
+r1748308665273,3,"^Club Store \(Sam's, BJ's, Costco\)$","1","",1,c1748308535870
+r1748308668841,3,"^Walmart$","1","",1,c1748308535870
+r1748308749183,3,"^I am totally responsible for it$","1","",1,c1736063486329
+r1748308871407,3,"^Traditional grocery store \(e\.g\., Kroger, Publix, Wegman’s, Giant, Safeway, etc\.\)$","1","",1,c1736063486329
+r1748308877106,3,"^Natural / specialty grocery store \(e\.g\., Whole Foods Market, Trader Joe's, Sprouts, etc\.\)$","1","",1,c1736063486329
+r1748308882701,3,"^Club / warehouse store \(e\.g\., Costco, Sam's Club, BJ's, etc\.\)$","1","",1,c1736063486329
+r1748308887101,3,"^Online-only grocery store \(e\.g\., Amazon Fresh, Thrive Market, Misfits Market\)$","1","",1,c1736063486329
+r1748308890829,3,"^Mass merchandiser \(e\.g\., Walmart, Target, etc\.\)$","1","",1,c1736063486329
+r1748308903309,3,"^Sam's Club$","1","",1,c1736063486329
+r1748308906855,3,"^Costco$","1","",1,c1736063486329
+r1748308917641,3,"^Within the past month$","1","",1,c1736063486329
+r1748308957358,3,"^Fresh Produce: Fruits, Vegetables, Salad Mix, etc\.$","1","",1,c1736063486329
+r1748308969617,3,"^Frozen Appetizers, Sides, & Meals: Pizza, Lasagna, Taquitos, Fries, Waffles, etc\.$","1","",1,c1736063486329
+r1748308974208,3,"^Frozen Fruit & Vegetables: Berry Blends, Mixed Vegetables, Broccoli, Smoothie Packs, etc\.$","1","",1,c1736063486329
+r1748308978827,3,"^Bakery: Bagels, Bread, Cookies, Pies, etc\.$","1","",1,c1736063486329
+r1748308983424,3,"^Meat & Seafood: Raw Poultry, Beef, Pork, Fish, etc\.$","1","",1,c1736063486329
+r1748308988325,3,"^Cooking Oils, Spices, & Seasonings: Olive Oil, Salt, Seasoning Blends, etc\.$","1","",1,c1736063486329
+r1748308992329,3,"^Frozen Desserts: Ice Cream, Ice Cream Sandwiches, Popsicles, etc\.$","1","",1,c1736063486329
+r1748308996639,3,"^Refrigerated Prepared Foods: Soups, Pasta, Prepared Meats, Meals, etc\.$","1","",1,c1736063486329
+r1748309001662,3,"^Pantry Staples: Rice, Pasta, Noodles, Mac & Cheese, etc\.$","1","",1,c1736063486329
+r1748309006167,3,"^Condiments, Dressing, & Sauces: Pasta Sauce, Salsa, Mayonnaise, Ketchup, etc\.$","1","",1,c1736063486329
+r1748309010639,3,"^Snacks & Sweets: Chips, Nuts, Candy, etc\.$","1","",1,c1736063486329
+r1748309016075,3,"^Dairy: Butter, Cheese, Milk, Eggs, etc\.$","1","",1,c1736063486329
+r1748309021185,3,"^Baking Essentials: Flour, Baking Soda, Chocolate Chips, etc\.$","1","",1,c1736063486329
+r1748309037397,3,"^At least once a week$","1","",1,c1736063486329
+r1748309103524,3,"^Financial Services and Banking$","1","",1,c52
+r1748309113470,3,"^28–43$","1","",1,c52
+r1748309127501,3,"^I have children under the age of 18 living in my household\.$","1","",1,c52
+r1748309140914,3,"^I am part of a busy household with multiple responsibilities and actively seek products or solutions that offer ease and simplicity\.$","1","",1,c52
+r1748309154403,3,"^I work fully in the office or at a designated workplace \(no remote work\)$","1","",1,c52
+r1748309163752,3,"^I currently own a home printer$","1","",1,c52
+r1748309176697,3,"^Canon$","1","",1,c52
+r1748309179844,3,"^Epson$","1","",1,c52
+r1748309197473,3,"^HP$","1","",1,c52
+r1748309215398,3,"^None of the above – I’d consider purchasing any of these brands$","1","",1,c52
+r1748309228072,3,"^I occasionally use AI tools or applications but not regularly\.$","1","",1,c52
+r1748309260905,3,"^8448$","1","",1,c52
+r1748309271360,3,"^4784$","1","",1,c52
 r17484,3,"^Pass the time while earning passive income$","1","",1,c353
 r17485,3,"^Have fun!$","1","",1,c353
 r17486,3,"^Influence top brands future decisions$","1","",1,c353
