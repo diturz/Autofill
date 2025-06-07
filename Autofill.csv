@@ -1030,6 +1030,14 @@ c1748306586663,"Everywhere you eat","",,,,
 c1748306693031,"Let's Hear About What You Buy & Why","",,,,
 c1748307336243,"All about your shopping!","",,,,
 c1748308535870,"Cough Drop Usage","",,,,
+c1749255546294,"Lemonade drinks","",,,,
+c1749255581988,"A few questions about fast food restaurants and beverages!","",,,,
+c1749255668396,"Kids Love Candy","",,,,
+c1749260541682,"Tell us more about you.","",,,,
+c1749261072165,"Help Us Learn More About You","",,,,
+c1749267657358,"Pest Control!","",,,,
+c1749271040933,"Let's talk about lunch kits!","",,,,
+c1749272551679,"Which restaurants do you visit?","",,,,
 c175,"All About Your Hair Care!","","",,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
@@ -19064,6 +19072,156 @@ r1749,3,"^White / Caucasian$","1","",1,c90
 r17490,3,"^Option C$","1","",1,c354
 r17491,3,"^No, it does not work well$","1","",1,c354
 r17492,3,"^Late nights$","1","",1,c356
+r1749255551055,3,"^I drink Lemonade almost every day$","1","",1,c1749255546294
+r1749255585892,3,"^McDonald’s$","1","",1,c1749255581988
+r1749255589288,3,"^Chick-fil-A$","1","",1,c1749255581988
+r1749255593188,3,"^Burger King$","1","",1,c1749255581988
+r1749255596924,3,"^Taco Bell$","1","",1,c1749255581988
+r1749255600888,3,"^KFC$","1","",1,c1749255581988
+r1749255604464,3,"^Chipotle$","1","",1,c1749255581988
+r1749255607990,3,"^Wendy’s$","1","",1,c1749255581988
+r1749255611896,3,"^Pizza Hut$","1","",1,c1749255581988
+r1749255623923,3,"^Juice or juice drinks$","1","",1,c1749255581988
+r1749255627551,3,"^Regular soda/pop/carbonated soft drinks \(not Diet\)$","1","",1,c1749255581988
+r1749255630878,3,"^Diet/Zero soda/pop/carbonated soft drinks$","1","",1,c1749255581988
+r1749255634397,3,"^Ready-to-drink bottled teas$","1","",1,c1749255581988
+r1749255637723,3,"^Energy drinks$","1","",1,c1749255581988
+r1749255641058,3,"^Sports drinks$","1","",1,c1749255581988
+r1749255672635,3,"^I do all or most of the shopping$","1","",1,c1749255668396
+r1749255680781,3,"^Chocolate Candy \(e\.g\., chocolate bars, chocolate bites, etc\.\)$","1","",1,c1749255668396
+r1749255684580,3,"^Ice Cream / Frozen Novelties / Frozen Fruit Bars / Ice Pops$","1","",1,c1749255668396
+r1749255688056,3,"^Mints or Gum$","1","",1,c1749255668396
+r1749255692478,3,"^Non-Chocolate Candy \(e\.g\., lollipops, fruit flavored hard candies, gummies, licorice etc\.\)$","1","",1,c1749255668396
+r1749255696606,3,"^On-The-Go Cookie Multi-Packs \(e\.g\., large packages of individual wrapped single-serve cookies\)$","1","",1,c1749255668396
+r1749255700209,3,"^On-The-Go Cracker Multi-Packs \(e\.g\., large packages of individual wrapped single-serve crackers\)$","1","",1,c1749255668396
+r1749255706533,3,"^Packaged Cookies$","1","",1,c1749255668396
+r1749255713860,3,"^Packaged Ice Cream Cones$","1","",1,c1749255668396
+r1749255718415,3,"^Pre-Packaged Sweet Baked Goods \(e\.g\., muffins, donuts, etc\.\)$","1","",1,c1749255668396
+r1749255722607,3,"^Premium Chocolate \(e\.g\., sold in attractive boxes, bags or individually wrapped bars/pieces\)$","1","",1,c1749255668396
+r1749255728631,3,"^Snack Mix \(e\.g\., sweet & salty mixes sold in the candy aisle\)$","1","",1,c1749255668396
+r1749255732851,3,"^Spreads \(e\.g\., nut butter, chocolate hazelnut spread, etc\.\)$","1","",1,c1749255668396
+r1749255737421,3,"^Trail Mix \(e\.g\., packaged mix of dried fruit, nuts, chocolate, etc\.\)$","1","",1,c1749255668396
+r1749255768998,3,"^Dove$","1","",1,c1749255668396
+r1749255774623,3,"^Hershey`s Chocolate Bars$","1","",1,c1749255668396
+r1749255779259,3,"^Kit Kat$","1","",1,c1749255668396
+r1749255783619,3,"^M&M`s$","1","",1,c1749255668396
+r1749255788257,3,"^Beast / Feastables$","1","",1,c1749255668396
+r1749255793172,3,"^Snickers$","1","",1,c1749255668396
+r1749255822678,3,"^Walmart$","1","",1,c1749255668396
+r1749255830440,3,"^Amazon\.com$","1","",1,c1749255668396
+r1749255843274,3,"Target","1","",1,c1749255668396
+r1749255852909,3,"^I have children at home$","1","",1,c1749255668396
+r1749255890416,3,"^Age 8-12$","1","",1,c1749255668396
+r1749255893770,3,"^Age 12\+$","1","",1,c1749255668396
+r1749256397260,3,"^Boy$","1","",1,c1749255668396
+r1749256400743,3,"^Girl$","1","",1,c1749255668396
+r1749256793878,3,"^I do all or most of the shopping$","1","",1,c5
+r1749256808524,3,"^Chocolate Candy \(e\.g\., chocolate bars, chocolate bites, etc\.\)$","1","",1,c5
+r1749256814341,3,"^Ice Cream / Frozen Novelties / Frozen Fruit Bars / Ice Pops$","1","",1,c5
+r1749256818755,3,"^Mints or Gum$","1","",1,c5
+r1749256822835,3,"^Non-Chocolate Candy \(e\.g\., lollipops, fruit flavored hard candies, gummies, licorice etc\.\)$","1","",1,c5
+r1749256826832,3,"^On-The-Go Cookie Multi-Packs \(e\.g\., large packages of individual wrapped single-serve cookies\)$","1","",1,c5
+r1749256830839,3,"^On-The-Go Cracker Multi-Packs \(e\.g\., large packages of individual wrapped single-serve crackers\)$","1","",1,c5
+r1749256834496,3,"^Packaged Cookies$","1","",1,c5
+r1749256839344,3,"^Packaged Ice Cream Cones$","1","",1,c5
+r1749256843443,3,"^Pre-Packaged Sweet Baked Goods \(e\.g\., muffins, donuts, etc\.\)$","1","",1,c5
+r1749256847921,3,"^Premium Chocolate \(e\.g\., sold in attractive boxes, bags or individually wrapped bars/pieces\)$","1","",1,c5
+r1749257033682,3,"^Snack Mix \(e\.g\., sweet & salty mixes sold in the candy aisle\)$","1","",1,c5
+r1749257038844,3,"^Spreads \(e\.g\., nut butter, chocolate hazelnut spread, etc\.\)$","1","",1,c5
+r1749257042965,3,"^Trail Mix \(e\.g\., packaged mix of dried fruit, nuts, chocolate, etc\.\)$","1","",1,c5
+r1749257064712,3,"^Single Size \(i\.e\., individual or multiple servings inside one wrapper\)$","1","",1,c5
+r1749257069264,3,"^Share Size \(i\.e\., package which includes 1 to 5 servings\)$","1","",1,c5
+r1749257073483,3,"^Theater box \(i\.e\., small box of the size you might buy at the movies\)$","1","",1,c5
+r1749257077735,3,"^Individual Peg Bag \(i\.e\., bag with hole that hangs from a peg above a shelf\)$","1","",1,c5
+r1749257088666,3,"^Fun Size Tray \(i\.e\., tray package to keep small/bite-size products protected\)$","1","",1,c5
+r1749257093653,3,"^Full-Size Tray, Box or Bag \(i\.e\., tray package/box/bag to keep many full-sized products protected\)$","1","",1,c5
+r1749257100151,3,"^Family or party bag with one brand \(i\.e\., larger package including many servings\)$","1","",1,c5
+r1749257108113,3,"^Assorted Box \(i\.e\., large box with full-size bars, mixed brands\)$","1","",1,c5
+r1749257112583,3,"^Assorted / Mixed Bags \(i\.e\., bag of pieces, mixed brands\)$","1","",1,c5
+r1749257142578,3,"^Minis Stand Up Bag \(i\.e\., stand up bag of bize sized products\)$","1","",1,c5
+r1749257147044,3,"^Fun Size Laydown Bag \(i\.e\., bag of small/bite-sized products\)$","1","",1,c5
+r1749257151019,3,"^Family or party bag with a mix of brands \(i\.e\., larger package including many servings\)$","1","",1,c5
+r1749257310137,3,"^Dove$","1","",1,c5
+r1749257314581,3,"^Hershey`s Chocolate Bars$","1","",1,c5
+r1749257319620,3,"^Kit Kat$","1","",1,c5
+r1749257326173,3,"^M&M`s$","1","",1,c5
+r1749257331487,3,"^Beast / Feastables$","1","",1,c5
+r1749257336735,3,"^Snickers$","1","",1,c5
+r1749257727927,3,"^Club Stores \(i\.e\. Costco, BJs, Sams Club etc\)$","1","",1,c5
+r1749257732305,3,"^Convenience Stores \(i\.e\. 7-Eleven etc\)$","1","",1,c5
+r1749257736282,3,"^Mass/Grocery Stores \(i\.e\. Walmart, Target, Kroger etc\)$","1","",1,c5
+r1749257741186,3,"^Online \(i\.e\. Amazon\.com, Walmart\.com etc\)$","1","",1,c5
+r1749258061508,3,"^6 or more times$","1","",1,c1729980882634
+r1749258297521,3,"^I want my household appliances to look good and fit my home décor and style\. I will consider new technology if it improves my home and life\.$","1","",1,c1729980882634
+r1749258321047,3,"^Childcare$","1","",1,c1729980882634
+r1749258326284,3,"^Washing dishes$","1","",1,c1729980882634
+r1749258331346,3,"^Cleaning the house$","1","",1,c1729980882634
+r1749259283017,3,"^Insurance Provider$","1","",1,c178
+r1749259287485,3,"^Cell Phone Provider$","1","",1,c178
+r1749259290737,3,"^Vacation Planning$","1","",1,c178
+r1749259294356,3,"^Laundry Detergent$","1","",1,c178
+r1749259337243,3,"^State Farm$","1","",1,c178
+r1749259369679,3,"^Own A Home/Condo$","1","",1,c178
+r1749259477967,3,"^Smart$","1","",1,c178
+r1749259482293,3,"^Cool$","1","",1,c178
+r1749259614187,3,"^Meal Planning/Prepping$","1","",1,c178
+r1749259627779,3,"^AI Assistant$","1","",1,c178
+r1749260546864,3,"^I have children at home$","1","",1,c1749260541682
+r1749260559755,3,"^9-11 years old$","1","",1,c1749260541682
+r1749260563481,3,"^12-14 years old$","1","",1,c1749260541682
+r1749260574212,3,"^Two$","1","",1,c1749260541682
+r1749260585322,3,"^Prepared meals / meal kits$","1","",1,c1749260541682
+r1749260605927,3,"^Milk$","1","",1,c1749260541682
+r1749260609971,3,"^Fruit$","1","",1,c1749260541682
+r1749260613984,3,"^Yogurt$","1","",1,c1749260541682
+r1749260618345,3,"^Snacks$","1","",1,c1749260541682
+r1749260622581,3,"^Butter$","1","",1,c1749260541682
+r1749260626190,3,"^Vegetables$","1","",1,c1749260541682
+r1749260629550,3,"^Frozen foods / frozen meals$","1","",1,c1749260541682
+r1749260633912,3,"^Eggs$","1","",1,c1749260541682
+r1749260881022,3,"^I buy different yogurt types based on each child’s age or preferences$","1","",1,c1749260541682
+r1749261076105,3,"^Yes, I own my vehicle$","1","",1,c1749261072165
+r1749261087187,3,"^Yes$","1","",1,c1749261072165
+r1749261100767,3,"^I do some basic repairs myself, but go to a professional/mechanic for others$","1","",1,c1749261072165
+r1749261711660,3,"^Tire rotation or replacement$","1","",1,c1749261072165
+r1749261716403,3,"^Oil Change$","1","",1,c1749261072165
+r1749261721556,3,"^Wiper blade replacement$","1","",1,c1749261072165
+r1749261735955,3,"^Somewhat confident$","1","",1,c1749261072165
+r1749261746592,3,"^I find it convenient$","1","",1,c1749261072165
+r1749261764452,3,"^4 to 6 years old$","1","",1,c1749261072165
+r1749261775312,3,"^50,000 to 99,999 miles$","1","",1,c1749261072165
+r1749261790387,3,"^I only do maintenance when something goes wrong$","1","",1,c1749261072165
+r1749261959206,3,"^I just eat whatever I want, regardless of whether it is animal or plant-based products$","1","",1,c5
+r1749261972052,3,"^Ready Meals$","1","",1,c5
+r1749261984002,3,"^White / Caucasian$","1","",1,c5
+r1749267662581,3,"^Homeowner$","1","",1,c1749267657358
+r1749267710739,3,"^Single-family home$","1","",1,c1749267657358
+r1749267719343,3,"^\$75,000 - \$99,999$","1","",1,c1749267657358
+r1749267728019,3,"^Urban$","1","",1,c1749267657358
+r1749267738265,3,"^I am solely responsible$","1","",1,c1749267657358
+r1749267863973,3,"^Mosquito Control$","1","",1,c1749267657358
+r1749267869476,3,"^Plumbing Services$","1","",1,c1749267657358
+r1749267881424,3,"^Local pest control company$","1","",1,c1749267657358
+r1749267969511,3,"^I use a mosquito control service seasonally, once per year$","1","",1,c1749267657358
+r1749268814826,3,"^Twice a year$","1","",1,c1749267657358
+r1749269264051,3,"^Spectracide mosquito control products$","1","",1,c1749267657358
+r1749269292415,3,"^I don't use any DIY or natural methods$","1","",1,c1749267657358
+r1749269438351,3,"^Somewhat satisfied$","1","",1,c1749267657358
+r1749269469053,3,"^Personal comfort \(avoid bites/itchiness\)$","1","",1,c1749267657358
+r1749269524363,3,"^Frequency of service$","1","",1,c1749267657358
+r1749269529104,3,"^Brand reputation$","1","",1,c1749267657358
+r1749269532903,3,"^Use of natural or eco-friendly products$","1","",1,c1749267657358
+r1749269544501,3,"^No - I would not like to participate$","1","",1,c1749267657358
+r1749269781830,3,"^Finance or Banking$","1","",1,c87
+r1749270838475,3,"^Pillow Pets$","1","",1,c87
+r1749270892775,3,"^Financial services / accounting firm or department$","1","",1,c1733485027145
+r1749271044729,3,"^I have children at home$","1","",1,c1749271040933
+r1749271739850,3,"^9–11$","1","",1,c1749271040933
+r1749271743320,3,"^12–14$","1","",1,c1749271040933
+r1749271773922,3,"^I would purchase all of the above for my child\.$","1","",1,c1749271040933
+r1749272492496,3,"^Kraft Lunchables$","1","",1,c1749271040933
+r1749272496473,3,"^Oscar Mayer P3$","1","",1,c1749271040933
+r1749272501261,3,"^Hillshire Farm Snack Kits$","1","",1,c1749271040933
 r17493,3,"^Streaks or achievement badges$","1","",1,c356
 r17494,3,"^Answer survey questions every day$","1","",1,c356
 r17495,3,"^Spend 15-20 minutes answering 20-30 surveys$","1","",1,c356
