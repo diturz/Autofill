@@ -1099,6 +1099,10 @@ c1751612543403,"Let’s talk about products for your home!","",,,,
 c1751612649999,"All About Beauty & Skincare","",,,,
 c1751613480841,"Social Gaming Intro Survey","",,,,
 c1751613731526,"Social Gaming Survey","",,,,
+c1751706227946,"Tell us what you think about these snacks!","",,,,
+c1751706777788,"Tell Us About Your Household Environment","",,,,
+c1751706945918,"Let’s talk about household products.","",,,,
+c1751707826874,"Sports performance or active lifestyle nutrition product purchase behavior","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -20374,7 +20378,7 @@ r1751592394448,3,"^Employed full-time$","1","",1,c85
 r1751592493469,3,"^Accountancy, banking or finance$","1","",1,c85
 r1751592511943,3,"^Finance/Accounting \(Controller, Accountant, Financial Analyst, etc\.\)$","1","",1,c85
 r1751592637300,3,"^I have influence but I am not the final decision-maker for the business’s digital tools$","1","",1,c85
-r1751592676395,3,"^Graduate of professional degree$","1","",1,c85
+r1751592676395,3,"^Graduate or professional degree$","1","",1,c85
 r1751592692252,3,"^Coffee machine$","1","",1,c1751592687003
 r1751592696126,3,"^Single-serve coffee machine \(e\.g\., Keurig, Nespresso\)$","1","",1,c1751592687003
 r1751592700842,3,"^Air fryer$","1","",1,c1751592687003
@@ -20400,7 +20404,6 @@ r1751593181702,3,"^No$","1","",1,c1751355395637
 r1751593562271,3,"^Watching/following professional sports$","1","",1,c1748230616224
 r1751593566345,3,"^Gardening$","1","",1,c1748230616224
 r1751593569658,3,"^Playing sports$","1","",1,c1748230616224
-r1751593572901,3,"^Gaming$","1","",1,c1748230616224
 r1751593577464,3,"^Playing music$","1","",1,c1748230616224
 r1751593584949,3,"^Pop Culture$","1","",1,c1748230616224
 r1751593588616,3,"^Going to concerts/professional musicians$","1","",1,c1748230616224
@@ -20765,6 +20768,77 @@ r1751613877863,3,"^Important$","1","",1,c1751613731526
 r1751615229436,3,"^PriobioC \(LALA\)$","1","",1,c1751443014496
 r1751615381925,3,"^13 to 17 years old$","1","",1,c1751443014496
 r17517,3,"^Vitamins & supplements \(e\.g\. multi-vitamin, supplements\)$","1","",1,c360
+r1751705417467,3,"^Often$","1","",1,c15
+r1751705760150,3,"^Popcorn - Prepackaged, Ready-To-Eat \(Not microwavable\)$","1","",1,c1729917526671
+r1751705765306,3,"^Pre-baked Cookie and/or Holiday Decorating kits$","1","",1,c1729917526671
+r1751705769468,3,"^Pretzels$","1","",1,c1729917526671
+r1751705845695,3,"^You are solely responsible for deciding which foods are purchased for your household$","1","",1,c20
+r1751705929846,3,"^Within the last 3 months$","1","",1,c20
+r1751706011395,3,"^Store Brand \(e\.g\., Walmart’s Great Value, Costco’s Kirkland Signature\)$","1","",1,c20
+r1751706124063,3,"^Soy allergy$","1","",1,c20
+r1751706861270,3,"^some of the time$","1","",1,c1751706777788
+r1751706921213,3,"^Couches$","1","",1,c1751706777788
+r1751706925287,3,"^Rug$","1","",1,c1751706777788
+r1751707351785,3,"^I am primarily responsible for house paper products \(e\.g\., toilet paper, paper towels\) shopping for my household$","1","",1,c1751706945918
+r1751707366487,3,"^Paper napkins$","1","",1,c1751706945918
+r1751707369963,3,"^Paper plates$","1","",1,c1751706945918
+r1751707373139,3,"^Paper cups$","1","",1,c1751706945918
+r1751707375919,3,"^Paper towels$","1","",1,c1751706945918
+r1751707379558,3,"^Toilet paper$","1","",1,c1751706945918
+r1751707399017,3,"^Green bricks$","1","",1,c1751706945918
+r1751707415128,3,"^Scott$","1","",1,c1751706945918
+r1751707451140,3,"^Store/Private Label$","1","",1,c1751706945918
+r1751707991216,3,"^Energy drinks or supplements \(e\.g\., Monster, Celsius, B12 vitamins\)$","1","",1,c1751707826874
+r1751707996782,3,"^Protein powders, drinks or bars \(e\.g\., whey protein, plant-based protein\)$","1","",1,c1751707826874
+r1751708001036,3,"^Hydration or electrolyte drinks and supplements \(e\.g\., Liquid I\.V\., Nuun, Gatorlyte\)$","1","",1,c1751707826874
+r1751708006180,3,"^Minerals \(e\.g\., magnesium, potassium, zinc, etc\.\)$","1","",1,c1751707826874
+r1751708009903,3,"^Pre-workout energy formulas$","1","",1,c1751707826874
+r1751708013981,3,"^Recovery formulas$","1","",1,c1751707826874
+r1751708032362,3,"^Prepare for a physical activity or workout$","1","",1,c1751707826874
+r1751708036034,3,"^Recover from a physical activity or workout$","1","",1,c1751707826874
+r1751708040760,3,"^For general health and nutrition benefits \(e\.g\., preventive health\)$","1","",1,c1751707826874
+r1751708059749,3,"^Faster recovery after workouts/physical activity$","1","",1,c1751707826874
+r1751708069476,3,"^Greater gain in strength, muscle mass and performance$","1","",1,c1751707826874
+r1751708076826,3,"^To improve overall athletic performance$","1","",1,c1751707826874
+r1751708108888,3,"^Warehouse store \(e\.g\., Sam’s Club, Costco\)$","1","",1,c1751707826874
+r1751708112731,3,"^Natural foods chain store \(e\.g\., Whole Foods, Natural Grocers, Sprouts, The Fresh Market\)$","1","",1,c1751707826874
+r1751708119950,3,"^Mass market grocery chain \(e\.g\., Kroger \[King Soopers, Ralph’s, Harris Teeter\], Albertsons \[Safeway, Von’s, Shaw’s\]\)$","1","",1,c1751707826874
+r1751708126084,3,"^Mass market in-person retail store \(e\.g\., Target, Walmart\)$","1","",1,c1751707826874
+r1751708129859,3,"^Amazon\.com$","1","",1,c1751707826874
+r1751708144327,3,"^Brand familiarity$","1","",1,c1751707826874
+r1751708148331,3,"^Effectiveness$","1","",1,c1751707826874
+r1751708155788,3,"^Flavor$","1","",1,c1751707826874
+r1751708236085,3,"^Organic$","1","",1,c1751707826874
+r1751708245252,3,"^Highest protein content$","1","",1,c1751707826874
+r1751708251307,3,"^Added prebiotic or probiotic contents$","1","",1,c1751707826874
+r1751708273246,3,"^Internet search engine \(e\.g\., Google, WebMD, PubMed\)$","1","",1,c1751707826874
+r1751708277183,3,"^My nutritionist$","1","",1,c1751707826874
+r1751708283941,3,"^Social media/Influencers$","1","",1,c1751707826874
+r1751708689759,3,"^Muscle growth$","1","",1,c1751707826874
+r1751708695681,3,"^Weight loss$","1","",1,c1751707826874
+r1751708707291,3,"^Strength$","1","",1,c1751707826874
+r1751708848423,3,"^Outdoor biking/cycling$","1","",1,c1751707826874
+r1751708852072,3,"^Outdoor running/jogging$","1","",1,c1751707826874
+r1751708877560,3,"^Hiking$","1","",1,c1751707826874
+r1751708881909,3,"^Walking$","1","",1,c1751707826874
+r1751708886062,3,"^Weight lifting/Resistance training$","1","",1,c1751707826874
+r1751708890547,3,"^Cardio machines \(e\.g\. treadmill, elliptical, stationary bike, stair climber\)$","1","",1,c1751707826874
+r1751708900075,3,"^No$","1","",1,c1751707826874
+r1751708924198,3,"^Somewhat loyal — I occasionally try new brands$","1","",1,c1751707826874
+r1751708941861,3,"^Convenience \(e\.g\., ready-to-drink, portable\)$","1","",1,c1751707826874
+r1751708945505,3,"^Positive online reviews$","1","",1,c1751707826874
+r1751708951673,3,"^Natural or clean ingredients$","1","",1,c1751707826874
+r1751709034134,3,"^I have children at home$","1","",1,c1751611516172
+r1751711164423,3,"^Casper$","1","",1,c1751612543403
+r1751711169204,3,"^Purple$","1","",1,c1751612543403
+r1751711550178,3,"^Once every 2-3 days$","1","",1,c469
+r1751711649075,3,"^I have already graduated from a College or University$","1","",1,c469
+r1751711668734,3,"^Cookies$","1","",1,c1741409589422
+r1751711672470,3,"^Crackers \(ex: Goldfish, Ritz\)$","1","",1,c1741409589422
+r1751711675579,3,"^Candy$","1","",1,c1741409589422
+r1751711679515,3,"^Meat Sticks \(ex: Slim Jim, Chomps\)$","1","",1,c1741409589422
+r1751711683068,3,"^Pretzels$","1","",1,c1741409589422
+r1751711685971,3,"^Trail Mix$","1","",1,c1741409589422
 r17518,3,"^Sun care products \(e\.g\. sunscreen/sunblock with SPF\)$","1","",1,c360
 r17519,3,"^Hair care \(e\.g\. shampoo, conditioner\)$","1","",1,c360
 r1752,3,"^IL - Illinois$","1","",1,c90
