@@ -1123,6 +1123,9 @@ c1751774192582,"Media & Content!","",,,,
 c1751774624489,"We've got a short survey for you!","",,,,
 c1751774861331,"Let's Talk about Grocery Shopping","",,,,
 c1751775599049,"We want to hear about your beverage purchasing habits!","",,,,
+c1752411612478,"Tell us about your gardening habits and usage!","",,,,
+c1752411830465,"Tell us about your habits & interests!","",,,,
+c1752412607112,"We'd love to hear what you think!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -21285,6 +21288,48 @@ r17521,3,"^Facial sunscreen \(e\.g\. SPF lotion, tinted sunscreen\)$","1","",1,c
 r17522,3,"^Facial serum \(e\.g\. vitamin C serum, hyaluronic acid serum\)$","1","",1,c360
 r17523,3,"^Facial cleanser \(e\.g\., face wash, cleansing gel\)$","1","",1,c360
 r17524,3,"^Sunscreen stick$","1","",1,c360
+r1752411626522,3,"^4-5 times per week$","1","",1,c1752411612478
+r1752411664302,3,"^I switch between the two$","1","",1,c1752411612478
+r1752411676498,3,"^Conventional \(not cage-free, free range, etc\.\)$","1","",1,c1752411612478
+r1752411761231,3,"^Cooking is how I show love — it’s meaningful, emotional, and I care about the quality and source of what I serve\.$","1","",1,c1752411612478
+r1752411782439,3,"^Organic Valley$","1","",1,c1752411612478
+r1752411797459,3,"^In a city/ urban environment$","1","",1,c1752411612478
+r1752411888672,3,"^4-5 times per week$","1","",1,c1752411830465
+r1752411904458,3,"^I switch between the two$","1","",1,c1752411830465
+r1752411916090,3,"^Conventional \(not cage-free, free range, etc\.\)$","1","",1,c1752411830465
+r1752411929537,3,"^Cooking is how I show love — it’s meaningful, emotional, and I care about the quality and source of what I serve\.$","1","",1,c1752411830465
+r1752411942106,3,"^Organic Valley$","1","",1,c1752411830465
+r1752411955339,3,"^In a city/ urban environment$","1","",1,c1752411830465
+r1752412624019,3,"^Waffles or Pancakes \(ready-made; shelf stable or frozen\)$","1","",1,c1752412607112
+r1752412632971,3,"^Cookies or Wafers/Biscuits$","1","",1,c1752412607112
+r1752412656598,3,"^Crackers$","1","",1,c1752412607112
+r1752412666425,3,"^Oatmeal$","1","",1,c1752412607112
+r1752412673660,3,"^Cereal$","1","",1,c1752412607112
+r1752412683963,3,"^Snack Bars or Bites$","1","",1,c1752412607112
+r1752412691174,3,"^Granola or Trail Mix$","1","",1,c1752412607112
+r1752412751008,3,"^Several times a week$","1","",1,c1752412607112
+r1752412764120,3,"^Price/Value for money$","1","",1,c1752412607112
+r1752412766815,3,"^Trustworthy brand$","1","",1,c1752412607112
+r1752412779593,3,"^Taste/my child enjoys it$","1","",1,c1752412607112
+r1752412797421,3,"^GoGo Squeez$","1","",1,c1752412607112
+r1752412802906,3,"^Gerber$","1","",1,c1752412607112
+r1752412824472,3,"^I would purchase this IN ADDITION TO other snacks for my children$","1","",1,c1752412607112
+r1752412840993,3,"^9 – 10 years old$","1","",1,c1752412607112
+r1752412843638,3,"^13 – 14 years old$","1","",1,c1752412607112
+r1752412940349,3,"^Is memorable$","1","",1,c1752412607112
+r1752412947918,3,"^Would taste great$","1","",1,c1752412607112
+r1752412955768,3,"^Is made with real ingredients$","1","",1,c1752412607112
+r1752413015045,3,"^At home, in between meals as a snack$","1","",1,c1752412607112
+r1752413019493,3,"^In the car$","1","",1,c1752412607112
+r1752413027439,3,"^During weekend outings \(e\.g\., at the zoo\)$","1","",1,c1752412607112
+r1752413046466,3,"^Near snack bars and bites$","1","",1,c1752412607112
+r1752413062584,3,"^Near dried fruit and raisins$","1","",1,c1752412607112
+r1752413071018,3,"^Near cereal, oatmeal, and other breakfast foods$","1","",1,c1752412607112
+r1752413118489,3,"^Cloud Cakes$","1","",1,c1752412607112
+r1752413125816,3,"^Super Smoothie$","1","",1,c1752412607112
+r1752413137199,3,"^Dried Fruit Bites$","1","",1,c1752412607112
+r1752413173663,3,"^Midwest$","1","",1,c1752412607112
+r1752413183630,3,"^\$75,000 - \$99,999$","1","",1,c1752412607112
 r17525,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c362
 r17526,3,"^Kroger Stores \(including Kroger Banner, King Soopers, Fry’s, Dillions, Ralphs, Smith’s, Fred Meyer, & QFC\)$","1","",1,c362
 r17527,3,"^COSTCO Wholesale$","1","",1,c362
