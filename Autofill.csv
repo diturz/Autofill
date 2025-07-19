@@ -1147,6 +1147,11 @@ c1752541762140,"Some quick questions about health & wellness!","",,,,
 c1752541923256,"Let's talk sports!","",,,,
 c1752542036360,"We want to hear about the types of products you use!","",,,,
 c1752542098770,"Care for your hair","",,,,
+c1752935147730,"Let's talk bread!","",,,,
+c1752935170088,"^I am primarily responsible for buying groceries for my household$","",,,,
+c1752935466454,"Let's chat about chocolate and games!","",,,,
+c1752936703300,"Let's talk supplements!","",,,,
+c1752937561279,"Tell us about your grocery shopping habits!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -21689,6 +21694,53 @@ r17526,3,"^Kroger Stores \(including Kroger Banner, King Soopers, Fry’s, Dilli
 r17527,3,"^COSTCO Wholesale$","1","",1,c362
 r17528,3,"^Target$","1","",1,c362
 r17529,3,"^Walmart$","1","",1,c362
+r1752935314611,3,"^Granola bars$","1","",1,c1752935170088
+r1752935319839,3,"^Canned soup$","1","",1,c1752935170088
+r1752935327922,3,"^Sliced bread$","1","",1,c1752935170088
+r1752935335857,3,"^Frozen meals$","1","",1,c1752935170088
+r1752935342026,3,"^Potato chips$","1","",1,c1752935170088
+r1752935352492,3,"^Fresh fruit$","1","",1,c1752935170088
+r1752935355462,3,"^Popcorn$","1","",1,c1752935170088
+r1752935366352,3,"^Cereal$","1","",1,c1752935170088
+r1752935378752,3,"^Oroweat$","1","",1,c1752935170088
+r1752935387209,3,"^Ezekiel$","1","",1,c1752935170088
+r1752935408486,3,"^Once a week$","1","",1,c1752935170088
+r1752935425274,3,"^Healthy / Better-for-You$","1","",1,c1752935170088
+r1752935481536,3,"^Hershey's$","1","",1,c1752935466454
+r1752935491217,3,"^Reese's$","1","",1,c1752935466454
+r1752935493167,3,"^Snickers$","1","",1,c1752935466454
+r1752935500926,3,"^Feastables$","1","",1,c1752935466454
+r1752935516220,3,"^Myself$","1","",1,c1752935466454
+r1752935520747,3,"^My children$","1","",1,c1752935466454
+r1752935557586,3,"^7-13$","1","",1,c1752935466454
+r1752935563440,3,"^31-40$","1","",1,c1752935466454
+r1752935576717,3,"^PlayStation$","1","",1,c1752935466454
+r1752936718757,3,"^Garden of Life$","1","",1,c1752936703300
+r1752936782124,3,"^Fits extremely well$","1","",1,c1752936703300
+r1752936796318,3,"^Efficacy$","1","",1,c1752936703300
+r1752936887904,3,"^I would be less open to buying from them$","1","",1,c1752936703300
+r1752936907815,3,"^Unclear about ingredients, sourcing, or company values$","1","",1,c1752936703300
+r1752937314166,3,"^I own or lease two or more personal vehicles \(car, motorcycle, etc\.\)$","1","",1,c1752936703300
+r1752937323948,3,"^Sedan$","1","",1,c1752936703300
+r1752937345913,3,"^Oil change$","1","",1,c1752936703300
+r1752937353433,3,"^Tire rotation, replacement, or repair$","1","",1,c1752936703300
+r1752937361120,3,"^Car wash or detailing$","1","",1,c1752936703300
+r1752937378276,3,"^Oil change at a quick-service oil-change center \(e\.g\., Take 5, Jiffy Lube\)$","1","",1,c1752936703300
+r1752937392530,3,"^Oil change at a dealership service department$","1","",1,c1752936703300
+r1752937407426,3,"^Take 5 Oil Change$","1","",1,c1752936703300
+r1752937415477,3,"^Goodyear Auto Service$","1","",1,c1752936703300
+r1752937572663,3,"^I am the one that primarily purchases food, drinks, and/or snacks for my household$","1","",1,c1752937561279
+r1752937586964,3,"^Yes, I have children at home$","1","",1,c1752937561279
+r1752937593640,3,"^6-12$","1","",1,c1752937561279
+r1752937597930,3,"^13-17$","1","",1,c1752937561279
+r1752937610312,3,"^Baking Chocolate Chips$","1","",1,c1752937561279
+r1752937617044,3,"^Granola and/or Cereal$","1","",1,c1752937561279
+r1752937622582,3,"^Crackers$","1","",1,c1752937561279
+r1752937632699,3,"^Salty Snacks \(e\.g\., Potato Chips, Pretzels, Popcorn\)$","1","",1,c1752937561279
+r1752937637346,3,"^Yogurt$","1","",1,c1752937561279
+r1752937642104,3,"^Cookies$","1","",1,c1752937561279
+r1752937664035,3,"^I am willing to pay more for a brand made with real high-quality ingredients\.$","1","",1,c1752937561279
+r1752937673467,3,"^It is important to me for snacks I buy to have high nutritional value\.$","1","",1,c1752937561279
 r1753,3,"^Green bricks$","1","",1,c90
 r17530,3,"^Sam's Club$","1","",1,c362
 r17531,3,"^This One$","1","",1,c362
