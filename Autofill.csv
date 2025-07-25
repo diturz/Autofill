@@ -1170,6 +1170,12 @@ c1753078772066,"Plant-Based Screener","",,,,
 c1753080388977,"Let's chat about chocolate!","",,,,
 c1753093672478,"All About Outdoor Gardening","",,,,
 c1753095783729,"Home Shopping Survey!","",,,,
+c1753436884546,"All about technology!","",,,,
+c1753437419590,"Beverage Habits and Brands","",,,,
+c1753438389210,"Let's Talk About You!","",,,,
+c1753438884369,"Let’s talk laundry!","",,,,
+c1753438991147,"Tell us about your digital banking habits","",,,,
+c1753439042173,"Workout Insight Study","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -22140,6 +22146,103 @@ r17531,3,"^This One$","1","",1,c362
 r17532,3,"^Refrigerated Shredded Cheese$","1","",1,c362
 r17533,3,"^Breakfast cereals and oats$","1","",1,c362
 r17534,3,"^Bottled Water$","1","",1,c362
+r1753436892370,3,"^Employed full-time by a company \(30 or more hours per week\)$","1","",1,c1753436884546
+r1753436903201,3,"^Smartwatch$","1","",1,c1753436884546
+r1753436907722,3,"^Smartphone$","1","",1,c1753436884546
+r1753436911629,3,"^Gaming console$","1","",1,c1753436884546
+r1753436914947,3,"^Tablet$","1","",1,c1753436884546
+r1753436919007,3,"^PC \(Desktop or Laptop Computer\)$","1","",1,c1753436884546
+r1753436927357,3,"^I purchase computers for myself$","1","",1,c1753436884546
+r1753436937829,3,"^Last 6 months$","1","",1,c1753436884546
+r1753436947089,3,"^In the next 6 months$","1","",1,c1753436884546
+r1753436957082,3,"^Samsung$","1","",1,c1753436884546
+r1753436961219,3,"^Microsoft Surface$","1","",1,c1753436884546
+r1753436964578,3,"^Apple$","1","",1,c1753436884546
+r1753436967831,3,"^HP$","1","",1,c1753436884546
+r1753436970914,3,"^Dell$","1","",1,c1753436884546
+r1753436980964,3,"^None \(I would consider any of these brands\)$","1","",1,c1753436884546
+r1753436992066,3,"^\$1000 or more$","1","",1,c1753436884546
+r1753437001272,3,"^I would not like to participate$","1","",1,c1753436884546
+r1753437021984,3,"^I make all the decisions myself$","1","",1,c1753049107744
+r1753437030258,3,"^\$75,000 – \$99,999$","1","",1,c1753049107744
+r1753437043746,3,"^Smart thermostat$","1","",1,c1753049107744
+r1753437065698,3,"^Smart locks$","1","",1,c1753049107744
+r1753437118611,3,"^Floor, Surface, or Multi-Purpose Cleaning Products \(e\.g\.: Countertop cleaning spray, bathroom all-purpose cleaning solution\)$","1","",1,c41
+r1753437124760,3,"^Skin Care or Cleansing Products \(e\.g\.: Facial Cleansers, Hand soap, Moisturizer\)$","1","",1,c41
+r1753437129344,3,"^Laundry Care Products \(e\.g\.: Laundry Detergent, Fabric Softener, Dryer Sheets or Beads\)$","1","",1,c41
+r1753437133198,3,"^Oral Care Products \(e\.g\.: Toothbrushes, Toothpaste, Mouthwash\)$","1","",1,c41
+r1753437318470,3,"^Dry dog food \(kibble\)$","1","",1,c15
+r1753437324576,3,"^Wet dog food \(cans, pouches, cups, trays, etc\.\)$","1","",1,c15
+r1753437328193,3,"^Raw / refrigerated food$","1","",1,c15
+r1753437331840,3,"^Dog Snacks & Treats to feed between meals \(e\.g\., biscuits, treats, chews, etc\.\)$","1","",1,c15
+r1753437360245,3,"^Blue Buffalo$","1","",1,c15
+r1753437375405,3,"^Brands like Blue Buffalo, Canidae, Earthborn Holistic, Fromm, Hill's Science Diet, Nutro, Purina Pro Plan, Purina Beyond and Taste of the Wild$","1","",1,c15
+r1753437392901,3,"^Adult dog / standard$","1","",1,c15
+r1753437882993,3,"^Multiple adults age 18 years or older$","1","",1,c1753437419590
+r1753437888886,3,"^Child or children age 13-17$","1","",1,c1753437419590
+r1753437893795,3,"^Child or children age 6-12$","1","",1,c1753437419590
+r1753437904565,3,"^Diet Sodas$","1","",1,c1753437419590
+r1753437908995,3,"^Natural Sodas$","1","",1,c1753437419590
+r1753437915755,3,"^Regular/Full Sugar Sodas$","1","",1,c1753437419590
+r1753437919980,3,"^Functional Sodas \(pre/probiotic, for example\)$","1","",1,c1753437419590
+r1753437923007,3,"^Zero Sugar Sodas$","1","",1,c1753437419590
+r1753438282013,3,"^Exciting$","1","",1,c1753437419590
+r1753438287863,3,"^Authentic$","1","",1,c1753437419590
+r1753438296028,3,"^Unique$","1","",1,c1753437419590
+r1753438330591,3,"^Poppi$","1","",1,c1753437419590
+r1753438408318,3,"^Two or more times per month$","1","",1,c1753438389210
+r1753438420021,3,"^Very interested$","1","",1,c1753438389210
+r1753438440010,3,"^Two to three steps$","1","",1,c1753438389210
+r1753438452609,3,"^Spot treatment \(for acne and/or pigmentation\)$","1","",1,c1753438389210
+r1753438458740,3,"^Facial Moisturizer \(without SPF\)$","1","",1,c1753438389210
+r1753438462151,3,"^Facial Serum$","1","",1,c1753438389210
+r1753438465939,3,"^Facial Moisturizer \(with SPF\)$","1","",1,c1753438389210
+r1753438471915,3,"^Cleansing pads/wipes$","1","",1,c1753438389210
+r1753438478465,3,"^Facial Cleanser$","1","",1,c1753438389210
+r1753438482031,3,"^Anti-aging treatment$","1","",1,c1753438389210
+r1753438699474,3,"^The Ordinary$","1","",1,c1753438389210
+r1753438703144,3,"^OLAY$","1","",1,c1753438389210
+r1753438706662,3,"^CeraVe$","1","",1,c1753438389210
+r1753438710066,3,"^Neutrogena$","1","",1,c1753438389210
+r1753438722855,3,"^Acne or blemishes$","1","",1,c1753438389210
+r1753438735456,3,"^Specialty beauty store \(e\.g\., Sephora, Ulta\)$","1","",1,c1753438389210
+r1753438768162,3,"^Social media \(e\.g\., Instagram, Facebook, etc\.\)$","1","",1,c1753438389210
+r1753438778499,3,"^Youtube$","1","",1,c1753438389210
+r1753438835098,3,"^\$500 or more$","1","",1,c1749260541682
+r1753438846958,3,"^Accessories \(e\.g\., belts, jewelry, sunglasses, hats\)$","1","",1,c1749260541682
+r1753438851204,3,"^Bags/Small Leather Goods \(e\.g\., wallet, backpack, briefcase/laptop bag, crossbody, tote, duffel\)$","1","",1,c1749260541682
+r1753438855496,3,"^Clothing/Apparel \(e\.g\., pants, shirts, tees, hoodies, jackets\)$","1","",1,c1749260541682
+r1753438860016,3,"^Footwear/shoes \(e\.g\. sneakers, loafers, boots, sandals\)$","1","",1,c1749260541682
+r1753438869642,3,"^5 - Extremely Important$","1","",1,c1749260541682
+r1753438888232,3,"^I do most/all the laundry myself$","1","",1,c1753438884369
+r1753438909136,3,"^11$","1","",1,c1753438884369
+r1753438917943,3,"^Liquid$","1","",1,c1753438884369
+r1753438921066,3,"^Powder$","1","",1,c1753438884369
+r1753438924486,3,"^Pods or packs$","1","",1,c1753438884369
+r1753438933603,3,"^Large bottle with a spout/nozzle$","1","",1,c1753438884369
+r1753438947590,3,"^Tide$","1","",1,c1753438884369
+r1753438950551,3,"^Purex$","1","",1,c1753438884369
+r1753438955617,3,"^Gain$","1","",1,c1753438884369
+r1753438995310,3,"^I make most or all of my own financial decisions$","1","",1,c1753438991147
+r1753439005736,3,"^American Express$","1","",1,c1753438991147
+r1753439008816,3,"^Bank of America$","1","",1,c1753438991147
+r1753439013934,3,"^Capital One$","1","",1,c1753438991147
+r1753439016805,3,"^Wells Fargo$","1","",1,c1753438991147
+r1753439029257,3,"^Chase$","1","",1,c1753438991147
+r1753439035628,3,"^Citi$","1","",1,c1753438991147
+r1753439045294,3,"^KIND$","1","",1,c1753439042173
+r1753439048734,3,"^Quest$","1","",1,c1753439042173
+r1753439053388,3,"^RXBAR$","1","",1,c1753439042173
+r1753439060738,3,"^Regularly \(1x/week or more\)$","1","",1,c1753439042173
+r1753439069391,3,"^5 - Very Important$","1","",1,c1753439042173
+r1753439083497,3,"^Man$","1","",1,c20
+r1753439091988,3,"^I have used vitamins or supplements within the past 30 days$","1","",1,c20
+r1753439108435,3,"^I have children who live with me$","1","",1,c20
+r1753439116138,3,"^5-15 years old$","1","",1,c20
+r1753439131619,3,"^I am the primary grocery shopper$","1","",1,c566
+r1753439160763,3,"^Chunk Light Tuna in Oil$","1","",1,c566
+r1753439840017,3,"^Zevia CN$","1","",1,c1753437419590
+r1753439849785,3,"^Zevia RN$","1","",1,c1753437419590
 r17535,3,"^Frozen Breaded Chicken$","1","",1,c362
 r17536,3,"^Frozen Vegetables$","1","",1,c362
 r17537,3,"^Canned Tuna Fish$","1","",1,c362
