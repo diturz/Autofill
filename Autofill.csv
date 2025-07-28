@@ -1176,6 +1176,7 @@ c1753438389210,"Let's Talk About You!","",,,,
 c1753438884369,"Let’s talk laundry!","",,,,
 c1753438991147,"Tell us about your digital banking habits","",,,,
 c1753439042173,"Workout Insight Study","",,,,
+c1753662070910,"School Lunch Survey","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -22257,6 +22258,46 @@ r1753441595590,3,"^700–749$","1","",1,c1753049107744
 r1753441611665,3,"^No, I’m not willing to participate$","1","",1,c1753049107744
 r17535,3,"^Frozen Breaded Chicken$","1","",1,c362
 r17536,3,"^Frozen Vegetables$","1","",1,c362
+r1753662696985,3,"^One$","1","",1,c1753662070910
+r1753662833507,3,"^Frequently$","1","",1,c1753662070910
+r1753662936872,3,"^Jif$","1","",1,c1753662070910
+r1753662940169,3,"^Oscar Mayer$","1","",1,c1753662070910
+r1753662944567,3,"^Ritz$","1","",1,c1753662070910
+r1753662949713,3,"^Capri Sun$","1","",1,c1753662070910
+r1753662953650,3,"^Lunchables$","1","",1,c1753662070910
+r1753664070913,3,"^High Protein Baked Goods \(Cookies/Brownies\)$","1","",1,c4
+r1753664077839,3,"^Protein Enhanced Beverages \(excluding Protein shakes\)$","1","",1,c4
+r1753664082557,3,"^Ready-to-drink protein shakes$","1","",1,c4
+r1753664086409,3,"^Protein powders$","1","",1,c4
+r1753664091605,3,"^High Protein Confections \(i\.e\. Candy/Chocolate\)$","1","",1,c4
+r1753664097452,3,"^High Protein Breakfast Bakery \(i\.e\. Muffins/Toaster Pastry\)$","1","",1,c4
+r1753664101328,3,"^Protein/Nutrition bars$","1","",1,c4
+r1753664105644,3,"^Pre Workout Powders \(i\.e\. Creatine/Caffeine\)$","1","",1,c4
+r1753664110007,3,"^High Protein Snacks \(i\.e\. Chips/Puffs/Snack Mixes\)$","1","",1,c4
+r1753664121874,3,"^None of the above, I'd consider all of these$","1","",1,c4
+r1753664132872,3,"^RX Bar$","1","",1,c4
+r1753671348806,3,"^A personal credit card that I actively use$","1","",1,c1753438991147
+r1753671353095,3,"^A checking account where Citi is my main checking account$","1","",1,c1753438991147
+r1753671356705,3,"^A savings-only account$","1","",1,c1753438991147
+r1753671442157,3,"^Visiting a bank branch$","1","",1,c1753438991147
+r1753671447135,3,"^Mobile web browser \(not an app\)$","1","",1,c1753438991147
+r1753671469841,3,"^A desktop/laptop browser$","1","",1,c1753438991147
+r1753671473761,3,"^Calling customer service$","1","",1,c1753438991147
+r1753671477553,3,"^A mobile banking app$","1","",1,c1753438991147
+r1753671731838,3,"^Multiple times a week$","1","",1,c1753438991147
+r1753671745689,3,"^Used a help or search tool on a banking website or app$","1","",1,c1753438991147
+r1753671749951,3,"^Used a chat feature in a mobile app$","1","",1,c1753438991147
+r1753671754048,3,"^Sent a message or email to customer service$","1","",1,c1753438991147
+r1753671757360,3,"^Called customer service for support$","1","",1,c1753438991147
+r1753671772740,3,"^I regularly use AI tools and feel confident with them$","1","",1,c1753438991147
+r1753671782673,3,"^I would not like to participate$","1","",1,c1753438991147
+r1753672397670,3,"^Whole Lettuce \(Produce Section\)$","1","",1,c384
+r1753672405641,3,"^Dips \(Sold in Dairy Section\)$","1","",1,c384
+r1753672410491,3,"^Hot Sauces$","1","",1,c384
+r1753672415676,3,"^Pasta \(Dry Pasta sold in main grocery aisle\)$","1","",1,c384
+r1753672419829,3,"^Fresh Bread \(e\.g\. Bread, Rolls, Baguettes, bagels, etc\) sold in Bakery$","1","",1,c384
+r1753672423706,3,"^Dips - Dairy-based, Hummus, guacamole \(Sold in Deli Section\)$","1","",1,c384
+r1753672428006,3,"^Refrigerated Bread/Dough \(e\.g\. Pillsbury Biscuits in Dairy Section\)$","1","",1,c384
 r17537,3,"^Canned Tuna Fish$","1","",1,c362
 r17538,3,"^Canned Vegetables$","1","",1,c362
 r17539,3,"^Refrigerated Meats \(Lunchmeats, Hot Dogs/Sausages, Breakfast Meats\)$","1","",1,c362
