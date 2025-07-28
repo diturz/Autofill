@@ -1177,6 +1177,7 @@ c1753438884369,"Let’s talk laundry!","",,,,
 c1753438991147,"Tell us about your digital banking habits","",,,,
 c1753439042173,"Workout Insight Study","",,,,
 c1753662070910,"School Lunch Survey","",,,,
+c1753680133406,"Let's Talk About Grocery Stores","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -22298,6 +22299,9 @@ r1753672415676,3,"^Pasta \(Dry Pasta sold in main grocery aisle\)$","1","",1,c38
 r1753672419829,3,"^Fresh Bread \(e\.g\. Bread, Rolls, Baguettes, bagels, etc\) sold in Bakery$","1","",1,c384
 r1753672423706,3,"^Dips - Dairy-based, Hummus, guacamole \(Sold in Deli Section\)$","1","",1,c384
 r1753672428006,3,"^Refrigerated Bread/Dough \(e\.g\. Pillsbury Biscuits in Dairy Section\)$","1","",1,c384
+r1753676755701,3,"^Bottom Left$","1","",1,c1753436884546
+r1753680137269,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c1753680133406
+r1753681188003,3,"^I shop at ALDI weekly$","1","",1,c1753680133406
 r17537,3,"^Canned Tuna Fish$","1","",1,c362
 r17538,3,"^Canned Vegetables$","1","",1,c362
 r17539,3,"^Refrigerated Meats \(Lunchmeats, Hot Dogs/Sausages, Breakfast Meats\)$","1","",1,c362
