@@ -1178,6 +1178,8 @@ c1753438991147,"Tell us about your digital banking habits","",,,,
 c1753439042173,"Workout Insight Study","",,,,
 c1753662070910,"School Lunch Survey","",,,,
 c1753680133406,"Let's Talk About Grocery Stores","",,,,
+c1753695065380,"Exploring how families discover and use kids tech","",,,,
+c1753695516382,"Tell us your thoughts.","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -22302,6 +22304,102 @@ r1753672428006,3,"^Refrigerated Bread/Dough \(e\.g\. Pillsbury Biscuits in Dairy
 r1753676755701,3,"^Bottom Left$","1","",1,c1753436884546
 r1753680137269,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c1753680133406
 r1753681188003,3,"^I shop at ALDI weekly$","1","",1,c1753680133406
+r1753694724351,3,"^Pretzels$","1","",1,c1735057490096
+r1753694730842,3,"^Ice Cream$","1","",1,c1735057490096
+r1753694735078,3,"^Yogurt cups/tubs$","1","",1,c1735057490096
+r1753694739958,3,"^Cheese sticks$","1","",1,c1735057490096
+r1753694744674,3,"^Frozen Novelties \(e\.g\., ice cream sandwiches, popsicles, etc\.\)$","1","",1,c1735057490096
+r1753694748449,3,"^Refrigerated Snacks \(e\.g\., snack/nutrition/yogurt bars, cheese/nut/fruit kits, etc\.\)$","1","",1,c1735057490096
+r1753694751362,3,"^Cookies$","1","",1,c1735057490096
+r1753694765968,3,"^Perfect Bar Protein Bars$","1","",1,c1735057490096
+r1753694814750,3,"^I primarily purchase these types of items for myself$","1","",1,c1749260541682
+r1753694945990,3,"^Toothpaste$","1","",1,c1753438884369
+r1753694950107,3,"^Dry shampoo$","1","",1,c1753438884369
+r1753694959689,3,"^Laundry detergent$","1","",1,c1753438884369
+r1753694965470,3,"^Dryer sheets$","1","",1,c1753438884369
+r1753694970350,3,"^Depilatory hair remover$","1","",1,c1753438884369
+r1753694975963,3,"^Multivitamin$","1","",1,c1753438884369
+r1753694979425,3,"^Condoms$","1","",1,c1753438884369
+r1753694982861,3,"^Mouthwash/oral rinse$","1","",1,c1753438884369
+r1753695069539,3,"^9-12$","1","",1,c1753695065380
+r1753695075264,3,"^13-17$","1","",1,c1753695065380
+r1753695114514,3,"^Carbonated Soft Drinks \(e\.g\. Coke, Pepsi, 7Up\)$","1","",1,c119
+r1753695242887,3,"^Sparkling/Seltzer Water$","1","",1,c119
+r1753695246555,3,"^Ready to drink/Bottled Coffee$","1","",1,c119
+r1753695250327,3,"^Bottled Still Water$","1","",1,c119
+r1753695255153,3,"^Energy Drinks \(e\.g\. Red Bull, Celsius\)$","1","",1,c119
+r1753695260373,3,"^Sports/Hydration drinks$","1","",1,c119
+r1753695263968,3,"^Coffee \(Self-prepared e\.g\. Ground, whole bean, cold brew, etc\.\)$","1","",1,c119
+r1753695267143,3,"^Bottled Juice$","1","",1,c119
+r1753695270397,3,"^Ready to drink/Bottled Tea$","1","",1,c119
+r1753695273379,3,"^Tea \(Self-prepared e\.g\. Tea bag, powder, concentrate, etc\.\)$","1","",1,c119
+r1753695302251,3,"^Fruit & Herbal Tea Bags \(e\.g\. Chamomile, Ginger, Hibiscus, etc\.\)$","1","",1,c119
+r1753695307351,3,"^Instant/Powdered Tea \(e\.g\. Iced Tea Mix with sugar\)$","1","",1,c119
+r1753695313092,3,"^Machine Dispensed Tea/K-Cups$","1","",1,c119
+r1753695447077,3,"^Iced Tea Bags \(brewed hot and consumed cold/iced, cold brew\)$","1","",1,c119
+r1753695464484,3,"^New Balance$","1","",1,c433
+r1753695468980,3,"^Nike$","1","",1,c433
+r1753695472751,3,"^Adidas$","1","",1,c433
+r1753695523277,3,"^Bags/Small Leather Goods \(e\.g\., wallet, backpack, briefcase/laptop bag, crossbody, tote, duffel\)$","1","",1,c1753695516382
+r1753695526488,3,"^Footwear/shoes \(e\.g\. sneakers, loafers, boots, sandals\)$","1","",1,c1753695516382
+r1753695530479,3,"^Clothing/Apparel \(e\.g\., pants, shirts, tees, hoodies, jackets\)$","1","",1,c1753695516382
+r1753695534794,3,"^Accessories \(e\.g\., belts, jewelry, sunglasses, hats\)$","1","",1,c1753695516382
+r1753697585400,3,"^Pants \(e\.g\., trousers, chinos\)$","1","",1,c1753695516382
+r1753697589574,3,"^Hoodie/Sweatshirt$","1","",1,c1753695516382
+r1753697592800,3,"^T-shirt$","1","",1,c1753695516382
+r1753697596748,3,"^Loafers/Drivers$","1","",1,c1753695516382
+r1753697606053,3,"^Briefcase/laptop bag$","1","",1,c1753695516382
+r1753697610374,3,"^Outerwear$","1","",1,c1753695516382
+r1753697613148,3,"^Boots$","1","",1,c1753695516382
+r1753697622088,3,"^Backpack$","1","",1,c1753695516382
+r1753697625059,3,"^Belt$","1","",1,c1753695516382
+r1753697628044,3,"^Sneakers$","1","",1,c1753695516382
+r1753697631171,3,"^Tote Bag$","1","",1,c1753695516382
+r1753697634489,3,"^Wallet/Card Case$","1","",1,c1753695516382
+r1753697638432,3,"^Jeans$","1","",1,c1753695516382
+r1753697956273,3,"^Special occasion$","1","",1,c1753695516382
+r1753697960966,3,"^To reward or treat myself$","1","",1,c1753695516382
+r1753697965449,3,"^Want to try something new/update my style$","1","",1,c1753695516382
+r1753697975730,3,"^Material quality$","1","",1,c1753695516382
+r1753697979463,3,"^Brand reputation$","1","",1,c1753695516382
+r1753697983026,3,"^Style/design$","1","",1,c1753695516382
+r1753698032894,3,"^Converse$","1","",1,c1753695516382
+r1753698038003,3,"^Gucci$","1","",1,c1753695516382
+r1753698042519,3,"^Ralph Lauren$","1","",1,c1753695516382
+r1753698045996,3,"^Burberry$","1","",1,c1753695516382
+r1753698049941,3,"^Prada$","1","",1,c1753695516382
+r1753698056338,3,"^Lululemon$","1","",1,c1753695516382
+r1753698125503,3,"^Michael Kors$","1","",1,c1753695516382
+r1753698129873,3,"^Louis Vuitton$","1","",1,c1753695516382
+r1753698134152,3,"^Calvin Klein$","1","",1,c1753695516382
+r1753698155551,3,"^Nike$","1","",1,c1753695516382
+r1753698159187,3,"^Puma$","1","",1,c1753695516382
+r1753698162983,3,"^adidas$","1","",1,c1753695516382
+r1753698166375,3,"^New Balance$","1","",1,c1753695516382
+r1753698188179,3,"^Gap$","1","",1,c1753695516382
+r1753698191474,3,"^Levi's$","1","",1,c1753695516382
+r1753698195851,3,"^H&M$","1","",1,c1753695516382
+r1753698199082,3,"^Zara$","1","",1,c1753695516382
+r1753698202423,3,"^Carhartt$","1","",1,c1753695516382
+r1753698206269,3,"^Adidas$","1","",1,c1753695516382
+r1753698210301,3,"^Tommy Hilfiger$","1","",1,c1753695516382
+r1753698247567,3,"^Dior$","1","",1,c1753695516382
+r1753698257686,3,"^I prefer recognizable or well-known brands$","1","",1,c1753695516382
+r1753698262402,3,"^I express myself through what I wear$","1","",1,c1753695516382
+r1753698268738,3,"^I try to stand out from the crowd with my style$","1","",1,c1753695516382
+r1753698288623,3,"^Instagram$","1","",1,c1753695516382
+r1753698348020,3,"^Scott$","1","",1,c1731608188258
+r1753698395639,3,"^Family Dollar$","1","",1,c1751767756559
+r1753698399206,3,"^Kroger$","1","",1,c1751767756559
+r1753698403531,3,"^Sam's Club$","1","",1,c1751767756559
+r1753698406758,3,"^Walmart$","1","",1,c1751767756559
+r1753698409853,3,"^Amazon$","1","",1,c1751767756559
+r1753698412548,3,"^Target$","1","",1,c1751767756559
+r1753698415921,3,"^Costco$","1","",1,c1751767756559
+r1753698420866,3,"^CVS$","1","",1,c1751767756559
+r1753698462962,3,"^Foot Care \(shoe inserts, grooming, athlete'sfoot treatment, etc\.\)$","1","",1,c1751767756559
+r1753698466635,3,"^Vitamins, Minerals, and Supplements \(letter ormulti-vitamins, heart health, supplements thatboost your immune system, etc\.\)$","1","",1,c1751767756559
+r1753698540480,3,"^Immunity Health Supplements$","1","",1,c1751767756559
 r17537,3,"^Canned Tuna Fish$","1","",1,c362
 r17538,3,"^Canned Vegetables$","1","",1,c362
 r17539,3,"^Refrigerated Meats \(Lunchmeats, Hot Dogs/Sausages, Breakfast Meats\)$","1","",1,c362
