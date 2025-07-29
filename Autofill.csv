@@ -1180,6 +1180,16 @@ c1753662070910,"School Lunch Survey","",,,,
 c1753680133406,"Let's Talk About Grocery Stores","",,,,
 c1753695065380,"Exploring how families discover and use kids tech","",,,,
 c1753695516382,"Tell us your thoughts.","",,,,
+c1753718601097,"Please tell us about you!","",,,,
+c1753723698704,"Social Media Usage","",,,,
+c1753733861925,"Let's Talk Dating","",,,,
+c1753734941235,"Skincare Survey","",,,,
+c1753737171520,"Tell Us What You Think!","",,,,
+c1753737900264,"Be Honest, No One's Judging","",,,,
+c1753738401347,"Which one grabs your attention?","",,,,
+c1753739806857,"Tell us about your snacks habits!","",,,,
+c1753740115815,"Let's talk TV!","",,,,
+c1753740422780,"Quick Grocery Habits Check","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -22401,6 +22411,154 @@ r1753698462962,3,"^Foot Care \(shoe inserts, grooming, athlete'sfoot treatment, 
 r1753698466635,3,"^Vitamins, Minerals, and Supplements \(letter ormulti-vitamins, heart health, supplements thatboost your immune system, etc\.\)$","1","",1,c1751767756559
 r1753698540480,3,"^Immunity Health Supplements$","1","",1,c1751767756559
 r17537,3,"^Canned Tuna Fish$","1","",1,c362
+r1753718610831,3,"^I own a detached house$","1","",1,c1753718601097
+r1753718738605,3,"^Grass Lawn$","1","",1,c1753718601097
+r1753718743334,3,"^Fence$","1","",1,c1753718601097
+r1753718750463,3,"^Non-Edible Outdoor Garden \(flowers, shrubs, herbs, etc\.\)$","1","",1,c1753718601097
+r1753718807792,3,"^I am solely responsible$","1","",1,c1753718601097
+r1753718835733,3,"^Both paid for professional service AND done personal maintenance$","1","",1,c1753718601097
+r1753718907851,3,"^Remove weeds manually$","1","",1,c1753718601097
+r1753718916348,3,"^Apply lawn pest control product$","1","",1,c1753718601097
+r1753718929797,3,"^Apply lawn weed control product$","1","",1,c1753718601097
+r1753718953652,3,"^Lay down seed$","1","",1,c1753718601097
+r1753718977530,3,"^Apply fertilizer product$","1","",1,c1753718601097
+r1753719248619,3,"^Mow the lawn$","1","",1,c1753718601097
+r1753719254972,3,"^Ensure lawn sprinklers are functioning$","1","",1,c1753718601097
+r1753719530473,3,"^Grass seed$","1","",1,c1753718601097
+r1753719537465,3,"^Liquid weed killer/preventer \(e\.g\. Roundup, Spruce\)$","1","",1,c1753718601097
+r1753719546648,3,"^Lawn fertilizer with weed killer/preventer$","1","",1,c1753718601097
+r1753719552455,3,"^Lawn fertilizer without weed killer/preventer$","1","",1,c1753718601097
+r1753719558088,3,"^Spreader \(for seeds, fertilizers, etc\.\)$","1","",1,c1753718601097
+r1753719568486,3,"^Grub/insect control$","1","",1,c1753718601097
+r1753719784267,3,"^Spruce$","1","",1,c1753718601097
+r1753719788607,3,"^Spectracide$","1","",1,c1753718601097
+r1753719794299,3,"^Pennington$","1","",1,c1753718601097
+r1753719801709,3,"^Ortho$","1","",1,c1753718601097
+r1753723730463,3,"^29-44 years old$","1","",1,c1753723698704
+r1753723744640,3,"^Employed full-time \(at least 30 hours per week\)$","1","",1,c1753723698704
+r1753723764049,3,"^In-office$","1","",1,c1753723698704
+r1753723805967,3,"^Yes$","1","",1,c1753723698704
+r1753723877981,3,"^Tech accessories$","1","",1,c1753723698704
+r1753723882999,3,"^Notebooks$","1","",1,c1753723698704
+r1753723888201,3,"^Pens$","1","",1,c1753723698704
+r1753723923286,3,"^Instagram$","1","",1,c1753723698704
+r1753723930389,3,"^Pinterest$","1","",1,c1753723698704
+r1753723935743,3,"^Facebook$","1","",1,c1753723698704
+r1753733385866,3,"^Cat\(s\)$","1","",1,c20
+r1753733391046,3,"^Dog\(s\)$","1","",1,c20
+r1753733438361,3,"^I am primarily responsible$","1","",1,c20
+r1753733919880,3,"^Married or in a domestic partnership$","1","",1,c1753733861925
+r1753733943625,3,"^Yes, I’ve used them in the past but not currently$","1","",1,c1753733861925
+r1753733984379,3,"^Bumble$","1","",1,c1753733861925
+r1753733989815,3,"^Tinder$","1","",1,c1753733861925
+r1753734029702,3,"^I still have the apps but rarely open them$","1","",1,c1753733861925
+r1753734056420,3,"^They took up too much of my time$","1","",1,c1753733861925
+r1753734072160,3,"^Too much ghosting or flakiness$","1","",1,c1753733861925
+r1753734090662,3,"^I prefer meeting people in real life$","1","",1,c1753733861925
+r1753734134695,3,"^Started going to more in-person events or activities$","1","",1,c1753733861925
+r1753734190533,3,"^I feel cautious — I’m taking it slow$","1","",1,c1753733861925
+r1753734216023,3,"^0$","1","",1,c1753733861925
+r1753734253944,3,"^1–2 weeks$","1","",1,c1753733861925
+r1753734280753,3,"^Yes, only once$","1","",1,c1753733861925
+r1753734325611,3,"^I lost interest in the conversation$","1","",1,c1753733861925
+r1753734341891,3,"^The person gave me a bad or weird vibe$","1","",1,c1753733861925
+r1753734355467,3,"^I didn’t know how to end the conversation$","1","",1,c1753733861925
+r1753734383698,3,"^Yes, once$","1","",1,c1753733861925
+r1753734445039,3,"^Tired$","1","",1,c1753733861925
+r1753734451205,3,"^Burned out$","1","",1,c1753733861925
+r1753734456874,3,"^Bored$","1","",1,c1753733861925
+r1753734488408,3,"^Casual dating / situationships$","1","",1,c1753733861925
+r1753734520279,3,"^No clear photo of the person$","1","",1,c1753733861925
+r1753734526187,3,"^Bio is extremely long or overly detailed$","1","",1,c1753733861925
+r1753734532092,3,"^All group photos$","1","",1,c1753733861925
+r1753734537275,3,"^No bio or only a few vague words$","1","",1,c1753733861925
+r1753734990395,3,"^CeraVe$","1","",1,c1753734941235
+r1753734996208,3,"^Kiehl's$","1","",1,c1753734941235
+r1753735005193,3,"^Lancôme$","1","",1,c1753734941235
+r1753735010608,3,"^Neutrogena$","1","",1,c1753734941235
+r1753735810888,3,"^ I am the primary decision-maker when it comes to buying pet food \(I did the research to determine what we should feed\)\.$","1","",1,c1731382238475
+r1753735868472,3,"^I use the same brand all the time but add variety through toppers, wet or adding human food or supplements$","1","",1,c1731382238475
+r1753737184556,3,"^21-34$","1","",1,c1753737171520
+r1753737266635,3,"^10-12$","1","",1,c1753737171520
+r1753737278820,3,"^13-17$","1","",1,c1753737171520
+r1753737349215,3,"^10-12$","1","",1,c1753737171520
+r1753737356701,3,"^13-17$","1","",1,c1753737171520
+r1753737383154,3,"^I usually make these decisions$","1","",1,c1753737171520
+r1753737409863,3,"^Verizon Wireless$","1","",1,c1753737171520
+r1753737702846,3,"^Retail store$","1","",1,c1753737171520
+r1753737752096,3,"^New offers are not better than my current option\.$","1","",1,c1753737171520
+r1753737759209,3,"^I like what I have and I’m not interested in changing\\.$","1","",1,c1753737171520
+r1753737911822,3,"^Salt$","1","",1,c1753737900264
+r1753737919318,3,"^Pepper$","1","",1,c1753737900264
+r1753737924289,3,"^Garlic Powder$","1","",1,c1753737900264
+r1753737964946,3,"^6 Months to 1 year$","1","",1,c1753737900264
+r1753737983233,3,"^Smell or taste the to decide$","1","",1,c1753737900264
+r1753738050150,3,"^Yes, that would be helpful$","1","",1,c1753737900264
+r1753738087300,3,"^Convenient for trying new flavors$","1","",1,c1753737900264
+r1753738100603,3,"^Great for some expensive spices like Saffron$","1","",1,c1753737900264
+r1753738108450,3,"^Perfect for spices I only use once or twice a year \(e\.g\., holidays\)$","1","",1,c1753737900264
+r1753738191903,3,"^Expense spices \(e\.g\. saffron, truffle salt\)$","1","",1,c1753737900264
+r1753738197110,3,"^Blends you want to try before committing to a big bottle$","1","",1,c1753737900264
+r1753738234538,3,"^No, I prefer the regular size even if it costs more$","1","",1,c1753737900264
+r1753738410779,3,"^10$","1","",1,c1753738401347
+r1753738562846,3,"^Easily stay ahead with tech that works the way you do$","1","",1,c1753738401347
+r1753739816255,3,"^I believe that my food choices, including snacks, should be good for my health\.$","1","",1,c1753739806857
+r1753739832599,3,"^Cough drops or sweet hard candy$","1","",1,c1753739806857
+r1753739842235,3,"^Frozen produce$","1","",1,c1753739806857
+r1753739850157,3,"^Sweet Biscuits$","1","",1,c1753739806857
+r1753739855818,3,"^Fresh produce$","1","",1,c1753739806857
+r1753739861673,3,"^Pet care supplies$","1","",1,c1753739806857
+r1753739869651,3,"^Chocolate$","1","",1,c1753739806857
+r1753739878005,3,"^Jellies/Gummies$","1","",1,c1753739806857
+r1753739948638,3,"^ I want a healthier indulgence that allows me to feel in control\.$","1","",1,c1753739806857
+r1753739959936,3,"^I’m looking for nutritious pre- and post-workout snacks\.$","1","",1,c1753739806857
+r1753739971303,3,"^ I want snacks that encourage me to eat slowly and mindfully\.$","1","",1,c1753739806857
+r1753740017576,3,"^A snack that is high in protein, fiber, or vitamins\.$","1","",1,c1753739806857
+r1753740023990,3,"^A snack that is made with recognizable ingredients\.$","1","",1,c1753739806857
+r1753740032888,3,"^A snack that has natural ingredients\.$","1","",1,c1753739806857
+r1753740137775,3,"^11-15 hours$","1","",1,c1753740115815
+r1753740160066,3,"^Apple TV$","1","",1,c1753740115815
+r1753740168144,3,"^Peacock$","1","",1,c1753740115815
+r1753740173653,3,"^Prime Video$","1","",1,c1753740115815
+r1753740179215,3,"^Hulu$","1","",1,c1753740115815
+r1753740184613,3,"^Netflix$","1","",1,c1753740115815
+r1753740466007,3,"^I am the primary grocery shopper$","1","",1,c1753740422780
+r1753740506867,3,"^Vitamins/supplements \(ex: multivitamins\)$","1","",1,c1753740422780
+r1753740513879,3,"^Nuts \(ex\. cashews, almonds, pecans\)$","1","",1,c1753740422780
+r1753740519621,3,"^Canned tuna fish \(or in a pouch or kit\)$","1","",1,c1753740422780
+r1753740527112,3,"^Breakfast cereal$","1","",1,c1753740422780
+r1753740532653,3,"^Bars \(ex: energy bars, nutritional bars, granola bars\)$","1","",1,c1753740422780
+r1753740540442,3,"^Protein drinks \(ex: ready to drink protein shake\)$","1","",1,c1753740422780
+r1753740553893,3,"^Cakes and pies \(ex\. cheesecake, apple pie\)$","1","",1,c1753740422780
+r1753740563880,3,"^Spreads and dips \(ex\. fresh salsa, guac, spinach artichoke dip, hummus\)$","1","",1,c1753740422780
+r1753740569682,3,"^Canned sardines$","1","",1,c1753740422780
+r1753740575834,3,"^Trail mix \(fruit and nut blends\)$","1","",1,c1753740422780
+r1753740581436,3,"^Ice cream$","1","",1,c1753740422780
+r1753740586654,3,"^Plant-based milk$","1","",1,c1753740422780
+r1753740729230,3,"^Chicken of the Sea$","1","",1,c1753740422780
+r1753740744066,3,"^Wild Planet$","1","",1,c1753740422780
+r1753740861119,3,"^Brunswick$","1","",1,c1753740422780
+r1753740867905,3,"^Wild Planet$","1","",1,c1753740422780
+r1753740949989,3,"^Club warehouse \(e\.g\., Costco, Sam’s, BJ’s\)$","1","",1,c1753740422780
+r1753740959728,3,"^Online retailer with home delivery \(e\.g\., Amazon\)$","1","",1,c1753740422780
+r1753740968922,3,"^Specialty or natural/organic store \(e\.g\., Whole Foods, Sprouts\)$","1","",1,c1753740422780
+r1753740977721,3,"^Mass-merchandiser \(e\.g\., Walmart, Target\)$","1","",1,c1753740422780
+r1753741004510,3,"^\$75,000 – \$99,999$","1","",1,c1753740422780
+r1753742182017,3,"^\$75,000 to \$99,999$","1","",1,c41
+r1753742222438,3,"^Pet food or pet-care products$","1","",1,c41
+r1753742227342,3,"^Pest-control products or services$","1","",1,c41
+r1753742233899,3,"^Air fresheners or odor eliminators$","1","",1,c41
+r1753742244224,3,"^Paper goods \(e\.g\., paper towels, tissues\)$","1","",1,c41
+r1753742251002,3,"^Personal-care items \(e\.g\., shampoo, soap\)$","1","",1,c41
+r1753742257829,3,"^Gardening tools, plants, or supplies$","1","",1,c41
+r1753742265071,3,"^Household cleaning supplies$","1","",1,c41
+r1753742272425,3,"^Laundry detergent or fabric care$","1","",1,c41
+r1753742298926,3,"^2–3 times a week$","1","",1,c41
+r1753743093611,3,"^Brand-run Discord or community$","1","",1,c5
+r1753743099347,3,"^Social-platform content$","1","",1,c5
+r1753743105252,3,"^Email or SMS updates$","1","",1,c5
+r1753743148779,3,"^5 – 6 hours$","1","",1,c5
+r1753743205750,3,"^I’m usually among the first to try\.$","1","",1,c5
 r17538,3,"^Canned Vegetables$","1","",1,c362
 r17539,3,"^Refrigerated Meats \(Lunchmeats, Hot Dogs/Sausages, Breakfast Meats\)$","1","",1,c362
 r1754,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
