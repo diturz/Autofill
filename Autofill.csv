@@ -1190,7 +1190,9 @@ c1753738401347,"Which one grabs your attention?","",,,,
 c1753739806857,"Tell us about your snacks habits!","",,,,
 c1753740115815,"Let's talk TV!","",,,,
 c1753740422780,"Quick Grocery Habits Check","",,,,
-c1753772897633,"Your Thoughts on Oil Change Providers!","",,,,
+c1753767763901,"We’re curious about your thoughts on ancient grains!","",,,,
+c1753770273471,"A few quick questions about theme parks, museums, and attractions!","",,,,
+c1753771932974,"About Your Shopping Behaviors!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -22560,11 +22562,152 @@ r1753743099347,3,"^Social-platform content$","1","",1,c5
 r1753743105252,3,"^Email or SMS updates$","1","",1,c5
 r1753743148779,3,"^5 – 6 hours$","1","",1,c5
 r1753743205750,3,"^I’m usually among the first to try\.$","1","",1,c5
-r1753772905436,3,"^Modern, well-maintained equipment in view \(no rust, dents, or leaks\)$","1","",1,c1753772897633
-r1753772910024,3,"^Age of the technician$","1","",1,c1753772897633
-r1753772918147,3,"^Cleanliness of the facility \(e\.g\., clean storefront, tools neatly organized\)$","1","",1,c1753772897633
-r1753773023952,3,"^Option M$","1","",1,c1753772897633
-r1753773037078,3,"^No preference – I don’t care about the gender of my technician$","1","",1,c1753772897633
+r1753767809827,3,"^Chia$","1","",1,c1753767763901
+r1753767817245,3,"^Spelt$","1","",1,c1753767763901
+r1753767825311,3,"^Quinoa$","1","",1,c1753767763901
+r1753767873549,3,"^2-3 times per week$","1","",1,c1753767763901
+r1753767912012,3,"^As a topping on smoothies or shakes$","1","",1,c1753767763901
+r1753767918900,3,"^In dips$","1","",1,c1753767763901
+r1753767925288,3,"^As a topping on yogurts or cottage cheese$","1","",1,c1753767763901
+r1753767930557,3,"^As breakfast cereal or porridge$","1","",1,c1753767763901
+r1753767939861,3,"^In a soup$","1","",1,c1753767763901
+r1753767969516,3,"^Club stores \(e\.g\., Costco, Sam’s Club\)$","1","",1,c1753767763901
+r1753767978765,3,"^Mass merchandisers \(e\.g\., Walmart, Target\)$","1","",1,c1753767763901
+r1753767984884,3,"^Natural grocery stores \(e\.g\., Whole Foods, Trader Joe’s\)$","1","",1,c1753767763901
+r1753767992932,3,"^Online retailers \(e\.g\., Amazon, Thrive, etc\.\)$","1","",1,c1753767763901
+r1753768015026,3,"^Mostly in packaged form, occasionally in bulk$","1","",1,c1753767763901
+r1753768087219,3,"^Snack products \(e\.g\., chips\)$","1","",1,c1753767763901
+r1753768092555,3,"^Yogurt parfaits$","1","",1,c1753767763901
+r1753768100516,3,"^Cereals or granola mixes$","1","",1,c1753767763901
+r1753768107378,3,"^Bars \(e\.g\., snack bars, protein bars\)$","1","",1,c1753767763901
+r1753768169700,3,"^Sweet baked goods or pastries$","1","",1,c1753767763901
+r1753768175714,3,"^Yogurts$","1","",1,c1753767763901
+r1753768182928,3,"^Smoothies$","1","",1,c1753767763901
+r1753768188418,3,"^Prepared salads$","1","",1,c1753767763901
+r1753768195835,3,"^Snack bars$","1","",1,c1753767763901
+r1753768240857,3,"^More natural$","1","",1,c1753767763901
+r1753768248201,3,"^Easy to cook or prepare$","1","",1,c1753767763901
+r1753768253610,3,"^High in fiber$","1","",1,c1753767763901
+r1753768261145,3,"^Lower in fat$","1","",1,c1753767763901
+r1753768273433,3,"^I enjoy the taste$","1","",1,c1753767763901
+r1753768289159,3,"^Breakfast$","1","",1,c1753767763901
+r1753768295315,3,"^Mid-morning snack$","1","",1,c1753767763901
+r1753768303028,3,"^Afternoon snack$","1","",1,c1753767763901
+r1753768386502,3,"^Sustainably Sourced$","1","",1,c1753767763901
+r1753768391490,3,"^Natural$","1","",1,c1753767763901
+r1753768402938,3,"^GLP-1 Friendly$","1","",1,c1753767763901
+r1753768408000,3,"^GMO Free$","1","",1,c1753767763901
+r1753768418208,3,"^Organic$","1","",1,c1753767763901
+r1753768489602,3,"^Often$","1","",1,c1753767763901
+r1753768735176,3,"^Cough, Cold, Flu Products$","1","",1,c403
+r1753768742254,3,"^Dishwashing Products$","1","",1,c403
+r1753768747662,3,"^Household Cleaners$","1","",1,c403
+r1753768752455,3,"^Snack Nuts$","1","",1,c403
+r1753768757727,3,"^Specialty Cheese$","1","",1,c403
+r1753768763467,3,"^Dry Pasta$","1","",1,c403
+r1753768792869,3,"^Walmart / Walmart\.com$","1","",1,c403
+r1753768797765,3,"^Amazon\.com$","1","",1,c403
+r1753768803305,3,"^Costco$","1","",1,c403
+r1753768809662,3,"^Sam’s Club$","1","",1,c403
+r1753768817604,3,"^Target / Target\.com$","1","",1,c403
+r1753768869893,3,"^Dish Cleaning Wands/Brushes$","1","",1,c403
+r1753768874870,3,"^Liquid Dish Spray \(i\.e\. Dawn Powerwash, Palmolive SprayAway \)$","1","",1,c403
+r1753768881446,3,"^Sponges \(for dishwashing\)$","1","",1,c403
+r1753768889679,3,"^Rinse Aids \(i\.e\. Jet-Dry/Finish, Cascade, Lemi-Shine, OxiClean etc\.\)$","1","",1,c403
+r1753768897841,3,"^Garbage Disposal / Sink Cleaners \(i\.e\. Plink, Glisten etc\.\)$","1","",1,c403
+r1753768902810,3,"^Liquid Dish Soap \(i\.e\. Dawn, Palmolive, Ajax, Mrs\. Meyers etc\.\)$","1","",1,c403
+r1753768920671,3,"^Dishwasher Boosters \(i\.e\. Finish, OxiClean, Lemi Shine etc\.\)$","1","",1,c403
+r1753768927526,3,"^Gloves \(for dishwashing\)$","1","",1,c403
+r1753768933748,3,"^ Dishwasher Detergent \(Pods/Tabs/Gel/Powder\) \(i\.e\. Cascade, Finish etc\.\)$","1","",1,c403
+r1753768939031,3,"^Dishwasher Machine Cleaner \(i\.e\. Affresh, Cascade, Finish etc\.\)$","1","",1,c403
+r1753768969656,3,"^Oxi-Clean$","1","",1,c403
+r1753770105556,3,"^Smart watch \(e\.g\., Google Pixel Watch, Garmin Smartwatch\)$","1","",1,c178
+r1753770130321,3,"^Laptop computer \(e\.g\., Macbook Air, HP Pavilion\)$","1","",1,c178
+r1753770137823,3,"^Smartphone \(e\.g\., Samsung Galaxy, Apple iPhone\)$","1","",1,c178
+r1753770160390,3,"^Personal desktop computer \(e\.g\., Lenovo Thinkstation, Mac Studio\)$","1","",1,c178
+r1753770166539,3,"^Tablet \(e\.g\., Apple iPad, Amazon Fire\)$","1","",1,c178
+r1753770178266,3,"^Wireless earbuds or headphones \(e\.g\., Beats Solo Buds, Shokz Open Run\)$","1","",1,c178
+r1753770217717,3,"^\$950 to \$1199$","1","",1,c178
+r1753770292942,3,"^An aquarium$","1","",1,c1753770273471
+r1753770297421,3,"^A zoo$","1","",1,c1753770273471
+r1753770302659,3,"^An art or history museum$","1","",1,c1753770273471
+r1753770308121,3,"^An amusement park and/or resort theme park \(e\.g\., Disneyland, Legoland\)$","1","",1,c1753770273471
+r1753770337902,3,"^Sea Life Aquarium$","1","",1,c1753770273471
+r1753770344284,3,"^Disneyworld or Disneyland$","1","",1,c1753770273471
+r1753770514172,3,"^I am currently working in an employed position \(part-time or full time\)$","1","",1,c5
+r1753770624916,3,"^Google Workspace \(i\.e\. Gmail, Docs, Drive, Sheets, Meet, etc\)$","1","",1,c5
+r1753770630563,3,"^Microsoft 365$","1","",1,c5
+r1753770638291,3,"^Microsoft Teams Essentials \(for small businesses\)$","1","",1,c5
+r1753770667710,3,"^I use a paid version$","1","",1,c5
+r1753770708110,3,"^A business @gmail\.com email address \(e\.g\. mybusiness@gmail\.com\)$","1","",1,c5
+r1753770780448,3,"^Gemini for Google Workspace \(Gemini built directly into Gmail, Docs, Sheets and more\)$","1","",1,c5
+r1753770801289,3,"^Could positively impact my work$","1","",1,c5
+r1753770984687,3,"^Over-the-counter medication$","1","",1,c566
+r1753770989418,3,"^Clothing$","1","",1,c566
+r1753770994105,3,"^Personal care$","1","",1,c566
+r1753770999231,3,"^Beauty$","1","",1,c566
+r1753771003337,3,"^Technology$","1","",1,c566
+r1753771009567,3,"^Electronics$","1","",1,c566
+r1753771015468,3,"^Furniture$","1","",1,c566
+r1753771022029,3,"^School supplies$","1","",1,c566
+r1753771028049,3,"^Toys$","1","",1,c566
+r1753771051012,3,"^Tablet or capsule format \(e\.g\., pills, softgels \)$","1","",1,c566
+r1753771057576,3,"^Liquid formats$","1","",1,c566
+r1753771063615,3,"^Topical \(e\.g\., creams, patches\)$","1","",1,c566
+r1753771119790,3,"^I can swallow pills, but I prefer liquid formats$","1","",1,c566
+r1753771142343,3,"^Pain relievers \(e\.g\., Tylenol liquid, Advil Liqui-Gels\)$","1","",1,c566
+r1753771149126,3,"^Digestive remedies in liquid form \(e\.g\., Pepto-Bismol\)$","1","",1,c566
+r1753771164705,3,"^Allergy medications in liquid form \(e\.g\., Benadryl liquid\)$","1","",1,c566
+r1753771170608,3,"^Cold, cough, flu, or sore throat remedies \(e\.g\., NyQuil, Robitussin, Theraflu\)$","1","",1,c566
+r1753771210043,3,"^Allergy relief \(e\.g\., Claritin, Zyrtec, Benadryl\)$","1","",1,c566
+r1753771221635,3,"^ Cold, cough & flu medication \(e\.g\., NyQuil, Mucinex, DayQuil\)$","1","",1,c566
+r1753771229210,3,"^Digestive products \(e\.g\., Pepto-Bismol, Tums\)$","1","",1,c566
+r1753771234765,3,"^Vitamins & supplements$","1","",1,c566
+r1753771244648,3,"^Pain relievers \(e\.g\., Tylenol, Advil, Motrin\)$","1","",1,c566
+r1753771281771,3,"^Advil$","1","",1,c566
+r1753771293415,3,"^Aleve$","1","",1,c566
+r1753771308036,3,"^Excedrin$","1","",1,c566
+r1753771313665,3,"^Tylenol$","1","",1,c566
+r1753771531893,3,"^No, I do not agree$","1","",1,c566
+r1753771626925,3,"^Smart home devices \(e\.g\. smart light bulbs, Nest thermostat\)$","1","",1,c1730573428499
+r1753771632775,3,"^ Gaming consoles \(e\.g\. Xbox, PlayStation, Nintendo\)$","1","",1,c1730573428499
+r1753771638925,3,"^Smart TV \(e\.g\. LG, Samsung\)$","1","",1,c1730573428499
+r1753771646467,3,"^Smart appliances \(“smart” refrigerator, washing machine\)$","1","",1,c1730573428499
+r1753771654567,3,"^Smart doorbells and / or smart security cameras \(e\.g\. Ring, Blink\)$","1","",1,c1730573428499
+r1753771660369,3,"^Computer / laptop$","1","",1,c1730573428499
+r1753771669075,3,"^Home assistant \(e\.g\. Amazon Alexa device, Google Home\)$","1","",1,c1730573428499
+r1753771676068,3,"^Smartphone of any brand \(e\.g\., iPhone, Android\)$","1","",1,c1730573428499
+r1753771683759,3,"^Tablet of any brand \(e\.g\. iPad, Fire tablet\)$","1","",1,c1730573428499
+r1753771725107,3,"^Apple$","1","",1,c1730573428499
+r1753771875623,3,"^I will be purchasing Back to School but not Back to College$","1","",1,c1738819496645
+r1753771951129,3,"^Costco$","1","",1,c1753771932974
+r1753771956959,3,"^Sam’s Club$","1","",1,c1753771932974
+r1753771960844,3,"^Target$","1","",1,c1753771932974
+r1753771967617,3,"^Walmart$","1","",1,c1753771932974
+r1753771972643,3,"^Whole Foods$","1","",1,c1753771932974
+r1753772008358,3,"^I shop in-store at Target as often as I used to$","1","",1,c1753771932974
+r1753772114170,3,"^By car$","1","",1,c1751445313316
+r1753772132498,3,"^I am solely responsible for all grocery shopping in my household$","1","",1,c1751445313316
+r1753772156569,3,"^Both In-Store and Online$","1","",1,c1751445313316
+r1753772178289,3,"^Amazon\.com$","1","",1,c1751445313316
+r1753772330076,3,"^Beverage Enhancers \(Liquid Iv, Mio etc\.\)$","1","",1,c1751445313316
+r1753772340686,3,"^Protein Drinks/Shakes$","1","",1,c1751445313316
+r1753772345993,3,"^Candy \(Chocolate, Non-Chocolate Candy\)$","1","",1,c1751445313316
+r1753772351280,3,"^Breakfast Food \(Hot Cereals, Ready to Eat Cold Cereal or Granola, etc\.\)$","1","",1,c1751445313316
+r1753772369043,3,"^Cookies$","1","",1,c1751445313316
+r1753772372763,3,"^Carbonated Soft Drinks$","1","",1,c1751445313316
+r1753772382210,3,"^Snack/Nutrition Bars$","1","",1,c1751445313316
+r1753772387866,3,"^Dips & Salsa$","1","",1,c1751445313316
+r1753772393857,3,"^Energy Drink$","1","",1,c1751445313316
+r1753772400624,3,"^Sports Drinks$","1","",1,c1751445313316
+r1753772405872,3,"^Fresh Products & Dairy \(Produce, Meat, Milk, Eggs, Cheese, etc\.\)$","1","",1,c1751445313316
+r1753772416543,3,"^Nuts, Seeds & Trail Mix$","1","",1,c1751445313316
+r1753772419316,3,"^Meat Snacks \(Jerky, Pork Rinds etc\.\)$","1","",1,c1751445313316
+r1753772425212,3,"^Bottled Still Water$","1","",1,c1751445313316
+r1753772437799,3,"^Sparkling Water/Seltzer$","1","",1,c1751445313316
+r1753772442273,3,"^Bottled Coffee or Tea$","1","",1,c1751445313316
+r1753772448126,3,"^Salty Snacks \(Chips, Cheese Puffs, Tortilla Chips, Crackers, Popcorn etc\.\)$","1","",1,c1751445313316
+r1753772530365,3,"^Both Online & Instore$","1","",1,c1751445313316
 r17538,3,"^Canned Vegetables$","1","",1,c362
 r17539,3,"^Refrigerated Meats \(Lunchmeats, Hot Dogs/Sausages, Breakfast Meats\)$","1","",1,c362
 r1754,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
