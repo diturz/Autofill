@@ -1190,6 +1190,7 @@ c1753738401347,"Which one grabs your attention?","",,,,
 c1753739806857,"Tell us about your snacks habits!","",,,,
 c1753740115815,"Let's talk TV!","",,,,
 c1753740422780,"Quick Grocery Habits Check","",,,,
+c1753772897633,"Your Thoughts on Oil Change Providers!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -22559,6 +22560,11 @@ r1753743099347,3,"^Social-platform content$","1","",1,c5
 r1753743105252,3,"^Email or SMS updates$","1","",1,c5
 r1753743148779,3,"^5 – 6 hours$","1","",1,c5
 r1753743205750,3,"^I’m usually among the first to try\.$","1","",1,c5
+r1753772905436,3,"^Modern, well-maintained equipment in view \(no rust, dents, or leaks\)$","1","",1,c1753772897633
+r1753772910024,3,"^Age of the technician$","1","",1,c1753772897633
+r1753772918147,3,"^Cleanliness of the facility \(e\.g\., clean storefront, tools neatly organized\)$","1","",1,c1753772897633
+r1753773023952,3,"^Option M$","1","",1,c1753772897633
+r1753773037078,3,"^No preference – I don’t care about the gender of my technician$","1","",1,c1753772897633
 r17538,3,"^Canned Vegetables$","1","",1,c362
 r17539,3,"^Refrigerated Meats \(Lunchmeats, Hot Dogs/Sausages, Breakfast Meats\)$","1","",1,c362
 r1754,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
