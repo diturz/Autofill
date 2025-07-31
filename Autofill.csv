@@ -1193,6 +1193,12 @@ c1753740422780,"Quick Grocery Habits Check","",,,,
 c1753767763901,"We’re curious about your thoughts on ancient grains!","",,,,
 c1753770273471,"A few quick questions about theme parks, museums, and attractions!","",,,,
 c1753771932974,"About Your Shopping Behaviors!","",,,,
+c1753983964513," Do you like plant-based creamers? This survey is for you!","",,,,
+c1753984268612,"Let's talk about new snack packs!","",,,,
+c1753984377520,"Holiday Shopping Survey!","",,,,
+c1753984440669,"A few questions about what you're eating!","",,,,
+c1753984554668,"Let’s talk about your health","",,,,
+c1753984604371,"Natural Colors from Plants","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -22710,6 +22716,67 @@ r1753772448126,3,"^Salty Snacks \(Chips, Cheese Puffs, Tortilla Chips, Crackers,
 r1753772530365,3,"^Both Online & Instore$","1","",1,c1751445313316
 r17538,3,"^Canned Vegetables$","1","",1,c362
 r17539,3,"^Refrigerated Meats \(Lunchmeats, Hot Dogs/Sausages, Breakfast Meats\)$","1","",1,c362
+r1753984243680,3,"^Organic Pecan Pie Almond Creamer$","1","",1,c1753983964513
+r1753984291012,3,"^Vanilla Lovers Cookie 20 Pack$","1","",1,c1753984268612
+r1753984307314,3,"^Oreo Cakesters and Chips Ahoy Baked Bites 20 Pack$","1","",1,c1753984268612
+r1753984391499,3,"^Cyber Week$","1","",1,c1753984377520
+r1753984452811,3,"^I am the primary decision maker$","1","",1,c1753984440669
+r1753984465637,3,"^Cheese$","1","",1,c1753984440669
+r1753984472908,3,"^Pasta$","1","",1,c1753984440669
+r1753984479910,3,"^Milk$","1","",1,c1753984440669
+r1753984484657,3,"^Eggs$","1","",1,c1753984440669
+r1753984491003,3,"^Bagels$","1","",1,c1753984440669
+r1753984499068,3,"^Cereal$","1","",1,c1753984440669
+r1753984512415,3,"^Frozen Desserts$","1","",1,c1753984440669
+r1753984515296,3,"^English Muffins$","1","",1,c1753984440669
+r1753984585193,3,"^Dry eyes$","1","",1,c1753984554668
+r1753984590499,3,"^Headache$","1","",1,c1753984554668
+r1753984613309,3,"^Yes$","1","",1,c1753984604371
+r1753984653713,3,"^Yes, frequently$","1","",1,c1753984604371
+r1753984665060,3,"^Turmeric \(yellow/gold\)$","1","",1,c1753984604371
+r1753984671001,3,"^Paprika or annatto \(orange/red\)$","1","",1,c1753984604371
+r1753984685292,3,"^Dragon fruit powder \(pink\)$","1","",1,c1753984604371
+r1753984697114,3,"^Baked goods$","1","",1,c1753984604371
+r1753984705782,3,"^Frosting or icing$","1","",1,c1753984604371
+r1753984717722,3,"^Very likely$","1","",1,c1753984604371
+r1753984742116,3,"^Baking aisle$","1","",1,c1753984604371
+r1753984750172,3,"^Natural/organic section$","1","",1,c1753984604371
+r1753984761975,3,"^Powder - can be used as is or add water$","1","",1,c1753984604371
+r1753984771517,3,"^Very important$","1","",1,c1753984604371
+r1753984788067,3,"^Recipe or usage ideas on the packaging$","1","",1,c1753984604371
+r1753984794483,3,"^Organic or sustainable sourced ingredients$","1","",1,c1753984604371
+r1753984811398,3,"^"All-natural food coloring"$","1","",1,c1753984604371
+r1753984814989,3,"^"Made with real spices"$","1","",1,c1753984604371
+r1753984829738,3,"^"Inspired by traditional foods"$","1","",1,c1753984604371
+r1753984851267,3,"^Healthier than artificial dyes$","1","",1,c1753984604371
+r1753984858452,3,"^Unique and artisanal aesthetic$","1","",1,c1753984604371
+r1753984971678,3,"^Married/partnered with children$","1","",1,c41
+r1753984983504,3,"^9–11 years \(Late Elementary\)$","1","",1,c41
+r1753984997121,3,"^12–14 years \(Middle School\)$","1","",1,c41
+r1753985009239,3,"^Yes, full-time$","1","",1,c41
+r1753985041856,3,"^I actively seek out and support sustainable, eco-friendly, and socially responsible products and companies, even if it costs more\.$","1","",1,c41
+r1753985062455,3,"^Cleaning supplies \(e\.g\., sprays, wipes, mops\)$","1","",1,c41
+r1753985075249,3,"^Personal care \(e\.g\., shampoo, soap, toothpaste\)$","1","",1,c41
+r1753985077291,3,"^Paper goods \(e\.g\., paper towels, toilet paper\)$","1","",1,c41
+r1753985081891,3,"^Beverages$","1","",1,c41
+r1753985092762,3,"^Home organization \(e\.g\., bins, baskets, shelving\)$","1","",1,c41
+r1753985099383,3,"^Laundry products \(e\.g\., detergent, dryer sheets\)$","1","",1,c41
+r1753985106944,3,"^Pet supplies$","1","",1,c41
+r1753985114531,3,"^Snacks and packaged food$","1","",1,c41
+r1753985125197,3,"^Food storage products \(e\.g\., Ziploc bags, plastic/glass containers\)$","1","",1,c41
+r1753985142138,3,"^Plastic food bags \(freezer/storage, sandwich/snack bags\)$","1","",1,c41
+r1753985155333,3,"^Tupperware / plastic containers$","1","",1,c41
+r1753985170395,3,"^Ziploc$","1","",1,c41
+r1753985177736,3,"^Great Value \(Walmart store brand\)$","1","",1,c41
+r1753985197019,3,"^In the last month$","1","",1,c41
+r1753985282719,3,"^Not available where I shop$","1","",1,c1753984604371
+r1753985297720,3,"^Simple how-to instructions on packaging$","1","",1,c1753984604371
+r1753985361611,3,"^Have used$","1","",1,c1740034232323
+r1753985372601,3,"^Very likely$","1","",1,c1740034232323
+r1753985385513,3,"^Look/style$","1","",1,c1740034232323
+r1753985393055,3,"^Sound quality$","1","",1,c1740034232323
+r1753985410691,3,"^Durability / resistance$","1","",1,c1740034232323
+r1753985430953,3,"^Ear hook$","1","",1,c1740034232323
 r1754,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
 r17540,3,"^I mostly shop in a physical store, but occasionally shop online and have my groceries delivered to my home\.$","1","",1,c362
 r17541,3,"^Fully Cooked Smoked Sausage$","1","",1,c362
