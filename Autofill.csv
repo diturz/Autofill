@@ -1202,6 +1202,13 @@ c1753984604371,"Natural Colors from Plants","",,,,
 c1754073689997,"Tell us about your DIY and power tool experience!","",,,,
 c1754076321149,"Energy Drink Consumption","",,,,
 c1754076351623,"Foods","",,,,
+c1754079774906,"Let’s talk about hair!","",,,,
+c1754080016696,"We want to know a bit more about you! This will take 2 mins!","",,,,
+c1754081134847,"Which product have you used in last 3 months","",,,,
+c1754081362434,"All About Your Child's Health","",,,,
+c1754081443317,"All about your family!","",,,,
+c1754083402953,"Disney Parks Survey","",,,,
+c1754083800546,"Duolingo Survey","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -22817,6 +22824,110 @@ r1754077278138,3,"^Homeowners or renters insurance$","1","",1,c1731380387889
 r1754077303039,3,"^GEICO$","1","",1,c1731380387889
 r1754077312973,3,"^State Farm$","1","",1,c1731380387889
 r1754077339660,3,"^\$350–\$399$","1","",1,c1731380387889
+r1754079787279,3,"^I'm loyal to brands I trust$","1","",1,c1754079774906
+r1754079896243,3,"^Groceries$","1","",1,c1754079774906
+r1754079902337,3,"^Clothing/apparel$","1","",1,c1754079774906
+r1754079916662,3,"^Household cleaning products$","1","",1,c1754079774906
+r1754079923651,3,"^Jewelry & accessories$","1","",1,c1754079774906
+r1754079929014,3,"^Personal care \(e\.g\., deodorant, toiletries\)$","1","",1,c1754079774906
+r1754079936207,3,"^Electronics$","1","",1,c1754079774906
+r1754079944415,3,"^Small home appliances$","1","",1,c1754079774906
+r1754079952801,3,"^Home goods/decor$","1","",1,c1754079774906
+r1754079959783,3,"^Pet food/supplies$","1","",1,c1754079774906
+r1754079977107,3,"^Black$","1","",1,c1754079774906
+r1754079990258,3,"^4A$","1","",1,c1754079774906
+r1754080033490,3,"^Illinois$","1","",1,c1754080016696
+r1754080045036,3,"^Chicago$","1","",1,c1754080016696
+r1754080067175,3,"^Ordered from an on-demand food delivery app \(e\.g\., Grubhub, Uber Eats, etc\.\)$","1","",1,c1754080016696
+r1754080075823,3,"^Dined at a restaurant in person$","1","",1,c1754080016696
+r1754080081816,3,"^Streamed content through a subscription service \(e\.g\., Netflix, Hulu, etc\.\)$","1","",1,c1754080016696
+r1754080091194,3,"^Ordered a ride through a rideshare provider \(e\.g\., Uber, Lyft, etc\.\)$","1","",1,c1754080016696
+r1754080098495,3,"^Bought groceries from a supermarket \(Walmart, Kroger, etc\.\)$","1","",1,c1754080016696
+r1754080110199,3,"^Read a book, newspaper, or magazine online or in print \(e\.g\., National Geographic, The New York Times, etc\.\)$","1","",1,c1754080016696
+r1754080123849,3,"^Very likely$","1","",1,c1754080016696
+r1754080158318,3,"^Instacart$","1","",1,c1754080016696
+r1754080165468,3,"^Uber Eats$","1","",1,c1754080016696
+r1754080221170,3,"^Audible$","1","",1,c1754080016696
+r1754080233009,3,"^Spotify$","1","",1,c1754080016696
+r1754080238736,3,"^Netflix$","1","",1,c1754080016696
+r1754080244325,3,"^Hulu$","1","",1,c1754080016696
+r1754080251228,3,"^Amazon Prime$","1","",1,c1754080016696
+r1754080258838,3,"^Apple music$","1","",1,c1754080016696
+r1754080278925,3,"^\$75,000 to \$99,999$","1","",1,c1754080016696
+r1754080317767,3,"^I have children under 18$","1","",1,c1754080016696
+r1754080362627,3,"^I am responsible for all of the grocery shopping$","1","",1,c179
+r1754080372100,3,"^Mints$","1","",1,c179
+r1754080376707,3,"^Chocolate$","1","",1,c179
+r1754080381195,3,"^Cookies$","1","",1,c179
+r1754080385339,3,"^Chewing gum$","1","",1,c179
+r1754080392234,3,"^Candy$","1","",1,c179
+r1754080408306,3,"^Oreo$","1","",1,c179
+r1754080416588,3,"^Chips Ahoy!$","1","",1,c179
+r1754080428388,3,"^2-3 times per week$","1","",1,c179
+r1754080481768,3,"^No - I would not like to participate$","1","",1,c179
+r1754080953806,3,"^I purchased it at a retail store or online and a friend or family member change the oil for me$","1","",1,c1751594619546
+r1754081052071,3,"^Definitely would buy$","1","",1,c1751594619546
+r1754081064374,3,"^Yes$","1","",1,c1751594619546
+r1754081141954,3,"^Ready-to-drink coffee beverages$","1","",1,c1754081134847
+r1754081147623,3,"^Beers$","1","",1,c1754081134847
+r1754081156142,3,"^Carbonated soft drinks \(e\.g\., colas, lemon-lime\)$","1","",1,c1754081134847
+r1754081160951,3,"^Energy drinks$","1","",1,c1754081134847
+r1754081166229,3,"^Ready to drink proteins$","1","",1,c1754081134847
+r1754081171545,3,"^Wines$","1","",1,c1754081134847
+r1754081180175,3,"^Sports drinks \(e\.g\., Gatorade\)$","1","",1,c1754081134847
+r1754081199669,3,"^Ready to drink coffees$","1","",1,c1754081134847
+r1754081217596,3,"^C4$","1","",1,c1754081134847
+r1754081221045,3,"^Red Bull$","1","",1,c1754081134847
+r1754081375575,3,"^7-12 year old \(female\)$","1","",1,c1754081362434
+r1754081386404,3,"^13-17 year old \(male\)$","1","",1,c1754081362434
+r1754081403853,3,"^Essential for health$","1","",1,c1754081362434
+r1754081453782,3,"^I have a living parent aged 65 or OLDER$","1","",1,c1754081443317
+r1754081463166,3,"^65-69$","1","",1,c1754081443317
+r1754081700576,3,"^8-12 years old$","1","",1,c1754081362434
+r1754081705219,3,"^13\+ years old$","1","",1,c1754081362434
+r1754081897253,3,"^A few times per week$","1","",1,c1751775599049
+r1754081906794,3,"^Canned/bottled hard seltzers \(e\.g\., White Claw, Truly, etc\.\)$","1","",1,c1751775599049
+r1754081913541,3,"^Beer \(e\.g\., domestic beer, craft beer, imported beer, etc\.\)$","1","",1,c1751775599049
+r1754081922772,3,"^Liquor/spirits either alone or in a cocktail or mixed drink \(e\.g\., whiskey, vodka, rum, tequila\)$","1","",1,c1751775599049
+r1754081930115,3,"^Wine \(e\.g\., red wine, white wine, rosé, sparkling wine, etc\.\)$","1","",1,c1751775599049
+r1754081949799,3,"^Rum$","1","",1,c1751775599049
+r1754081954901,3,"^Whiskey or Bourbon$","1","",1,c1751775599049
+r1754081961571,3,"^Tequila or Mezcal$","1","",1,c1751775599049
+r1754082012235,3,"^In a mixed drink or cocktail only$","1","",1,c1751775599049
+r1754082076187,3,"^C4$","1","",1,c1734194195827
+r1754082085366,3,"^Red Bull$","1","",1,c1734194195827
+r1754082101599,3,"^Within the past week$","1","",1,c1734194195827
+r1754082289457,3,"^While working$","1","",1,c1734194195827
+r1754082326342,3,"^I like it/ it’s a good thing$","1","",1,c1734194195827
+r1754082356215,3,"^Energized$","1","",1,c1734194195827
+r1754082360546,3,"^Motivated$","1","",1,c1734194195827
+r1754082375097,3,"^I enjoy how it makes me feel$","1","",1,c1734194195827
+r1754082388435,3,"^I’m likely to purchase it again$","1","",1,c1734194195827
+r1754082399820,3,"^Yes, and I know what it does$","1","",1,c1734194195827
+r1754082433516,3,"^No, I’m not interested$","1","",1,c1734194195827
+r1754082460673,3,"^My bagel purchasing habits have not changed$","1","",1,c18
+r1754082477467,3,"^Bread aisle$","1","",1,c18
+r1754082491724,3,"^Bagels from the bread aisle$","1","",1,c18
+r1754082530121,3,"^I don’t like the flavors of refrigerated bagels$","1","",1,c18
+r1754082548117,3,"^I try to eat some protein most days$","1","",1,c18
+r1754082566078,3,"^In addition to another bagel product$","1","",1,c18
+r1754082575041,3,"^Breakfast$","1","",1,c18
+r1754082579643,3,"^Lunch$","1","",1,c18
+r1754083414688,3,"^Yes$","1","",1,c1754083402953
+r1754083431231,3,"^Yes, and my trip is already booked$","1","",1,c1754083402953
+r1754083449379,3,"^Fall 2024$","1","",1,c1754083402953
+r1754083463007,3,"^Summer 2023$","1","",1,c1754083402953
+r1754083478153,3,"^5\+$","1","",1,c1754083402953
+r1754083607938,3,"^Winter 2025 / early 2026$","1","",1,c1754083402953
+r1754083629514,3,"^6-9 months ahead$","1","",1,c1754083402953
+r1754083674693,3,"^Yes, postponed$","1","",1,c1754083402953
+r1754083708143,3,"^Health reasons \(excluding COVID\)$","1","",1,c1754083402953
+r1754083730420,3,"^1-3 months in advance$","1","",1,c1754083402953
+r1754083813299,3,"^Duolingo$","1","",1,c1754083800546
+r1754083856008,3,"^I have been a steady user, using the apps multiple times per week$","1","",1,c1754083800546
+r1754083947853,3,"^Its about the same$","1","",1,c1754083800546
+r1754083961500,3,"^No, but i did pay for it in the past$","1","",1,c1754083800546
+r1754084068177,3,"^I am a casual language learner and am happy with the lower tier service$","1","",1,c1754083800546
 r17541,3,"^Fully Cooked Smoked Sausage$","1","",1,c362
 r17542,3,"^Uncooked Bacon$","1","",1,c362
 r17543,3,"^Fresh Breakfast Sausage \(Raw\)$","1","",1,c362
