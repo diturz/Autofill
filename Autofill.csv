@@ -1199,6 +1199,9 @@ c1753984377520,"Holiday Shopping Survey!","",,,,
 c1753984440669,"A few questions about what you're eating!","",,,,
 c1753984554668,"Let’s talk about your health","",,,,
 c1753984604371,"Natural Colors from Plants","",,,,
+c1754073689997,"Tell us about your DIY and power tool experience!","",,,,
+c1754076321149,"Energy Drink Consumption","",,,,
+c1754076351623,"Foods","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -22779,6 +22782,41 @@ r1753985410691,3,"^Durability / resistance$","1","",1,c1740034232323
 r1753985430953,3,"^Ear hook$","1","",1,c1740034232323
 r1754,3,"^I have all of the responsibility for purchasing the food, beverage, and snack products I eat$","1","",1,c3
 r17540,3,"^I mostly shop in a physical store, but occasionally shop online and have my groceries delivered to my home\.$","1","",1,c362
+r1754073705019,3,"^I do most of the work myself with a little help from others \(family/friends/partner/etc\)$","1","",1,c1754073689997
+r1754073778784,3,"^I use power tools and hand tools for DIY projects around my house - not for my primary occupation$","1","",1,c1754073689997
+r1754073793443,3,"^I have moderate experience and use them occasionally$","1","",1,c1754073689997
+r1754073809841,3,"^4-6 months ago$","1","",1,c1754073689997
+r1754073901508,3,"^Yes, within the next month$","1","",1,c1754073689997
+r1754073913681,3,"^Drill$","1","",1,c1754073689997
+r1754073982338,3,"^DeWalt$","1","",1,c1754073689997
+r1754073991555,3,"^Bosch$","1","",1,c1754073689997
+r1754074032623,3,"^Home Depot$","1","",1,c1754073689997
+r1754074285149,3,"^Fast casual – typically higher-quality food and slightly higher prices than fast food, counter ordering \(no table service\) \(e\.g\., Chipotle\)$","1","",1,c1752512507770
+r1754074306986,3,"^Casual dining – informal dine-in restaurants with table service, often a large chain restaurant \(e\.g\., Applebee’s, Chili’s, Olive Garden\)$","1","",1,c1752512507770
+r1754074326908,3,"^Quick serve/fast food – fast ordering, low-cost menus, counter, kiosk, or drive-thru ordering, \(no table service\) \(e\.g\., McDonald’s\)$","1","",1,c1752512507770
+r1754074431253,3,"^Acne$","1","",1,c1752525720070
+r1754074528738,3,"^Regular/standard dry dog food \(no special health focus\)$","1","",1,c490
+r1754076331972,3,"^Often \(a few times a week\)$","1","",1,c1754076321149
+r1754076390321,3,"^Ice cream$","1","",1,c1754076351623
+r1754076397659,3,"^Chocolate candy$","1","",1,c1754076351623
+r1754076403983,3,"^Pretzels$","1","",1,c1754076351623
+r1754076409509,3,"^Popcorn$","1","",1,c1754076351623
+r1754076415311,3,"^Cookies$","1","",1,c1754076351623
+r1754076821661,3,"^Potato chips$","1","",1,c1754076351623
+r1754076831971,3,"^Gummy candy \(e\.g\. gummy worms, bears, etc\.\)$","1","",1,c1754076351623
+r1754076923027,3,"^4 or more times a week$","1","",1,c491
+r1754076959385,3,"^Hot latte$","1","",1,c491
+r1754076966222,3,"^Americano$","1","",1,c491
+r1754077137271,3,"^Credit card \(e\.g\., Visa, Mastercard, Amex, Discover\); does not include store credit cards \(i\.e\., cards you can only use at a certain store\)$","1","",1,c1731380387889
+r1754077147213,3,"^Debit card \(a card that is tied to your checking account\)$","1","",1,c1731380387889
+r1754077166424,3,"^Yes, I have final authority on these types of decisions$","1","",1,c1731380387889
+r1754077210737,3,"^740-799 \(Very good\)$","1","",1,c1731380387889
+r1754077264355,3,"^Life insurance$","1","",1,c1731380387889
+r1754077271829,3,"^Auto insurance$","1","",1,c1731380387889
+r1754077278138,3,"^Homeowners or renters insurance$","1","",1,c1731380387889
+r1754077303039,3,"^GEICO$","1","",1,c1731380387889
+r1754077312973,3,"^State Farm$","1","",1,c1731380387889
+r1754077339660,3,"^\$350–\$399$","1","",1,c1731380387889
 r17541,3,"^Fully Cooked Smoked Sausage$","1","",1,c362
 r17542,3,"^Uncooked Bacon$","1","",1,c362
 r17543,3,"^Fresh Breakfast Sausage \(Raw\)$","1","",1,c362
