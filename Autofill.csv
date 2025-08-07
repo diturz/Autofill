@@ -1226,6 +1226,8 @@ c1754501128913,"Tell Us About Your Mass/Club Purchases","",,,,
 c1754501160200,"Tell Us About Your Off-price Purchases","",,,,
 c1754501193107,"Tell Us About Your Luxury Purchases","",,,,
 c1754501294117,"Tell Us About Your Department Store Purchases","",,,,
+c1754523341150,"Questions about your location!","",,,,
+c1754535583979,"Influencers that you follow!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -23180,6 +23182,39 @@ r1754501278069,3,"^Versace$","1","",1,c1754501193107
 r1754501301561,3,"^Macy’s$","1","",1,c1754501294117
 r1754501305846,3,"^Nordstrom$","1","",1,c1754501294117
 r1754501345568,3,"^Improve slightly$","1","",1,c1754501294117
+r1754523345725,3,"^Chicago, IL$","1","",1,c1754523341150
+r1754523538110,3,"^Sandwiches$","1","",1,c1754523341150
+r1754523542629,3,"^Sushi$","1","",1,c1754523341150
+r1754523546629,3,"^Fried chicken$","1","",1,c1754523341150
+r1754523550044,3,"^Salads$","1","",1,c1754523341150
+r1754523555209,3,"^Burgers$","1","",1,c1754523341150
+r1754523558600,3,"^Pizza$","1","",1,c1754523341150
+r1754523562688,3,"^Seafood$","1","",1,c1754523341150
+r1754523566605,3,"^BBQ$","1","",1,c1754523341150
+r1754523571690,3,"^Breakfast or brunch$","1","",1,c1754523341150
+r1754523578189,3,"^Mediterranean food$","1","",1,c1754523341150
+r1754523583465,3,"^Pasta$","1","",1,c1754523341150
+r1754523589016,3,"^Chinese food$","1","",1,c1754523341150
+r1754523593875,3,"^Desserts \(e\.g\. donuts, ice cream\)$","1","",1,c1754523341150
+r1754523598264,3,"^Tacos or burritos$","1","",1,c1754523341150
+r1754535593224,3,"^Lindsay Stevens \(@lindzoutside\)$","1","",1,c1754535583979
+r1754535598158,3,"^Anna O'Brien \(@glitterandlazers\)$","1","",1,c1754535583979
+r1754535602933,3,"^Matthew and Paul \(@matthewandpaul\)$","1","",1,c1754535583979
+r1754535608188,3,"^Laurie Hernandez \(@lauriehernandez\)$","1","",1,c1754535583979
+r1754535613010,3,"^Emme Zhou \(@emmezhou\)$","1","",1,c1754535583979
+r1754535618039,3,"^Vinny Mui \(@vinnymui\)$","1","",1,c1754535583979
+r1754535633802,3,"^Fiona Chen \(@findingfiona\)$","1","",1,c1754535583979
+r1754535638666,3,"^Alexander Parra \(@alex1leg\)$","1","",1,c1754535583979
+r1754535643524,3,"^Diego Napoles \(@mrnapoles\)$","1","",1,c1754535583979
+r1754535647454,3,"^Nicole Laeno \(@nicolelaeno\)$","1","",1,c1754535583979
+r1754535651988,3,"^Morgan Smith \(@almostcaptainmorgan\)$","1","",1,c1754535583979
+r1754535658513,3,"^Sarah Margaret \(@sarahmargareteats\)$","1","",1,c1754535583979
+r1754535674598,3,"^Morgan Simianer \(@morganlyn97\)$","1","",1,c1754535583979
+r1754535680063,3,"^Nia Sioux \(@niasioux\)$","1","",1,c1754535583979
+r1754535684939,3,"^Becca Tilley \(@beccatilley5\)$","1","",1,c1754535583979
+r1754535689723,3,"^Carina Boltres \(@misscarinab\)$","1","",1,c1754535583979
+r1754535693940,3,"^Ava Jules \(@avajules\)$","1","",1,c1754535583979
+r1754535698799,3,"^Destene Sudduth \(@itsdestene_\)$","1","",1,c1754535583979
 r17546,3,"^Hot Dogs$","1","",1,c362
 r17547,3,"^Yes\. \(I've purchased Fresh Chorizo in the past and liked it but have not purchased it lately\)$","1","",1,c362
 r17548,3,"^COSTCO$","1","",1,c362
