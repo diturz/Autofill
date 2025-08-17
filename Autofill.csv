@@ -1257,6 +1257,11 @@ c1755243698118,"Spice Purchase at Hy-Vee","",,,,
 c1755243802179,"We want to know what’s heating up your screen, your holidays, and your travel plans this season.","",,,,
 c1755243848097,"Home Maintenance!","",,,,
 c1755244690247,"Assessing the Impact: Omnicom–IPG Merger","",,,,
+c1755447185166,"Share your thoughts on a new product!","",,,,
+c1755457234303,"Give us Feedback on Potential Features","",,,,
+c1755457921987,"How to Pull Off the “Perfect” Holiday","",,,,
+c1755458667161,"Tell Us What You Think","",,,,
+c1755458914066,"Protecting your personal property","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -23654,6 +23659,66 @@ r1755244638717,3,"^Illinois$","1","",1,c1755243848097
 r1755244703008,3,"^None of the above$","1","",1,c1755244690247
 r17553,3,"^Reddit$","1","",1,c362
 r17554,3,"^Twitter/X$","1","",1,c362
+r1755447226018,3,"^Bank of America$","1","",1,c1755447185166
+r1755447242072,3,"^Wells Fargo$","1","",1,c1755447185166
+r1755447252535,3,"^Pay Pal$","1","",1,c1755447185166
+r1755447259727,3,"^Cash App$","1","",1,c1755447185166
+r1755447449167,3,"^Chime$","1","",1,c1755447185166
+r1755447466608,3,"^I am currently a Chime member\.$","1","",1,c1755447185166
+r1755447482671,3,"^Very appealing$","1","",1,c1755447185166
+r1755447514555,3,"^Fast Tax Loan$","1","",1,c1755447185166
+r1755447540305,3,"^Clear$","1","",1,c1755447185166
+r1755447551688,3,"^Trustworthy$","1","",1,c1755447185166
+r1755447679977,3,"^Definitely would use$","1","",1,c1755447185166
+r1755447723369,3,"^Very compelling$","1","",1,c1755447185166
+r1755448326375,3,"^I am a homeowner\.$","1","",1,c1731608188258
+r1755448342223,3,"^I own it outright – bought it with cash or paid off mortgage\.$","1","",1,c1731608188258
+r1755457247926,3,"^Yes, I did something special for someone$","1","",1,c1755457234303
+r1755457333191,3,"^A family member \(not a partner or child\)$","1","",1,c1755457234303
+r1755457340217,3,"^A friend$","1","",1,c1755457234303
+r1755457465620,3,"^Amazon \(same or next day\)$","1","",1,c1755457234303
+r1755457475511,3,"^Uber Eats$","1","",1,c1755457234303
+r1755457485641,3,"^Instacart$","1","",1,c1755457234303
+r1755457509166,3,"^White / Caucasian$","1","",1,c1755457234303
+r1755457520895,3,"^I have children at home$","1","",1,c1755457234303
+r1755457937088,3,"^I like them MORE than other delivery brands$","1","",1,c1755457921987
+r1755457950494,3,"^I like it$","1","",1,c1755457921987
+r1755458602357,3,"^10-12 years$","1","",1,c1755457921987
+r1755458610067,3,"^13-17 years$","1","",1,c1755457921987
+r1755458676960,3,"^Meat, poultry, or seafood$","1","",1,c1755458667161
+r1755458682422,3,"^Alcoholic beverages \(beer, wine, spirits\)$","1","",1,c1755458667161
+r1755458691564,3,"^Frozen foods$","1","",1,c1755458667161
+r1755458699616,3,"^Snacks \(chips, crackers, cookies, etc\.\)$","1","",1,c1755458667161
+r1755458715664,3,"^Personal care items \(shampoo, toothpaste, deodorant, etc\.\)$","1","",1,c1755458667161
+r1755458718427,3,"^Fresh produce \(fruits & vegetables\)$","1","",1,c1755458667161
+r1755458724963,3,"^Cleaning supplies$","1","",1,c1755458667161
+r1755458737330,3,"^Beverages \(non-alcoholic\)$","1","",1,c1755458667161
+r1755458744900,3,"^Packaged pantry staples \(pasta, rice, canned goods, etc\.\)$","1","",1,c1755458667161
+r1755458754382,3,"^Vitamins & supplements$","1","",1,c1755458667161
+r1755458768684,3,"^Letter Vitamins \(e\.g\. Vitamin C, Vitamin D\)$","1","",1,c1755458667161
+r1755458776124,3,"^Probiotics / Gut health$","1","",1,c1755458667161
+r1755458786169,3,"^Protein / Amino acids \(e\.g\., whey protein\)$","1","",1,c1755458667161
+r1755458791943,3,"^Fish oil / Omega-3$","1","",1,c1755458667161
+r1755458803334,3,"^Multivitamins \(e\.g\. daily multivitamins\)$","1","",1,c1755458667161
+r1755458820763,3,"^Amazon$","1","",1,c1755458667161
+r1755458828026,3,"^Vitamin Stores \(Vitamin Shoppe, GNC\)$","1","",1,c1755458667161
+r1755458840588,3,"^Pharmacies$","1","",1,c1755458667161
+r1755458851304,3,"^Emergen-C$","1","",1,c1755458667161
+r1755458857688,3,"^Nature Made$","1","",1,c1755458667161
+r1755458865780,3,"^Garden of Life$","1","",1,c1755458667161
+r1755458925799,3,"^18-34$","1","",1,c1755458914066
+r1755458936612,3,"^Own$","1","",1,c1755458914066
+r1755458950407,3,"^Auto$","1","",1,c1755458914066
+r1755458957436,3,"^Life$","1","",1,c1755458914066
+r1755458964668,3,"^Health$","1","",1,c1755458914066
+r1755458971704,3,"^Other types of insurance \(renters, home, personal articles, pet, motorcycle, recreational vehicle, travel, etc\.\)$","1","",1,c1755458914066
+r1755458982513,3,"^Personal articles$","1","",1,c1755458914066
+r1755458990100,3,"^Travel$","1","",1,c1755458914066
+r1755458997671,3,"^Home$","1","",1,c1755458914066
+r1755459016394,3,"^I currently have this insurance$","1","",1,c1755458914066
+r1755459028927,3,"^Jewelry \(wedding rings, watches, gemstones, precious metals, designer jewelry, antique pieces, etc\.\)$","1","",1,c1755458914066
+r1755459042940,3,"^High end electronics \(personal use computers, audio/video equipment, drones, etc\.\)$","1","",1,c1755458914066
+r1755459061566,3,"^banana$","1","",1,c1755458914066
 r17555,3,"^Threads$","1","",1,c362
 r17556,3,"^Instagram$","1","",1,c362
 r17557,3,"^YouTube$","1","",1,c362
