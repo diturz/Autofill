@@ -1265,6 +1265,8 @@ c1755458914066,"Protecting your personal property","",,,,
 c1755597689024,"Tell us what you think of a new product","",,,,
 c1755597765012,"Kid Food Habits","",,,,
 c1755607350985,"Coverage of Personal Articles","",,,,
+c1755624578453,"Automotive & Technology survey","",,,,
+c1755625340130,"What's in your pantry?","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -23757,6 +23759,50 @@ r1755608289136,3,"^Accidental damage$","1","",1,c1755607350985
 r1755608294141,3,"^Travel loss$","1","",1,c1755607350985
 r1755608327550,3,"^Somewhat interested$","1","",1,c1755607350985
 r1755608352201,3,"^Yes$","1","",1,c1755607350985
+r1755624606647,3,"^Every day$","1","",1,c1755624578453
+r1755624625557,3,"^Major urban city \(e\.g\., downtown, dense population\)$","1","",1,c1755624578453
+r1755624642122,3,"^Yes, I own a car$","1","",1,c1755624578453
+r1755624687939,3,"^iOS$","1","",1,c1755624578453
+r1755624718730,3,"^15 - 30 minutes$","1","",1,c1755624578453
+r1755624735931,3,"^Commuting to work$","1","",1,c1755624578453
+r1755624743670,3,"^Commuting to school$","1","",1,c1755624578453
+r1755624749297,3,"^Visiting friends or family$","1","",1,c1755624578453
+r1755624758195,3,"^Social activities or carpooling with friends$","1","",1,c1755624578453
+r1755624768004,3,"^2 - Neutral$","1","",1,c1755624578453
+r1755624789443,3,"^1 -The technology features of a car are something I am willing to splurge on$","1","",1,c1755624578453
+r1755624809929,3,"^3 - I enjoy my time driving$","1","",1,c1755624578453
+r1755624823547,3,"^3 - Driving is relaxing for me$","1","",1,c1755624578453
+r1755624846945,3,"^Apple CarPlay$","1","",1,c1755624578453
+r1755624857903,3,"^Voice Assistant \(e\.g\., Siri, Google Assistant\)$","1","",1,c1755624578453
+r1755624864027,3,"^Music Streaming$","1","",1,c1755624578453
+r1755624872665,3,"^Calls$","1","",1,c1755624578453
+r1755624878625,3,"^Podcasts/Audiobooks$","1","",1,c1755624578453
+r1755624925816,3,"^Frequent software glitches or bugs$","1","",1,c1755624578453
+r1755625017095,3,"^Very often; I constantly try to use Gen AI whenever it might be possible or experiment with how it handles different tasks$","1","",1,c1755624578453
+r1755625032302,3,"^Summarization of text$","1","",1,c1755624578453
+r1755625039581,3,"^Learning and education$","1","",1,c1755624578453
+r1755625053964,3,"^5 - Very Satisfied$","1","",1,c1755624578453
+r1755625118549,3,"^Privacy concerns$","1","",1,c1755624578453
+r1755625129056,3,"^Limited functionality$","1","",1,c1755624578453
+r1755625146621,3,"^ChatGPT \(OpenAI\)$","1","",1,c1755624578453
+r1755625220356,3,"^Focus on driver safety$","1","",1,c1755624578453
+r1755625229952,3,"^Entertainment$","1","",1,c1755624578453
+r1755625249773,3,"^Experience in automotive technology$","1","",1,c1755624578453
+r1755625281273,3,"^Data Privacy Concerns: Worried about the car collecting too much personal data\.$","1","",1,c1755624578453
+r1755625289995,3,"^Security Risks: Concerns about hacking or unauthorized access to car systems\.$","1","",1,c1755624578453
+r1755625349257,3,"^All of it$","1","",1,c1755625340130
+r1755625364099,3,"^Walmart$","1","",1,c1755625340130
+r1755625372203,3,"^Amazon$","1","",1,c1755625340130
+r1755625379802,3,"^Whole Foods$","1","",1,c1755625340130
+r1755625387487,3,"^Target$","1","",1,c1755625340130
+r1755625403013,3,"^Non-GMO$","1","",1,c1755625340130
+r1755625416351,3,"^Brand reputation$","1","",1,c1755625340130
+r1755625423231,3,"^Taste profile/flavor$","1","",1,c1755625340130
+r1755625435620,3,"^Sriracha$","1","",1,c1755625340130
+r1755625444296,3,"^Teriyaki Sauce$","1","",1,c1755625340130
+r1755625472948,3,"^Nutiva$","1","",1,c1755625340130
+r1755625500341,3,"^I have tried coconut aminos before and am open to using it again$","1","",1,c1755625340130
+r1755625514634,3,"^I often buy new brands or products to try something new and different$","1","",1,c1755625340130
 r17557,3,"^YouTube$","1","",1,c362
 r17558,3,"^TikTok$","1","",1,c362
 r17559,3,"^Facebook$","1","",1,c362
