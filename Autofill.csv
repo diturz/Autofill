@@ -1262,6 +1262,8 @@ c1755457234303,"Give us Feedback on Potential Features","",,,,
 c1755457921987,"How to Pull Off the “Perfect” Holiday","",,,,
 c1755458667161,"Tell Us What You Think","",,,,
 c1755458914066,"Protecting your personal property","",,,,
+c1755597689024,"Tell us what you think of a new product","",,,,
+c1755597765012,"Kid Food Habits","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -23720,7 +23722,25 @@ r1755459028927,3,"^Jewelry \(wedding rings, watches, gemstones, precious metals,
 r1755459042940,3,"^High end electronics \(personal use computers, audio/video equipment, drones, etc\.\)$","1","",1,c1755458914066
 r1755459061566,3,"^banana$","1","",1,c1755458914066
 r17555,3,"^Threads$","1","",1,c362
+r1755597704449,3,"^Cat\(s\)$","1","",1,c1755597689024
+r1755597710132,3,"^Dog\(s\)$","1","",1,c1755597689024
+r1755597722311,3,"^I am primarily responsible$","1","",1,c1755597689024
+r1755597730990,3,"^Dry cat food$","1","",1,c1755597689024
+r1755597740473,3,"^Wet cat food \(cans, pouches, cups, trays, etc\.\)$","1","",1,c1755597689024
+r1755597769807,3,"^4 or more$","1","",1,c1755597765012
 r17556,3,"^Instagram$","1","",1,c362
+r1755603974034,3,"^9-10 years$","1","",1,c1755597765012
+r1755603980851,3,"^13 to 18$","1","",1,c1755597765012
+r1755605188050,3,"^Kraft$","1","",1,c1755597765012
+r1755605196266,3,"^Cheetos Mac 'n' Cheese$","1","",1,c1755597765012
+r1755605205548,3,"^Cracker Barrel$","1","",1,c1755597765012
+r1755605209869,3,"^Daiya$","1","",1,c1755597765012
+r1755605258887,3,"^More than once a week$","1","",1,c1755597765012
+r1755605366466,3,"^As a side dish$","1","",1,c1755597765012
+r1755605810916,3,"^I saw it in the store while I was looking for meal options$","1","",1,c1755597765012
+r1755605861877,3,"^9-10 years$","1","",1,c1755597765012
+r1755606048152,3,"^They like to try out new flavors that look good$","1","",1,c1755597765012
+r1755606147312,3,"^I buy a brand because it was recommended to me by someone I trust$","1","",1,c1755597765012
 r17557,3,"^YouTube$","1","",1,c362
 r17558,3,"^TikTok$","1","",1,c362
 r17559,3,"^Facebook$","1","",1,c362
