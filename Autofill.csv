@@ -1264,6 +1264,7 @@ c1755458667161,"Tell Us What You Think","",,,,
 c1755458914066,"Protecting your personal property","",,,,
 c1755597689024,"Tell us what you think of a new product","",,,,
 c1755597765012,"Kid Food Habits","",,,,
+c1755607350985,"Coverage of Personal Articles","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -23741,6 +23742,21 @@ r1755605810916,3,"^I saw it in the store while I was looking for meal options$",
 r1755605861877,3,"^9-10 years$","1","",1,c1755597765012
 r1755606048152,3,"^They like to try out new flavors that look good$","1","",1,c1755597765012
 r1755606147312,3,"^I buy a brand because it was recommended to me by someone I trust$","1","",1,c1755597765012
+r1755607363275,3,"^Yes, I currently have a personal articles policy\.$","1","",1,c1755607350985
+r1755607973651,3,"^Auto insurance$","1","",1,c1755607350985
+r1755607977161,3,"^Homeowners insurance$","1","",1,c1755607350985
+r1755607981695,3,"^Life insurance$","1","",1,c1755607350985
+r1755607987186,3,"^Health insurance$","1","",1,c1755607350985
+r1755607991534,3,"^Individual Retirement Account \(IRA\)$","1","",1,c1755607350985
+r1755607998666,3,"^Pet insurance$","1","",1,c1755607350985
+r1755608143722,3,"^I prefer online self-service capabilities for my insurance without the help of an insurance agent$","1","",1,c1755607350985
+r1755608253090,3,"^Less than 3 months ago$","1","",1,c1755607350985
+r1755608267693,3,"^Likely$","1","",1,c1755607350985
+r1755608283580,3,"^Lost or misplaced items$","1","",1,c1755607350985
+r1755608289136,3,"^Accidental damage$","1","",1,c1755607350985
+r1755608294141,3,"^Travel loss$","1","",1,c1755607350985
+r1755608327550,3,"^Somewhat interested$","1","",1,c1755607350985
+r1755608352201,3,"^Yes$","1","",1,c1755607350985
 r17557,3,"^YouTube$","1","",1,c362
 r17558,3,"^TikTok$","1","",1,c362
 r17559,3,"^Facebook$","1","",1,c362
