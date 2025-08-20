@@ -1,4 +1,4 @@
-^### FAST AUTOFILL - AUTOFILL PROFILES ###,,,,,,
+### FAST AUTOFILL - AUTOFILL PROFILES ###,,,,,,
 Profile ID,Name,Site,Hotkey,,,
 c1,"A Few Questions About You","","",,,
 c10,"Fast food restaurants you've ordered from recently","","",,,
@@ -1272,6 +1272,10 @@ c1755633509294,"A Few Quick Questions","",,,,
 c1755633674213,"Home Improvement Shopper Behavior","",,,,
 c1755633844785,"All About Fiber!","",,,,
 c1755633984956,"Calling all readers!","",,,,
+c1755701188842,"Children's OTC Medications","",,,,
+c1755701569115,"Tell Us Your Thoughts on Some Packaging","",,,,
+c1755702166099,"What Are Your Thoughts on These Product Claims","",,,,
+c1755702214741,"'Tis the Season for Holiday Shopping!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap\.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -1593,6 +1597,7 @@ c98,"Let's talk about clothes!","","",,,
 c99,"Primary Home Water Source","","",,,
 ### FAST AUTOFILL - AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
+$,undefined,"undefined","undefined","",undefined,undefined
 r1,3,"\^Costco\$","1","",1,c1
 r10,3,"\^Delivery from a local store \\(during a scheduled time\\)\$","1","",1,c1
 r100,3,"\^Fitness band / tracker\$","1","",1,c4
@@ -23844,6 +23849,47 @@ r1755634014000,3,"\^Kindle Store\$","1","",1,c1755633984956
 r1755634023431,3,"\^The library\$","1","",1,c1755633984956
 r1755634034651,3,"\^From friends or family\$","1","",1,c1755633984956
 r17557,3,"\^YouTube\$","1","",1,c362
+r1755700641040,3,"^Working full-time \(30 or more hrs\. per week\)$","1","",1,c494
+r1755700709822,3,"^I am part of a committee that collectively decides on purchasing for some or all tools$","1","",1,c494
+r1755700721937,3,"^Manager / Senior Manager$","1","",1,c494
+r1755700733122,3,"^Daily$","1","",1,c494
+r1755700766806,3,"^Let’s go!$","1","",1,c494
+r1755701133047,3,"^Be there, from anywhere$","1","",1,c494
+r1755701198805,3,"^Spouse/partner$","1","",1,c1755701188842
+r1755701206028,3,"^Children aged 7-12$","1","",1,c1755701188842
+r1755701383453,3,"^Children aged 13-17$","1","",1,c1755701188842
+r1755701414462,3,"^Yes – I am solely responsible$","1","",1,c1755701188842
+r1755701427491,3,"^Used an over-the-counter pain medication \(e\.g\., TYLENOL, Advil, Motrin\)$","1","",1,c1755701188842
+r1755701435977,3,"^Used a prescription medicine from a doctor$","1","",1,c1755701188842
+r1755701442576,3,"^Used vitamins/supplements \(e\.g\., multi-vitamin, calcium, vitamin D, Zinc, melatonin\)$","1","",1,c1755701188842
+r1755701455109,3,"^Infant/Children's Tylenol$","1","",1,c1755701188842
+r1755701460696,3,"^Infant/Children's Motrin$","1","",1,c1755701188842
+r1755701477773,3,"^Children's Store Brand Tylenol$","1","",1,c1755701188842
+r1755701503253,3,"^It works the best$","1","",1,c1755701188842
+r1755701509812,3,"^It is the lowest price$","1","",1,c1755701188842
+r1755701577400,3,"^Chips$","1","",1,c1755701569115
+r1755701584089,3,"^Popcorn$","1","",1,c1755701569115
+r1755701589875,3,"^Pretzels$","1","",1,c1755701569115
+r1755701949540,3,"^Cookies$","1","",1,c1755701569115
+r1755701959645,3,"^Mainstream Crackers \(e\.g\. Ritz, Goldfish, Cheez-It\)$","1","",1,c1755701569115
+r1755701978406,3,"^Cheez-It$","1","",1,c1755701569115
+r1755701985015,3,"^Ritz$","1","",1,c1755701569115
+r1755702010544,3,"^All of it$","1","",1,c1755701569115
+r1755702115195,3,"^Kroger$","1","",1,c1739329488191
+r1755702174727,3,"^Saltines$","1","",1,c1755702166099
+r1755702181600,3,"^Graham Crackers$","1","",1,c1755702166099
+r1755702187101,3,"^Animal Crackers$","1","",1,c1755702166099
+r1755702192746,3,"^Mainstream Crackers \(e\.g\. Ritz, Cheez-It, Goldfish\)$","1","",1,c1755702166099
+r1755702224683,3,"^Combination of In-Store and Online Shopping$","1","",1,c1755702214741
+r1755702248824,3,"^Immediacy of purchase$","1","",1,c1755702214741
+r1755702259883,3,"^Ease of comparing products/prices$","1","",1,c1755702214741
+r1755702279080,3,"^Big-Box Store \(Walmart, Target, etc\.\)$","1","",1,c1755702214741
+r1755702290274,3,"^Online Retailer \(Amazon, etc\.\)$","1","",1,c1755702214741
+r1755702305160,3,"^I plan to shop for Black Friday deals\.$","1","",1,c1755702214741
+r1755702319112,3,"^November$","1","",1,c1755702214741
+r1755702336069,3,"^Holiday Gifts for Family & Friends$","1","",1,c1755702214741
+r1755702344129,3,"^Holiday-Themed Decorations \(Home Decor, Yard Decor, etc\.\)$","1","",1,c1755702214741
+r1755702548731,3,"^Recommendation$","1","",1,c1755702214741
 r17558,3,"\^TikTok\$","1","",1,c362
 r17559,3,"\^Facebook\$","1","",1,c362
 r1756,3,"\^Hot cereal \\(including instant oatmeal, rolled oats, steel cut oats, grits, polenta, etc\\.\\)\$","1","",1,c3
@@ -31169,4 +31215,3 @@ r9995,3,"\^Mass merchandiser \\(e\\.g\\., Walmart, Target\\)\$","1","",1,c17
 r9996,3,"\^Amazon\$","1","",1,c17
 r9997,3,"\^Warehouse clubs \\(e\\.g\\., Costco, Sam's Club\\)\$","1","",1,c17
 r9998,3,"\^Supermarket \\(e\\.g\\., Kroger, Safeway\\)\$","1","",1,c17
-$
