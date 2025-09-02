@@ -1330,6 +1330,7 @@ c1756543412624,"Hobbies Survey!","",,,,
 c1756543471745,"Let’s talk about your experiences with your Insurance providers","",,,,
 c1756543508092,"Everyday Essentials and You","",,,,
 c1756544657126,"Let's talk about baked goods!","",,,,
+c1756779010848,"Candle & Home Fragrance Shoppers!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -25094,6 +25095,43 @@ r1756605339964,3,"^Unique/Original$","1","",1,c17
 r1756605379854,3,"^We believe Real is the best flavor\.$","1","",1,c17
 r1756605399621,3,"^Packaging C$","1","",1,c17
 r17567,3,"^Smoky flavor choices are important to me when purchasing Smoked Sausage$","1","",1,c362
+r1756778504978,3,"^I’m open to subscriptions/memberships if they offer good value or benefits\.$","1","",1,c91
+r1756778569721,3,"^Amazon Prime$","1","",1,c91
+r1756778574702,3,"^UberOne$","1","",1,c91
+r1756778578599,3,"^Target Circle$","1","",1,c91
+r1756778588165,3,"^Kroger Boost$","1","",1,c91
+r1756778591766,3,"^Sam’s Club$","1","",1,c91
+r1756778595479,3,"^Costco$","1","",1,c91
+r1756778598757,3,"^Walmart\+$","1","",1,c91
+r1756778604594,3,"^Door Dash – Dash Pass$","1","",1,c91
+r1756778609067,3,"^Instacart\+$","1","",1,c91
+r1756778613098,3,"^Target Circle 360$","1","",1,c91
+r1756778652322,3,"^A monthly or annual paid Walmart membership service that gives you access to money and time saving benefits like free delivery, fuel discounts & more$","1","",1,c91
+r1756778721072,3,"^Monthly paid membership$","1","",1,c91
+r1756778740419,3,"^Youtube Premium$","1","",1,c91
+r1756778745551,3,"^Max$","1","",1,c91
+r1756778750427,3,"^Netflix$","1","",1,c91
+r1756778755441,3,"^Disney\+$","1","",1,c91
+r1756778760526,3,"^Hulu$","1","",1,c91
+r1756778768968,3,"^Crunchyroll$","1","",1,c91
+r1756778775558,3,"^Youtube Premium Lite$","1","",1,c91
+r1756778793976,3,"^Paramount\+$","1","",1,c91
+r1756778799060,3,"^Peacock$","1","",1,c91
+r1756778929829,3,"^Discounted price$","1","",1,c91
+r1756779035823,3,"^September$","1","",1,c1756779010848
+r1756779150022,3,"^I select the scents that are available in the store$","1","",1,c1756779010848
+r1756779167185,3,"^A new scent feels like a refresh for my home$","1","",1,c1756779010848
+r1756779209776,3,"^I like to have different scents in different rooms$","1","",1,c1756779010848
+r1756779260654,3,"^When I want to treat myself$","1","",1,c1756779010848
+r1756779275886,3,"^Brand$","1","",1,c1756779010848
+r1756779279258,3,"^Convenience$","1","",1,c1756779010848
+r1756779284271,3,"^Natural wax, scent, essential oils$","1","",1,c1756779010848
+r1756779297233,3,"^Natural wax \(soy, coconut, palm, bees\)$","1","",1,c1756779010848
+r1756779306654,3,"^New Year's Eve$","1","",1,c1756779010848
+r1756779310815,3,"^Valentine's Day$","1","",1,c1756779010848
+r1756779322395,3,"^Halloween$","1","",1,c1756779010848
+r1756779326895,3,"^Thanksgiving$","1","",1,c1756779010848
+r1756779331722,3,"^Christmas$","1","",1,c1756779010848
 r17568,3,"^I often purchase Smoked Sausage because it is convenient and easy to prepare$","1","",1,c362
 r17569,3,"^I look for different or spicy flavors when purchasing Smoked Sausage$","1","",1,c362
 r1757,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
@@ -25296,7 +25334,6 @@ r17756,3,"^Comes in packaging that is easy to use$","1","",1,c378
 r17757,3,"^I put time and effort into making mealtime more special$","1","",1,c378
 r17758,3,"^I care about the look and feel of paper napkins$","1","",1,c378
 r17759,3,"^Some paper napkins are much better than others$","1","",1,c378
-r1776,3,"^Target$","1","",1,c91
 r17760,3,"^Disposable plates$","1","",1,c378
 r17761,3,"^Disposable cutlery \(knives, forks, spoons, etc\)$","1","",1,c378
 r17762,3,"^Plastic$","1","",1,c378
@@ -25307,7 +25344,6 @@ r17766,3,"^Cook$","1","",1,c379
 r17767,3,"^Drank a beverage$","1","",1,c379
 r17768,3,"^Eat$","1","",1,c379
 r17769,3,"^Shop$","1","",1,c379
-r1777,3,"^Walmart$","1","",1,c91
 r17770,3,"^I currently drink/consume alcohol$","1","",1,c379
 r17771,3,"^Wine \(i\.e\., Red wine, White wine, Rose, etc\.\)$","1","",1,c379
 r17772,3,"^Liquor \(i\.e\., Vodka, Tequila, Whiskey, etc\.\)$","1","",1,c379
