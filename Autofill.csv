@@ -1331,6 +1331,13 @@ c1756543471745,"Let’s talk about your experiences with your Insurance provider
 c1756543508092,"Everyday Essentials and You","",,,,
 c1756544657126,"Let's talk about baked goods!","",,,,
 c1756779010848,"Candle & Home Fragrance Shoppers!","",,,,
+c1756841371579,"What's the best deal?","",,,,
+c1756842061767,"ChatGPT Users","",,,,
+c1756842110909,"Questions about Apparel brands!","",,,,
+c1756853717529,"All About Your Preferences","",,,,
+c1756853880247,"New Product Ideas!","",,,,
+c1756856272706,"Happy Halloween 2026!","",,,,
+c1756856628405,"Shoe Shopping","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -25133,6 +25140,134 @@ r1756779322395,3,"^Halloween$","1","",1,c1756779010848
 r1756779326895,3,"^Thanksgiving$","1","",1,c1756779010848
 r1756779331722,3,"^Christmas$","1","",1,c1756779010848
 r17568,3,"^I often purchase Smoked Sausage because it is convenient and easy to prepare$","1","",1,c362
+r1756841313266,3,"^Same As Last Year$","1","",1,c87
+r1756841325210,3,"^October or early November$","1","",1,c87
+r1756841335663,3,"^New or Unique$","1","",1,c87
+r1756841339563,3,"^Online reviews$","1","",1,c87
+r1756841344179,3,"^Child's request or wish list$","1","",1,c87
+r1756841375978,3,"^Potato Chips$","1","",1,c1756841371579
+r1756841379049,3,"^Coffee$","1","",1,c1756841371579
+r1756841382661,3,"^Chewing Gum$","1","",1,c1756841371579
+r1756841386452,3,"^Tobacco/Nicotine Products$","1","",1,c1756841371579
+r1756841389607,3,"^Chocolate$","1","",1,c1756841371579
+r1756841393098,3,"^Fruit Juices/Soft Drinks$","1","",1,c1756841371579
+r1756842016434,3,"^Nicotine pouches$","1","",1,c1756841371579
+r1756842020488,3,"^Cigarettes \(manufactured or roll your own\)$","1","",1,c1756841371579
+r1756842024182,3,"^Vaping Products$","1","",1,c1756841371579
+r1756842035253,3,"^I smoke cigarettes and I vape$","1","",1,c1756841371579
+r1756842066689,3,"^Yes$","1","",1,c1756842061767
+r1756842075098,3,"^ChatGPT\.com \(via my laptop or PC\)$","1","",1,c1756842061767
+r1756842083326,3,"^ChatGPT Mobile App \(via my mobile phone or tablet\)$","1","",1,c1756842061767
+r1756842145467,3,"^Stockx$","1","",1,c1756842110909
+r1756853538988,3,"^Rebag$","1","",1,c1756842110909
+r1756853547907,3,"^ThredUp$","1","",1,c1756842110909
+r1756853557753,3,"^Buffalo Exchange$","1","",1,c1756842110909
+r1756853566603,3,"^Poshmark$","1","",1,c1756842110909
+r1756853573743,3,"^Depop$","1","",1,c1756842110909
+r1756853585992,3,"^Stadium Goods$","1","",1,c1756842110909
+r1756853600076,3,"^Platos Closet$","1","",1,c1756842110909
+r1756853608477,3,"^Reflaunt$","1","",1,c1756842110909
+r1756853629258,3,"^Yes$","1","",1,c1756842110909
+r1756853653872,3,"^Thrift stores$","1","",1,c1756842110909
+r1756853662895,3,"^I prefer to shop in store$","1","",1,c1756842110909
+r1756853724272,3,"^I am the one that primarily purchases food, drinks, and/or snacks for my household$","1","",1,c1756853717529
+r1756853883415,3,"^W$","1","",1,c1756853880247
+r1756854009934,3,"^Kroger$","1","",1,c1739329488191
+r1756854013989,3,"^Sam's Club$","1","",1,c1739329488191
+r1756854017144,3,"^Costco$","1","",1,c1739329488191
+r1756854026642,3,"^Cat\(s\)$","1","",1,c1739329488191
+r1756854030622,3,"^Dog\(s\)$","1","",1,c1739329488191
+r1756854049386,3,"^Yes$","1","",1,c1739329488191
+r1756854060322,3,"^Unique flavors$","1","",1,c1739329488191
+r1756854064583,3,"^Unique seasonal items$","1","",1,c1739329488191
+r1756854068105,3,"^Unique brands$","1","",1,c1739329488191
+r1756856278266,3,"^Chocolate$","1","",1,c1756856272706
+r1756856282415,3,"^Ice Cream and Frozen Novelties$","1","",1,c1756856272706
+r1756856287040,3,"^Crackers$","1","",1,c1756856272706
+r1756856293179,3,"^Popcorn - Prepackaged, Ready-To-Eat \(Not microwavable\)$","1","",1,c1756856272706
+r1756856301198,3,"^Cheese crisps \(i\.e\. Cheez-Its, Cheetos, etc\.\)$","1","",1,c1756856272706
+r1756856304244,3,"^Nuts, Seeds, or Trail Mix$","1","",1,c1756856272706
+r1756856308165,3,"^Portable shelf-stable breakfast foods \(e\.g\. breakfast bars, granola bars, breakfast biscuits, etc\.\)$","1","",1,c1756856272706
+r1756856313345,3,"^Pre-baked Cookie and/or Holiday Decorating kits$","1","",1,c1756856272706
+r1756856320366,3,"^Non-Chocolate Candy \(e\.g\. gummies, sour candy, hard candy, etc\.\)$","1","",1,c1756856272706
+r1756856325948,3,"^Energy or Protein bars$","1","",1,c1756856272706
+r1756856351636,3,"^I have children at home$","1","",1,c1756856272706
+r1756856363339,3,"^Simple build and decorate$","1","",1,c1756856272706
+r1756856375014,3,"^Complex build and decorate$","1","",1,c1756856272706
+r1756856383968,3,"^Myself$","1","",1,c1756856272706
+r1756856387329,3,"^My Kids$","1","",1,c1756856272706
+r1756856391369,3,"^Gifts for others$","1","",1,c1756856272706
+r1756856401022,3,"^Girl 8-13 years old$","1","",1,c1756856272706
+r1756856404699,3,"^Boy 13-16 years old$","1","",1,c1756856272706
+r1756856439368,3,"^Yes$","1","",1,c1756856272706
+r1756856461704,3,"^Limited edition$","1","",1,c1756856272706
+r1756856465880,3,"^Eye-catching packaging$","1","",1,c1756856272706
+r1756856476592,3,"^Watching Scary movies$","1","",1,c1756856272706
+r1756856481726,3,"^Building a pre-made Halloween decorating cookie kit$","1","",1,c1756856272706
+r1756856486301,3,"^Halloween party/group gathering$","1","",1,c1756856272706
+r1756856491259,3,"^Going Trick-or-Treating$","1","",1,c1756856272706
+r1756856497133,3,"^Decorating Pre-Made Halloween cookies from a kit$","1","",1,c1756856272706
+r1756856500565,3,"^Carving a pumpkin$","1","",1,c1756856272706
+r1756856519182,3,"^Traditional/Classic$","1","",1,c1756856272706
+r1756856524090,3,"^Unique Structures$","1","",1,c1756856272706
+r1756856527995,3,"^Color Themes$","1","",1,c1756856272706
+r1756856553990,3,"^Graveyard / Zombies$","1","",1,c1756856272706
+r1756856557579,3,"^Monsters & Creatures$","1","",1,c1756856272706
+r1756856561067,3,"^Vampires$","1","",1,c1756856272706
+r1756856566655,3,"^Haunted Houses$","1","",1,c1756856272706
+r1756856576717,3,"^Haunted House$","1","",1,c1756856272706
+r1756856583675,3,"^Graveyard$","1","",1,c1756856272706
+r1756856587712,3,"^Pumpkin$","1","",1,c1756856272706
+r1756856599367,3,"^Mass merchandise/discount department store\(such as Walmart, Target, Kmart\)$","1","",1,c1756856272706
+r1756856603838,3,"^Warehouse/club stores \(ex: Costco, Sam’sClub, BJ’s\)$","1","",1,c1756856272706
+r1756856608620,3,"^Online \(ex: Amazon\.com, stores websites\)$","1","",1,c1756856272706
+r1756856617099,3,"^\$20 or more$","1","",1,c1756856272706
+r1756856634777,3,"^Famous Footwear$","1","",1,c1756856628405
+r1756856640700,3,"^Footlocker$","1","",1,c1756856628405
+r1756856657871,3,"^Stuart Weitzman$","1","",1,c1756856628405
+r1756856666511,3,"^Allen Edmonds$","1","",1,c1756856628405
+r1756856679672,3,"^Coach$","1","",1,c1756856628405
+r1756856683134,3,"^Cole Hann$","1","",1,c1756856628405
+r1756856696669,3,"^More than \$1000 Annually$","1","",1,c1756856628405
+r1756856704970,3,"^Somewhat more$","1","",1,c1756856628405
+r1756856712516,3,"^I needed to refresh my wardrobe$","1","",1,c1756856628405
+r1756856721856,3,"^I buy the same amount of shoes, but the prices have gone up$","1","",1,c1756856628405
+r1756856726794,3,"^I started buying better quality / more expensive products/ brands$","1","",1,c1756856628405
+r1756856759921,3,"^Somewhat impacts my purchase decision$","1","",1,c1756856628405
+r1756856770962,3,"^Gift with purchase$","1","",1,c1756856628405
+r1756856780884,3,"^Early access to new product drops$","1","",1,c1756856628405
+r1756856785030,3,"^Cash back/store credits for future purchases$","1","",1,c1756856628405
+r1756856811863,3,"^Likely$","1","",1,c1756856628405
+r1756856823277,3,"^5\+ times per year$","1","",1,c1756856628405
+r1756856871373,3,"^Availability of national brands I like \(e\.g\., Nike, Adidas, Cole Haan, Sam Edelman\)$","1","",1,c1756856628405
+r1756856879653,3,"^Quality of items offered$","1","",1,c1756856628405
+r1756856940302,3,"^Excellent value for money$","1","",1,c1756856628405
+r1756857082125,3,"^Adult Vitamins, Minerals, or Supplements$","1","",1,c1751767756559
+r1756857086483,3,"^Adult Pain Relief products$","1","",1,c1751767756559
+r1756857090180,3,"^Body Moisturizers or Lotions$","1","",1,c1751767756559
+r1756857093597,3,"^Products to relieve heartburn$","1","",1,c1751767756559
+r1756857097590,3,"^Adult Cold or Flu products$","1","",1,c1751767756559
+r1756857104881,3,"^Supplements to boost your immune system$","1","",1,c1751767756559
+r1756857109678,3,"^Digestive Health$","1","",1,c1751767756559
+r1756857113659,3,"^Sleep$","1","",1,c1751767756559
+r1756857116843,3,"^Multivitamins$","1","",1,c1751767756559
+r1756857120577,3,"^Letter Vitamins$","1","",1,c1751767756559
+r1756857132495,3,"^Club Store \(such as Costco, Sam’s Club\)$","1","",1,c1751767756559
+r1756857136868,3,"^Drug Store \(such as CVS, Walgreens\)$","1","",1,c1751767756559
+r1756857141240,3,"^Online Store \(such as Amazon\)$","1","",1,c1751767756559
+r1756857145897,3,"^Mass Merchandiser \(such as Target, Walmart\)$","1","",1,c1751767756559
+r1756857166744,3,"^Yes$","1","",1,c1736894963972
+r1756857177166,3,"^IHG$","1","",1,c1736894963972
+r1756857180709,3,"^Hotels\.com$","1","",1,c1736894963972
+r1756857184460,3,"^Expedia$","1","",1,c1736894963972
+r1756857187702,3,"^Booking\.com$","1","",1,c1736894963972
+r1756857190589,3,"^Hilton$","1","",1,c1736894963972
+r1756857201969,3,"^Travelocity$","1","",1,c1736894963972
+r1756857208385,3,"^Vrbo$","1","",1,c1736894963972
+r1756857211562,3,"^Airbnb$","1","",1,c1736894963972
+r1756857215101,3,"^Priceline$","1","",1,c1736894963972
+r1756857218206,3,"^Marriott$","1","",1,c1736894963972
+r1756857239773,3,"^5\+$","1","",1,c1736894963972
 r17569,3,"^I look for different or spicy flavors when purchasing Smoked Sausage$","1","",1,c362
 r1757,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
 r17570,3,"^I have paid more for a Premium Smoked Sausage made with healthier ingredients$","1","",1,c362
