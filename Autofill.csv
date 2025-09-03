@@ -1339,6 +1339,7 @@ c1756853880247,"New Product Ideas!","",,,,
 c1756856272706,"Happy Halloween 2026!","",,,,
 c1756856628405,"Shoe Shopping","",,,,
 c1756863880378,"How Do You Feed Your Pet?","",,,,
+c1756864728789,"Your insurance usage","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -25305,6 +25306,16 @@ r1756864095942,3,"^I don’t recall seeing any ads$","1","",1,c1756863880378
 r1756864106898,3,"^Frozen$","1","",1,c1756863880378
 r1756864110037,3,"^Toppers/mix-ins$","1","",1,c1756863880378
 r1756864113620,3,"^Tubs/trays$","1","",1,c1756863880378
+r1756864735571,3,"^Health$","1","",1,c1756864728789
+r1756864741585,3,"^Car$","1","",1,c1756864728789
+r1756864746923,3,"^Homeowners$","1","",1,c1756864728789
+r1756864752793,3,"^Life$","1","",1,c1756864728789
+r1756864765596,3,"^You make the decisions by yourself$","1","",1,c1756864728789
+r1756864844967,3,"^Very important$","1","",1,c1756864728789
+r1756864883373,3,"^Monthly$","1","",1,c1756864728789
+r1756865135402,3,"^Somewhat more important$","1","",1,c1756864728789
+r1756865191994,3,"^I believe insurance is an important part of financial security$","1","",1,c1756864728789
+r1756865210318,3,"^Somewhat easy – it would require some effort, but I would be able to get by$","1","",1,c1756864728789
 r17569,3,"^I look for different or spicy flavors when purchasing Smoked Sausage$","1","",1,c362
 r1757,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
 r17570,3,"^I have paid more for a Premium Smoked Sausage made with healthier ingredients$","1","",1,c362
