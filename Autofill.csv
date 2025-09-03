@@ -1338,6 +1338,7 @@ c1756853717529,"All About Your Preferences","",,,,
 c1756853880247,"New Product Ideas!","",,,,
 c1756856272706,"Happy Halloween 2026!","",,,,
 c1756856628405,"Shoe Shopping","",,,,
+c1756863880378,"How Do You Feed Your Pet?","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -25268,6 +25269,42 @@ r1756857211562,3,"^Airbnb$","1","",1,c1736894963972
 r1756857215101,3,"^Priceline$","1","",1,c1736894963972
 r1756857218206,3,"^Marriott$","1","",1,c1736894963972
 r1756857239773,3,"^5\+$","1","",1,c1736894963972
+r1756860000716,3,"^A Pod Device$","1","",1,c1756841371579
+r1756860007442,3,"^JUUL$","1","",1,c1756841371579
+r1756860020905,3,"^I confirm & agree to participate$","1","",1,c1756841371579
+r1756860367758,3,"^2$","1","",1,c1756841371579
+r1756863342694,3,"^Man$","1","",1,c166
+r1756863534495,3,"^25-34$","1","",1,c166
+r1756863550122,3,"^\$75,000 - \$99,999$","1","",1,c166
+r1756863559394,3,"^White$","1","",1,c166
+r1756863569156,3,"^Married$","1","",1,c166
+r1756863584518,3,"^Female, Ages 10-14$","1","",1,c166
+r1756863588090,3,"^Male, Ages 10-14$","1","",1,c166
+r1756863596734,3,"^Watched Disney Channel or Disney Junior$","1","",1,c166
+r1756863600112,3,"^Experienced a Disney guided tour vacation \(such as Adventures by Disney or National Geographic Expeditions\)$","1","",1,c166
+r1756863603480,3,"^Watched Disney\+$","1","",1,c166
+r1756863612659,3,"^Played a Disney video game \(such as Kingdom Hearts, Disney Dreamlight Valley, Disney Speedstorm, Disney Illusion Island, Disney Epic Mickey\)$","1","",1,c166
+r1756863619613,3,"^Purchased Disney products like toys or clothing$","1","",1,c166
+r1756863623543,3,"^Visited a Disney Park \(such as Walt Disney World or Disneyland\)$","1","",1,c166
+r1756863628458,3,"^Watched a Disney movie in theaters$","1","",1,c166
+r1756863634609,3,"^Went on a Disney Cruise Line vacation$","1","",1,c166
+r1756863639573,3,"^Attended a Disney live theatrical performance \(such as Disney on Ice, The Lion King, Aladdin, Frozen, Beauty and the Beast, Newsies\)$","1","",1,c166
+r1756863897260,3,"^Yes, I am the primary purchaser\.$","1","",1,c1756863880378
+r1756863915797,3,"^Freeze-dried/raw$","1","",1,c1756863880378
+r1756863919891,3,"^Fresh/refrigerated$","1","",1,c1756863880378
+r1756863925331,3,"^Wet/canned$","1","",1,c1756863880378
+r1756863928350,3,"^Dry kibble$","1","",1,c1756863880378
+r1756863943721,3,"^Yes - in combination with other types$","1","",1,c1756863880378
+r1756863970799,3,"^Brand trust$","1","",1,c1756863880378
+r1756864024214,3,"^Positive reviews/recommendations$","1","",1,c1756863880378
+r1756864027782,3,"^Clear nutritional benefits$","1","",1,c1756863880378
+r1756864055929,3,"^Short shelf life$","1","",1,c1756863880378
+r1756864074921,3,"^Somewhat likely$","1","",1,c1756863880378
+r1756864084706,3,"^No$","1","",1,c1756863880378
+r1756864095942,3,"^I don’t recall seeing any ads$","1","",1,c1756863880378
+r1756864106898,3,"^Frozen$","1","",1,c1756863880378
+r1756864110037,3,"^Toppers/mix-ins$","1","",1,c1756863880378
+r1756864113620,3,"^Tubs/trays$","1","",1,c1756863880378
 r17569,3,"^I look for different or spicy flavors when purchasing Smoked Sausage$","1","",1,c362
 r1757,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
 r17570,3,"^I have paid more for a Premium Smoked Sausage made with healthier ingredients$","1","",1,c362
