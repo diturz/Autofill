@@ -1354,6 +1354,7 @@ c1756945329487,"New Bath & Shower Ideas!","",,,,
 c1756945713955,"Help choose our next limited edition plantmilk!","",,,,
 c1756945755398,"Do you love fun drinks? We want to hear from you!","",,,,
 c1756961549657,"Entertainment!","",,,,
+c1756963231400,"Your Thoughts on Creator Content","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -25565,6 +25566,13 @@ r1756962212760,3,"^Slightly increased$","1","",1,c1756961549657
 r1756962232283,3,"^Slightly more likely$","1","",1,c1756961549657
 r1756962251513,3,"^Played a Disney video game \(such as Kingdom Hearts, Disney Dreamlight Valley, Disney Speedstorm, Disney Illusion Island, Disney Epic Mickey\)$","1","",1,c1756961549657
 r1756962257688,3,"^Attended another Disney live event or theatrical performance \(such as Disney on Ice, The Lion King, Aladdin, Frozen, Beauty and the Beast, Newsies\)$","1","",1,c1756961549657
+r1756963267862,3,"^A few times a week$","1","",1,c1756963231400
+r1756963280947,3,"^Somewhat aware: I recognize creators/influencers when I see them and can usually tell their content apart from other posts on social media\.$","1","",1,c1756963231400
+r1756963349527,3,"^Creator content on Pinterest tends to be more inspiring than other content on Pinterest$","1","",1,c1756963231400
+r1756963362746,3,"^Creator content on Pinterest is usually more useful than other types of content on Pinterest$","1","",1,c1756963231400
+r1756963388995,3,"^Their content is high-quality and well-made$","1","",1,c1756963231400
+r1756963394965,3,"^They seem knowledgeable about the topic they're posting about$","1","",1,c1756963231400
+r1756963402129,3,"^They are transparent about their sponsorships or affiliate links$","1","",1,c1756963231400
 r1757,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
 r17570,3,"^I have paid more for a Premium Smoked Sausage made with healthier ingredients$","1","",1,c362
 r17571,3,"^I regularly read ingredient statements when shopping for smoked sausages$","1","",1,c362
