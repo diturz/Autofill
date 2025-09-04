@@ -1355,6 +1355,11 @@ c1756945713955,"Help choose our next limited edition plantmilk!","",,,,
 c1756945755398,"Do you love fun drinks? We want to hear from you!","",,,,
 c1756961549657,"Entertainment!","",,,,
 c1756963231400,"Your Thoughts on Creator Content","",,,,
+c1757005685476,"About your Body Cleanser Preferences","",,,,
+c1757006557889,"Holidays Greeting Card Shopping Survey","",,,,
+c1757006643331,"We want to hear your thoughts","",,,,
+c1757006837618,"Happy Holiday 2026!","",,,,
+c1757007689288,"Let’s talk about ads!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -25575,6 +25580,159 @@ r1756963394965,3,"^They seem knowledgeable about the topic they're posting about
 r1756963402129,3,"^They are transparent about their sponsorships or affiliate links$","1","",1,c1756963231400
 r1757,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
 r17570,3,"^I have paid more for a Premium Smoked Sausage made with healthier ingredients$","1","",1,c362
+r1757005735153,3,"^Body sunscreen$","1","",1,c1757005685476
+r1757005739422,3,"^Face wash/cleanser$","1","",1,c1757005685476
+r1757005893432,3,"^Face lotion/cream$","1","",1,c1757005685476
+r1757005899104,3,"^Body wash/cleanser$","1","",1,c1757005685476
+r1757005903407,3,"^Hand lotion/cream$","1","",1,c1757005685476
+r1757005908102,3,"^Bar soap$","1","",1,c1757005685476
+r1757005913237,3,"^Face Cream$","1","",1,c1757005685476
+r1757005917703,3,"^Body Cream$","1","",1,c1757005685476
+r1757005924823,3,"^Body oil$","1","",1,c1757005685476
+r1757005929676,3,"^Face sunscreen$","1","",1,c1757005685476
+r1757005934686,3,"^Body lotion/moisturizer$","1","",1,c1757005685476
+r1757005940210,3,"^Oil mist$","1","",1,c1757005685476
+r1757005960917,3,"^Target$","1","",1,c1757005685476
+r1757005965304,3,"^Online groceries/drug stores \(i\.e\., Walmart\.com, Target\.com, CVS\.com, etc\.\)$","1","",1,c1757005685476
+r1757005972115,3,"^Beauty/Specialist shop \(i\.e, Ulta, Sephora, Bath & Body Works, etc\.\)$","1","",1,c1757005685476
+r1757005984214,3,"^CVS$","1","",1,c1757005685476
+r1757005992247,3,"^Dermatologist / Health Care Provider Office / Website$","1","",1,c1757005685476
+r1757005998763,3,"^Directly from a brand website$","1","",1,c1757005685476
+r1757006005588,3,"^Costco$","1","",1,c1757005685476
+r1757006010525,3,"^Amazon$","1","",1,c1757005685476
+r1757006017802,3,"^Walmart$","1","",1,c1757005685476
+r1757006022063,3,"^Instacart$","1","",1,c1757005685476
+r1757006030490,3,"^White / Caucasian$","1","",1,c1757005685476
+r1757006046209,3,"^Olay$","1","",1,c1757005685476
+r1757006050003,3,"^Dove$","1","",1,c1757005685476
+r1757006056148,3,"^OGX$","1","",1,c1757005685476
+r1757006061020,3,"^Aveeno$","1","",1,c1757005685476
+r1757006066568,3,"^Axe$","1","",1,c1757005685476
+r1757006099292,3,"^Bath & Body Works$","1","",1,c1757005685476
+r1757006218266,3,"^For myself$","1","",1,c1757005685476
+r1757006222939,3,"^For my spouse$","1","",1,c1757005685476
+r1757006239349,3,"^Agree$","1","",1,c1757005685476
+r1757006283993,3,"^Has a pleasant fragrance/scent$","1","",1,c1757005685476
+r1757006290387,3,"^Recommended/designed by dermatologist$","1","",1,c1757005685476
+r1757006296361,3,"^Natural ingredients$","1","",1,c1757005685476
+r1757006338408,3,"^Acne/ breakouts$","1","",1,c1757005685476
+r1757006395674,3,"^Energy drinks \(e\.g\. Red Bull\)$","1","",1,c491
+r1757006401510,3,"^Ready-to-drink protein shakes \(comes ready to drink and no mixing needed\)$","1","",1,c491
+r1757006408090,3,"^Sports drinks \(e\.g\. Gatorade\)$","1","",1,c491
+r1757006420702,3,"^Protein shakes that you make by combining the protein powder with a liquid$","1","",1,c491
+r1757006427827,3,"^Pre-workout drinks \(e\.g\. C4\)$","1","",1,c491
+r1757006432480,3,"^Tea$","1","",1,c491
+r1757006437531,3,"^Coffee$","1","",1,c491
+r1757006444120,3,"^Juice$","1","",1,c491
+r1757006465472,3,"^Plant based protein \(e\.g\. pea protein\)$","1","",1,c491
+r1757006475014,3,"^Dairy based protein \(e\.g\. whey protein\)$","1","",1,c491
+r1757006479631,3,"^Clear protein$","1","",1,c491
+r1757006499010,3,"^Soy milk$","1","",1,c491
+r1757006523722,3,"^Almond milk$","1","",1,c491
+r1757006565300,3,"^Sam's Club$","1","",1,c1757006557889
+r1757006568870,3,"^Target$","1","",1,c1757006557889
+r1757006571787,3,"^Costco$","1","",1,c1757006557889
+r1757006575470,3,"^Amazon\.com$","1","",1,c1757006557889
+r1757006579138,3,"^Dollar Tree$","1","",1,c1757006557889
+r1757006582426,3,"^CVS$","1","",1,c1757006557889
+r1757006585735,3,"^Walmart$","1","",1,c1757006557889
+r1757006595486,3,"^Mother's Day$","1","",1,c1757006557889
+r1757006598612,3,"^Father's Day$","1","",1,c1757006557889
+r1757006604042,3,"^Valentine's Day$","1","",1,c1757006557889
+r1757006610473,3,"^Christmas$","1","",1,c1757006557889
+r1757006646974,3,"^I understand and would like to continue$","1","",1,c1757006643331
+r1757006655007,3,"^Chips Ahoy!$","1","",1,c1757006643331
+r1757006663030,3,"^Welch's$","1","",1,c1757006643331
+r1757006702560,3,"^Ortega$","1","",1,c1757006643331
+r1757006752327,3,"^Oreo$","1","",1,c1757006643331
+r1757006756246,3,"^McCormick$","1","",1,c1757006643331
+r1757006760403,3,"^Nespresso$","1","",1,c1757006643331
+r1757006794154,3,"^Dove Chocolate$","1","",1,c1757006643331
+r1757006804609,3,"^Dove Chocolate$","1","",1,c1757006643331
+r1757006807953,3,"^Smart Water$","1","",1,c1757006643331
+r1757006812076,3,"^Coca-Cola$","1","",1,c1757006643331
+r1757006847153,3,"^Non-Chocolate Candy \(e\.g\. gummies, sour candy, hard candy, etc\.\)$","1","",1,c1757006837618
+r1757006850383,3,"^Crackers$","1","",1,c1757006837618
+r1757006854124,3,"^Ice Cream and Frozen Novelties$","1","",1,c1757006837618
+r1757006857572,3,"^Chocolate$","1","",1,c1757006837618
+r1757006860626,3,"^Pre-baked Cookie and/or Holiday Decorating kits$","1","",1,c1757006837618
+r1757006863612,3,"^Energy or Protein bars$","1","",1,c1757006837618
+r1757006867603,3,"^Nuts, Seeds, or Trail Mix$","1","",1,c1757006837618
+r1757006871840,3,"^Cheese crisps \(i\.e\. Cheez-Its, Cheetos, etc\.\)$","1","",1,c1757006837618
+r1757006876350,3,"^Popcorn - Prepackaged, Ready-To-Eat \(Not microwavable\)$","1","",1,c1757006837618
+r1757006885061,3,"^Popcorn - Prepackaged, Ready-To-Eat \(Not microwavable\)$","1","",1,c1757006837618
+r1757006908175,3,"^I have children at home$","1","",1,c1757006837618
+r1757006916209,3,"^Valentines Day$","1","",1,c1757006837618
+r1757006921980,3,"^Halloween$","1","",1,c1757006837618
+r1757006925286,3,"^New Years$","1","",1,c1757006837618
+r1757006928487,3,"^Christmas$","1","",1,c1757006837618
+r1757006935944,3,"^Myself$","1","",1,c1757006837618
+r1757006939049,3,"^My Kids$","1","",1,c1757006837618
+r1757006943179,3,"^Gifts for others$","1","",1,c1757006837618
+r1757007007408,3,"^Girl 8-13 years old$","1","",1,c1757006837618
+r1757007011442,3,"^Boy 13-16 years old$","1","",1,c1757006837618
+r1757007049712,3,"^Complex build and decorate$","1","",1,c1757006837618
+r1757007052860,3,"^Decorate cookies only$","1","",1,c1757006837618
+r1757007152289,3,"^Children$","1","",1,c1757006837618
+r1757007166656,3,"^Yes$","1","",1,c1757006837618
+r1757007175535,3,"^Playing Board Games$","1","",1,c1757006837618
+r1757007179721,3,"^Building a pre-made gingerbread kit$","1","",1,c1757006837618
+r1757007183396,3,"^Christmas party Games for group gatherings$","1","",1,c1757006837618
+r1757007188146,3,"^Watching Christmas Movies$","1","",1,c1757006837618
+r1757007194096,3,"^Decorating Pre-Made cookies from a kit$","1","",1,c1757006837618
+r1757007215654,3,"^Unique Structures$","1","",1,c1757006837618
+r1757007220259,3,"^Color Theme Kits \(all color coordinated\)$","1","",1,c1757006837618
+r1757007224982,3,"^Traditional/Classic$","1","",1,c1757006837618
+r1757007257045,3,"^Snow Globe$","1","",1,c1757006837618
+r1757007263298,3,"^Reindeer$","1","",1,c1757006837618
+r1757007267320,3,"^Santa's Workshop/ North Pole$","1","",1,c1757006837618
+r1757007278617,3,"^Winter Theme \(icy blue, silver, white\)$","1","",1,c1757006837618
+r1757007282391,3,"^Bold and Bright \(neon or primary colors\)$","1","",1,c1757006837618
+r1757007289692,3,"^Seasonal Colors \(red, green, white\)$","1","",1,c1757006837618
+r1757007300399,3,"^Santa's Workshop$","1","",1,c1757006837618
+r1757007305534,3,"^Christmas Market$","1","",1,c1757006837618
+r1757007308712,3,"^Christmas Tree$","1","",1,c1757006837618
+r1757007352929,3,"^Somewhat Important$","1","",1,c1757006837618
+r1757007368969,3,"^Cookie Dough$","1","",1,c1757006837618
+r1757007377269,3,"^Brownie$","1","",1,c1757006837618
+r1757007401516,3,"^Cookie Butter$","1","",1,c1757006837618
+r1757007425924,3,"^Chocolates$","1","",1,c1757006837618
+r1757007509381,3,"^Holiday Themed Candy \(Peppermint, Mini Candy Canes etc\.\.\)$","1","",1,c1757006837618
+r1757007539843,3,"^Edible Sugar Figurines$","1","",1,c1757006837618
+r1757007544616,3,"^Fondant$","1","",1,c1757006837618
+r1757007552253,3,"^\$20 or more$","1","",1,c1757006837618
+r1757007697979,3,"^Household cleaning products$","1","",1,c1757007689288
+r1757007707599,3,"^Groceries$","1","",1,c1757007689288
+r1757007713779,3,"^Pet food/supplies$","1","",1,c1757007689288
+r1757007719232,3,"^Jewelry & accessories$","1","",1,c1757007689288
+r1757007723160,3,"^Beauty \(e\.g\., makeup/cosmetics, skincare, hair care, etc\.\)$","1","",1,c1757007689288
+r1757007728575,3,"^Clothing/apparel$","1","",1,c1757007689288
+r1757007733203,3,"^Electronics$","1","",1,c1757007689288
+r1757007739020,3,"^Personal care \(e\.g\., deodorant, toiletries\)$","1","",1,c1757007689288
+r1757007743006,3,"^Home goods/decor$","1","",1,c1757007689288
+r1757007746645,3,"^Small home appliances$","1","",1,c1757007689288
+r1757007754619,3,"^Hair care$","1","",1,c1757007689288
+r1757007762318,3,"^Beauty services \(e\.g\., hair, nails, lashes, waxing\)$","1","",1,c1757007689288
+r1757007767382,3,"^Hand/body skincare$","1","",1,c1757007689288
+r1757007773074,3,"^Facial skincare$","1","",1,c1757007689288
+r1757007786444,3,"^Target$","1","",1,c1757007689288
+r1757007791153,3,"^CVS$","1","",1,c1757007689288
+r1757007796064,3,"^Costco$","1","",1,c1757007689288
+r1757007800900,3,"^Amazon$","1","",1,c1757007689288
+r1757007805049,3,"^Sephora$","1","",1,c1757007689288
+r1757007811068,3,"^Ulta$","1","",1,c1757007689288
+r1757007815536,3,"^Walmart$","1","",1,c1757007689288
+r1757007819476,3,"^Sam’s Club$","1","",1,c1757007689288
+r1757007868672,3,"^I have purchased from them$","1","",1,c1757007689288
+r1757007887883,3,"^10 or more$","1","",1,c1757007689288
+r1757007905306,3,"^Skincare$","1","",1,c1757007689288
+r1757007952870,3,"^I have not heard about nor seen the ad until now$","1","",1,c1757007689288
+r1757008035610,3,"^Very sufficient – it fully addressed my concerns$","1","",1,c1757007689288
+r1757008048453,3,"^I plan to buy more e\.l\.f\. products in the future$","1","",1,c1757007689288
+r1757008088188,3,"^Greater inclusivity or representation in advertising$","1","",1,c1757007689288
+r1757008092702,3,"^A more sincere or detailed brand apology$","1","",1,c1757007689288
+r1757008097178,3,"^Better value for money \(pricing, promotions, discounts\)$","1","",1,c1757007689288
+r1757008122592,3,"^L’Oréal Paris$","1","",1,c1757007689288
 r17571,3,"^I regularly read ingredient statements when shopping for smoked sausages$","1","",1,c362
 r17572,3,"^Made with Real Meat$","1","",1,c362
 r17573,3,"^Excellent Source of Protein$","1","",1,c362
