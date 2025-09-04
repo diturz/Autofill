@@ -1353,6 +1353,7 @@ c1756945079313,"Some Questions for You!","",,,,
 c1756945329487,"New Bath & Shower Ideas!","",,,,
 c1756945713955,"Help choose our next limited edition plantmilk!","",,,,
 c1756945755398,"Do you love fun drinks? We want to hear from you!","",,,,
+c1756961549657,"Entertainment!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -25533,6 +25534,37 @@ r1756946116022,3,"^DELL$","1","",1,c1730404061464
 r1756946174228,3,"^SAMSUNG$","1","",1,c1730404061464
 r1756946192127,3,"^Yes, and I’m excited about them$","1","",1,c1730404061464
 r1756946199425,3,"^Very important – AI features will strongly influence my decision$","1","",1,c1730404061464
+r1756961554677,3,"^Man$","1","",1,c1756961549657
+r1756961588735,3,"^25-34$","1","",1,c1756961549657
+r1756961604402,3,"^No$","1","",1,c1756961549657
+r1756961629455,3,"^\$75,000 - \$99,999$","1","",1,c1756961549657
+r1756961660678,3,"^White$","1","",1,c1756961549657
+r1756961670135,3,"^Married$","1","",1,c1756961549657
+r1756961681620,3,"^2$","1","",1,c1756961549657
+r1756961707190,3,"^Female, Ages 10-14$","1","",1,c1756961549657
+r1756961712768,3,"^Male, Ages 10-14$","1","",1,c1756961549657
+r1756961722466,3,"^Played a Disney video game \(such as Kingdom Hearts, Disney Dreamlight Valley, Disney Speedstorm, Disney Illusion Island, Disney Epic Mickey\)$","1","",1,c1756961549657
+r1756961727025,3,"^Visited a Disney Park \(such as Walt Disney World or Disneyland\)$","1","",1,c1756961549657
+r1756961733115,3,"^Attended a Disney live theatrical performance \(such as Disney on Ice, The Lion King, Aladdin, Frozen, Beauty and the Beast, Newsies\)$","1","",1,c1756961549657
+r1756961737933,3,"^Purchased Disney products like toys or clothing$","1","",1,c1756961549657
+r1756961741917,3,"^Went on a Disney Cruise Line vacation$","1","",1,c1756961549657
+r1756961746509,3,"^Watched a Disney movie in theaters$","1","",1,c1756961549657
+r1756961751583,3,"^Watched Disney Channel or Disney Junior$","1","",1,c1756961549657
+r1756961756103,3,"^Watched Disney\+$","1","",1,c1756961549657
+r1756961761033,3,"^Experienced a Disney guided tour vacation \(such as Adventures by Disney or National Geographic Expeditions\)$","1","",1,c1756961549657
+r1756961771828,3,"^Disney on Ice$","1","",1,c1756961549657
+r1756961775942,3,"^Beauty and the Beast$","1","",1,c1756961549657
+r1756961780228,3,"^Frozen$","1","",1,c1756961549657
+r1756961784621,3,"^Aladdin$","1","",1,c1756961549657
+r1756961808058,3,"^Newsies$","1","",1,c1756961549657
+r1756961943475,3,"^The Lion King$","1","",1,c1756961549657
+r1756961955496,3,"^I heard the it was a good show$","1","",1,c1756961549657
+r1756961964658,3,"^A family member wanted to go$","1","",1,c1756961549657
+r1756962107534,3,"^I’m a big fan of Disney$","1","",1,c1756961549657
+r1756962212760,3,"^Slightly increased$","1","",1,c1756961549657
+r1756962232283,3,"^Slightly more likely$","1","",1,c1756961549657
+r1756962251513,3,"^Played a Disney video game \(such as Kingdom Hearts, Disney Dreamlight Valley, Disney Speedstorm, Disney Illusion Island, Disney Epic Mickey\)$","1","",1,c1756961549657
+r1756962257688,3,"^Attended another Disney live event or theatrical performance \(such as Disney on Ice, The Lion King, Aladdin, Frozen, Beauty and the Beast, Newsies\)$","1","",1,c1756961549657
 r1757,3,"^Salty snacks \(including chips, popcorn, nuts, etc\.\)$","1","",1,c3
 r17570,3,"^I have paid more for a Premium Smoked Sausage made with healthier ingredients$","1","",1,c362
 r17571,3,"^I regularly read ingredient statements when shopping for smoked sausages$","1","",1,c362
