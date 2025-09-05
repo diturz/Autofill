@@ -1360,6 +1360,13 @@ c1757006557889,"Holidays Greeting Card Shopping Survey","",,,,
 c1757006643331,"We want to hear your thoughts","",,,,
 c1757006837618,"Happy Holiday 2026!","",,,,
 c1757007689288,"Let’s talk about ads!","",,,,
+c1757033134995,"What do you think of this product and its packaging?","",,,,
+c1757033516231,"Lawn and Garden Products","",,,,
+c1757033635086,"Calling all Fun Drink Lovers!","",,,,
+c1757033729204,"About some Health & Wellness products!","",,,,
+c1757034731643,"We’d like your opinion on a few grocery items","",,,,
+c1757034987658,"Brands","",,,,
+c1757035141934,"All about snack cakes!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -25733,6 +25740,121 @@ r1757008088188,3,"^Greater inclusivity or representation in advertising$","1",""
 r1757008092702,3,"^A more sincere or detailed brand apology$","1","",1,c1757007689288
 r1757008097178,3,"^Better value for money \(pricing, promotions, discounts\)$","1","",1,c1757007689288
 r1757008122592,3,"^L’Oréal Paris$","1","",1,c1757007689288
+r1757033139432,3,"^Lawn Fertilizer$","1","",1,c1757033134995
+r1757033142485,3,"^Grass Seed$","1","",1,c1757033134995
+r1757033145906,3,"^Lawn Soil$","1","",1,c1757033134995
+r1757033202005,3,"^To help fill in bare spots on an existing lawn$","1","",1,c1757033134995
+r1757033206536,3,"^To grow new grass$","1","",1,c1757033134995
+r1757033521967,3,"^Grass seed fertilizer AND soil improver$","1","",1,c1757033516231
+r1757033525111,3,"^Lawn soil$","1","",1,c1757033516231
+r1757033529047,3,"^Bug Killer$","1","",1,c1757033516231
+r1757033587259,3,"^"Straight" grass seed \(e\.g no weed killer, fertilizer, etc\)$","1","",1,c1757033516231
+r1757033591874,3,"^Liquid weed killer \(e\.g\. Roundup, Spectracide\)$","1","",1,c1757033516231
+r1757033599763,3,"^Grass seed with fertilizer$","1","",1,c1757033516231
+r1757033603419,3,"^Fertilizer with weed killer$","1","",1,c1757033516231
+r1757033639252,3,"^Refrigerated Multi-Serve Juice \(e\.g\. Tropicana, Simply\)$","1","",1,c1757033635086
+r1757033643730,3,"^Plant Based Milk \(e\.g\. Almondmilk, Oatmilk, Soymilk\)$","1","",1,c1757033635086
+r1757033650930,3,"^Plant Based Barista Style Milks \(e\.g\. Barista Style Almondmilk, Barista Style Oatmilk\)$","1","",1,c1757033635086
+r1757033653928,3,"^Dairy Milk$","1","",1,c1757033635086
+r1757033658210,3,"^Creamer \(Creamer, Half & Half\)$","1","",1,c1757033635086
+r1757033662257,3,"^Coconut Water$","1","",1,c1757033635086
+r1757033788433,3,"^Toothpaste$","1","",1,c1757033729204
+r1757033791708,3,"^Cough/Cold$","1","",1,c1757033729204
+r1757033794775,3,"^Antacids$","1","",1,c1757033729204
+r1757033798770,3,"^Wound Care$","1","",1,c1757033729204
+r1757033803148,3,"^Pain Relief$","1","",1,c1757033729204
+r1757033806336,3,"^Allergy$","1","",1,c1757033729204
+r1757033809489,3,"^Vitamins$","1","",1,c1757033729204
+r1757033820807,3,"^Arm & Hammer$","1","",1,c1757033729204
+r1757033824616,3,"^Crest$","1","",1,c1757033729204
+r1757033827695,3,"^Colgate$","1","",1,c1757033729204
+r1757033857143,3,"^Sure$","1","",1,c1738815929824
+r1757034143106,3,"^Man$","1","",1,c1753074984666
+r1757034151615,3,"^25-34$","1","",1,c1753074984666
+r1757034159987,3,"^White$","1","",1,c1753074984666
+r1757034170933,3,"^\$75,000 - \$99,999$","1","",1,c1753074984666
+r1757034179356,3,"^Chick-fil-A$","1","",1,c1753074984666
+r1757034181986,3,"^Walmart$","1","",1,c1753074984666
+r1757034186213,3,"^Disney$","1","",1,c1753074984666
+r1757034189397,3,"^Starbucks$","1","",1,c1753074984666
+r1757034194063,3,"^National Geographic$","1","",1,c1753074984666
+r1757034196982,3,"^Nike$","1","",1,c1753074984666
+r1757034200305,3,"^Target$","1","",1,c1753074984666
+r1757034203438,3,"^Universal Studios$","1","",1,c1753074984666
+r1757034206483,3,"^Coca-Cola$","1","",1,c1753074984666
+r1757034209755,3,"^Amazon$","1","",1,c1753074984666
+r1757034451035,3,"^Disney: An ad about Disney supporting and hiring Veterans$","1","",1,c1753074984666
+r1757034458434,3,"^Starbucks: An ad about the celebration of reconnecting over coffee$","1","",1,c1753074984666
+r1757034462437,3,"^National Geographic: An ad about Earth’s beauty and a call to protect the planet$","1","",1,c1753074984666
+r1757034470887,3,"^Slightly improves$","1","",1,c1753074984666
+r1757034559290,3,"^Amazon ends program that lets Prime members share free shipping perk with users outside household$","1","",1,c1753074984666
+r1757034565206,3,"^e\.l\.f\. Cosmetics featuring comedian Matt Rife despite past domestic violence jokes$","1","",1,c1753074984666
+r1757034571651,3,"^American Eagle’s controversial Sydney Sweeney ad$","1","",1,c1753074984666
+r1757034578443,3,"^Ex-Disney lawyer accuses Disney of gender-based pay discrimination$","1","",1,c1753074984666
+r1757034584938,3,"^Disney outpricing the middle class with its parks$","1","",1,c1753074984666
+r1757034597870,3,"^Slightly worsened$","1","",1,c1753074984666
+r1757034640448,3,"^Listened to Disney music or soundtracks$","1","",1,c1753074984666
+r1757034644778,3,"^Visited Disneyland in California$","1","",1,c1753074984666
+r1757034684840,3,"^Watched something on Disney\+ \(e\.g\. movies, shows, shorts, etc\.\)$","1","",1,c1753074984666
+r1757034688541,3,"^Bought anything from Disney Store / DisneyStore\.com$","1","",1,c1753074984666
+r1757034693107,3,"^Been on a Disney cruise$","1","",1,c1753074984666
+r1757034696466,3,"^Played Disney video games on mobile or console/PC$","1","",1,c1753074984666
+r1757034700994,3,"^Watched Disney live-action movies$","1","",1,c1753074984666
+r1757034704804,3,"^Attended a Disney live entertainment show \(Disney on Ice, a theatrical Disney show, etc\)$","1","",1,c1753074984666
+r1757034708007,3,"^Watched Disney animated movies$","1","",1,c1753074984666
+r1757034711433,3,"^Visited Walt Disney World in Florida$","1","",1,c1753074984666
+r1757034719177,3,"^Democrat$","1","",1,c1753074984666
+r1757034734975,3,"^I am the primary grocery shopper$","1","",1,c1757034731643
+r1757034759039,3,"^Pineapple$","1","",1,c1757034731643
+r1757034762649,3,"^Cucumber$","1","",1,c1757034731643
+r1757034766785,3,"^Avocado$","1","",1,c1757034731643
+r1757034770292,3,"^Mango$","1","",1,c1757034731643
+r1757034773990,3,"^Watermelon$","1","",1,c1757034731643
+r1757034777686,3,"^Tomato$","1","",1,c1757034731643
+r1757034789184,3,"^Grape tomatoes$","1","",1,c1757034731643
+r1757034792879,3,"^Cherry tomatoes$","1","",1,c1757034731643
+r1757034800791,3,"^Large slicing tomatoes$","1","",1,c1757034731643
+r1757034871849,3,"^Very open$","1","",1,c1757034731643
+r1757034880235,3,"^Children 5–12$","1","",1,c1757034731643
+r1757034884191,3,"^Teens 13–17$","1","",1,c1757034731643
+r1757034944996,3,"^Somewhat likely$","1","",1,c1757034731643
+r1757034966686,3,"^I would buy them in addition to the cherry/grape tomatoes I usually buy$","1","",1,c1757034731643
+r1757034975614,3,"^Yes – up to 20% more$","1","",1,c1757034731643
+r1757034993556,3,"^Somewhat liberal$","1","",1,c1757034987658
+r1757035004541,3,"^Boycotts are fine in principle, but people often go too far with them$","1","",1,c1757034987658
+r1757035019744,3,"^The Home Depot$","1","",1,c1757034987658
+r1757035023572,3,"^Costco$","1","",1,c1757034987658
+r1757035026917,3,"^Target$","1","",1,c1757034987658
+r1757035030360,3,"^Walmart$","1","",1,c1757034987658
+r1757035046811,3,"^Yes, I’ve heard something but I don’t know details$","1","",1,c1757034987658
+r1757035058491,3,"^I’m not sure / I just heard there was “controversy”$","1","",1,c1757034987658
+r1757035067136,3,"^Somewhat less favorable$","1","",1,c1757034987658
+r1757035078132,3,"^Somewhat support$","1","",1,c1757034987658
+r1757035089112,3,"^I believe consumers should hold companies accountable for their policies$","1","",1,c1757034987658
+r1757035092548,3,"^I want companies to focus on affordability and quality, not politics$","1","",1,c1757034987658
+r1757035105808,3,"^No change$","1","",1,c1757034987658
+r1757035114783,3,"^I feel disappointed in the company$","1","",1,c1757034987658
+r1757035130732,3,"^I would think more positively of them$","1","",1,c1757034987658
+r1757035148208,3,"^Portable shelf-stable breakfast foods \(e\.g\. breakfast bars, granola bars, breakfast biscuits, etc\.\)$","1","",1,c1757035141934
+r1757035151650,3,"^Cheese snacks \(i\.e\. Cheetos, Whisps, etc\.\)$","1","",1,c1757035141934
+r1757035155624,3,"^Crackers$","1","",1,c1757035141934
+r1757035159676,3,"^Chips of any kind \(e\.g\. Potato, Baked, Corn, Pita, Multigrain, Veggie, Tortilla, etc\.\)$","1","",1,c1757035141934
+r1757035163228,3,"^Pretzels$","1","",1,c1757035141934
+r1757035166618,3,"^Energy or Protein bars$","1","",1,c1757035141934
+r1757035170425,3,"^Ice Cream and Frozen Novelties$","1","",1,c1757035141934
+r1757035173270,3,"^Chocolate$","1","",1,c1757035141934
+r1757035176621,3,"^Nuts, Seeds, or Trail Mix$","1","",1,c1757035141934
+r1757035180648,3,"^Pre-Packaged Snack Cakes \(e\.g\. Little Debbie cakes, Oreo Cakesters, other sweet soft cakes, etc\.\)$","1","",1,c1757035141934
+r1757035184422,3,"^Non-Chocolate Candy \(e\.g\. gummies, sourcandy, hard candy, etc\.\)$","1","",1,c1757035141934
+r1757035187588,3,"^Popcorn - Prepackaged, Ready-To-Eat \(Not microwavable\)$","1","",1,c1757035141934
+r1757035191205,3,"^Cookies - Prepackaged, Ready-To-Eat$","1","",1,c1757035141934
+r1757035199150,3,"^Oreo Cakesters$","1","",1,c1757035141934
+r1757035203690,3,"^Store Brand$","1","",1,c1757035141934
+r1757035207668,3,"^Little Debbie Cakes \(ex\. Birthday Cakes, Zebra Cakes, Unicorn Cakes, Frosted Fudge Cakes, Fancy Cakes\)$","1","",1,c1757035141934
+r1757035213645,3,"^Little Debbie Cupcakes$","1","",1,c1757035141934
+r1757035245683,3,"^Savor and vibe$","1","",1,c1757035141934
+r1757035248987,3,"^Bite savor vibe$","1","",1,c1757035141934
+r1757035252131,3,"^Bite and vibe$","1","",1,c1757035141934
 r17571,3,"^I regularly read ingredient statements when shopping for smoked sausages$","1","",1,c362
 r17572,3,"^Made with Real Meat$","1","",1,c362
 r17573,3,"^Excellent Source of Protein$","1","",1,c362
