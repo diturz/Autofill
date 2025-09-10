@@ -1389,6 +1389,12 @@ c1757138991160,"Beverage Flavors","",,,,
 c1757139038192,"Please tell us about your family's preferences","",,,,
 c1757143067660,"Tell us about your insurance!","",,,,
 c1757143323874,"Lather up!","",,,,
+c1757478762819,"We have some questions about Fully Cooked Smoked Sausage!","",,,,
+c1757478831698,"Finding Information","",,,,
+c1757479006170,"Your consumption of fruits","",,,,
+c1757479205688,"Are you a Fan?","",,,,
+c1757479979378,"Items for you & your home","",,,,
+c1757482444887,"Where do you shop?","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -26365,6 +26371,125 @@ r1757143514690,3,"^11$","1","",1,c1757143323874
 r17572,3,"^Made with Real Meat$","1","",1,c362
 r17573,3,"^Excellent Source of Protein$","1","",1,c362
 r17574,3,"^More than \$2\.00$","1","",1,c362
+r1757478788688,3,"^Frozen Breaded Chicken \(Nuggets, Strips, etc\.\)$","1","",1,c1757478762819
+r1757478792161,3,"^Frozen Vegetables \(Broccoli, Green Beans, etc\.\)$","1","",1,c1757478762819
+r1757478796509,3,"^Breakfast cereals or oats$","1","",1,c1757478762819
+r1757478799615,3,"^Canned or Pouch Tuna Fish \(Albacore, Yellowfin, etc\.\)$","1","",1,c1757478762819
+r1757478803909,3,"^Refrigerator Yogurts \(Regular, Plain, Greek, etc\.\)$","1","",1,c1757478762819
+r1757478807750,3,"^Refrigerated Shredded Cheese \(Cheddar, Mexican blend, etc\.\)$","1","",1,c1757478762819
+r1757478811636,3,"^Refrigerated Meats \(Lunchmeats, Hot Dogs/Sausages, Bacon, etc\.\)$","1","",1,c1757478762819
+r1757478815139,3,"^Canned Vegetables \(Peas, Cron, Green Beans, etc\.\)$","1","",1,c1757478762819
+r1757478836782,3,"^At least once a day$","1","",1,c1757478831698
+r1757478881297,3,"^Mainly to provide answers$","1","",1,c1757478831698
+r1757478896546,3,"^Exact answers to my question or search$","1","",1,c1757478831698
+r1757478915729,3,"^Ask follow-up questions, without doing a new search$","1","",1,c1757478831698
+r1757478925546,3,"^Links and AI answers in a single place$","1","",1,c1757478831698
+r1757478934723,3,"^Lack of "real people’s" perspectives$","1","",1,c1757478831698
+r1757478938137,3,"^Data privacy or security$","1","",1,c1757478831698
+r1757478942976,3,"^Inaccurate content or AI “hallucinations”$","1","",1,c1757478831698
+r1757478952812,3,"^An AI-generated paragraph, followed by website links$","1","",1,c1757478831698
+r1757478969378,3,"^Adjust the results based on previous searches$","1","",1,c1757478831698
+r1757479010459,3,"^Whole Foods$","1","",1,c1757479006170
+r1757479051605,3,"^Raspberries$","1","",1,c1757479006170
+r1757479058807,3,"^Watermelons$","1","",1,c1757479006170
+r1757479067761,3,"^Bananas$","1","",1,c1757479006170
+r1757479070941,3,"^Oranges$","1","",1,c1757479006170
+r1757479074120,3,"^Blueberries$","1","",1,c1757479006170
+r1757479078863,3,"^Strawberries$","1","",1,c1757479006170
+r1757479082266,3,"^Apples$","1","",1,c1757479006170
+r1757479086167,3,"^Cherries$","1","",1,c1757479006170
+r1757479096544,3,"^More than once a day$","1","",1,c1757479006170
+r1757479105030,3,"^I consume organic blueberries$","1","",1,c1757479006170
+r1757479109619,3,"^I consume large blueberries \("Jumbo" or "Colossal"\)$","1","",1,c1757479006170
+r1757479113491,3,"^I consume regular blueberries \(normal-sized\)$","1","",1,c1757479006170
+r1757479165886,3,"^Because I can take it with me to the gym$","1","",1,c1757479006170
+r1757479169022,3,"^Because I can take it with me when running errands$","1","",1,c1757479006170
+r1757479172566,3,"^Because I can give it to my kids in their lunch box$","1","",1,c1757479006170
+r1757479218393,3,"^The Weeknd$","1","",1,c1757479205688
+r1757479221572,3,"^Billie Eilish$","1","",1,c1757479205688
+r1757479225177,3,"^Post Malone$","1","",1,c1757479205688
+r1757479234259,3,"^Ed Sheeran$","1","",1,c1757479205688
+r1757479239149,3,"^Lady Gaga$","1","",1,c1757479205688
+r1757479242606,3,"^Imagine Dragons$","1","",1,c1757479205688
+r1757479247440,3,"^Taylor Swift$","1","",1,c1757479205688
+r1757479250776,3,"^Drake$","1","",1,c1757479205688
+r1757479307281,3,"^Adele$","1","",1,c1757479205688
+r1757479311773,3,"^Bruno Mars$","1","",1,c1757479205688
+r1757479316170,3,"^Justin Bieber$","1","",1,c1757479205688
+r1757479320575,3,"^Beyoncé$","1","",1,c1757479205688
+r1757479332056,3,"^Noah Kahan$","1","",1,c1757479205688
+r1757479340585,3,"^Chris Stapleton$","1","",1,c1757479205688
+r1757479350381,3,"^Thomas Rhett$","1","",1,c1757479205688
+r1757479359463,3,"^Buy his merch$","1","",1,c1757479205688
+r1757479363023,3,"^Attend in-person concerts$","1","",1,c1757479205688
+r1757479365947,3,"^Listen to his music on YouTube$","1","",1,c1757479205688
+r1757479369104,3,"^Stream or buy his music \(Apple Music, Spotify, etc\.\)$","1","",1,c1757479205688
+r1757479372196,3,"^Follow him on social media$","1","",1,c1757479205688
+r1757479401509,3,"^Marathon$","1","",1,c1757479205688
+r1757479406189,3,"^Hardee's$","1","",1,c1757479205688
+r1757479527720,3,"^Trustworthy$","1","",1,c1757479205688
+r1757479534011,3,"^Relevant$","1","",1,c1757479205688
+r1757479536974,3,"^Inspiring$","1","",1,c1757479205688
+r1757479568410,3,"^Baltimore Orioles$","1","",1,c1757479205688
+r1757479573954,3,"^Pittsburgh Pirates$","1","",1,c1757479205688
+r1757479577406,3,"^New York Mets$","1","",1,c1757479205688
+r1757479580444,3,"^Atlanta Braves$","1","",1,c1757479205688
+r1757479585697,3,"^Houston Astros$","1","",1,c1757479205688
+r1757479590715,3,"^Los Angeles Angels$","1","",1,c1757479205688
+r1757479593805,3,"^San Francisco Giants$","1","",1,c1757479205688
+r1757479600570,3,"^New York Yankees$","1","",1,c1757479205688
+r1757479605136,3,"^Texas Rangers$","1","",1,c1757479205688
+r1757479616022,3,"^Los Angeles Dodgers$","1","",1,c1757479205688
+r1757479633082,3,"^TV Broadcast - Cable/Satellite$","1","",1,c1757479205688
+r1757479636433,3,"^TV Broadcast - Streaming$","1","",1,c1757479205688
+r1757479639524,3,"^Social media highlights$","1","",1,c1757479205688
+r1757479642374,3,"^Radio$","1","",1,c1757479205688
+r1757479645137,3,"^In-person$","1","",1,c1757479205688
+r1757479656762,3,"^Cleveland Guardians$","1","",1,c1757479205688
+r1757479665078,3,"^Sun Belt \(SBC\)$","1","",1,c1757479205688
+r1757479675506,3,"^American$","1","",1,c1757479205688
+r1757479678769,3,"^Big Ten \(B1G\)$","1","",1,c1757479205688
+r1757479682167,3,"^Mountain West \(MW\)$","1","",1,c1757479205688
+r1757479685604,3,"^Southeastern \(SEC\)$","1","",1,c1757479205688
+r1757479690131,3,"^Atlantic Coast \(ACC\)$","1","",1,c1757479205688
+r1757479694149,3,"^Mid-American \(MAC\)$","1","",1,c1757479205688
+r1757479697566,3,"^Big 12 \(B12\)$","1","",1,c1757479205688
+r1757480381320,3,"^All of it$","1","",1,c1757479979378
+r1757480486403,3,"^Yes, 2$","1","",1,c1757479979378
+r1757480493901,3,"^White / Caucasian$","1","",1,c1757479979378
+r1757480503110,3,"^Large city$","1","",1,c1757479979378
+r1757480510939,3,"^Floor Care Appliances \(vacuums, carpet cleaners\)$","1","",1,c1757479979378
+r1757480514111,3,"^Countertop Kitchen Appliances \(slow cookers, blenders, etc\.\)$","1","",1,c1757479979378
+r1757480518302,3,"^Hair Appliances \(hair dryers, straighteners, etc\.\)$","1","",1,c1757479979378
+r1757480651921,3,"^Shark$","1","",1,c1757479979378
+r1757480654873,3,"^Ninja$","1","",1,c1757479979378
+r1757481138946,3,"^Dyson$","1","",1,c1757479979378
+r1757481160738,3,"^I browse and purchase household appliances at ALDI regularly$","1","",1,c1757479979378
+r1757481217177,3,"^Hair Styling Tools$","1","",1,c1757479979378
+r1757481221331,3,"^Juicers$","1","",1,c1757479979378
+r1757481225260,3,"^Mini Appliances$","1","",1,c1757479979378
+r1757481554571,3,"^Men’s Socks$","1","",1,c1757479979378
+r1757481558954,3,"^Women’s Tops$","1","",1,c1757479979378
+r1757481563724,3,"^Women’s Hosiery & Socks$","1","",1,c1757479979378
+r1757481566983,3,"^Men’s Sleepwear$","1","",1,c1757479979378
+r1757481570207,3,"^Women’s Outerwear$","1","",1,c1757479979378
+r1757481574743,3,"^Men’s Outerwear$","1","",1,c1757479979378
+r1757481656828,3,"^I browse and purchase the apparel at ALDI regularly$","1","",1,c1757479979378
+r1757481721292,3,"^Women’s outerwear \(jackets\)$","1","",1,c1757479979378
+r1757481733462,3,"^Kid’s branded items \(i\.e\. Adidas, Nike, Levi, etc\.\)$","1","",1,c1757479979378
+r1757482449308,3,"^Walgreens$","1","",1,c1757482444887
+r1757482452610,3,"^Circle K$","1","",1,c1757482444887
+r1757482457240,3,"^Kroger chains \(e\.g\., Kroger, Ralphs, Fred Meyer, Harris Teeter, King Soopers, Dillons, Fry’s, City Market, Pick n’ Save, etc\)$","1","",1,c1757482444887
+r1757482460495,3,"^Albertsons$","1","",1,c1757482444887
+r1757482464065,3,"^Local liquor store$","1","",1,c1757482444887
+r1757482468379,3,"^CVS$","1","",1,c1757482444887
+r1757482472081,3,"^Publix$","1","",1,c1757482444887
+r1757482475452,3,"^7-Eleven$","1","",1,c1757482444887
+r1757482479631,3,"^Walmart$","1","",1,c1757482444887
+r1757482483172,3,"^Sam's Club$","1","",1,c1757482444887
+r1757482487482,3,"^Total Wine & More$","1","",1,c1757482444887
+r1757482491627,3,"^Target$","1","",1,c1757482444887
+r1757482496296,3,"^Costco$","1","",1,c1757482444887
 r17575,3,"^I disagree$","1","",1,c362
 r17576,3,"^Oscar Mayer$","1","",1,c362
 r17577,3,"^Kirkland Signature$","1","",1,c362
