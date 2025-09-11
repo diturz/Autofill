@@ -1427,6 +1427,8 @@ c1757625585430,"Brands Partnering with Musicians!","",,,,
 c1757625701835,"Sippy Cup Preferences","",,,,
 c1757626508683,"Have you heard of these Neurotoxin brands?","",,,,
 c1757626725466,"A fruity & satisfying beverage!","",,,,
+c1757631280848,"Help us name a new creamer!","",,,,
+c1757631690645,"Skincare product purchasing","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -27228,6 +27230,27 @@ r1757627000516,3,"^Real fruits & vegetables$","1","",1,c1757626725466
 r1757627026794,3,"^Strawberry$","1","",1,c1757626725466
 r1757627033145,3,"^Mixed Berry$","1","",1,c1757626725466
 r1757627039634,3,"^Greens \(like Kale\) \+ Fruit$","1","",1,c1757626725466
+r1757631695245,3,"^Over \$200$","1","",1,c1757631690645
+r1757631707304,3,"^More than once a month$","1","",1,c1757631690645
+r1757631725641,3,"^Glow Medispa$","1","",1,c1757631690645
+r1757631729551,3,"^Tribeca MedSpa$","1","",1,c1757631690645
+r1757631732668,3,"^NakedMD$","1","",1,c1757631690645
+r1757631739877,3,"^Skin By Lovely$","1","",1,c1757631690645
+r1757631846666,3,"^I’m aware of it and considering trying it in the next 1–2 years$","1","",1,c1757631690645
+r1757631854281,3,"^\$75,000 to \$99,999$","1","",1,c1757631690645
+r1757631875647,3,"^Cleanser – remove dirt, oil, makeup$","1","",1,c1757631690645
+r1757631879005,3,"^Moisturizer – hydrate and soften skin$","1","",1,c1757631690645
+r1757631882649,3,"^Sunscreen – shield from UV damage$","1","",1,c1757631690645
+r1757631886260,3,"^Antioxidant – protect against environmental damage$","1","",1,c1757631690645
+r1757631891421,3,"^Supplement – support skin, hair, nail health from within$","1","",1,c1757631690645
+r1757631899670,3,"^Exfoliation – remove dead skin and brighten tone$","1","",1,c1757631690645
+r1757631930536,3,"^Professional or medical-grade \(e\.g\., from a clinic, dermatologist, or licensed provider\)$","1","",1,c1757631690645
+r1757631994668,3,"^Social media \(e\.g\., Instagram, TikTok, YouTube\)$","1","",1,c1757631690645
+r1757632007407,3,"^Yes, I’ve purchased occasionally$","1","",1,c1757631690645
+r1757632018830,3,"^I came to replenish, but added other products while browsing$","1","",1,c1757631690645
+r1757632023589,3,"^I was replenishing a product I already use$","1","",1,c1757631690645
+r1757632033237,3,"^Yes, my first purchase is typically in clinic, and second is online$","1","",1,c1757631690645
+r1757632057392,3,"^SkinCeuticals$","1","",1,c1757631690645
 r17577,3,"^Kirkland Signature$","1","",1,c362
 r17578,3,"^Hillshire Farm$","1","",1,c362
 r17579,3,"^Groceries$","1","",1,c363
