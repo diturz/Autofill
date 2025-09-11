@@ -1406,6 +1406,18 @@ c1757542343556,"All About Your Shopping Habits and Preferences","",,,,
 c1757542912763,"Tell us more about you","",,,,
 c1757545526226,"Let's talk abuot products!","",,,,
 c1757545754556,"Beverages You Purchase and Where","",,,,
+c1757556459147,"Deodorant Fragrance Preferences","",,,,
+c1757556691404,"Earwax Removal","",,,,
+c1757560480096,"Check out this ad idea!","",,,,
+c1757561434256,"Attitudes about advertising","",,,,
+c1757564421361,"How can your bank help you?","",,,,
+c1757565675179,"Tell us more about a few companies!","",,,,
+c1757566079932,"Cell Phones","",,,,
+c1757566111661,"Seeing Red!","",,,,
+c1757566143650,"Let’s talk about your Outdoor & Leisure Activities.","",,,,
+c1757566676554,"Cat Food Survey","",,,,
+c1757574457816,"Package Designs!","",,,,
+c1757574564146,"Quick questions for you!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -26845,6 +26857,133 @@ r1757545802332,3,"^CVS$","1","",1,c1757545754556
 r1757545809045,3,"^Walgreens$","1","",1,c1757545754556
 r1757545813583,3,"^Meijer$","1","",1,c1757545754556
 r1757545841424,3,"^Juice$","1","",1,c1757545754556
+r1757556280656,3,"^Alcohol$","1","",1,c1757545754556
+r1757556284482,3,"^Non-alcoholic$","1","",1,c1757545754556
+r1757556288416,3,"^Sports drinks$","1","",1,c1757545754556
+r1757556293675,3,"^Bottled water$","1","",1,c1757545754556
+r1757556299246,3,"^Sparkling water$","1","",1,c1757545754556
+r1757556303658,3,"^Soda$","1","",1,c1757545754556
+r1757556307742,3,"^Energy drinks$","1","",1,c1757545754556
+r1757556328103,3,"^Wine$","1","",1,c1757545754556
+r1757556331942,3,"^Seltzers/Canned cocktails$","1","",1,c1757545754556
+r1757556335919,3,"^Beer$","1","",1,c1757545754556
+r1757556340428,3,"^Liquors/Liqueurs$","1","",1,c1757545754556
+r1757556398145,3,"^Garage \(fully enclosed\)$","1","",1,c551
+r1757556407801,3,"^I am solely responsible$","1","",1,c551
+r1757556434204,3,"^Scotts$","1","",1,c551
+r1757556442887,3,"^Classic$","1","",1,c551
+r1757556452402,3,"^PatchMaster$","1","",1,c551
+r1757556463804,3,"^Yes$","1","",1,c1757556459147
+r1757556473372,3,"^Fresh/Clean$","1","",1,c1757556459147
+r1757556482687,3,"^Extremely important – it’s the main factor$","1","",1,c1757556459147
+r1757556496986,3,"^Yes, I would consider it$","1","",1,c1757556459147
+r1757556510872,3,"^Very likely – I like that kind of scent$","1","",1,c1757556459147
+r1757556518714,3,"^Brand reputation$","1","",1,c1757556459147
+r1757556524522,3,"^Long-lasting protection$","1","",1,c1757556459147
+r1757556533207,3,"^Fragrance appeal$","1","",1,c1757556459147
+r1757556696980,3,"^I have purchased an ear wax removal kit or product in the past 6 months$","1","",1,c1757556691404
+r1757560247965,3,"^Earwax candling kits$","1","",1,c1757556691404
+r1757560252645,3,"^Ear cleaning tools \(scoops, loops, curettes\)$","1","",1,c1757556691404
+r1757560287193,3,"^Electric ear wax removal devices or suction devices$","1","",1,c1757556691404
+r1757560292378,3,"^Ear irrigation kits \(bulb syringe, rinse kit, etc\.\)$","1","",1,c1757556691404
+r1757560483156,3,"^White / Caucasian$","1","",1,c1757560480096
+r1757560495867,3,"^4$","1","",1,c1757560480096
+r1757560505378,3,"^I have children at home$","1","",1,c1757560480096
+r1757560572372,3,"^It got my attention$","1","",1,c1757560480096
+r1757560577295,3,"^I like this ad$","1","",1,c1757560480096
+r1757560582132,3,"^I learned something$","1","",1,c1757560480096
+r1757560598407,3,"^The message of the ad$","1","",1,c1757560480096
+r1757560643387,3,"^Somewhat more likely$","1","",1,c1757560480096
+r1757560659113,3,"^I have purchased or used this brand in the past$","1","",1,c1757560480096
+r1757560686630,3,"^A home$","1","",1,c1757560480096
+r1757560690928,3,"^An auto \(e\.g\., car, pickup truck, etc\.\)$","1","",1,c1757560480096
+r1757560974538,3,"^Makes me somewhat more likely to consider$","1","",1,c1757560480096
+r1757561150626,3,"^Believable$","1","",1,c1757560480096
+r1757561154660,3,"^Unique$","1","",1,c1757560480096
+r1757561170653,3,"^Builds trust in the claims process$","1","",1,c1757560480096
+r1757561176246,3,"^Gives me confidence that I’m getting great coverage, service, and rates$","1","",1,c1757560480096
+r1757561180970,3,"^Understands me and knows what is important to me$","1","",1,c1757560480096
+r1757561823893,3,"^White$","1","",1,c1757561434256
+r1757561833643,3,"^No$","1","",1,c1757561434256
+r1757561861141,3,"^More than 10 hours$","1","",1,c1757561434256
+r1757562770928,3,"^Netflix$","1","",1,c1757561434256
+r1757562776844,3,"^Yes, I understand the difference between TV advertisements and branded TV integrations$","1","",1,c1757561434256
+r1757563941598,3,"^show off the product or service’s features$","1","",1,c1757561434256
+r1757563946194,3,"^feel relevant to the content I’m watching$","1","",1,c1757561434256
+r1757563951212,3,"^show off the brand’s values or personality$","1","",1,c1757561434256
+r1757564426104,3,"^Primary or Sole decision maker$","1","",1,c1757564421361
+r1757565679988,3,"^Auto$","1","",1,c1757565675179
+r1757565684550,3,"^Home$","1","",1,c1757565675179
+r1757565740698,3,"^Life$","1","",1,c1757565675179
+r1757565988068,3,"^Progressive$","1","",1,c1757565675179
+r1757565992387,3,"^State Farm$","1","",1,c1757565675179
+r1757566084536,3,"^25 – 39$","1","",1,c1757566079932
+r1757566094905,3,"^5 – 12 years old$","1","",1,c1757566079932
+r1757566098779,3,"^13 – 18 years old$","1","",1,c1757566079932
+r1757566116251,3,"^Yes$","1","",1,c1757566111661
+r1757566130961,3,"^Yes, I would consume fruity cereal colored with carmine\.$","1","",1,c1757566111661
+r1757566164270,3,"^None of these$","1","",1,c1757566143650
+r1757566538838,3,"^Camping$","1","",1,c1757566143650
+r1757566542822,3,"^Hiking$","1","",1,c1757566143650
+r1757566546734,3,"^Fishing$","1","",1,c1757566143650
+r1757566551691,3,"^Golfing$","1","",1,c1757566143650
+r1757566558288,3,"^Biking$","1","",1,c1757566143650
+r1757566588104,3,"^Bicycle$","1","",1,c1757566143650
+r1757566594117,3,"^Automobile \(Car, Truck, SUV, etc\.\)$","1","",1,c1757566143650
+r1757566681426,3,"^Dog\(s\)$","1","",1,c1757566676554
+r1757566685773,3,"^Cat\(s\)$","1","",1,c1757566676554
+r1757566693594,3,"^I am primarily responsible$","1","",1,c1757566676554
+r1757566701428,3,"^1 to 6 years$","1","",1,c1757566676554
+r1757573462006,3,"^Wet cat food \(cans, pouches, cups, trays, etc\.\)$","1","",1,c1757566676554
+r1757573469202,3,"^Refrigerated cat food \(sold from in-store refrigerator/cooler\)$","1","",1,c1757566676554
+r1757573473309,3,"^Frozen cat food \(sold from in-store freezer\)$","1","",1,c1757566676554
+r1757573500424,3,"^Freeze-dried cat food$","1","",1,c1757566676554
+r1757573506280,3,"^Dry cat food$","1","",1,c1757566676554
+r1757573512348,3,"^Cat treats or snacks to feed between meals \(e\.g\., crunchy treats, chews, etc\.\)$","1","",1,c1757566676554
+r1757573537267,3,"^Blue Buffalo$","1","",1,c1757566676554
+r1757574058228,3,"^Iams$","1","",1,c1757566676554
+r1757574067969,3,"^Purina Pro Plan$","1","",1,c1757566676554
+r1757574073352,3,"^Stella & Chewy's$","1","",1,c1757566676554
+r1757574092226,3,"^Taste of the Wild$","1","",1,c1757566676554
+r1757574099761,3,"^9 Lives$","1","",1,c1757566676554
+r1757574224538,3,"^I have a license to drive a passenger vehicle \(e\.g\., car, truck, van\)$","1","",1,c1734055203556
+r1757574240520,3,"^Single family home$","1","",1,c1734055203556
+r1757574260445,3,"^Own$","1","",1,c1734055203556
+r1757574280549,3,"^I am the primary or sole decision maker$","1","",1,c1734055203556
+r1757574297340,3,"^Auto$","1","",1,c1734055203556
+r1757574301859,3,"^Homeowners$","1","",1,c1734055203556
+r1757574306922,3,"^Health$","1","",1,c1734055203556
+r1757574312537,3,"^Life$","1","",1,c1734055203556
+r1757574360130,3,"^Progressive$","1","",1,c1734055203556
+r1757574364666,3,"^State Farm$","1","",1,c1734055203556
+r1757574379660,3,"^Did not change$","1","",1,c1734055203556
+r1757574390027,3,"^I have never participated in an auto telematics insurance program$","1","",1,c1734055203556
+r1757574418300,3,"^No, I have never owned a small business$","1","",1,c1734055203556
+r1757574428017,3,"^Gas-powered vehicle \(e\.g\., car, truck, SUV, van\)$","1","",1,c1734055203556
+r1757574436135,3,"^Large city$","1","",1,c1734055203556
+r1757574446729,3,"^Generation Y \(Millennials\) born between 1981 and 1996$","1","",1,c1734055203556
+r1757574462406,3,"^Yes$","1","",1,c1757574457816
+r1757574505055,3,"^Package 1$","1","",1,c1757574457816
+r1757574603354,3,"^iPhone$","1","",1,c1757574564146
+r1757574628411,3,"^Yes$","1","",1,c1757574564146
+r1757574648483,3,"^Mostly willing$","1","",1,c1757574564146
+r1757574680723,3,"^Positive$","1","",1,c1757574564146
+r1757574951771,3,"^Gym membership$","1","",1,c41
+r1757574957519,3,"^Nutrition services \(e\.g\., using a nutrition or food diary app, working with a dietician, enrolling in a nutrition or weight loss program\)$","1","",1,c41
+r1757574968259,3,"^Mental wellness services \(e\.g\., meditation; mindfulness exercises; mental wellness counseling either online or in-person; using a mental wellness app\)$","1","",1,c41
+r1757574975329,3,"^In-person exercise classes / programs$","1","",1,c41
+r1757574981506,3,"^Fitness coach / personal trainer$","1","",1,c41
+r1757574987312,3,"^Fitness app \(e\.g\., Strava, Peloton\)$","1","",1,c41
+r1757574991801,3,"^Online exercise classes / programs$","1","",1,c41
+r1757576292218,3,"^24 Hour Fitness$","1","",1,c41
+r1757576296975,3,"^LA Fitness$","1","",1,c41
+r1757576300896,3,"^the YMCA$","1","",1,c41
+r1757576307142,3,"^Planet Fitness$","1","",1,c41
+r1757576386742,3,"^I am primarily focused on managing my weight for appearance or health reasons and try to make good choices for nutrition and/or fitness\.$","1","",1,c41
+r1757576505106,3,"^3-4 times per WEEK$","1","",1,c41
+r1757576530984,3,"^3-4 years$","1","",1,c41
+r1757576578811,3,"^Barry’s$","1","",1,c41
+r1757576638959,3,"^6A3701$","1","",1,c41
 r17576,3,"^Oscar Mayer$","1","",1,c362
 r17577,3,"^Kirkland Signature$","1","",1,c362
 r17578,3,"^Hillshire Farm$","1","",1,c362
