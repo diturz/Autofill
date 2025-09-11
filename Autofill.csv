@@ -1419,6 +1419,14 @@ c1757566676554,"Cat Food Survey","",,,,
 c1757574457816,"Package Designs!","",,,,
 c1757574564146,"Quick questions for you!","",,,,
 c1757581639015,"Connectivity","",,,,
+c1757618374313,"Exploring Entertainment Subscription Habits","",,,,
+c1757619084425,"Let's Talk About Sneakers","",,,,
+c1757619113284,"Beverage Brand Advertisements","",,,,
+c1757625487298,"Heineken & Jameson Survey","",,,,
+c1757625585430,"Brands Partnering with Musicians!","",,,,
+c1757625701835,"Sippy Cup Preferences","",,,,
+c1757626508683,"Have you heard of these Neurotoxin brands?","",,,,
+c1757626725466,"A fruity & satisfying beverage!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -27063,6 +27071,163 @@ r1757589022877,3,"^Option G$","1","",1,c1757542912763
 r1757589036417,3,"^Slightly more likely to purchase Option 1$","1","",1,c1757542912763
 r1757589047321,3,"^Logo L$","1","",1,c1757542912763
 r17576,3,"^Oscar Mayer$","1","",1,c362
+r1757618377539,3,"^Hulu$","1","",1,c1757618374313
+r1757618381520,3,"^audiobooks\.com$","1","",1,c1757618374313
+r1757618425405,3,"^Amazon Music$","1","",1,c1757618374313
+r1757618429819,3,"^Kindle Unlimited$","1","",1,c1757618374313
+r1757618433337,3,"^Google Play$","1","",1,c1757618374313
+r1757618437030,3,"^Disney\+$","1","",1,c1757618374313
+r1757618440060,3,"^Spotify$","1","",1,c1757618374313
+r1757618443305,3,"^Audible$","1","",1,c1757618374313
+r1757618446232,3,"^YouTube$","1","",1,c1757618374313
+r1757618450104,3,"^Netflix$","1","",1,c1757618374313
+r1757618462139,3,"^Yes$","1","",1,c1757618374313
+r1757618483574,3,"^Posts on social media$","1","",1,c1757618374313
+r1757618488235,3,"^Word of mouth \(Friends and Family recommendation\)$","1","",1,c1757618374313
+r1757618494167,3,"^Social media advertisement$","1","",1,c1757618374313
+r1757618510510,3,"^Unlimited listening$","1","",1,c1757618374313
+r1757618518868,3,"^Yes$","1","",1,c1757618374313
+r1757618671403,3,"^TV or newspaper/magazine reviews$","1","",1,c1757618374313
+r1757618680914,3,"^General searching/browsing online$","1","",1,c1757618374313
+r1757618688084,3,"^Recommendations from friends/family$","1","",1,c1757618374313
+r1757618694009,3,"^General social media posts \(e\.g\., friends' posts, trending topics\)$","1","",1,c1757618374313
+r1757618698243,3,"^Recommendations from the platform$","1","",1,c1757618374313
+r1757618712400,3,"^Sometimes$","1","",1,c1757618374313
+r1757618720384,3,"^Yes, I’ve purchased more hours$","1","",1,c1757618374313
+r1757618731459,3,"^Much more valuable$","1","",1,c1757618374313
+r1757618898117,3,"^Apple$","1","",1,c1757618374313
+r1757618901243,3,"^Audiobooks\.com$","1","",1,c1757618374313
+r1757618919519,3,"^Brand reputation$","1","",1,c1757618374313
+r1757618926507,3,"^Provides access to great audiobooks$","1","",1,c1757618374313
+r1757618934826,3,"^Is a service that I trust$","1","",1,c1757618374313
+r1757618956718,3,"^Papa Johns$","1","",1,c20
+r1757618960042,3,"^Domino's Pizza$","1","",1,c20
+r1757618964213,3,"^Pizza Hut$","1","",1,c20
+r1757618967607,3,"^Marco's Pizza$","1","",1,c20
+r1757618985902,3,"^Papa Murphy's$","1","",1,c20
+r1757618996908,3,"^Godfather's Pizza$","1","",1,c20
+r1757619005114,3,"^MOD Pizza$","1","",1,c20
+r1757619018307,3,"^Lay's Potato Chips$","1","",1,c20
+r1757619022483,3,"^Baked! Lay's Potato Chips$","1","",1,c20
+r1757619042351,3,"^Lay's Potato Chips Marinara$","1","",1,c20
+r1757619045798,3,"^Lay's Potato Chips Pizza Sauce$","1","",1,c20
+r1757619088746,3,"^Urban$","1","",1,c1757619084425
+r1757619096029,3,"^Within the last week$","1","",1,c1757619084425
+r1757619117879,3,"^Enhanced water \(e\.g\., water enhanced with vitamins, etc\.\)$","1","",1,c1757619113284
+r1757619120775,3,"^Fruit punch$","1","",1,c1757619113284
+r1757619123726,3,"^Energy drinks$","1","",1,c1757619113284
+r1757619127655,3,"^Premium bottled 100% fruit juices \(e\.g\., pomegranate juice, tart cherry juice\)$","1","",1,c1757619113284
+r1757619131052,3,"^Performance hydration beverages \(e\.g\., with electrolytes, minerals etc\.\)$","1","",1,c1757619113284
+r1757619136101,3,"^Flavored lemonade \(e\.g\., strawberry, raspberry, etc\.\)$","1","",1,c1757619113284
+r1757619139241,3,"^Soda \(e\.g\., diet, full sugar, probiotic, etc\.\)$","1","",1,c1757619113284
+r1757619143537,3,"^Lemonade$","1","",1,c1757619113284
+r1757619148696,3,"^Sparkling water or flavored water$","1","",1,c1757619113284
+r1757619153027,3,"^Cold pressed juices \(e\.g\., juices crushed/pressed without heat to retain nutrients\)$","1","",1,c1757619113284
+r1757619157415,3,"^Non-alcoholic mocktails$","1","",1,c1757619113284
+r1757619161237,3,"^Protein beverages$","1","",1,c1757619113284
+r1757619164876,3,"^Non-coconut plant-based water \(e\.g\., watermelon water, aloe water, etc\.\)$","1","",1,c1757619113284
+r1757619169392,3,"^Coconut water$","1","",1,c1757619113284
+r1757619174541,3,"^Fruit juice \(e\.g\., cranberry juice, apple juice, grapefruit juice, etc\.\)$","1","",1,c1757619113284
+r1757619178656,3,"^Flavored or sweet tea$","1","",1,c1757619113284
+r1757619182676,3,"^Fruit-flavored drinks$","1","",1,c1757619113284
+r1757619189391,3,"^Juice blends$","1","",1,c1757619113284
+r1757619202033,3,"^Snapple$","1","",1,c1757619113284
+r1757619205911,3,"^Hawaiian Punch$","1","",1,c1757619113284
+r1757619209558,3,"^Tropicana$","1","",1,c1757619113284
+r1757619212595,3,"^V8 Splash$","1","",1,c1757619113284
+r1757619216369,3,"^Minute Maid$","1","",1,c1757619113284
+r1757619219881,3,"^Body Armor$","1","",1,c1757619113284
+r1757619223665,3,"^Dole$","1","",1,c1757619113284
+r1757619226892,3,"^Arizona$","1","",1,c1757619113284
+r1757619261136,3,"^Calypso$","1","",1,c1757619113284
+r1757619274186,3,"^Very well$","1","",1,c1757619113284
+r1757624157778,3,"^I am completely responsible for all the grocery shopping/brand decision making for my household$","1","",1,c1756347863952
+r1757624168297,3,"^Walmart$","1","",1,c1756347863952
+r1757624171522,3,"^Kroger$","1","",1,c1756347863952
+r1757624175797,3,"^Publix$","1","",1,c1756347863952
+r1757624179435,3,"^Meijer$","1","",1,c1756347863952
+r1757624184016,3,"^Target$","1","",1,c1756347863952
+r1757624191723,3,"^Albertsons$","1","",1,c1756347863952
+r1757624194807,3,"^Costco$","1","",1,c1756347863952
+r1757624214448,3,"^Dollar General$","1","",1,c1756347863952
+r1757624217901,3,"^Aldi$","1","",1,c1756347863952
+r1757624222653,3,"^Sam's Club$","1","",1,c1756347863952
+r1757624226703,3,"^Amazon$","1","",1,c1756347863952
+r1757624238902,3,"^Subway$","1","",1,c1756347863952
+r1757624243342,3,"^California Pizza Kitchen$","1","",1,c1756347863952
+r1757624362225,3,"^Cheesecake Factory$","1","",1,c1756347863952
+r1757624365692,3,"^Buffalo Wild Wings$","1","",1,c1756347863952
+r1757624368988,3,"^Wendy's$","1","",1,c1756347863952
+r1757624371668,3,"^Taco Bell$","1","",1,c1756347863952
+r1757624375472,3,"^Texas Roadhouse$","1","",1,c1756347863952
+r1757624379035,3,"^Dominos$","1","",1,c1756347863952
+r1757624383110,3,"^Chick-fil-A$","1","",1,c1756347863952
+r1757624386838,3,"^Mc Donald's$","1","",1,c1756347863952
+r1757624390329,3,"^Panera$","1","",1,c1756347863952
+r1757624393494,3,"^Chipotle$","1","",1,c1756347863952
+r1757624439824,3,"^Shelf Stable Bread \(sold in main grocery aisle\)$","1","",1,c1756347863952
+r1757624443400,3,"^Shelf stable dips \(sold in main grocery aisle\)$","1","",1,c1756347863952
+r1757624446412,3,"^Dry Seasoning Packet Salad Dressings$","1","",1,c1756347863952
+r1757624449995,3,"^Sauces \(e\.g\. marinade, glaze, simmer sauce, aioli/spread, dipping sauce, steak sauce, ethnic sauce\)$","1","",1,c1756347863952
+r1757624453850,3,"^Refrigerated Salad Dressings \(sold in produce section\)$","1","",1,c1756347863952
+r1757624460371,3,"^Fresh Bread \(sold in the store bakery\)$","1","",1,c1756347863952
+r1757624464238,3,"^Frozen Bread, Rolls or Biscuits$","1","",1,c1756347863952
+r1757624467677,3,"^Refrigerated dips \(sold in produce section\)$","1","",1,c1756347863952
+r1757624473964,3,"^Refrigerated dips \(sold in deli section\)$","1","",1,c1756347863952
+r1757624478637,3,"^Salad Toppings – other than croutons$","1","",1,c1756347863952
+r1757624482697,3,"^Croutons$","1","",1,c1756347863952
+r1757624487169,3,"^Shelf Stable Salad Dressings \(sold in main grocery aisle\)$","1","",1,c1756347863952
+r1757624491430,3,"^Refrigerated Bread, Rolls or Biscuits$","1","",1,c1756347863952
+r1757624495913,3,"^Refrigerated dips \(sold in dairy section\)$","1","",1,c1756347863952
+r1757625333900,3,"^Pillsbury$","1","",1,c1756347863952
+r1757625343791,3,"^Pepperidge Farm$","1","",1,c1756347863952
+r1757625348297,3,"^Store Brand Frozen bread/Dinner rolls/Biscuits$","1","",1,c1756347863952
+r1757625414998,3,"^29 - 44 Years Old$","1","",1,c1756347863952
+r1757625430155,3,"^Like Very Much$","1","",1,c1756347863952
+r1757625470111,3,"^A few times per week$","1","",1,c1756347863952
+r1757625490229,3,"^Yes$","1","",1,c1757625487298
+r1757625502925,3,"^Go to bars$","1","",1,c1757625487298
+r1757625507126,3,"^Hang out with friends$","1","",1,c1757625487298
+r1757625510611,3,"^Watch movies/TV shows$","1","",1,c1757625487298
+r1757625514939,3,"^Go to music events/concerts$","1","",1,c1757625487298
+r1757625522220,3,"^Travel$","1","",1,c1757625487298
+r1757625530727,3,"^St\. Patrick's Day$","1","",1,c1757625487298
+r1757625534289,3,"^Fourth of July$","1","",1,c1757625487298
+r1757625538453,3,"^Thanksgiving$","1","",1,c1757625487298
+r1757625542475,3,"^Christmas$","1","",1,c1757625487298
+r1757625545539,3,"^Valentine's Day$","1","",1,c1757625487298
+r1757625556602,3,"^Unique$","1","",1,c1757625487298
+r1757625561961,3,"^Relevant$","1","",1,c1757625487298
+r1757625565880,3,"^Easy to understand$","1","",1,c1757625487298
+r1757625591139,3,"^It would make me more interested in purchasing from the brand$","1","",1,c1757625585430
+r1757625680721,3,"^Catholic$","1","",1,c1757625585430
+r1757625708655,3,"^I have a child or children under 18 years old living at home$","1","",1,c1757625701835
+r1757625745541,3,"^2$","1","",1,c1757625701835
+r1757625797861,3,"^7-12 years$","1","",1,c1757625701835
+r1757625930214,3,"^I have not yet, but I plan to book one in the next 6-12 months$","1","",1,c1757625701835
+r1757625939286,3,"^Over \$200$","1","",1,c1757625701835
+r1757626136007,3,"^More than once a month$","1","",1,c1757625701835
+r1757626274719,3,"^NakedMD$","1","",1,c1757625701835
+r1757626287452,3,"^Glow Medispa$","1","",1,c1757625701835
+r1757626329647,3,"^Skin By Lovely$","1","",1,c1757625701835
+r1757626514709,3,"^Have tried and intend to use again within the next 6 months$","1","",1,c1757626508683
+r1757626625651,3,"^Botox$","1","",1,c1757626508683
+r1757626654405,3,"^7$","1","",1,c1757626508683
+r1757626729595,3,"^I am primarily responsible for grocery shopping\.$","1","",1,c1757626725466
+r1757626740889,3,"^Tropicana$","1","",1,c1757626725466
+r1757626746733,3,"^Simply$","1","",1,c1757626725466
+r1757626751219,3,"^Naked$","1","",1,c1757626725466
+r1757626759843,3,"^Minute Maid$","1","",1,c1757626725466
+r1757626765860,3,"^Suja$","1","",1,c1757626725466
+r1757626855607,3,"^Juice$","1","",1,c1757626725466
+r1757626858584,3,"^Protein shakes$","1","",1,c1757626725466
+r1757626863842,3,"^Coconut water$","1","",1,c1757626725466
+r1757626867023,3,"^Smoothies$","1","",1,c1757626725466
+r1757626992600,3,"^Oat fiber$","1","",1,c1757626725466
+r1757627000516,3,"^Real fruits & vegetables$","1","",1,c1757626725466
+r1757627026794,3,"^Strawberry$","1","",1,c1757626725466
+r1757627033145,3,"^Mixed Berry$","1","",1,c1757626725466
+r1757627039634,3,"^Greens \(like Kale\) \+ Fruit$","1","",1,c1757626725466
 r17577,3,"^Kirkland Signature$","1","",1,c362
 r17578,3,"^Hillshire Farm$","1","",1,c362
 r17579,3,"^Groceries$","1","",1,c363
