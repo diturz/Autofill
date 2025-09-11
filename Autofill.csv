@@ -1418,6 +1418,7 @@ c1757566143650,"Let’s talk about your Outdoor & Leisure Activities.","",,,,
 c1757566676554,"Cat Food Survey","",,,,
 c1757574457816,"Package Designs!","",,,,
 c1757574564146,"Quick questions for you!","",,,,
+c1757581639015,"Connectivity","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -26984,6 +26985,28 @@ r1757576505106,3,"^3-4 times per WEEK$","1","",1,c41
 r1757576530984,3,"^3-4 years$","1","",1,c41
 r1757576578811,3,"^Barry’s$","1","",1,c41
 r1757576638959,3,"^6A3701$","1","",1,c41
+r1757580581236,3,"^Pellet Grill / Smoker$","1","",1,c1757542240273
+r1757581642846,3,"^A man$","1","",1,c1757581639015
+r1757581663651,3,"^No$","1","",1,c1757581639015
+r1757581675456,3,"^\$75,000 - \$99,999$","1","",1,c1757581639015
+r1757581685799,3,"^I was solely responsible for the decision$","1","",1,c1757581639015
+r1757581697052,3,"^Verizon$","1","",1,c1757581639015
+r1757581706492,3,"^I use the plan$","1","",1,c1757581639015
+r1757581721823,3,"^Somewhat agree$","1","",1,c1757581639015
+r1757581735876,3,"^All office / on-site$","1","",1,c1757581639015
+r1757581745245,3,"^Urban area \(city or metropolitan\)$","1","",1,c1757581639015
+r1757581770813,3,"^Camping or outdoor recreation$","1","",1,c1757581639015
+r1757581774622,3,"^Living or working in buildings or locations with limited signal indoors$","1","",1,c1757581639015
+r1757581779010,3,"^Traveling for work \(e\.g\., business trips, fieldwork\)$","1","",1,c1757581639015
+r1757581789228,3,"^Attending large outdoor events or festivals$","1","",1,c1757581639015
+r1757581796423,3,"^Boating or fishing$","1","",1,c1757581639015
+r1757581802583,3,"^Commuting through areas with poor cellular coverage$","1","",1,c1757581639015
+r1757581807602,3,"^Traveling for leisure \(e\.g\., road trips, remote destinations\)$","1","",1,c1757581639015
+r1757581811420,3,"^Hiking or backpacking$","1","",1,c1757581639015
+r1757581872186,3,"^T-Satellite with Starlink$","1","",1,c1757581639015
+r1757581893822,3,"^No, I don’t have access to the service$","1","",1,c1757581639015
+r1757581903661,3,"^Somewhat likely$","1","",1,c1757581639015
+r1757581912778,3,"^Greatly improve my daily life and routine$","1","",1,c1757581639015
 r17576,3,"^Oscar Mayer$","1","",1,c362
 r17577,3,"^Kirkland Signature$","1","",1,c362
 r17578,3,"^Hillshire Farm$","1","",1,c362
