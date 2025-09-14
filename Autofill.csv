@@ -1429,6 +1429,14 @@ c1757626508683,"Have you heard of these Neurotoxin brands?","",,,,
 c1757626725466,"A fruity & satisfying beverage!","",,,,
 c1757631280848,"Help us name a new creamer!","",,,,
 c1757631690645,"Skincare product purchasing","",,,,
+c1757832627800,"Packaging Test","",,,,
+c1757832759679,"Face Skincare Products Specifically Designed for Tween's Sensitive Skin","",,,,
+c1757832896441,"Product Concept Input","",,,,
+c1757833422149,"Wellness Shot Questions","",,,,
+c1757834358015,"Chips Ahoy Limited Edition","",,,,
+c1757835338378,"Let's chat!","",,,,
+c1757835919422,"Tech Device Usage","",,,,
+c1757837661455,"Music and Food and Beverage Inspiration","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -27253,6 +27261,161 @@ r1757632033237,3,"^Yes, my first purchase is typically in clinic, and second is 
 r1757632057392,3,"^SkinCeuticals$","1","",1,c1757631690645
 r17577,3,"^Kirkland Signature$","1","",1,c362
 r17578,3,"^Hillshire Farm$","1","",1,c362
+r1757832644756,3,"^Packaged Cookies$","1","",1,c1757832627800
+r1757832650840,3,"^Mints or Gum$","1","",1,c1757832627800
+r1757832655137,3,"^Non-Chocolate Candy \(e\.g\., lollipops, fruit flavored hard candies, gummies, licorice etc\.\)$","1","",1,c1757832627800
+r1757832659679,3,"^Chocolate Candy \(e\.g\., chocolate bars, chocolate bites, etc\.\)$","1","",1,c1757832627800
+r1757832664823,3,"^Trail Mix \(e\.g\., packaged mix of dried fruit, nuts, chocolate, etc\.\)$","1","",1,c1757832627800
+r1757832673116,3,"^Snack Mix \(e\.g\., sweet & salty mixes sold in the candy aisle\)$","1","",1,c1757832627800
+r1757832677171,3,"^Premium Chocolate \(e\.g\., sold in attractive boxes, bags or individually wrapped bars/pieces\)$","1","",1,c1757832627800
+r1757832681652,3,"^Ice Cream / Frozen Novelties / Frozen Fruit Bars / Ice Pops$","1","",1,c1757832627800
+r1757832690195,3,"^Dove$","1","",1,c1757832627800
+r1757832693813,3,"^Ferrero Rocher$","1","",1,c1757832627800
+r1757832698191,3,"^Store Brand$","1","",1,c1757832627800
+r1757832713597,3,"^Godiva$","1","",1,c1757832627800
+r1757832763271,3,"^Yes$","1","",1,c1757832759679
+r1757832773316,3,"^10 - 12 years old$","1","",1,c1757832759679
+r1757832777400,3,"^13 - 18 years old$","1","",1,c1757832759679
+r1757832790290,3,"^Girl\(s\)$","1","",1,c1757832759679
+r1757832806136,3,"^Acne$","1","",1,c1757832759679
+r1757832809876,3,"^Eczema$","1","",1,c1757832759679
+r1757832813210,3,"^Dryness$","1","",1,c1757832759679
+r1757832817051,3,"^Redness/irritation$","1","",1,c1757832759679
+r1757832825538,3,"^CeraVe$","1","",1,c1757832759679
+r1757832854991,3,"^Cetaphil$","1","",1,c1757832759679
+r1757832860046,3,"^Drunk Elephant$","1","",1,c1757832759679
+r1757832871558,3,"^Somewhat important$","1","",1,c1757832759679
+r1757832899602,3,"^Male$","1","",1,c1757832896441
+r1757832940271,3,"^Midwest \(Wisconsin, Michigan, Illinois, Indiana, Ohio, Minnesota, North Dakota, South Dakota, Nebraska, Kansas, Iowa and Missouri\)$","1","",1,c1757832896441
+r1757832955692,3,"^Working full-time \(30\+ hours per week\)$","1","",1,c1757832896441
+r1757832968730,3,"^Multiple times a day$","1","",1,c1757832896441
+r1757833075113,3,"^Somewhat likely$","1","",1,c1757832896441
+r1757833427751,3,"^Drug Store \(e\.g\., CVS or Walgreens\)$","1","",1,c1757833422149
+r1757833434608,3,"^Online retailer \(e\.g\., Amazon\)$","1","",1,c1757833422149
+r1757833442902,3,"^Convenience Store / Gas Station Store \(e\.g\., 7-Eleven\)$","1","",1,c1757833422149
+r1757833449127,3,"^Natural Food Store \(e\.g\., Whole Foods, Sprouts, Fresh Thyme\)$","1","",1,c1757833422149
+r1757833453722,3,"^National Grocery Store \(e\.g\., Albertson’s, Kroger or HEB\)$","1","",1,c1757833422149
+r1757833459606,3,"^Mass Merchandiser \(e\.g\., Walmart or Target\)$","1","",1,c1757833422149
+r1757833464323,3,"^Dollar Store \(e\.g\., Dollar General or Family Dollar\)$","1","",1,c1757833422149
+r1757833471852,3,"^Club Store \(e\.g\., Sam’s Club or Costco\)$","1","",1,c1757833422149
+r1757833749535,3,"^Albertsons$","1","",1,c1757833422149
+r1757833755475,3,"^Kroger$","1","",1,c1757833422149
+r1757833758824,3,"^Meijer$","1","",1,c1757833422149
+r1757833761901,3,"^Publix$","1","",1,c1757833422149
+r1757833767497,3,"^Safeway$","1","",1,c1757833422149
+r1757833779520,3,"^Target$","1","",1,c1757833422149
+r1757833792617,3,"^Walmart$","1","",1,c1757833422149
+r1757833802896,3,"^Sam's Club$","1","",1,c1757833422149
+r1757833806672,3,"^Costco$","1","",1,c1757833422149
+r1757833814753,3,"^Trader Joe’s$","1","",1,c1757833422149
+r1757833819048,3,"^Whole Foods$","1","",1,c1757833422149
+r1757833830721,3,"^Shelf Stable Juices \(e\.g\., Ocean Spray, Welch’s\)$","1","",1,c1757833422149
+r1757833837089,3,"^Kombucha \(e\.g\., GTs, Health-Ade\)$","1","",1,c1757833422149
+r1757833842719,3,"^Energy Drinks \(e\.g\., Red Bull, Monster, Celsius\)$","1","",1,c1757833422149
+r1757833848762,3,"^Sparkling Juice \(e\.g\., IZZE, San Pellegrino\)$","1","",1,c1757833422149
+r1757833878545,3,"^Ready to Drink OR Cold-brew Coffees \(e\.g\., Starbucks, Super Coffee\)$","1","",1,c1757833422149
+r1757833882357,3,"^Refrigerated Pasteurized Juices \(e\.g\., Simply, Tropicana\)$","1","",1,c1757833422149
+r1757833886268,3,"^Refrigerated Cold-Pressed Juice \(e\.g\., Suja, Evolution Fresh\)$","1","",1,c1757833422149
+r1757833890421,3,"^Refrigerated Wellness Shots \(e\.g\., Suja, Vive Organic, So Good So You\)$","1","",1,c1757833422149
+r1757833896427,3,"^Refrigerated Ready to Drink Smoothies \(e\.g\., Naked Juice, Bolthouse Farms\)$","1","",1,c1757833422149
+r1757833902875,3,"^Bottled Water$","1","",1,c1757833422149
+r1757833910273,3,"^Refrigerated Ready to Drink Protein Drinks \(that you purchase refrigerated e\.g\., Bolthouse Protein Plus, Koia, Rebbl\)$","1","",1,c1757833422149
+r1757833915207,3,"^Healthy/Functional Soda \(e\.g\., Olipop, Poppi\)$","1","",1,c1757833422149
+r1757833919492,3,"^Shelf Stable Shots \(e\.g\., 5-Hour Energy\)$","1","",1,c1757833422149
+r1757833923290,3,"^Soda \(e\.g\., Coke, Pepsi, Mountain Dew\)$","1","",1,c1757833422149
+r1757833929449,3,"^Enhanced Water \(e\.g\., Smartwater\)$","1","",1,c1757833422149
+r1757833933271,3,"^Sparkling Water \(e\.g\., La Croix, Bubly\)$","1","",1,c1757833422149
+r1757833938462,3,"^Powdered Supplements \(e\.g\., Athletic Greens, LiquidIV\)$","1","",1,c1757833422149
+r1757833946689,3,"^Coconut Water \(e\.g\., Vita Coca, Harmless Harvest\)$","1","",1,c1757833422149
+r1757833961397,3,"^Store Brand/Private Label$","1","",1,c1757833422149
+r1757833965033,3,"^Suja Organic$","1","",1,c1757833422149
+r1757833968184,3,"^Vive Organic$","1","",1,c1757833422149
+r1757834013888,3,"^More than once a week$","1","",1,c1757833422149
+r1757834040551,3,"^Vive Organic Mood Boost Shots$","1","",1,c1757833422149
+r1757834056936,3,"^Mood Boost with benefits \(uplifting, calming, etc\)$","1","",1,c1757833422149
+r1757834363048,3,"^Definitely would buy$","1","",1,c1757834358015
+r1757834390129,3,"^Is modern$","1","",1,c1757834358015
+r1757834393969,3,"^Is exciting$","1","",1,c1757834358015
+r1757834398567,3,"^Worth paying more for$","1","",1,c1757834358015
+r1757834416129,3,"^30–39$","1","",1,c135
+r1757834427631,3,"^I am the primary decision maker$","1","",1,c135
+r1757834435717,3,"^Home Care Products \(Paper Towels, Toilet Paper, Cleaners, etc\.\)$","1","",1,c135
+r1757834443304,3,"^Sunscreen$","1","",1,c135
+r1757834447948,3,"^Insecticides \(Sprays, Baits, Traps, etc\.\)$","1","",1,c135
+r1757834455003,3,"^Skin Care Products$","1","",1,c135
+r1757834461807,3,"^Tick-specific products \(Repels ticks, Removes ticks, etc\.\)$","1","",1,c135
+r1757834509343,3,"^Myself$","1","",1,c135
+r1757834518682,3,"^I have a current tick problem in/around my home$","1","",1,c135
+r1757834526339,3,"^Powder$","1","",1,c135
+r1757834532788,3,"^On-body repellent \(aerosol, lotion, wipes, etc\.\)$","1","",1,c135
+r1757834536593,3,"^Pre-treated clothing that repels ticks$","1","",1,c135
+r1757834539913,3,"^Stickers/patches$","1","",1,c135
+r1757834545696,3,"^Tape \(such as Tick Tape, duct tape, etc\.\)$","1","",1,c135
+r1757834551833,3,"^Hose End Spray \(product that attaches to a hose and sprays large areas\)$","1","",1,c135
+r1757834557088,3,"^Professional Service$","1","",1,c135
+r1757834605365,3,"^Remove the tick myself$","1","",1,c135
+r1757834616766,3,"^Use an at-home remedy or over-the-counter treatment$","1","",1,c135
+r1757834623706,3,"^Have someone else remove the tick$","1","",1,c135
+r1757834632755,3,"^Monitor the bite for symptoms before acting$","1","",1,c135
+r1757834645175,3,"^Use a tick removal tool$","1","",1,c135
+r1757834651016,3,"^Change clothes$","1","",1,c135
+r1757834705989,3,"^Trader Joe's$","1","",1,c41
+r1757834714328,3,"^I am the primary person who decides on and purchases groceries for my household\.$","1","",1,c41
+r1757835229660,3,"^Pasta and pasta sauces$","1","",1,c41
+r1757835234461,3,"^Shelf-stable ready-to-eat meals \(in pouches, cups, or trays\)$","1","",1,c41
+r1757835241518,3,"^Salty snacks \(chips, pretzels\)$","1","",1,c41
+r1757835250545,3,"^Yogurt and dairy products$","1","",1,c41
+r1757835258826,3,"^Refrigerated entrees or prepared dishes$","1","",1,c41
+r1757835263438,3,"^Frozen pizza or frozen meals$","1","",1,c41
+r1757835268921,3,"^Fresh prepared salads or sandwiches$","1","",1,c41
+r1757835366393,3,"^Refrigerator$","1","",1,c1757835338378
+r1757835543140,3,"^Working full-time \(30 or more hrs\. per week\)$","1","",1,c1757835338378
+r1757835552464,3,"^I am an employee of the business$","1","",1,c1757835338378
+r1757835560962,3,"^I am solely responsible for IT purchasing$","1","",1,c1757835338378
+r1757835571909,3,"^Computers \(laptops, desktops, etc\.\)$","1","",1,c1757835338378
+r1757835866094,3,"^Tablets$","1","",1,c1757835338378
+r1757835869534,3,"^Printers$","1","",1,c1757835338378
+r1757835874545,3,"^Software$","1","",1,c1757835338378
+r1757835878362,3,"^Smartphones$","1","",1,c1757835338378
+r1757835882090,3,"^Monitors$","1","",1,c1757835338378
+r1757835936534,3,"^Smart TV/Streaming Device$","1","",1,c1757835919422
+r1757835943961,3,"^Smartphone$","1","",1,c1757835919422
+r1757835948223,3,"^Tablet$","1","",1,c1757835919422
+r1757835958559,3,"^AR/VR/MR Headset$","1","",1,c1757835919422
+r1757835964350,3,"^Laptop Computer$","1","",1,c1757835919422
+r1757835981752,3,"^Smart Speaker$","1","",1,c1757835919422
+r1757835993035,3,"^Smartwatch/Fitness Band$","1","",1,c1757835919422
+r1757836026137,3,"^Gaming Console$","1","",1,c1757835919422
+r1757836031579,3,"^Desktop Computer$","1","",1,c1757835919422
+r1757836036608,3,"^Wireless Headphones$","1","",1,c1757835919422
+r1757836049813,3,"^Every day$","1","",1,c1757835919422
+r1757836104365,3,"^1 - 2 hours$","1","",1,c1757835919422
+r1757836115416,3,"^HP$","1","",1,c1757835919422
+r1757836533004,3,"^Apple Mac$","1","",1,c1757835919422
+r1757836535804,3,"^LG$","1","",1,c1757835919422
+r1757836553106,3,"^Microsoft Surface$","1","",1,c1757835919422
+r1757836663687,3,"^Crackers$","1","",1,c1757835919422
+r1757836670951,3,"^Tomatoes$","1","",1,c1757835919422
+r1757836676944,3,"^Cheese$","1","",1,c1757835919422
+r1757836680356,3,"^Milk$","1","",1,c1757835919422
+r1757836688630,3,"^Eggs$","1","",1,c1757835919422
+r1757836736886,3,"^Competitive: I thrive on multiplayer competition, rankings, and performance\.$","1","",1,c1757835919422
+r1757837234065,3,"^Online or physical retail stores \(e\.g\., GameStop, Amazon\)$","1","",1,c1757835919422
+r1757837238567,3,"^Third Party Digital Games Stores \(GOG, Steam\)$","1","",1,c1757835919422
+r1757837244277,3,"^First Party Digital Games Stores \(Playstation Store, Nintendo eShop, Apple App Store, etc\.\)$","1","",1,c1757835919422
+r1757837248205,3,"^Directly from the game developer's website$","1","",1,c1757835919422
+r1757837317294,3,"^Very familiar$","1","",1,c1757835919422
+r1757837330187,3,"^Like it$","1","",1,c1757835919422
+r1757837525230,3,"^Not compatible with my other gaming devices or accessories$","1","",1,c1757835919422
+r1757837532691,3,"^Prefer other devices for gaming$","1","",1,c1757835919422
+r1757837539479,3,"^My Mac is intended for a different purpose$","1","",1,c1757835919422
+r1757837572743,3,"^Processor/Chip$","1","",1,c1757835919422
+r1757837584905,3,"^Apple iPhone$","1","",1,c1757835919422
+r1757837598172,3,"^Apple iPad$","1","",1,c1757835919422
+r1757837608863,3,"^Nintendo Switch$","1","",1,c1757835919422
+r1757837614516,3,"^Playstation 5$","1","",1,c1757835919422
+r1757837622501,3,"^Xbox Series X/Xbox Series S$","1","",1,c1757835919422
+r1757837633529,3,"^Portable Gaming Consoles \(e\.g\. Steam Deck, Nintendo Switch Lite, Asus GOG Ally\)$","1","",1,c1757835919422
 r17579,3,"^Groceries$","1","",1,c363
 r1758,3,"^Baking mixes \(including pancake mix, waffle mix, brownie mix, cake mix, muffin mix, bread mix, etc\.\)$","1","",1,c3
 r17580,3,"^Smart device$","1","",1,c363
