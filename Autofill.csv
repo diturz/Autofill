@@ -1437,6 +1437,10 @@ c1757834358015,"Chips Ahoy Limited Edition","",,,,
 c1757835338378,"Let's chat!","",,,,
 c1757835919422,"Tech Device Usage","",,,,
 c1757837661455,"Music and Food and Beverage Inspiration","",,,,
+c1757967276191,"What's important to you?","",,,,
+c1757968922739,"Spreads at Club Warehouse Stores","",,,,
+c1757968939608,"Beauty + Wellness","",,,,
+c1757969169356,"Tell us your thoughts about skincare","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -27428,6 +27432,36 @@ r1757901797224,3,"^Then enjoy the texture of the product$","1","",1,c17578327596
 r1757901812641,3,"^Product packaging feels too “grown-up” or boring$","1","",1,c1757832759679
 r1757901819283,3,"^Product is fragrance-free or lack of scent$","1","",1,c1757832759679
 r1757901828678,3,"^Time constraints \(e\.g\., busy mornings or evenings\)$","1","",1,c1757832759679
+r1757967280502,3,"^Sam's Club$","1","",1,c1757967276191
+r1757967283913,3,"^Target$","1","",1,c1757967276191
+r1757967287309,3,"^Walgreens$","1","",1,c1757967276191
+r1757967290361,3,"^Costco$","1","",1,c1757967276191
+r1757967294344,3,"^Dollar General$","1","",1,c1757967276191
+r1757967297876,3,"^CVS$","1","",1,c1757967276191
+r1757967300964,3,"^Amazon$","1","",1,c1757967276191
+r1757967303990,3,"^Walmart$","1","",1,c1757967276191
+r1757968945955,3,"^Acne \(Face or Body\)$","1","",1,c1757968939608
+r1757968949388,3,"^Dry Skin$","1","",1,c1757968939608
+r1757968976416,3,"^Emotional Support/Need More Self-Care$","1","",1,c1757968939608
+r1757968981330,3,"^Stress-Related Skin & Body Issues$","1","",1,c1757968939608
+r1757968986470,3,"^Signs of Aging \(Fine Lines/Wrinkles, Sagging, etc\.\)$","1","",1,c1757968939608
+r1757968990651,3,"^Muscle Soreness/Tension$","1","",1,c1757968939608
+r1757969001416,3,"^Topical Body Care \(Lotions, Oils, etc\.\)$","1","",1,c1757968939608
+r1757969008595,3,"^Professional Treatments \(Spa Visits, Dermatologist Treatments, etc\.\)$","1","",1,c1757968939608
+r1757969012184,3,"^Supplements \(Vitamins, Adaptogens, etc\.\)$","1","",1,c1757968939608
+r1757969016017,3,"^Lifestyle Habits \(Exercise, Meditation, etc\.\)$","1","",1,c1757968939608
+r1757969034509,3,"^\$60\+$","1","",1,c1757968939608
+r1757969050026,3,"^Muscle Recovery$","1","",1,c1757968939608
+r1757969053667,3,"^Deep Hydration & Moisture$","1","",1,c1757968939608
+r1757969057084,3,"^Firming & Healthy Aging$","1","",1,c1757968939608
+r1757969173007,3,"^Facial moisturizer with sunscreen \(2in1 product\)$","1","",1,c1757969169356
+r1757969177495,3,"^Facial Cleanser$","1","",1,c1757969169356
+r1757969181882,3,"^Facial Moisturizer$","1","",1,c1757969169356
+r1757969186241,3,"^Serum$","1","",1,c1757969169356
+r1757969210069,3,"^Protects my skin now and gives me the confidence I will look better than others my age in the future\.$","1","",1,c1757969169356
+r1757969222156,3,"^Option M$","1","",1,c1757969169356
+r1757969227710,3,"^Option L$","1","",1,c1757969169356
+r1757969233318,3,"^Option N$","1","",1,c1757969169356
 r1758,3,"^Baking mixes \(including pancake mix, waffle mix, brownie mix, cake mix, muffin mix, bread mix, etc\.\)$","1","",1,c3
 r17580,3,"^Smart device$","1","",1,c363
 r17581,3,"^Fast food$","1","",1,c363
