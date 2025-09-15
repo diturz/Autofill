@@ -1441,6 +1441,10 @@ c1757967276191,"What's important to you?","",,,,
 c1757968922739,"Spreads at Club Warehouse Stores","",,,,
 c1757968939608,"Beauty + Wellness","",,,,
 c1757969169356,"Tell us your thoughts about skincare","",,,,
+c1757972042547,"Some Questions For You","",,,,
+c1757972303807,"Technology Purchasing Behaviors","",,,,
+c1757972398822,"Meeting","",,,,
+c1757973399245,"We want to hear about your preferences!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -27462,6 +27466,85 @@ r1757969210069,3,"^Protects my skin now and gives me the confidence I will look 
 r1757969222156,3,"^Option M$","1","",1,c1757969169356
 r1757969227710,3,"^Option L$","1","",1,c1757969169356
 r1757969233318,3,"^Option N$","1","",1,c1757969169356
+r1757970841543,3,"^Sam's Club$","1","",1,c1757968922739
+r1757970849611,3,"^Granola/cereal/nut/fruit bars$","1","",1,c1757968922739
+r1757970853323,3,"^Nut spreads \(peanut butter, almond butter etc\.\)$","1","",1,c1757968922739
+r1757970856145,3,"^Household goods \(toilet paper, paper towels, napkins etc\.\)$","1","",1,c1757968922739
+r1757970860385,3,"^Baked goods \(brownies, cakes, pies etc\.\)$","1","",1,c1757968922739
+r1757970863944,3,"^Chocolate candy$","1","",1,c1757968922739
+r1757970867933,3,"^Yogurt$","1","",1,c1757968922739
+r1757970870850,3,"^Cookies$","1","",1,c1757968922739
+r1757970874277,3,"^Chocolate hazelnut spreads$","1","",1,c1757968922739
+r1757970878923,3,"^Salty snacks \(chips, pretzels, popcorn etc\.\)$","1","",1,c1757968922739
+r1757970886960,3,"^Nutella$","1","",1,c1757968922739
+r1757970890238,3,"^Store Brand Chocolate Hazelnut Spread$","1","",1,c1757968922739
+r1757970895085,3,"^Jif$","1","",1,c1757968922739
+r1757970900823,3,"^Store Brand Nut Spread$","1","",1,c1757968922739
+r1757971044429,3,"^I have children at home$","1","",1,c1757968922739
+r1757971053133,3,"^7-10$","1","",1,c1757968922739
+r1757971055900,3,"^14-17$","1","",1,c1757968922739
+r1757971065266,3,"^Yes$","1","",1,c1757968922739
+r1757971074688,3,"^Definitely would buy$","1","",1,c1757968922739
+r1757971095496,3,"^Extremely excited$","1","",1,c1757968922739
+r1757972047347,3,"^I am primarily responsible$","1","",1,c1757972042547
+r1757972061745,3,"^Ready-to-drink coffee \(e\.g\., Starbucks, STōK\)$","1","",1,c1757972042547
+r1757972065491,3,"^Powdered multi-serve \(cannister/pitcher pack\) drink mix \(e\.g\., Crystal Light, Kool-Aid, Tang, Country Time\)$","1","",1,c1757972042547
+r1757972069119,3,"^Dry/fresh herbs and spices$","1","",1,c1757972042547
+r1757972072704,3,"^Pudding powder mix \(e\.g\., Jell-O\)$","1","",1,c1757972042547
+r1757972076389,3,"^Marshmallows$","1","",1,c1757972042547
+r1757972079974,3,"^Juice boxes/pouches \(e\.g\., Capri Sun, Kool-Aid Jammers, Honest Juice\)$","1","",1,c1757972042547
+r1757972087700,3,"^Gelatin ready-to-eat cups \(e\.g\., Jell-O, Snack Pack\)$","1","",1,c1757972042547
+r1757972091230,3,"^Salad dressing$","1","",1,c1757972042547
+r1757972094939,3,"^Pudding ready-to-eat cups \(e\.g\., Jell-O, Snack Pack\)$","1","",1,c1757972042547
+r1757972100760,3,"^Multi-serve containers of flavored beverages/juice drinks \(e\.g\., Kool-Aid, Hawaiian Punch\)$","1","",1,c1757972042547
+r1757972104298,3,"^Gelatin powder mix \(e\.g\., Jell-O\)$","1","",1,c1757972042547
+r1757972108357,3,"^Frozen meals \(e\.g\., Healthy Choice, Lean Cuisine\)$","1","",1,c1757972042547
+r1757972112335,3,"^Liquid concentrate drink mix \(e\.g\., Mio, Dasani Flavor Drops\)$","1","",1,c1757972042547
+r1757972116186,3,"^Single serve containers of flavored beverages/juice drinks \(e\.g\., Kool-Aid, Hawaiian Punch\)$","1","",1,c1757972042547
+r1757972120113,3,"^Powdered single serve drink mix \(e\.g\., Crystal Light, Kool-Aid, Tang, Country Time\)$","1","",1,c1757972042547
+r1757972124173,3,"^Sports drinks \(e\.g\., Gatorade, Powerade, BodyArmor\)$","1","",1,c1757972042547
+r1757972128755,3,"^Energy drinks \(e\.g\., Red Bull, Celsius, Monster\)$","1","",1,c1757972042547
+r1757972136122,3,"^Dove$","1","",1,c1757972042547
+r1757972139398,3,"^Great Value$","1","",1,c1757972042547
+r1757972143166,3,"^Jell-O$","1","",1,c1757972042547
+r1757972309935,3,"^Male$","1","",1,c1757972303807
+r1757972323476,3,"^laptop$","1","",1,c1757972303807
+r1757972337335,3,"^More than \$2,000$","1","",1,c1757972303807
+r1757972357496,3,"^No$","1","",1,c1757972303807
+r1757973034257,3,"^Slack$","1","",1,c1757972398822
+r1757973039710,3,"^Google Calendar$","1","",1,c1757972398822
+r1757973042314,3,"^Zoom$","1","",1,c1757972398822
+r1757973045289,3,"^Microsoft Teams$","1","",1,c1757972398822
+r1757973048129,3,"^Google Meet$","1","",1,c1757972398822
+r1757973074645,3,"^Agree$","1","",1,c1757972398822
+r1757973151800,3,"^Yes, it's close to what I expected\.$","1","",1,c1757972398822
+r1757973362849,3,"^It will start a video call AND begin recording audio to create a meeting summary\.$","1","",1,c1757972398822
+r1757973382287,3,"^Yes,it's close to what I expected\.$","1","",1,c1757972398822
+r1757973404282,3,"^I am the primary grocery shopper$","1","",1,c1757973399245
+r1757973428904,3,"^Great Lakes \(Wisconsin, Michigan, Ohio, Indiana, Illinois\)$","1","",1,c1757973399245
+r1757973444309,3,"^Raising Teens \(oldest child 12-17\)$","1","",1,c1757973399245
+r1757973452166,3,"^Stouffers$","1","",1,c1757973399245
+r1757973455177,3,"^Tillamook$","1","",1,c1757973399245
+r1757973458668,3,"^Amy’s Kitchen$","1","",1,c1757973399245
+r1757973462510,3,"^Totino’s$","1","",1,c1757973399245
+r1757973465362,3,"^Newman’s Own$","1","",1,c1757973399245
+r1757973471484,3,"^California Pizza Kitchen$","1","",1,c1757973399245
+r1757973474669,3,"^Rao's Made For Home$","1","",1,c1757973399245
+r1757973477941,3,"^Daiya$","1","",1,c1757973399245
+r1757973488994,3,"^Target$","1","",1,c1757973399245
+r1757973495271,3,"^Albertsons$","1","",1,c1757973399245
+r1757973498414,3,"^Walmart$","1","",1,c1757973399245
+r1757973502104,3,"^Trader Joe’s$","1","",1,c1757973399245
+r1757973505023,3,"^Costco$","1","",1,c1757973399245
+r1757973508332,3,"^Amazon$","1","",1,c1757973399245
+r1757973511270,3,"^Whole Foods$","1","",1,c1757973399245
+r1757973517142,3,"^Publix$","1","",1,c1757973399245
+r1757973520251,3,"^Sam’s Club$","1","",1,c1757973399245
+r1757973523730,3,"^Kroger$","1","",1,c1757973399245
+r1757973531369,3,"^More than once a week$","1","",1,c1757973399245
+r1757973541186,3,"^Made with whole milk mozzarella$","1","",1,c1757973399245
+r1757973545188,3,"^Authentic Italian sausage$","1","",1,c1757973399245
+r1757973615094,3,"^Authentic Italian crust recipe$","1","",1,c1757973399245
 r1758,3,"^Baking mixes \(including pancake mix, waffle mix, brownie mix, cake mix, muffin mix, bread mix, etc\.\)$","1","",1,c3
 r17580,3,"^Smart device$","1","",1,c363
 r17581,3,"^Fast food$","1","",1,c363
