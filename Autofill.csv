@@ -1478,6 +1478,8 @@ c1758139611139,"Product Awareness Survey","",,,,
 c1758139640931,"PINE SOL!","",,,,
 c1758139765338,"Grocery Commercial Ad Concept","",,,,
 c1758139919381,"Let's talk about sauces","",,,,
+c1758144228507,"Sports & Hydration Survey","",,,,
+c1758144363123,"Tell Us What is Important to You When Purchasing a Product","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -28037,6 +28039,46 @@ r1758139950173,3,"^Yes$","1","",1,c1758139919381
 r1758139962012,3,"^taco sauce$","1","",1,c1758139919381
 r1758139965745,3,"^dipping sauce$","1","",1,c1758139919381
 r1758139969046,3,"^grilling sauce$","1","",1,c1758139919381
+r1758142380428,3,"^Powerade$","1","",1,c1758138289709
+r1758142383279,3,"^BodyArmor$","1","",1,c1758138289709
+r1758142387597,3,"^Gatorade$","1","",1,c1758138289709
+r1758142390731,3,"^Electrolit$","1","",1,c1758138289709
+r1758142393758,3,"^Vitaminwater$","1","",1,c1758138289709
+r1758142397052,3,"^Pedialyte$","1","",1,c1758138289709
+r1758142483725,3,"^Drink 541$","1","",1,c1758138289709
+r1758142515502,3,"^Drink 603$","1","",1,c1758138289709
+r1758142527722,3,"^Excited$","1","",1,c1758138289709
+r1758142536905,3,"^Natural colors$","1","",1,c1758138289709
+r1758144247473,3,"^Energy Drinks \(e\.g\. Monster, Red Bull\)$","1","",1,c1758144228507
+r1758144250988,3,"^Sports Drinks \(e\.g\. Gatorade, BodyArmor, Powerade\)$","1","",1,c1758144228507
+r1758144254694,3,"^Hydration Mixes \(e\.g\. Liquid I\.V\., Nuun, LMNT\)$","1","",1,c1758144228507
+r1758144257870,3,"^Soda / Soft Drinks$","1","",1,c1758144228507
+r1758144261012,3,"^Bottled Water$","1","",1,c1758144228507
+r1758144263963,3,"^Juice$","1","",1,c1758144228507
+r1758144267925,3,"^Coffee / Tea$","1","",1,c1758144228507
+r1758144279347,3,"^Mixed Martial Arts \(UFC, etc\.\)$","1","",1,c1758144228507
+r1758144285432,3,"^American Football \(NFL, College\)$","1","",1,c1758144228507
+r1758144288889,3,"^Baseball \(MLB, College\)$","1","",1,c1758144228507
+r1758144293159,3,"^Ice Hockey \(NHL, College\)$","1","",1,c1758144228507
+r1758144297322,3,"^Formula \(F1\) Racing$","1","",1,c1758144228507
+r1758144301279,3,"^Basketball \(NBA, NCAA\)$","1","",1,c1758144228507
+r1758144304878,3,"^Soccer \(MLS, Premier League, World Cup, etc\)$","1","",1,c1758144228507
+r1758144315512,3,"^Formula 1 \(F1\)$","1","",1,c1758144228507
+r1758144324172,3,"^very often \(weekly or more\)$","1","",1,c1758144228507
+r1758144332925,3,"^Formula 1 \(F1\) - regular series races$","1","",1,c1758144228507
+r1758144366384,3,"^Dried Fruit$","1","",1,c1758144363123
+r1758144369346,3,"^Cookies$","1","",1,c1758144363123
+r1758144371744,3,"^Chips$","1","",1,c1758144363123
+r1758144375902,3,"^Snack Nuts$","1","",1,c1758144363123
+r1758144379125,3,"^Cheese Snacks \(string cheese, 100% cheese puffs, etc\.\)$","1","",1,c1758144363123
+r1758144387308,3,"^Meat Snacks \(e\.g\. jerky\)$","1","",1,c1758144363123
+r1758144390474,3,"^Snack Bar \(granola bar, protein bar, etc\.\)$","1","",1,c1758144363123
+r1758144393983,3,"^Crackers$","1","",1,c1758144363123
+r1758144407279,3,"^Emerald Nuts$","1","",1,c1758144363123
+r1758144409083,3,"^Blue Diamond Almonds$","1","",1,c1758144363123
+r1758144412872,3,"^Diamond Nuts$","1","",1,c1758144363123
+r1758144422554,3,"^Very Interested$","1","",1,c1758144363123
+r1758144430752,3,"^29-44 Years Old$","1","",1,c1758144363123
 r17582,3,"^Sneakers or athletic shoes for my kids$","1","",1,c363
 r17583,3,"^Indoor or outdoor furniture$","1","",1,c363
 r17584,3,"^Sneakers or athletic shoes$","1","",1,c363
