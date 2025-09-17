@@ -1451,6 +1451,18 @@ c1757981571159,"Dry Gravy Mix","",,,,
 c1757989993463,"Name test","",,,,
 c1757990076849,"Mobile phone app icons","",,,,
 c1757990335718,"^Brand Logos$","",,,,
+c1758059213788,"Share your thoughts on bandages!","",,,,
+c1758072184480,"Reasons to Love Your Favorite Foods","",,,,
+c1758072441795,"Beverage Packaging","",,,,
+c1758074000720,"What would you like to see?","",,,,
+c1758075539266,"We have a few quick questions","",,,,
+c1758076055239,"Please tell us about your experience","",,,,
+c1758076158345,"Have you heard of this brand...","",,,,
+c1758076627777,"Packaging Design","",,,,
+c1758077644207,"Halloween Concepts","",,,,
+c1758077833328,"Dietary supplement preferences","",,,,
+c1758078159488,"Dietary supplement purchases","",,,,
+c1758079936008,"Tell us more about your current shopping behavior during times of economic hardship","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -27653,6 +27665,198 @@ r1757990361126,3,"^Charcuterie \(ex: Salami, Prosciutto\)$","1","",1,c1757990335
 r1757990364809,3,"^Meat Sticks \(ex: Slim Jim, Old Wisconsin\)$","1","",1,c1757990335718
 r1758,3,"^Baking mixes \(including pancake mix, waffle mix, brownie mix, cake mix, muffin mix, bread mix, etc\.\)$","1","",1,c3
 r17580,3,"^Smart device$","1","",1,c363
+r1758059223580,3,"^I AGREE$","1","",1,c1758059213788
+r1758071652727,3,"^Topical pain relief gel/lotion$","1","",1,c1758059213788
+r1758071656146,3,"^Deodorant/anti-perspirant$","1","",1,c1758059213788
+r1758071659838,3,"^Band-aids/Adhesive bandages$","1","",1,c1758059213788
+r1758071663185,3,"^Body moisturizer$","1","",1,c1758059213788
+r1758071681682,3,"^Sports tape$","1","",1,c1758059213788
+r1758071809967,3,"^Fabric$","1","",1,c1758059213788
+r1758071813673,3,"^Plastic$","1","",1,c1758059213788
+r1758071822935,3,"^Waterproof$","1","",1,c1758059213788
+r1758071827902,3,"^Gel/hydrogel$","1","",1,c1758059213788
+r1758071831459,3,"^Liquid bandage$","1","",1,c1758059213788
+r1758071931959,3,"^More often than once a day$","1","",1,c1758059213788
+r1758071981307,3,"^More than 3 days$","1","",1,c1758059213788
+r1758071992839,3,"^Definitely would try$","1","",1,c1758059213788
+r1758072028774,3,"^The full 5 days$","1","",1,c1758059213788
+r1758072048127,3,"^Often$","1","",1,c1758059213788
+r1758072134493,3,"^Recommendation from a friend/family member$","1","",1,c1758059213788
+r1758072149253,3,"^Social media \(e\.g\., TikTok\)$","1","",1,c1758059213788
+r1758072162587,3,"^Types found when doing research online$","1","",1,c1758059213788
+r1758072188591,3,"^Yes$","1","",1,c1758072184480
+r1758072201414,3,"^White/Caucasian/Anglo$","1","",1,c1758072184480
+r1758072218240,3,"^All of it$","1","",1,c1758072184480
+r1758072230870,3,"^Frozen Pizza$","1","",1,c1758072184480
+r1758072242088,3,"^Kraft$","1","",1,c1758072184480
+r1758072250494,3,"^I would consider any of the brands above$","1","",1,c1758072184480
+r1758072447429,3,"^White/Caucasian$","1","",1,c1758072441795
+r1758072460684,3,"^Bottled/Canned Coffee \(including lattes, ready-to-drink coffee beverages\)$","1","",1,c1758072441795
+r1758072468173,3,"^Bottled/Canned Tea$","1","",1,c1758072441795
+r1758072473348,3,"^Juice Drinks$","1","",1,c1758072441795
+r1758072479447,3,"^Beer \(including hard cider, flavored malt beverages, hard seltzers\)$","1","",1,c1758072441795
+r1758072484318,3,"^Sports drinks$","1","",1,c1758072441795
+r1758072489373,3,"^Bottled/canned water \(Including flavored water, sparkling water\)$","1","",1,c1758072441795
+r1758072493310,3,"^Wine$","1","",1,c1758072441795
+r1758072497621,3,"^Liqueur/Spirits$","1","",1,c1758072441795
+r1758072507720,3,"^Energy Drinks$","1","",1,c1758072441795
+r1758072512646,3,"^Soft Drinks$","1","",1,c1758072441795
+r1758072525894,3,"^Tequila$","1","",1,c1758072441795
+r1758072530523,3,"^Liquers/Cordials$","1","",1,c1758072441795
+r1758072535563,3,"^Vodka$","1","",1,c1758072441795
+r1758072540761,3,"^Ready to Drink Cocktails/Premixed Cocktails$","1","",1,c1758072441795
+r1758072545253,3,"^Rum$","1","",1,c1758072441795
+r1758072550567,3,"^Hard Cider$","1","",1,c1758072441795
+r1758072556714,3,"^Beer$","1","",1,c1758072441795
+r1758072634082,3,"^Whiskey$","1","",1,c1758072441795
+r1758072651114,3,"^White Claw$","1","",1,c1758072441795
+r1758072679137,3,"^At-home$","1","",1,c1758072441795
+r1758072703575,3,"^Product bottle images$","1","",1,c1758072441795
+r1758073946999,3,"^Package 24$","1","",1,c1755625340130
+r1758074009201,3,"^Eczema$","1","",1,c1758074000720
+r1758074014281,3,"^Face acne/blemishes$","1","",1,c1758074000720
+r1758074019383,3,"^Acne scarring$","1","",1,c1758074000720
+r1758074024414,3,"^Sun damage$","1","",1,c1758074000720
+r1758074032984,3,"^Rosacea$","1","",1,c1758074000720
+r1758074042858,3,"^Facial Cleanser$","1","",1,c1758074000720
+r1758074842176,3,"^Daily Facial Moisturizer$","1","",1,c1758074000720
+r1758074847120,3,"^Sunscreen/SPF$","1","",1,c1758074000720
+r1758074850998,3,"^Body Wash$","1","",1,c1758074000720
+r1758074854718,3,"^Serum and/or Essence$","1","",1,c1758074000720
+r1758074857835,3,"^Acne Scar Treatment$","1","",1,c1758074000720
+r1758074861237,3,"^Acne Patch$","1","",1,c1758074000720
+r1758074864931,3,"^Acne Treatment \(e\.g\. wash, cream, toner\)$","1","",1,c1758074000720
+r1758074870482,3,"^Micellar Water$","1","",1,c1758074000720
+r1758074876050,3,"^Body Moisturizer$","1","",1,c1758074000720
+r1758074985579,3,"^Elf Cosmetics$","1","",1,c1758074000720
+r1758074989148,3,"^Neutrogena$","1","",1,c1758074000720
+r1758075006893,3,"^Pink$","1","",1,c1758074000720
+r1758075236631,3,"^Option N$","1","",1,c1758074000720
+r1758075525165,3,"^Option G$","1","",1,c1758074000720
+r1758075542549,3,"^Electronics$","1","",1,c1758075539266
+r1758075545796,3,"^Groceries$","1","",1,c1758075539266
+r1758075549610,3,"^Beauty \(e\.g\., makeup/cosmetics, skincare, hair care, etc\.\)$","1","",1,c1758075539266
+r1758075553464,3,"^Jewelry & accessories$","1","",1,c1758075539266
+r1758075556744,3,"^Clothing/apparel$","1","",1,c1758075539266
+r1758075559757,3,"^Pet food/supplies$","1","",1,c1758075539266
+r1758075563955,3,"^Home goods/decor$","1","",1,c1758075539266
+r1758075567697,3,"^Household cleaning products$","1","",1,c1758075539266
+r1758075571142,3,"^Personal care \(e\.g\., deodorant, toiletries\)$","1","",1,c1758075539266
+r1758075574685,3,"^Small home appliances$","1","",1,c1758075539266
+r1758075612194,3,"^Hand/body skincare$","1","",1,c1758075539266
+r1758075615511,3,"^Hair care$","1","",1,c1758075539266
+r1758075803924,3,"^Amazon$","1","",1,c1758075539266
+r1758075806945,3,"^Sephora$","1","",1,c1758075539266
+r1758075810279,3,"^Grocery store$","1","",1,c1758075539266
+r1758075814150,3,"^Sam’s Club$","1","",1,c1758075539266
+r1758075818161,3,"^Macy’s$","1","",1,c1758075539266
+r1758075821709,3,"^Costco$","1","",1,c1758075539266
+r1758075825213,3,"^Walmart$","1","",1,c1758075539266
+r1758075828007,3,"^Target$","1","",1,c1758075539266
+r1758075831371,3,"^Ulta$","1","",1,c1758075539266
+r1758075834445,3,"^CVS$","1","",1,c1758075539266
+r1758075843164,3,"^Olay$","1","",1,c1758075539266
+r1758075846387,3,"^Aveeno$","1","",1,c1758075539266
+r1758075850370,3,"^Cetaphil$","1","",1,c1758075539266
+r1758075853882,3,"^Neutrogena$","1","",1,c1758075539266
+r1758075858578,3,"^L’Oreal Paris$","1","",1,c1758075539266
+r1758075868914,3,"^Within the past 3 months$","1","",1,c1758075539266
+r1758075876814,3,"^Rosacea$","1","",1,c1758075539266
+r1758075881667,3,"^Eczema$","1","",1,c1758075539266
+r1758075884908,3,"^Acne$","1","",1,c1758075539266
+r1758075888647,3,"^Signs of aging$","1","",1,c1758075539266
+r1758075970240,3,"^Dermatologist$","1","",1,c1758075539266
+r1758076006297,3,"^In person$","1","",1,c1758075539266
+r1758076019710,3,"^Purchased from a retailer \(online or in-store\)$","1","",1,c1758075539266
+r1758076059886,3,"^26–34 years$","1","",1,c1758076055239
+r1758076079767,3,"^\$75,000–\$99,999$","1","",1,c1758076055239
+r1758076086912,3,"^White / Caucasian$","1","",1,c1758076055239
+r1758076093791,3,"^4$","1","",1,c1758076055239
+r1758076105584,3,"^I have children at home$","1","",1,c1758076055239
+r1758076127404,3,"^I used a CPA, accountant or local tax office$","1","",1,c1758076055239
+r1758076163750,3,"^Sports Drinks$","1","",1,c1758076158345
+r1758076167127,3,"^Diet carbonated soft drinks$","1","",1,c1758076158345
+r1758076170790,3,"^Coffee \(Bottle, jug, or can\)$","1","",1,c1758076158345
+r1758076173870,3,"^Regular carbonated soft drinks$","1","",1,c1758076158345
+r1758076180910,3,"^Tea \(Bottle, jug, or can\)$","1","",1,c1758076158345
+r1758076184313,3,"^Non-flavored sparkling water$","1","",1,c1758076158345
+r1758076187865,3,"^Flavored sparkling water$","1","",1,c1758076158345
+r1758076192243,3,"^Regular bottled water$","1","",1,c1758076158345
+r1758076195515,3,"^Fruit Juice \(bottle, jug or can\)$","1","",1,c1758076158345
+r1758076198895,3,"^Energy Drinks$","1","",1,c1758076158345
+r1758076204088,3,"^Prebiotic sodas$","1","",1,c1758076158345
+r1758076323584,3,"^Poppi$","1","",1,c1758076158345
+r1758076326861,3,"^Olipop$","1","",1,c1758076158345
+r1758076331194,3,"^Culture Pop$","1","",1,c1758076158345
+r1758076342518,3,"^Very familiar$","1","",1,c1758076158345
+r1758076400123,3,"^Possibly$","1","",1,c1758076158345
+r1758076432947,3,"^I regularly purchase or consume this brand$","1","",1,c1758076158345
+r1758076452795,3,"^10 - Definitely will recommend$","1","",1,c1758076158345
+r1758076598383,3,"^Premium$","1","",1,c1758076158345
+r1758076601798,3,"^Modern$","1","",1,c1758076158345
+r1758076610817,3,"^Healthy$","1","",1,c1758076158345
+r1758076641791,3,"^Marshmallows$","1","",1,c1758076627777
+r1758076646457,3,"^Chocolate$","1","",1,c1758076627777
+r1758076649426,3,"^Licorice$","1","",1,c1758076627777
+r1758076653425,3,"^Hard Candy$","1","",1,c1758076627777
+r1758076672710,3,"^Mints$","1","",1,c1758076627777
+r1758076679347,3,"^Gum$","1","",1,c1758076627777
+r1758076681006,3,"^Gummy / Chewy Candy$","1","",1,c1758076627777
+r1758076683620,3,"^Lollipops$","1","",1,c1758076627777
+r1758077461323,3,"^Medium Heat$","1","",1,c1758076627777
+r1758077619619,3,"^V8 Image 1$","1","",1,c1758076627777
+r1758077649071,3,"^Lollipops$","1","",1,c1758077644207
+r1758077652035,3,"^Mints$","1","",1,c1758077644207
+r1758077654834,3,"^Licorice$","1","",1,c1758077644207
+r1758077657888,3,"^Hard Candy$","1","",1,c1758077644207
+r1758077661267,3,"^Marshmallows$","1","",1,c1758077644207
+r1758077664351,3,"^Gummy / Chewy Candy$","1","",1,c1758077644207
+r1758077668012,3,"^Gum$","1","",1,c1758077644207
+r1758077670914,3,"^Chocolate$","1","",1,c1758077644207
+r1758077678017,3,"^Yes$","1","",1,c1758077644207
+r1758077821703,3,"^Pumpkins$","1","",1,c1758077644207
+r1758077837295,3,"^Concerns about safety or side effects$","1","",1,c1758077833328
+r1758077841627,3,"^Too expensive$","1","",1,c1758077833328
+r1758077846112,3,"^Too many options/overwhelming market$","1","",1,c1758077833328
+r1758077860118,3,"^Social media \(influencers, communities, trends\)$","1","",1,c1758077833328
+r1758077863911,3,"^Online consumer reviews/testimonials$","1","",1,c1758077833328
+r1758077868169,3,"^Health professionals \(doctors, nurses, naturopaths, dieticians, etc\.\)$","1","",1,c1758077833328
+r1758077931736,3,"^Above 20% more \(>\$8\)$","1","",1,c1758077833328
+r1758078025001,3,"^I usually rely on science but occasionally follow what’s trending$","1","",1,c1758077833328
+r1758078043026,3,"^Wanted to try something new/trendy$","1","",1,c1758077833328
+r1758078048385,3,"^Better availability \(easier to buy in stores or online\)$","1","",1,c1758077833328
+r1758078053537,3,"^Recommendation from someone I trust$","1","",1,c1758077833328
+r1758078169218,3,"^Worse off$","1","",1,c1758078159488
+r1758078192870,3,"^Go up$","1","",1,c1758078159488
+r1758078217158,3,"^Supply chain or transportation issues$","1","",1,c1758078159488
+r1758078221328,3,"^General inflation / higher cost of living$","1","",1,c1758078159488
+r1758078681436,3,"^Tariffs or trade policies$","1","",1,c1758078159488
+r1758078705443,3,"^A little$","1","",1,c1758078159488
+r1758078970975,3,"^Yes, I’ve switched to store brands/private label$","1","",1,c1758078159488
+r1758079003213,3,"^I switched to less expensive brands or products$","1","",1,c1758078159488
+r1758079021077,3,"^Sports nutrition / performance \(protein, amino acids, creatine, energy\)$","1","",1,c1758078159488
+r1758079026082,3,"^Weight management supplements \(fat burners, appetite controllers, meal replacements\)$","1","",1,c1758078159488
+r1758079031595,3,"^Healthy aging supplements \(NAD boosters, NMN, NR, improve cellular aging\)$","1","",1,c1758078159488
+r1758079053537,3,"^Joint / mobility supplements \(collagen, glucosamine, CoQ10, turmeric, etc\.\)$","1","",1,c1758078159488
+r1758079059065,3,"^Stress, sleep, brain or mood support supplements \(magnesium, adaptogens, melatonin, etc\.\)$","1","",1,c1758078159488
+r1758079064224,3,"^Beauty supplements \(collagen, b vitamins, vitamin E, zinc\)$","1","",1,c1758078159488
+r1758079069344,3,"^Immunity supplements \(vitamin C, zinc, elderberry, etc\.\)$","1","",1,c1758078159488
+r1758079673061,3,"^Yes, I’ve cut back overall but still prioritize core health needs \(e\.g\., immunity, sleep, stress, general wellness\)$","1","",1,c1758078159488
+r1758079748558,3,"^National television news \(CNN, Fox, MSNBC, ABC, CBS, NBC, etc\.\)$","1","",1,c1758078159488
+r1758079754220,3,"^Social media platforms \(Facebook, Twitter/X, Instagram, TikTok, LinkedIn, etc\.\)$","1","",1,c1758078159488
+r1758079759069,3,"^Friends, family, or word of mouth$","1","",1,c1758078159488
+r1758079797820,3,"^Yes, I reduced or stopped buying supplements because of what I heard$","1","",1,c1758078159488
+r1758079809598,3,"^Mostly trust$","1","",1,c1758078159488
+r1758079832050,3,"^Up to 10% more$","1","",1,c1758078159488
+r1758079943728,3,"^Worse off$","1","",1,c1758079936008
+r1758080148916,3,"^Somewhat pessimistic$","1","",1,c1758079936008
+r1758080161487,3,"^Slightly concerned$","1","",1,c1758079936008
+r1758080287093,3,"^Yes, somewhat$","1","",1,c1758079936008
+r1758080295515,3,"^Slightly more$","1","",1,c1758079936008
+r1758080306917,3,"^Increase somewhat$","1","",1,c1758079936008
+r1758080366790,3,"^Spending more$","1","",1,c1758079936008
+r1758080378778,3,"^Agree$","1","",1,c1758079936008
+r1758080390795,3,"^Important — I see them as beneficial, but not absolutely essential$","1","",1,c1758079936008
 r17581,3,"^Fast food$","1","",1,c363
 r17582,3,"^Sneakers or athletic shoes for my kids$","1","",1,c363
 r17583,3,"^Indoor or outdoor furniture$","1","",1,c363
