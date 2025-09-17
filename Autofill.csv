@@ -1463,6 +1463,21 @@ c1758077644207,"Halloween Concepts","",,,,
 c1758077833328,"Dietary supplement preferences","",,,,
 c1758078159488,"Dietary supplement purchases","",,,,
 c1758079936008,"Tell us more about your current shopping behavior during times of economic hardship","",,,,
+c1758137819424,"What do you think of this idea for a product?","",,,,
+c1758137939270,"Matcha Drink Innovation","",,,,
+c1758138051042,"About Subscriptions","",,,,
+c1758138070550,"Some questions about your soda habits","",,,,
+c1758138095320,"Cereal","",,,,
+c1758138289709,"Your opinion counts!","",,,,
+c1758138529185,"Help us Shape the Future of Outdoor Products","",,,,
+c1758138778082,"Car Care Products","",,,,
+c1758138990556,"New Innovative Food Product!","",,,,
+c1758139190481,"Beauty","",,,,
+c1758139328286,"Let's Talk about Coffee Creamers","",,,,
+c1758139611139,"Product Awareness Survey","",,,,
+c1758139640931,"PINE SOL!","",,,,
+c1758139765338,"Grocery Commercial Ad Concept","",,,,
+c1758139919381,"Let's talk about sauces","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -27858,6 +27873,170 @@ r1758080366790,3,"^Spending more$","1","",1,c1758079936008
 r1758080378778,3,"^Agree$","1","",1,c1758079936008
 r1758080390795,3,"^Important — I see them as beneficial, but not absolutely essential$","1","",1,c1758079936008
 r17581,3,"^Fast food$","1","",1,c363
+r1758137831580,3,"^Packaged snacks$","1","",1,c1758137819424
+r1758137836242,3,"^Hiking backpack$","1","",1,c1758137819424
+r1758137839356,3,"^Laundry detergent$","1","",1,c1758137819424
+r1758137843521,3,"^Gaming computer$","1","",1,c1758137819424
+r1758137849973,3,"^Sunglasses$","1","",1,c1758137819424
+r1758137854004,3,"^Weed control$","1","",1,c1758137819424
+r1758137857447,3,"^Insect preventer/killer$","1","",1,c1758137819424
+r1758137860807,3,"^Phone accessories \(e\.g\., case, charger\)$","1","",1,c1758137819424
+r1758137864330,3,"^Pet supplies \(e\.g\., leash, food\)$","1","",1,c1758137819424
+r1758137867725,3,"^Air freshener$","1","",1,c1758137819424
+r1758137888128,3,"^Raid$","1","",1,c1758137819424
+r1758137892943,3,"^Spectracide$","1","",1,c1758137819424
+r1758137917693,3,"^Single-family detached house$","1","",1,c1758137819424
+r1758137944227,3,"^Daily$","1","",1,c1758137939270
+r1758137951447,3,"^Likely$","1","",1,c1758137939270
+r1758138058714,3,"^I have children, but none are currently in college or university$","1","",1,c1758138051042
+r1758138074373,3,"^Multiple times a week$","1","",1,c1758138070550
+r1758138084661,3,"^20 oz \(usually in a plastic bottle\)$","1","",1,c1758138070550
+r1758138100277,3,"^Good Housekeeping$","1","",1,c1758138095320
+r1758138105135,3,"^Food Network Magazine$","1","",1,c1758138095320
+r1758138158986,3,"^Interesting$","1","",1,c1758138095320
+r1758138162513,3,"^Relevant to me$","1","",1,c1758138095320
+r1758138165924,3,"^Authentic$","1","",1,c1758138095320
+r1758138189933,3,"^Just right$","1","",1,c1758138095320
+r1758138198700,3,"^Consider purchasing any Cheerios products$","1","",1,c1758138095320
+r1758138202283,3,"^Recommend Cheerios products to someone else$","1","",1,c1758138095320
+r1758138205891,3,"^Purchase any Cheerios products$","1","",1,c1758138095320
+r1758138255315,3,"^America’s original grill brand$","1","",1,c1733686072977
+r1758138269129,3,"^Premium performance at a smart price\.$","1","",1,c1733686072977
+r1758138278911,3,"^Patented Cooking System$","1","",1,c1733686072977
+r1758138321315,3,"^19A476$","1","",1,c1758138289709
+r1758138328394,3,"^9A5120$","1","",1,c1758138289709
+r1758138331783,3,"^B91A05$","1","",1,c1758138289709
+r1758138340587,3,"^I am the primary grocery shopper$","1","",1,c1758138289709
+r1758138347623,3,"^Soda$","1","",1,c1758138289709
+r1758138351319,3,"^Lemonade$","1","",1,c1758138289709
+r1758138354210,3,"^Flavored sparkling water$","1","",1,c1758138289709
+r1758138357592,3,"^Plant-based beverages$","1","",1,c1758138289709
+r1758138362604,3,"^Sports, hydration or electrolyte replacement beverages$","1","",1,c1758138289709
+r1758138365942,3,"^Dairy milk$","1","",1,c1758138289709
+r1758138369502,3,"^Canned or bottled juice$","1","",1,c1758138289709
+r1758138377678,3,"^Full sugar$","1","",1,c1758138289709
+r1758138381177,3,"^Reduced sugar$","1","",1,c1758138289709
+r1758138384832,3,"^Sugar free / Zero sugar$","1","",1,c1758138289709
+r1758138392933,3,"^Lemon-Lime or Lemonade \(Yellow or White\)$","1","",1,c1758138289709
+r1758138397280,3,"^Orange \(Orange\)$","1","",1,c1758138289709
+r1758138400642,3,"^Fruit Punch \(Red\)$","1","",1,c1758138289709
+r1758138419707,3,"^Berry \(Blue\)$","1","",1,c1758138289709
+r1758138533717,3,"^Gas Grill$","1","",1,c1758138529185
+r1758138536673,3,"^Electric Grill$","1","",1,c1758138529185
+r1758138539709,3,"^Pizza Oven$","1","",1,c1758138529185
+r1758138542809,3,"^Lawn Mower$","1","",1,c1758138529185
+r1758138546284,3,"^Charcoal Grill$","1","",1,c1758138529185
+r1758138550118,3,"^Smoker$","1","",1,c1758138529185
+r1758138561279,3,"^Several times per week$","1","",1,c1758138529185
+r1758138569911,3,"^Me$","1","",1,c1758138529185
+r1758138577366,3,"^Single-family home$","1","",1,c1758138529185
+r1758138633640,3,"^Trusted$","1","",1,c1758138529185
+r1758138636613,3,"^Reliable$","1","",1,c1758138529185
+r1758138639576,3,"^High Quality$","1","",1,c1758138529185
+r1758138740823,3,"^The Grill That Makes Great Results Easy$","1","",1,c1758138529185
+r1758138781844,3,"^Autoweek\.com$","1","",1,c1758138778082
+r1758138785448,3,"^Caranddriver\.com$","1","",1,c1758138778082
+r1758138788753,3,"^Popularmechanics\.com$","1","",1,c1758138778082
+r1758138806059,3,"^Roadandtrack\.com$","1","",1,c1758138778082
+r1758138814015,3,"^2$","1","",1,c1758138778082
+r1758138861898,3,"^Visit Turtle Wax’s website$","1","",1,c1758138778082
+r1758138865163,3,"^Visit Turtle Wax’s social media pages$","1","",1,c1758138778082
+r1758138873032,3,"^Recommend Turtle Wax products to friends/family$","1","",1,c1758138778082
+r1758138881901,3,"^More favorable$","1","",1,c1758138778082
+r1758138901844,3,"^A good value$","1","",1,c1758138778082
+r1758138905035,3,"^Innovative technology$","1","",1,c1758138778082
+r1758138909629,3,"^High quality$","1","",1,c1758138778082
+r1758138946441,3,"^Wheel & Tire$","1","",1,c1758138778082
+r1758138949978,3,"^Glass cleaners$","1","",1,c1758138778082
+r1758138953438,3,"^Wash$","1","",1,c1758138778082
+r1758138962592,3,"^2\+ times a month$","1","",1,c1758138778082
+r1758138995174,3,"^Tiger$","1","",1,c1758138990556
+r1758139004952,3,"^Between \$70,000 and \$99,999 per year$","1","",1,c1758138990556
+r1758139012508,3,"^All$","1","",1,c1758138990556
+r1758139030499,3,"^Frozen appetizers or sides$","1","",1,c1758138990556
+r1758139033331,3,"^Pasta \(e\.g\., dried spaghetti, linguini, fusilli, etc\.\)$","1","",1,c1758138990556
+r1758139036452,3,"^Frozen entrees$","1","",1,c1758138990556
+r1758139047540,3,"^Canned/jarred ready-to-serve soups \(not from concentrate\)$","1","",1,c1758138990556
+r1758139050787,3,"^Canned/jarred concentrated soups$","1","",1,c1758138990556
+r1758139053807,3,"^Ice Cream$","1","",1,c1758138990556
+r1758139063257,3,"^Frozen novelties \(e\.g\., bon bons, bars, etc\.\)$","1","",1,c1758138990556
+r1758139066548,3,"^Frozen pizzas$","1","",1,c1758138990556
+r1758139069622,3,"^Yogurt \(plain or with fruit\)$","1","",1,c1758138990556
+r1758139089653,3,"^Campbell’s$","1","",1,c1758138990556
+r1758139095666,3,"^Amy’s$","1","",1,c1758138990556
+r1758139098841,3,"^Progresso$","1","",1,c1758138990556
+r1758139102162,3,"^Annie’s$","1","",1,c1758138990556
+r1758139105694,3,"^Goya$","1","",1,c1758138990556
+r1758139110016,3,"^Rao's$","1","",1,c1758138990556
+r1758139130333,3,"^Bone Broth$","1","",1,c1758138990556
+r1758139136192,3,"^Chicken Broth$","1","",1,c1758138990556
+r1758139197398,3,"^Autoweek$","1","",1,c1758139190481
+r1758139201150,3,"^Cosmopolitan$","1","",1,c1758139190481
+r1758139208841,3,"^Men’s Health$","1","",1,c1758139190481
+r1758139224171,3,"^Daily skincare \(i\.e\., cleansers, moisturizers, etc\.\)$","1","",1,c1758139190481
+r1758139228194,3,"^Anti-aging products \(i\.e\., retinoids, firming or bounce serums, vitamin C products, etc\.\)$","1","",1,c1758139190481
+r1758139231380,3,"^Body care \(i\.e\., body lotions, moisturizers, exfoliants, etc\.\)$","1","",1,c1758139190481
+r1758139234692,3,"^SPF products$","1","",1,c1758139190481
+r1758139237986,3,"^Fragrance$","1","",1,c1758139190481
+r1758139240659,3,"^Cosmetics$","1","",1,c1758139190481
+r1758139243781,3,"^Haircare \(i\.e\., color, styling, wash, etc\.\)$","1","",1,c1758139190481
+r1758139251285,3,"^Hair \(i\.e\., blow dryers, hair regrowth devices, curlers, straightening irons, etc\.\)$","1","",1,c1758139190481
+r1758139254906,3,"^Body \(i\.e\., hair removal tools, body sculptors, etc\.\)$","1","",1,c1758139190481
+r1758139271638,3,"^Niacinamide$","1","",1,c1758139190481
+r1758139275010,3,"^Antioxidants$","1","",1,c1758139190481
+r1758139292358,3,"^On myself for holiday parties$","1","",1,c1758139190481
+r1758139296090,3,"^Gift giving for friends and/or family$","1","",1,c1758139190481
+r1758139304916,3,"^In-store$","1","",1,c1758139190481
+r1758139331474,3,"^I am primarily responsible for buying groceries for my household$","1","",1,c1758139328286
+r1758139339203,3,"^Milk$","1","",1,c1758139328286
+r1758139341936,3,"^Juice$","1","",1,c1758139328286
+r1758139344500,3,"^Hot Tea$","1","",1,c1758139328286
+r1758139347358,3,"^Soda$","1","",1,c1758139328286
+r1758139351394,3,"^Iced Tea$","1","",1,c1758139328286
+r1758139354097,3,"^Hot chocolate$","1","",1,c1758139328286
+r1758139356779,3,"^Coffee$","1","",1,c1758139328286
+r1758139360249,3,"^Espresso based drinks such as Espresso, Cappuccino, Latte$","1","",1,c1758139328286
+r1758139366865,3,"^Plant Based Milk$","1","",1,c1758139328286
+r1758139373872,3,"^Regular White Milk$","1","",1,c1758139328286
+r1758139377268,3,"^Coffee Creamer$","1","",1,c1758139328286
+r1758139380022,3,"^Lactose Free Milk$","1","",1,c1758139328286
+r1758139387206,3,"^Califia Farms$","1","",1,c1758139328286
+r1758139390565,3,"^Chobani$","1","",1,c1758139328286
+r1758139393958,3,"^Dunkin Donuts$","1","",1,c1758139328286
+r1758139397486,3,"^Starbucks$","1","",1,c1758139328286
+r1758139401225,3,"^Oatly$","1","",1,c1758139328286
+r1758139404232,3,"^Land o Lakes$","1","",1,c1758139328286
+r1758139408506,3,"^International Delight$","1","",1,c1758139328286
+r1758139416437,3,"^Organic Valley$","1","",1,c1758139328286
+r1758139419576,3,"^Horizon$","1","",1,c1758139328286
+r1758139622397,3,"^Yes$","1","",1,c1758139611139
+r1758139645887,3,"^Window/glass cleaner$","1","",1,c1758139640931
+r1758139649668,3,"^Toilet cleaner$","1","",1,c1758139640931
+r1758139652917,3,"^All purpose cleaner$","1","",1,c1758139640931
+r1758139656342,3,"^Bleach spray cleaner$","1","",1,c1758139640931
+r1758139660390,3,"^Wet mops \(i\.e\. Swiffer\)$","1","",1,c1758139640931
+r1758139668834,3,"^Lysol$","1","",1,c1758139640931
+r1758139672247,3,"^Pine Sol$","1","",1,c1758139640931
+r1758139685738,3,"^Yes, I have used Pine Sol PINE \(Original\)$","1","",1,c1758139640931
+r1758139689642,3,"^Yes, I have used Pine Sol Lemon \(YELLOW\)$","1","",1,c1758139640931
+r1758139700288,3,"^I DEFINITELY WOULD want to try$","1","",1,c1758139640931
+r1758139711213,3,"^Cotton Flower$","1","",1,c1758139640931
+r1758139733126,3,"^Watermelon Wave$","1","",1,c1758139640931
+r1758139754254,3,"^Cozy Vanilla$","1","",1,c1758139640931
+r1758139770375,3,"^Yes$","1","",1,c1758139765338
+r1758139806714,3,"^Kroger$","1","",1,c1758139765338
+r1758139834861,3,"^Kroger has great tasting, quality food at low prices\.$","1","",1,c1758139765338
+r1758139923630,3,"^Target$","1","",1,c1758139919381
+r1758139926974,3,"^Albertson's$","1","",1,c1758139919381
+r1758139930437,3,"^Walmart$","1","",1,c1758139919381
+r1758139933184,3,"^Kroger$","1","",1,c1758139919381
+r1758139936488,3,"^Sam's Club$","1","",1,c1758139919381
+r1758139939877,3,"^Aldi$","1","",1,c1758139919381
+r1758139942648,3,"^Costco$","1","",1,c1758139919381
+r1758139950173,3,"^Yes$","1","",1,c1758139919381
+r1758139962012,3,"^taco sauce$","1","",1,c1758139919381
+r1758139965745,3,"^dipping sauce$","1","",1,c1758139919381
+r1758139969046,3,"^grilling sauce$","1","",1,c1758139919381
 r17582,3,"^Sneakers or athletic shoes for my kids$","1","",1,c363
 r17583,3,"^Indoor or outdoor furniture$","1","",1,c363
 r17584,3,"^Sneakers or athletic shoes$","1","",1,c363
