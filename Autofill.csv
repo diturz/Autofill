@@ -1480,6 +1480,13 @@ c1758139765338,"Grocery Commercial Ad Concept","",,,,
 c1758139919381,"Let's talk about sauces","",,,,
 c1758144228507,"Sports & Hydration Survey","",,,,
 c1758144363123,"Tell Us What is Important to You When Purchasing a Product","",,,,
+c1758177490694,"What Helps You Stay on Track?","",,,,
+c1758177679806,"Share your opinions on some new product ideas!","",,,,
+c1758177906231,"Camera Image Feedback","",,,,
+c1758178087635,"Product Flavors Test","",,,,
+c1758178233026,"Oatmilk Users - We Want Your Opinion!","",,,,
+c1758178378749,"Tell us about why you buy certain grocery products","",,,,
+c1758178470059,"Tell Us What You Think About These Claims","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -28079,6 +28086,87 @@ r1758144409083,3,"^Blue Diamond Almonds$","1","",1,c1758144363123
 r1758144412872,3,"^Diamond Nuts$","1","",1,c1758144363123
 r1758144422554,3,"^Very Interested$","1","",1,c1758144363123
 r1758144430752,3,"^29-44 Years Old$","1","",1,c1758144363123
+r1758177497674,3,"^Man$","1","",1,c1758177490694
+r1758177683284,3,"^Hydration/electrolyte powders \(Liquid I\.V\., LMNT\)$","1","",1,c1758177679806
+r1758177692892,3,"^Enhanced water \(Smart Water, vitaminwater\)$","1","",1,c1758177679806
+r1758177696758,3,"^Electrolyte drinks \(Pedialyte, Electrolit\)$","1","",1,c1758177679806
+r1758177699915,3,"^Alcoholic drinks \(Beer, wine, liquor\)$","1","",1,c1758177679806
+r1758177703786,3,"^Protein shakes \(Premier Protein, Fairlife\)$","1","",1,c1758177679806
+r1758177708249,3,"^Kombucha \(Health-Ade, GT's\)$","1","",1,c1758177679806
+r1758177715096,3,"^Sports drinks \(Gatorade, Powerade\)$","1","",1,c1758177679806
+r1758177718942,3,"^Sparkling/carbonated water \(La Croix, Sparkling Ice\)$","1","",1,c1758177679806
+r1758177723373,3,"^Wellness powders \(Vital Proteins, Super Greens\)$","1","",1,c1758177679806
+r1758177727259,3,"^Probiotic soda \(Poppi, Olipop\)$","1","",1,c1758177679806
+r1758177732357,3,"^Energy drinks \(Red Bull, Celsius\)$","1","",1,c1758177679806
+r1758177740170,3,"^Electrolit$","1","",1,c1758177679806
+r1758177743538,3,"^Gatorade$","1","",1,c1758177679806
+r1758177748894,3,"^Liquid I\.V\.$","1","",1,c1758177679806
+r1758177753794,3,"^Celsius$","1","",1,c1758177679806
+r1758177757178,3,"^Prime$","1","",1,c1758177679806
+r1758177760745,3,"^Pedialyte$","1","",1,c1758177679806
+r1758177763756,3,"^Nuun$","1","",1,c1758177679806
+r1758177768126,3,"^Bodyarmor$","1","",1,c1758177679806
+r1758177771453,3,"^Alani Nu$","1","",1,c1758177679806
+r1758177788393,3,"^Liquid-IV\.com$","1","",1,c1758177679806
+r1758177792064,3,"^Costco / Costco\.com$","1","",1,c1758177679806
+r1758177794993,3,"^Amazon\.com$","1","",1,c1758177679806
+r1758177798987,3,"^Sam’s Club / Samsclub\.com$","1","",1,c1758177679806
+r1758177803223,3,"^Walmart / Walmart\.com$","1","",1,c1758177679806
+r1758177808219,3,"^Grocery store \(e\.g\., Kroger, Whole Foods, etc\.\)$","1","",1,c1758177679806
+r1758177812555,3,"^Target / Target\.com$","1","",1,c1758177679806
+r1758177817497,3,"^Drug store \(e\.g\., CVS, Walgreens, etc\.\)$","1","",1,c1758177679806
+r1758177825940,3,"^Hydration Multiplier \+ Energy$","1","",1,c1758177679806
+r1758177829902,3,"^Sugar Free Energy Multiplier$","1","",1,c1758177679806
+r1758177834910,3,"^Hydration Multiplier \(regular/original\)$","1","",1,c1758177679806
+r1758177838146,3,"^Hydration Multiplier \+ Immune Support$","1","",1,c1758177679806
+r1758177841026,3,"^Hydration Multiplier \+ Gut Health$","1","",1,c1758177679806
+r1758177851382,3,"^I care a lot about my health and wellness, and significantly adjust my life to stay healthy$","1","",1,c1758177679806
+r1758177863027,3,"^I care about the environment, and try to reduce my impact when possible$","1","",1,c1758177679806
+r1758177874850,3,"^It is important that health and wellness products I buy are scientifically proven to work$","1","",1,c1758177679806
+r1758177880770,3,"^It is really important that I keep fit, I exercise regularly$","1","",1,c1758177679806
+r1758177885236,3,"^I regularly take vitamins and supplements to help support my health and wellness$","1","",1,c1758177679806
+r1758177911035,3,"^Apple iPhone$","1","",1,c1758177906231
+r1758177919380,3,"^Daily$","1","",1,c1758177906231
+r1758178141600,3,"^Dog\(s\)$","1","",1,c1758178087635
+r1758178146073,3,"^Cat\(s\)$","1","",1,c1758178087635
+r1758178154218,3,"^I am primarily responsible$","1","",1,c1758178087635
+r1758178164518,3,"^Blue Buffalo$","1","",1,c1758178087635
+r1758178168633,3,"^IAMS$","1","",1,c1758178087635
+r1758178176858,3,"^Purina ONE$","1","",1,c1758178087635
+r1758178237495,3,"^Dairy Milk$","1","",1,c1758178233026
+r1758178241693,3,"^Plant Based Milk \(Almond, Oat, Soy, etc\.\)$","1","",1,c1758178233026
+r1758178245430,3,"^Ready to Drink Tea \(Matcha, Chai, etc\.\)$","1","",1,c1758178233026
+r1758178249758,3,"^Plant Based Barista Milk \(Oat, Almond, etc\.\)$","1","",1,c1758178233026
+r1758178253327,3,"^Ready to Drink Coffee \(Iced Coffee, Cold Brew, etc\.\)$","1","",1,c1758178233026
+r1758178257127,3,"^Creamers \(Dairy, Non-Dairy, Plant-Based\)$","1","",1,c1758178233026
+r1758178267937,3,"^Yes$","1","",1,c1758178233026
+r1758178276596,3,"^Chobani Barista$","1","",1,c1758178233026
+r1758178280312,3,"^Oatly Barista$","1","",1,c1758178233026
+r1758178284150,3,"^Califia Farms Barista$","1","",1,c1758178233026
+r1758178382158,3,"^Protein Powder$","1","",1,c1758178378749
+r1758178385506,3,"^Pasta Sauce$","1","",1,c1758178378749
+r1758178389311,3,"^Dairy Milk$","1","",1,c1758178378749
+r1758178393443,3,"^Yogurt$","1","",1,c1758178378749
+r1758178397641,3,"^Better-For-You Soda \(ex\. Poppi, Olipop\)$","1","",1,c1758178378749
+r1758178400751,3,"^Butter$","1","",1,c1758178378749
+r1758178404877,3,"^Traditional Soda \(ex\. Coke, Pepsi\)$","1","",1,c1758178378749
+r1758178408875,3,"^Breakfast Cereal$","1","",1,c1758178378749
+r1758178413386,3,"^Plant Based Milk \(ex\. Almond, Oat Milk\)$","1","",1,c1758178378749
+r1758178475042,3,"^Fruit Juice$","1","",1,c1758178470059
+r1758178495766,3,"^Soda$","1","",1,c1758178470059
+r1758178499340,3,"^Non-Dairy Milk$","1","",1,c1758178470059
+r1758178502465,3,"^Sports Drink$","1","",1,c1758178470059
+r1758178506738,3,"^Carbonated Water$","1","",1,c1758178470059
+r1758178510962,3,"^Ready to Drink Coffee$","1","",1,c1758178470059
+r1758178513934,3,"^Ready to Drink Tea$","1","",1,c1758178470059
+r1758178517552,3,"^Energy Drink$","1","",1,c1758178470059
+r1758178520839,3,"^Dairy Milk$","1","",1,c1758178470059
+r1758178528311,3,"^Whole Dairy Milk$","1","",1,c1758178470059
+r1758178531161,3,"^Almond Milk$","1","",1,c1758178470059
+r1758178536308,3,"^Oat Milk$","1","",1,c1758178470059
+r1758178539535,3,"^Soy Milk$","1","",1,c1758178470059
+r1758178547449,3,"^Extremely Open$","1","",1,c1758178470059
+r1758178572681,3,"^Good source of calcium$","1","",1,c1758178470059
 r17582,3,"^Sneakers or athletic shoes for my kids$","1","",1,c363
 r17583,3,"^Indoor or outdoor furniture$","1","",1,c363
 r17584,3,"^Sneakers or athletic shoes$","1","",1,c363
