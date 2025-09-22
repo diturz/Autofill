@@ -1487,6 +1487,14 @@ c1758178087635,"Product Flavors Test","",,,,
 c1758178233026,"Oatmilk Users - We Want Your Opinion!","",,,,
 c1758178378749,"Tell us about why you buy certain grocery products","",,,,
 c1758178470059,"Tell Us What You Think About These Claims","",,,,
+c1758484082325,"Recent purchases","",,,,
+c1758484356280,"Calling All Chocolate Lovers!","",,,,
+c1758484996018,"Help us craft the perfect baking cocoa!","",,,,
+c1758527908906,"All About Your Wearable Experience!","",,,,
+c1758527990378,"Plant Milk Fans!","",,,,
+c1758528184183,"Love and Relationships Survey","",,,,
+c1758528865853,"Feedback About Package Design","",,,,
+c1758529040567,"Your opinion matters!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -28170,7 +28178,156 @@ r1758178572681,3,"^Good source of calcium$","1","",1,c1758178470059
 r17582,3,"^Sneakers or athletic shoes for my kids$","1","",1,c363
 r17583,3,"^Indoor or outdoor furniture$","1","",1,c363
 r17584,3,"^Sneakers or athletic shoes$","1","",1,c363
+r1758483632858,3,"^Costco$","1","",1,c1756853880247
+r1758483637383,3,"^Sam’s Club$","1","",1,c1756853880247
+r1758483641462,3,"^Target$","1","",1,c1756853880247
+r1758483644771,3,"^Local grocery stores / farmer’s markets$","1","",1,c1756853880247
+r1758483648352,3,"^Albertson’s$","1","",1,c1756853880247
+r1758483652847,3,"^Whole Foods$","1","",1,c1756853880247
+r1758483656805,3,"^Kroger$","1","",1,c1756853880247
+r1758483660819,3,"^Safeway$","1","",1,c1756853880247
+r1758483663923,3,"^Trader Joe’s$","1","",1,c1756853880247
+r1758483667829,3,"^Amazon / Amazon Fresh$","1","",1,c1756853880247
+r1758483672124,3,"^Publix$","1","",1,c1756853880247
+r1758483675109,3,"^Aldi’s$","1","",1,c1756853880247
+r1758483679519,3,"^Walmart$","1","",1,c1756853880247
+r1758483687788,3,"^Sports drinks \(Gatorade, Powerade\)$","1","",1,c1756853880247
+r1758483693972,3,"^Energy drinks \(Red Bull, Celsius\)$","1","",1,c1756853880247
+r1758483698096,3,"^Sparkling/carbonated water \(La Croix, Sparkling Ice\)$","1","",1,c1756853880247
+r1758483703297,3,"^Alcoholic drinks \(Beer, wine, liquor\)$","1","",1,c1756853880247
+r1758483706721,3,"^Enhanced water \(Smart Water, vitaminwater\)$","1","",1,c1756853880247
+r1758483710155,3,"^Protein shakes \(Premier Protein, Fairlife\)$","1","",1,c1756853880247
+r1758483713966,3,"^Hydration/electrolyte powders \(Liquid I\.V\., LMNT\)$","1","",1,c1756853880247
+r1758483717575,3,"^Electrolyte drinks \(Pedialyte, Electrolit\)$","1","",1,c1756853880247
+r1758483720840,3,"^Kombucha \(Health-Ade, GT's\)$","1","",1,c1756853880247
+r1758483724689,3,"^Probiotic soda \(Poppi, Olipop\)$","1","",1,c1756853880247
+r1758483728450,3,"^Wellness powders \(Vital Proteins, Super Greens\)$","1","",1,c1756853880247
+r1758483754901,3,"^Gatorade$","1","",1,c1756853880247
+r1758483757813,3,"^Alani Nu$","1","",1,c1756853880247
+r1758483761359,3,"^Pedialyte$","1","",1,c1756853880247
+r1758483764542,3,"^Bodyarmor$","1","",1,c1756853880247
+r1758483767798,3,"^Celsius$","1","",1,c1756853880247
+r1758483771175,3,"^Electrolit$","1","",1,c1756853880247
+r1758483775294,3,"^Liquid I\.V\.$","1","",1,c1756853880247
+r1758483778822,3,"^Nuun$","1","",1,c1756853880247
+r1758483781978,3,"^Prime$","1","",1,c1756853880247
+r1758483791230,3,"^Sam’s Club / Samsclub\.com$","1","",1,c1756853880247
+r1758483796024,3,"^Drug store \(e\.g\., CVS, Walgreens, etc\.\)$","1","",1,c1756853880247
+r1758483799118,3,"^Target / Target\.com$","1","",1,c1756853880247
+r1758483802620,3,"^Amazon\.com$","1","",1,c1756853880247
+r1758483806416,3,"^Walmart / Walmart\.com$","1","",1,c1756853880247
+r1758483809264,3,"^Costco / Costco\.com$","1","",1,c1756853880247
+r1758483813116,3,"^Liquid-IV\.com$","1","",1,c1756853880247
+r1758483816331,3,"^Grocery store \(e\.g\., Kroger, Whole Foods, etc\.\)$","1","",1,c1756853880247
+r1758483826768,3,"^Hydration Multiplier Sugar Free$","1","",1,c1756853880247
+r1758483831270,3,"^Sleep Multiplier$","1","",1,c1756853880247
+r1758483840193,3,"^Hydration Multiplier \(regular/original\)$","1","",1,c1756853880247
+r1758483844865,3,"^Hydration Multiplier \+ Gut Health$","1","",1,c1756853880247
+r1758483848914,3,"^Hydration Multiplier \+ Immune Support$","1","",1,c1756853880247
+r1758483852833,3,"^Hydration Multiplier \+ Energy$","1","",1,c1756853880247
+r1758483857438,3,"^Hydration Multiplier for Kids$","1","",1,c1756853880247
+r1758483861189,3,"^Sugar Free Energy Multiplier$","1","",1,c1756853880247
+r1758483869107,3,"^I care a lot about my health and wellness, and significantly adjust my life to stay healthy$","1","",1,c1756853880247
+r1758483880300,3,"^I care about the environment, and try to reduce my impact when possible$","1","",1,c1756853880247
+r1758483892912,3,"^It is really important that I keep fit, I exercise regularly$","1","",1,c1756853880247
+r1758483896893,3,"^It is important that health and wellness products I buy are scientifically proven to work$","1","",1,c1756853880247
+r1758483904656,3,"^I get most of my health and wellness inspiration from social media$","1","",1,c1756853880247
+r1758483909416,3,"^I regularly take vitamins and supplements to help support my health and wellness$","1","",1,c1756853880247
+r1758484029042,3,"^More likely to buy IN ADDITION TO another electrolyte beverage I already buy$","1","",1,c1756853880247
+r1758484068186,3,"^Liquid I\.V\. Optimized Electrolyte Blend$","1","",1,c1756853880247
+r1758484086039,3,"^Groceries / food & beverages \(e\.g\., fresh produce, packaged foods, drinks\)$","1","",1,c1758484082325
+r1758484089812,3,"^Household cleaning products \(e\.g\., laundry detergent, dish soap, all-purpose cleaners\)$","1","",1,c1758484082325
+r1758484097450,3,"^Baby or child care products \(e\.g\., diapers, baby wipes, baby shampoo\)$","1","",1,c1758484082325
+r1758484100786,3,"^Health products \(e\.g\., over-the-counter medicine, vitamins, first aid\)$","1","",1,c1758484082325
+r1758484105445,3,"^Home goods \(e\.g\., décor, bedding, furniture\)$","1","",1,c1758484082325
+r1758484108735,3,"^Pet care products \(e\.g\., pet food, grooming, supplements\)$","1","",1,c1758484082325
+r1758484112756,3,"^Clothing or accessories \(e\.g\., apparel, shoes, handbags\)$","1","",1,c1758484082325
+r1758484117600,3,"^Personal care or beauty products \(e\.g\., shampoos, conditioners, serums, skin care, supplements, etc\.\)$","1","",1,c1758484082325
+r1758484121506,3,"^Electronics / small appliances \(e\.g\., headphones, kitchen gadgets, personal devices\)$","1","",1,c1758484082325
+r1758484175035,3,"^Supplements \(gummies\)$","1","",1,c1758484082325
+r1758484180015,3,"^Supplements \(liquid\)$","1","",1,c1758484082325
+r1758484183942,3,"^Conditioners$","1","",1,c1758484082325
+r1758484186731,3,"^Sprays or mists$","1","",1,c1758484082325
+r1758484190413,3,"^Shampoos$","1","",1,c1758484082325
+r1758484194000,3,"^Serums$","1","",1,c1758484082325
+r1758484197914,3,"^Prescription pills$","1","",1,c1758484082325
+r1758484201836,3,"^Supplements \(capsules\)$","1","",1,c1758484082325
+r1758484222440,3,"^Supplements \(powder\)$","1","",1,c1758484082325
+r1758484229910,3,"^Leave-in treatments$","1","",1,c1758484082325
+r1758484359861,3,"^Dairy Milk$","1","",1,c1758484356280
+r1758484363017,3,"^Plant Based Barista Style Milks \(e\.g\. Barista Style Almondmilk, Barista Style Oatmilk\)$","1","",1,c1758484356280
+r1758484366677,3,"^Plant Based Milk \(e\.g\. Almondmilk, Oatmilk, Soymilk\)$","1","",1,c1758484356280
+r1758484394465,3,"^Cold like a chocolate milk$","1","",1,c1758484356280
+r1758484420797,3,"^In the refrigerated coffee aisle \(next to ready-to-drink coffee blends\)$","1","",1,c1758484356280
+r1758485000931,3,"^Once a week or more often$","1","",1,c1758484996018
+r1758485012621,3,"^2 to 3 times per week$","1","",1,c1758484996018
+r1758485021551,3,"^Brand name$","1","",1,c1758484996018
+r1758485028248,3,"^Easy to bake with$","1","",1,c1758484996018
+r1758485032242,3,"^Taste / flavor reputation$","1","",1,c1758484996018
+r1758485043609,3,"^Sweetened Baking Cocoa Mix \(Hot Cocoa Mix\)$","1","",1,c1758484996018
 r17585,3,"^Books$","1","",1,c363
+r1758527585794,3,"^Dutch-Processed \(Alkalized\) Baking Cocoa Powder$","1","",1,c1758484996018
+r1758527589967,3,"^Natural \(Unsweetened\) Baking Cocoa Powder$","1","",1,c1758484996018
+r1758527594589,3,"^Black Baking Cocoa Powder$","1","",1,c1758484996018
+r1758527597977,3,"^Raw Baking Cacao Powder$","1","",1,c1758484996018
+r1758527609460,3,"^Hershey's$","1","",1,c1758484996018
+r1758527619036,3,"^Ghirardelli$","1","",1,c1758484996018
+r1758527622626,3,"^Nestle$","1","",1,c1758484996018
+r1758527628578,3,"^Store Brand / Private Label$","1","",1,c1758484996018
+r1758527658673,3,"^H$","1","",1,c1758484996018
+r1758527699973,3,"^Somewhat familiar – know the basics$","1","",1,c1758484996018
+r1758527790021,3,"^DARK Chocolate$","1","",1,c1758484996018
+r1758527805838,3,"^COCOA Powder$","1","",1,c1758484996018
+r1758527896798,3,"^Definitely willing to pay more$","1","",1,c1758484996018
+r1758527916591,3,"^Male$","1","",1,c1758527908906
+r1758527924666,3,"^Smartphone$","1","",1,c1758527908906
+r1758527929030,3,"^Smartwatch or Fitness band \(A tech-enabled wrist-worn device that tracks health and activity\)$","1","",1,c1758527908906
+r1758527941464,3,"^Apple$","1","",1,c1758527908906
+r1758527949766,3,"^Apple Watch$","1","",1,c1758527908906
+r1758527995923,3,"^Coconut$","1","",1,c1758527990378
+r1758527999089,3,"^Cashew$","1","",1,c1758527990378
+r1758528002893,3,"^Almond$","1","",1,c1758527990378
+r1758528005826,3,"^Oat$","1","",1,c1758527990378
+r1758528010287,3,"^Soy$","1","",1,c1758527990378
+r1758528085590,3,"^Not Applicable - I have not decreased or stopped purchasing my usual plant milks$","1","",1,c1758527990378
+r1758528108502,3,"^Taste$","1","",1,c1758527990378
+r1758528159803,3,"^In Smoothies$","1","",1,c1758527990378
+r1758528191977,3,"^Married or engaged$","1","",1,c1758528184183
+r1758528242896,3,"^More than 5 years$","1","",1,c1758528184183
+r1758528261561,3,"^Somewhat clearly – I remember the general milestones, but many details$","1","",1,c1758528184183
+r1758528301399,3,"^27–42$","1","",1,c1758528184183
+r1758528313854,3,"^Male$","1","",1,c1758528184183
+r1758528553859,3,"^DoorDash$","1","",1,c1758528184183
+r1758528571741,3,"^Target\.com$","1","",1,c1758528184183
+r1758528577617,3,"^Walmart\.com$","1","",1,c1758528184183
+r1758528586136,3,"^Uber Eats$","1","",1,c1758528184183
+r1758528592040,3,"^Amazon$","1","",1,c1758528184183
+r1758528599136,3,"^Amazon$","1","",1,c1758528184183
+r1758528870744,3,"^Fruit Juice$","1","",1,c1758528865853
+r1758528875075,3,"^Soda$","1","",1,c1758528865853
+r1758528880704,3,"^Non-Dairy Milk \(e\.g\. almond, oat, soy, etc\.\)$","1","",1,c1758528865853
+r1758528919125,3,"^Sparkling Water$","1","",1,c1758528865853
+r1758528924056,3,"^Energy Drink$","1","",1,c1758528865853
+r1758528928834,3,"^Dairy Milk$","1","",1,c1758528865853
+r1758528939393,3,"^Chobani Oat$","1","",1,c1758528865853
+r1758528946832,3,"^Planet Oat$","1","",1,c1758528865853
+r1758528957195,3,"^Califia$","1","",1,c1758528865853
+r1758528963021,3,"^Oatly$","1","",1,c1758528865853
+r1758528970462,3,"^Silk$","1","",1,c1758528865853
+r1758528982180,3,"^29-44$","1","",1,c1758528865853
+r1758529012375,3,"^Almond Breeze$","1","",1,c1758528865853
+r1758529045860,3,"^Employed full-time \(working 35 hours a week or more\)$","1","",1,c1758529040567
+r1758529062509,3,"^500-999 employees$","1","",1,c1758529040567
+r1758529075556,3,"^Financial services \(banking, insurance\)$","1","",1,c1758529040567
+r1758529093549,3,"^Middle Management \(e\.g\., Department Manager, Team manager\)$","1","",1,c1758529040567
+r1758529103619,3,"^Desktop Computer$","1","",1,c1758529040567
+r1758529108615,3,"^Keyboard$","1","",1,c1758529040567
+r1758529117489,3,"^Laptop or Notebook Computer$","1","",1,c1758529040567
+r1758529122948,3,"^Monitor$","1","",1,c1758529040567
+r1758529127748,3,"^Mouse$","1","",1,c1758529040567
+r1758529132830,3,"^Smartphone$","1","",1,c1758529040567
+r1758529143726,3,"^Very important$","1","",1,c1758529040567
+r1758529154701,3,"^Windows$","1","",1,c1758529040567
 r17586,3,"^Apparel/Clothing$","1","",1,c363
 r17587,3,"^Academy Sports$","1","",1,c363
 r17588,3,"^Nike Store$","1","",1,c363
