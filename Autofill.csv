@@ -1495,6 +1495,15 @@ c1758527990378,"Plant Milk Fans!","",,,,
 c1758528184183,"Love and Relationships Survey","",,,,
 c1758528865853,"Feedback About Package Design","",,,,
 c1758529040567,"Your opinion matters!","",,,,
+c1758567286957,"Holiday Snacks","",,,,
+c1758567549925,"Online Studio Fitness Classes","",,,,
+c1758567898272,"Quick survey about kids’ audio products","",,,,
+c1758567936402,"All about steps!","",,,,
+c1758593745536,"All About Your Beverage Preferences","",,,,
+c1758593864655,"Shopping for your Dog/Cat!","",,,,
+c1758594056312,"Candy Concept Testing","",,,,
+c1758594187695,"Let's talk displays!","",,,,
+c1758594362412,"Laundry!","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -28328,6 +28337,122 @@ r1758529127748,3,"^Mouse$","1","",1,c1758529040567
 r1758529132830,3,"^Smartphone$","1","",1,c1758529040567
 r1758529143726,3,"^Very important$","1","",1,c1758529040567
 r1758529154701,3,"^Windows$","1","",1,c1758529040567
+r1758567294526,3,"^Pringles®$","1","",1,c1758567286957
+r1758567299459,3,"^Oreo® Cookies$","1","",1,c1758567286957
+r1758567343846,3,"^GoGo SqueeZ®$","1","",1,c1758567286957
+r1758567347787,3,"^Goldfish® Crackers$","1","",1,c1758567286957
+r1758567351488,3,"^Doritos®$","1","",1,c1758567286957
+r1758567386940,3,"^White Christmas$","1","",1,c1758567286957
+r1758567390993,3,"^Holiday Brûlée$","1","",1,c1758567286957
+r1758567394986,3,"^Sleigh Brûlée$","1","",1,c1758567286957
+r1758567413510,3,"^Eggnog$","1","",1,c1758567286957
+r1758567416559,3,"^Elf Nog$","1","",1,c1758567286957
+r1758567444901,3,"^Very Merry Velvet$","1","",1,c1758567286957
+r1758567448214,3,"^Red Velvet$","1","",1,c1758567286957
+r1758567452664,3,"^Red and Green Velvet$","1","",1,c1758567286957
+r1758567464092,3,"^Snowberry$","1","",1,c1758567286957
+r1758567490537,3,"^Merry Berry$","1","",1,c1758567286957
+r1758567500319,3,"^Berry Blizzard$","1","",1,c1758567286957
+r1758567513050,3,"^Gingerbread Donut$","1","",1,c1758567286957
+r1758567519351,3,"^Sugar and Spice$","1","",1,c1758567286957
+r1758567523496,3,"^Jinglebread$","1","",1,c1758567286957
+r1758567532588,3,"^Hot Cherry Chocolate$","1","",1,c1758567286957
+r1758567535801,3,"^Cherry Hot Cocoa$","1","",1,c1758567286957
+r1758567539110,3,"^Frosted Forest Cake$","1","",1,c1758567286957
+r1758567573833,3,"^I am primarily focused on managing my weight for appearance or health reasons and try to make good choices for nutrition and/or fitness\.$","1","",1,c1758567549925
+r1758567598551,3,"^456DG$","1","",1,c1758567549925
+r1758567607602,3,"^346BG$","1","",1,c1758567549925
+r1758567612104,3,"^ABD09$","1","",1,c1758567549925
+r1758567623447,3,"^Recovery wellness service \(e\.g\. physical therapy, cryotherapy, infrared sauna, hydromassage, stretching, floating etc\.\)$","1","",1,c1758567549925
+r1758567632972,3,"^ONLINE exercise classes/program \(eg\. barre, HIIT, yoga, spin, aerobics, etc\.\)$","1","",1,c1758567549925
+r1758567641579,3,"^ClassPass monthly membership \(access to fitness studios, gyms, spas etc\.\)$","1","",1,c1758567549925
+r1758567701119,3,"^Prescription oral medication for weight loss \(Qsymia etc\.\)$","1","",1,c1758567549925
+r1758567705326,3,"^Nutrition/Food diary app \(e\.g\. MyFitnessPal, Noom\)$","1","",1,c1758567549925
+r1758567709488,3,"^Mental Wellness app \(e\.g\. Headspace, Calm etc\.\)$","1","",1,c1758567549925
+r1758567713681,3,"^Fitness app \(Apple Fitness\+, Centr, Strava, Sweat etc\.\)$","1","",1,c1758567549925
+r1758567717599,3,"^GLP-1 medication for weight loss \(Ozempic etc\.\)$","1","",1,c1758567549925
+r1758567723469,3,"^Meal Kit delivery service \(Hello Fresh, Blue Apron etc\.\)$","1","",1,c1758567549925
+r1758567727715,3,"^Workout or fitness streaming service \(Daily Burn, Peloton etc\.\)$","1","",1,c1758567549925
+r1758567732776,3,"^In-person \(not online\) fitness or exercise classes \(eg\. barre, HIIT, yoga, spin, aerobics, etc\.\)$","1","",1,c1758567549925
+r1758567737222,3,"^Online or print fitness magazine \(e\.g\. Runner's World, Women's Health etc\.\)$","1","",1,c1758567549925
+r1758567742748,3,"^Monthly membership to spa or wellness self-care service \(e\.g\. Med-spa, massage etc\.\)$","1","",1,c1758567549925
+r1758567832060,3,"^CrossFit$","1","",1,c1758567549925
+r1758567858494,3,"^Basecamp Fitness$","1","",1,c1758567549925
+r1758567872522,3,"^Local owned boutique gym or studio$","1","",1,c1758567549925
+r1758567902720,3,"^9-12$","1","",1,c1758567898272
+r1758567907256,3,"^13\+$","1","",1,c1758567898272
+r1758567940037,3,"^Smartphone$","1","",1,c1758567936402
+r1758567943578,3,"^Laptop/Desktop$","1","",1,c1758567936402
+r1758567947565,3,"^Smart TV$","1","",1,c1758567936402
+r1758567950464,3,"^Tablet$","1","",1,c1758567936402
+r1758567953841,3,"^Smartwatch or Smart wrist band$","1","",1,c1758567936402
+r1758567965060,3,"^Apple$","1","",1,c1758567936402
+r1758568016817,3,"^Apple Health$","1","",1,c1758567936402
+r1758568021338,3,"^Fitbit$","1","",1,c1758567936402
+r1758568024875,3,"^Google Fit$","1","",1,c1758567936402
+r1758593752005,3,"^Sports Drinks$","1","",1,c1758593745536
+r1758593755973,3,"^Carbonated Soft Drinks$","1","",1,c1758593745536
+r1758593762426,3,"^Flavored Water \(Sparkling\)$","1","",1,c1758593745536
+r1758593765968,3,"^Non-dairy milk alternative \(soy milk, almond milk, oat milk, etc\.\)$","1","",1,c1758593745536
+r1758593769463,3,"^Dairy Milk$","1","",1,c1758593745536
+r1758593772681,3,"^Soda$","1","",1,c1758593745536
+r1758593775870,3,"^Energy Drinks$","1","",1,c1758593745536
+r1758593778873,3,"^Fruit Juice$","1","",1,c1758593745536
+r1758593789520,3,"^Coconut Milk \(please do not include coconut cream\)$","1","",1,c1758593745536
+r1758593792933,3,"^Soy Milk$","1","",1,c1758593745536
+r1758593798848,3,"^Oat Milk$","1","",1,c1758593745536
+r1758593801665,3,"^Cashew Milk$","1","",1,c1758593745536
+r1758593804555,3,"^Almond Milk$","1","",1,c1758593745536
+r1758593812491,3,"^Chobani$","1","",1,c1758593745536
+r1758593815647,3,"^Oatly$","1","",1,c1758593745536
+r1758593818940,3,"^Planet Oat$","1","",1,c1758593745536
+r1758593821922,3,"^Califia$","1","",1,c1758593745536
+r1758593824990,3,"^Almond Breeze$","1","",1,c1758593745536
+r1758593828249,3,"^Silk$","1","",1,c1758593745536
+r1758593896820,3,"^Cat\(s\)$","1","",1,c1758593864655
+r1758593901452,3,"^Dog\(s\)$","1","",1,c1758593864655
+r1758593917979,3,"^I am primarily responsible$","1","",1,c1758593864655
+r1758593925457,3,"^Chewy$","1","",1,c1758593864655
+r1758593931441,3,"^Kroger$","1","",1,c1758593864655
+r1758593934776,3,"^Walmart$","1","",1,c1758593864655
+r1758593939554,3,"^Petco$","1","",1,c1758593864655
+r1758593943532,3,"^PetSmart$","1","",1,c1758593864655
+r1758593946351,3,"^Amazon$","1","",1,c1758593864655
+r1758593949043,3,"^Target$","1","",1,c1758593864655
+r1758593964433,3,"^Within the last 3 months$","1","",1,c1758593864655
+r1758594031677,3,"^It’s very easy to find the Dog/Cat Food/Treats I’m looking for$","1","",1,c1758593864655
+r1758594036571,3,"^I like being able to buy everything for my Pet in one place$","1","",1,c1758593864655
+r1758594043909,3,"^There are a lot of name brand Dog/Cat Food/Treats products$","1","",1,c1758593864655
+r1758594060180,3,"^Marshmallows$","1","",1,c1758594056312
+r1758594063077,3,"^Chocolate$","1","",1,c1758594056312
+r1758594067998,3,"^Lollipops$","1","",1,c1758594056312
+r1758594072458,3,"^Licorice$","1","",1,c1758594056312
+r1758594076127,3,"^Gum$","1","",1,c1758594056312
+r1758594079702,3,"^Hard Candy$","1","",1,c1758594056312
+r1758594083607,3,"^Gummy / Chewy Candy$","1","",1,c1758594056312
+r1758594086394,3,"^Mints$","1","",1,c1758594056312
+r1758594194046,3,"^Soft Drinks \(i\.e Coca-Cola, Pepsi\)$","1","",1,c1758594187695
+r1758594197586,3,"^Energy Drinks \(i\.e\. Red Bull, Monster, Celsius\)$","1","",1,c1758594187695
+r1758594201440,3,"^Sports Drinks \(i\.e\. Gatorade, Powerade\)$","1","",1,c1758594187695
+r1758594207838,3,"^Home Decor$","1","",1,c1758594187695
+r1758594211392,3,"^Non-Chocolate Candy \(i\.e\. Skittles, Starburst\)$","1","",1,c1758594187695
+r1758594214731,3,"^Self-Care Products \(i\.e\. Face Masks, Bubble Bath\)$","1","",1,c1758594187695
+r1758594217775,3,"^Scented Candles$","1","",1,c1758594187695
+r1758594242321,3,"^Encouraging active lifestyles$","1","",1,c1758594187695
+r1758594246818,3,"^Zero Sugar offerings$","1","",1,c1758594187695
+r1758594250121,3,"^Red Bull gives you energy for your workout$","1","",1,c1758594187695
+r1758594268744,3,"^Red Bull Zero$","1","",1,c1758594187695
+r1758594272960,3,"^Red Bull Iced Edition - Sugarfree$","1","",1,c1758594187695
+r1758594277108,3,"^Red Bull Red Edition - Sugarfree$","1","",1,c1758594187695
+r1758594291376,3,"^Zero missed workouts\? \(With Cartoon\)$","1","",1,c1758594187695
+r1758594367817,3,"^Laundry Stain Remover$","1","",1,c1758594362412
+r1758594371726,3,"^Laundry Scent Booster$","1","",1,c1758594362412
+r1758594375212,3,"^Liquid Fabric Softener$","1","",1,c1758594362412
+r1758594379666,3,"^Fabric Softener Sheets$","1","",1,c1758594362412
+r1758594383453,3,"^Liquid Laundry Detergent$","1","",1,c1758594362412
+r1758594394799,3,"^Walmart$","1","",1,c1758594362412
+r1758594405420,3,"^Yes! I know about this brand!$","1","",1,c1758594362412
+r1758594426463,3,"^Fresh Clean$","1","",1,c1758594362412
 r17586,3,"^Apparel/Clothing$","1","",1,c363
 r17587,3,"^Academy Sports$","1","",1,c363
 r17588,3,"^Nike Store$","1","",1,c363
