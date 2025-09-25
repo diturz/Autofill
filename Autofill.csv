@@ -1504,6 +1504,17 @@ c1758593864655,"Shopping for your Dog/Cat!","",,,,
 c1758594056312,"Candy Concept Testing","",,,,
 c1758594187695,"Let's talk displays!","",,,,
 c1758594362412,"Laundry!","",,,,
+c1758765909193,"Sports in Schools!","",,,,
+c1758766200592,"Tell Us About This Product!","",,,,
+c1758767179459,"Dipping Sauce Packaging Survey","",,,,
+c1758768835298,"What's For Breakfast?","",,,,
+c1758770916507,"European Beer Brand Customer Study","",,,,
+c1758771126851,"Give us your thoughts!","",,,,
+c1758771168648,"Spirograph Future Play Study","",,,,
+c1758771499825,"Salesforce.com in your day-to-day","",,,,
+c1758776020046,"Let’s talk about nutrition!","",,,,
+c1758778289943,"Shopping for the holidays","",,,,
+c1758779416802,"A Beverage Survey","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -28455,6 +28466,213 @@ r1758594405420,3,"^Yes! I know about this brand!$","1","",1,c1758594362412
 r1758594426463,3,"^Fresh Clean$","1","",1,c1758594362412
 r17586,3,"^Apparel/Clothing$","1","",1,c363
 r17587,3,"^Academy Sports$","1","",1,c363
+r1758765913340,3,"^Yes$","1","",1,c1758765909193
+r1758766027181,3,"^Extremely interested$","1","",1,c1758765909193
+r1758766051326,3,"^Very important$","1","",1,c1758765909193
+r1758766063356,3,"^Soccer opens doors to a bigger world$","1","",1,c1758765909193
+r1758766187701,3,"^Encouraging local school officials to sign up$","1","",1,c1758765909193
+r1758766204605,3,"^Yes$","1","",1,c1758766200592
+r1758766256493,3,"^9–12 years old$","1","",1,c1758766200592
+r1758766264553,3,"^I am the primary decision-maker$","1","",1,c1758766200592
+r1758766350001,3,"^Chips, crackers, or salty snacks$","1","",1,c1758766200592
+r1758766353797,3,"^Refrigerated meal kits or snack kits \(e\.g\., Lunchables, P3, Ready-to-Eat kits\)$","1","",1,c1758766200592
+r1758766357564,3,"^Cookies or sweet snacks$","1","",1,c1758766200592
+r1758766361047,3,"^Fresh fruit$","1","",1,c1758766200592
+r1758766364582,3,"^Fruit snacks \(e\.g\., Fruit Roll-Ups, Welch’s Fruit Snacks, infused fruit, fruit bites, etc\.\)$","1","",1,c1758766200592
+r1758766368223,3,"^Cheese or cheese snacks$","1","",1,c1758766200592
+r1758766371604,3,"^Fruit cups or pouches$","1","",1,c1758766200592
+r1758766374854,3,"^Granola bars or snack bars$","1","",1,c1758766200592
+r1758766379231,3,"^Dried fruit$","1","",1,c1758766200592
+r1758766382342,3,"^Yogurt or yogurt drinks$","1","",1,c1758766200592
+r1758766396203,3,"^Oscar Mayer$","1","",1,c1758766200592
+r1758766399538,3,"^Lunchables$","1","",1,c1758766200592
+r1758766402932,3,"^Hillshire Snacking$","1","",1,c1758766200592
+r1758766418271,3,"^P3$","1","",1,c1758766200592
+r1758766429648,3,"^None – I would purchase any of these brands$","1","",1,c1758766200592
+r1758766535246,3,"^Yes, I agree to keep this information confidential$","1","",1,c1758766200592
+r1758766577366,3,"^I watched the video and reviewed the concept\. I’m ready to proceed!$","1","",1,c1758766200592
+r1758767037834,3,"^Got it\. Let’s move on!$","1","",1,c1758766200592
+r1758767137178,3,"^Apples flavored with fruit juice$","1","",1,c1758766200592
+r1758767183150,3,"^I am the primary shopper for my household$","1","",1,c1758767179459
+r1758767345354,3,"^Sauces/Dipping Sauces \(e\.g\. chicken sauce, burger sauce, aioli, BBQ sauce, steak sauce, etc\.\)$","1","",1,c1758767179459
+r1758767349826,3,"^Salad Dressings$","1","",1,c1758767179459
+r1758767352958,3,"^Milk$","1","",1,c1758767179459
+r1758767356257,3,"^Mayonnaise$","1","",1,c1758767179459
+r1758767359199,3,"^Eggs$","1","",1,c1758767179459
+r1758767362564,3,"^Marinades$","1","",1,c1758767179459
+r1758767366407,3,"^Cooking Oil or spray$","1","",1,c1758767179459
+r1758767369419,3,"^Butter$","1","",1,c1758767179459
+r1758767485567,3,"^BBQ sauce$","1","",1,c1758767179459
+r1758767492940,3,"^Honey Mustard$","1","",1,c1758767179459
+r1758767496199,3,"^Chipotle Aioli$","1","",1,c1758767179459
+r1758767501156,3,"^Chili Garlic sauce$","1","",1,c1758767179459
+r1758767504247,3,"^Chicken sauce$","1","",1,c1758767179459
+r1758767507821,3,"^Ketchup$","1","",1,c1758767179459
+r1758767511202,3,"^Teriyaki sauce$","1","",1,c1758767179459
+r1758767516017,3,"^Burger sauce$","1","",1,c1758767179459
+r1758767520612,3,"^Steak sauce$","1","",1,c1758767179459
+r1758767524658,3,"^Ranch dressing$","1","",1,c1758767179459
+r1758768143966,3,"^Kraft$","1","",1,c1758767179459
+r1758768147903,3,"^Chosen Foods$","1","",1,c1758767179459
+r1758768151456,3,"^Heinz$","1","",1,c1758767179459
+r1758768154322,3,"^Chick-Fil-A$","1","",1,c1758767179459
+r1758768157880,3,"^Primal Kitchen$","1","",1,c1758767179459
+r1758768162094,3,"^Buffalo Wild Wings$","1","",1,c1758767179459
+r1758768165980,3,"^Arby’s$","1","",1,c1758767179459
+r1758768171199,3,"^Hidden Valley$","1","",1,c1758767179459
+r1758768174977,3,"^Hellmann’s$","1","",1,c1758767179459
+r1758768551002,3,"^Albertson’s$","1","",1,c1758767179459
+r1758768658878,3,"^Walmart$","1","",1,c1758767179459
+r1758768662650,3,"^Costco$","1","",1,c1758767179459
+r1758768665247,3,"^Amazon$","1","",1,c1758767179459
+r1758768668512,3,"^Trader Joe’s$","1","",1,c1758767179459
+r1758768672577,3,"^Sam’s Club$","1","",1,c1758767179459
+r1758768675603,3,"^Aldi$","1","",1,c1758767179459
+r1758768683348,3,"^Kroger$","1","",1,c1758767179459
+r1758768687116,3,"^Whole Foods$","1","",1,c1758767179459
+r1758768694475,3,"^Meijer$","1","",1,c1758767179459
+r1758768698736,3,"^Target$","1","",1,c1758767179459
+r1758768838119,3,"^Yes$","1","",1,c1758768835298
+r1758769288275,3,"^6-12 years old$","1","",1,c1758768835298
+r1758769292005,3,"^13-17 years old$","1","",1,c1758768835298
+r1758769387813,3,"^All of it$","1","",1,c1758768835298
+r1758769597558,3,"^Granola$","1","",1,c1758768835298
+r1758769600526,3,"^Soup$","1","",1,c1758768835298
+r1758769604445,3,"^Fruit Snacks$","1","",1,c1758768835298
+r1758769607487,3,"^Canned Tomatoes$","1","",1,c1758768835298
+r1758769610694,3,"^Boxed potatoes$","1","",1,c1758768835298
+r1758769614031,3,"^Dessert Mixes$","1","",1,c1758768835298
+r1758769617582,3,"^Bars \(Grain, Cereal, Nutrition, Biscuits,Granola, Energy, etc\.\)$","1","",1,c1758768835298
+r1758769621129,3,"^Cereal \(Ready to Eat or Hot Cereal\)$","1","",1,c1758768835298
+r1758769624314,3,"^Frozen Breakfast$","1","",1,c1758768835298
+r1758769627664,3,"^Mexican Meal Products \(taco shells/kits,seasoning, refried beans, enchilada sauce,etc\.\)$","1","",1,c1758768835298
+r1758769632695,3,"^Refrigerated or Frozen Dough \(crescent,biscuits etc\.\)$","1","",1,c1758768835298
+r1758769636634,3,"^Macaroni and Cheese$","1","",1,c1758768835298
+r1758769639952,3,"^Frozen Meals$","1","",1,c1758768835298
+r1758769644334,3,"^Cracker snacks \(cheddar, graham, chocolate,etc\.\)$","1","",1,c1758768835298
+r1758769648425,3,"^Baking & Pancake Mix$","1","",1,c1758768835298
+r1758769655891,3,"^Frozen Baked Goods$","1","",1,c1758768835298
+r1758769659515,3,"^Refrigerated Cookie Dough$","1","",1,c1758768835298
+r1758769664816,3,"^Flour$","1","",1,c1758768835298
+r1758769700419,3,"^Hot Pocket$","1","",1,c1758768835298
+r1758769705582,3,"^Jimmy Dean$","1","",1,c1758768835298
+r1758769708783,3,"^El Monterey$","1","",1,c1758768835298
+r1758769714138,3,"^Great Value$","1","",1,c1758768835298
+r1758769718074,3,"^Pillsbury Toaster Strudel$","1","",1,c1758768835298
+r1758769721471,3,"^Pillsbury Toaster Scramble$","1","",1,c1758768835298
+r1758770599468,3,"^Now more Protein!$","1","",1,c1758768835298
+r1758770920015,3,"^Yes$","1","",1,c1758770916507
+r1758770928905,3,"^Frequently$","1","",1,c1758770916507
+r1758771001060,3,"^Flavor$","1","",1,c1758770916507
+r1758771007717,3,"^Beer Style$","1","",1,c1758770916507
+r1758771011107,3,"^Brand Trust$","1","",1,c1758770916507
+r1758771130699,3,"^Own$","1","",1,c1758771126851
+r1758771138625,3,"^Auto$","1","",1,c1758771126851
+r1758771142819,3,"^Home$","1","",1,c1758771126851
+r1758771504382,3,"^Slack$","1","",1,c1758771499825
+r1758771507479,3,"^Salesforce$","1","",1,c1758771499825
+r1758771511547,3,"^Microsot Teams$","1","",1,c1758771499825
+r1758771515413,3,"^Zoom$","1","",1,c1758771499825
+r1758771519823,3,"^Notion$","1","",1,c1758771499825
+r1758771531251,3,"^10 – 14$","1","",1,c1758771499825
+r1758771543244,3,"^Between 500 and 1000 employees$","1","",1,c1758771499825
+r1758771568577,3,"^Finance / Accounting$","1","",1,c1758771499825
+r1758771582008,3,"^Microsoft Teams$","1","",1,c1758771499825
+r1758771586205,3,"^Google Meet$","1","",1,c1758771499825
+r1758771590405,3,"^Salesforce \(integrated calling application\)$","1","",1,c1758771499825
+r1758771594169,3,"^Regular phone to phone calls \(mobile or landline\)$","1","",1,c1758771499825
+r1758771762807,3,"^Daily$","1","",1,c1758771499825
+r1758772155155,3,"^Laptop \(Windows\)$","1","",1,c1758771499825
+r1758772158446,3,"^Desktop PC$","1","",1,c1758771499825
+r1758772164348,3,"^Mobile phone$","1","",1,c1758771499825
+r1758772165908,3,"^Tablet$","1","",1,c1758771499825
+r1758772176745,3,"^between 30% and 50% of my time$","1","",1,c1758771499825
+r1758772375402,3,"^Managing customer accounts$","1","",1,c1758771499825
+r1758772379859,3,"^Preparing for customer calls/meetings$","1","",1,c1758771499825
+r1758772384687,3,"^Logging meeting notes and activities$","1","",1,c1758771499825
+r1758772596695,3,"^Reporting and dashboards$","1","",1,c1758771499825
+r1758774656848,3,"^Writing a meeting summary$","1","",1,c1758771499825
+r1758774661591,3,"^Logging activities \(call, meeting, tasks\)$","1","",1,c1758771499825
+r1758774665140,3,"^Sharing notes with colleagues$","1","",1,c1758771499825
+r1758774678291,3,"^Writing a meeting summary and capturing notes$","1","",1,c1758771499825
+r1758774856177,3,"^Typing directly into Salesforce during the call$","1","",1,c1758771499825
+r1758774907336,3,"^Immediately \(during or right after the call\)$","1","",1,c1758771499825
+r1758774930961,3,"^5–10 minutes$","1","",1,c1758771499825
+r1758774953874,3,"^It’s not too time-consuming$","1","",1,c1758771499825
+r1758775031998,3,"^Often$","1","",1,c1758771499825
+r1758775265300,3,"^Time spent manually entering notes$","1","",1,c1758771499825
+r1758775629659,3,"^Very valuable$","1","",1,c1758771499825
+r1758775693269,3,"^Automatic call transcription$","1","",1,c1758771499825
+r1758775697634,3,"^Summarizing conversations$","1","",1,c1758771499825
+r1758775700864,3,"^Highlighting action items & follow-ups$","1","",1,c1758771499825
+r1758776030741,3,"^I have purchased sports nutrition supplements for myself$","1","",1,c1758776020046
+r1758776072199,3,"^Muscle gainers / mass builders$","1","",1,c1758776020046
+r1758776075593,3,"^Creatine$","1","",1,c1758776020046
+r1758776079849,3,"^Protein powders and beverages$","1","",1,c1758776020046
+r1758776084139,3,"^Post-workout recovery products$","1","",1,c1758776020046
+r1758776087671,3,"^Pre-workout energy drinks$","1","",1,c1758776020046
+r1758776092486,3,"^Pre-workout supplements$","1","",1,c1758776020046
+r1758776096717,3,"^Electrolytes/Hydration$","1","",1,c1758776020046
+r1758776112932,3,"^5 or more times per week$","1","",1,c1758776020046
+r1758776323198,3,"^Weight-loss/cutting$","1","",1,c1758776020046
+r1758776332609,3,"^Bodybuilding or resistance training$","1","",1,c1758776020046
+r1758776336462,3,"^CrossFit$","1","",1,c1758776020046
+r1758776339684,3,"^General fitness$","1","",1,c1758776020046
+r1758776354714,3,"^High-intensity interval training \(HIIT\)$","1","",1,c1758776020046
+r1758776399381,3,"^Informed User – I understand the basics and use sports nutrition supplements with some intention$","1","",1,c1758776020046
+r1758776436271,3,"^Weight loss or fat burn$","1","",1,c1758776020046
+r1758776440343,3,"^Energy or performance$","1","",1,c1758776020046
+r1758776443756,3,"^Overall health and wellness$","1","",1,c1758776020046
+r1758776447756,3,"^Endurance$","1","",1,c1758776020046
+r1758776451200,3,"^Muscle growth$","1","",1,c1758776020046
+r1758776520902,3,"^More than once per month$","1","",1,c1758776020046
+r1758776600954,3,"^Online retailers \(e\.g\., Walmart\.com, iherb\.com\)$","1","",1,c1758776020046
+r1758776604798,3,"^Big box retailers \(e\.g\., Walmart, Target\)$","1","",1,c1758776020046
+r1758776618490,3,"^Amazon$","1","",1,c1758776020046
+r1758776621829,3,"^Club \(e\.g\., Costco, Sam’s Club\)$","1","",1,c1758776020046
+r1758776625646,3,"^Local gyms or fitness centers$","1","",1,c1758776020046
+r1758776629700,3,"^Specialty nutrition stores \(e\.g\., GNC, Vitamin Shoppe\)$","1","",1,c1758776020046
+r1758776642764,3,"^1–2 years$","1","",1,c1758776020046
+r1758776651117,3,"^4 or more brands$","1","",1,c1758776020046
+r1758776957534,3,"^Optimum Nutrition$","1","",1,c1758776020046
+r1758776962556,3,"^MuscleTech$","1","",1,c1758776020046
+r1758776968290,3,"^Ghost$","1","",1,c1758776020046
+r1758777959696,3,"^I switch brands often and like trying new ones$","1","",1,c1758776020046
+r1758777969965,3,"^Social media \(e\.g\., TikTok, YouTube\)$","1","",1,c1758776020046
+r1758777976918,3,"^Retail stores \(e\.g\., in-store displays, promotions\)$","1","",1,c1758776020046
+r1758778212101,3,"^Concerned about safety or side effects$","1","",1,c1758776020046
+r1758778216303,3,"^Don’t trust brands that aren’t transparent about ingredients$","1","",1,c1758776020046
+r1758778219634,3,"^Don’t believe the products will be effective$","1","",1,c1758776020046
+r1758778324787,3,"^Television$","1","",1,c1758778289943
+r1758778328536,3,"^Furniture$","1","",1,c1758778289943
+r1758778332081,3,"^Laptop or desktop computer$","1","",1,c1758778289943
+r1758778335482,3,"^Household appliances$","1","",1,c1758778289943
+r1758778339347,3,"^Gaming console and/or accessories$","1","",1,c1758778289943
+r1758778350241,3,"^2–4 weeks before$","1","",1,c1758778289943
+r1758778357946,3,"^Clear end date for the offer$","1","",1,c1758778289943
+r1758778365084,3,"^Customer reviews or ratings$","1","",1,c1758778289943
+r1758778370133,3,"^Price protection / price match$","1","",1,c1758778289943
+r1758778386224,3,"^Somewhat important – I consider it a bonus$","1","",1,c1758778289943
+r1758778404624,3,"^Yes, definitely$","1","",1,c1758778289943
+r1758778452048,3,"^Occasionally$","1","",1,c1758778289943
+r1758778461375,3,"^Social media \(Instagram, Pinterest, etc\.\)$","1","",1,c1758778289943
+r1758778466200,3,"^Print magazines$","1","",1,c1758778289943
+r1758779264106,3,"^“Last-minute gift ideas”$","1","",1,c1758778289943
+r1758779268785,3,"^“Treat yourself this season”$","1","",1,c1758778289943
+r1758779272032,3,"^“Holiday must-haves”$","1","",1,c1758778289943
+r1758779296262,3,"^Yes$","1","",1,c1758778289943
+r1758779328392,3,"^Online reviews or ratings$","1","",1,c1758778289943
+r1758779332578,3,"^Trusted brand or past experience$","1","",1,c1758778289943
+r1758779336045,3,"^In-store pickup option$","1","",1,c1758778289943
+r1758779420333,3,"^Wine$","1","",1,c1758779416802
+r1758779423361,3,"^Hard seltzer$","1","",1,c1758779416802
+r1758779426867,3,"^Cocktails$","1","",1,c1758779416802
+r1758779430115,3,"^Craft beer$","1","",1,c1758779416802
+r1758779433567,3,"^Spirits \(e\.g\., vodka, whiskey, rum\)$","1","",1,c1758779416802
+r1758779436983,3,"^Imported beer$","1","",1,c1758779416802
+r1758779441037,3,"^Domestic beer$","1","",1,c1758779416802
+r1758779443952,3,"^Cider$","1","",1,c1758779416802
+r1758779491096,3,"^Within the city of Chicago$","1","",1,c1758779416802
 r17588,3,"^Nike Store$","1","",1,c363
 r17589,3,"^adidas Store$","1","",1,c363
 r1759,3,"^Breakfast pastries, pop ups, bars$","1","",1,c3
