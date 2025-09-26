@@ -1515,6 +1515,9 @@ c1758771499825,"Salesforce.com in your day-to-day","",,,,
 c1758776020046,"Let’s talk about nutrition!","",,,,
 c1758778289943,"Shopping for the holidays","",,,,
 c1758779416802,"A Beverage Survey","",,,,
+c1758859417293,"Connected Devices & Apps for Fitness & Sports","",,,,
+c1758860207147,"Wristwear","",,,,
+c1758865435377,"Art Toy Surveys","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
@@ -28674,6 +28677,52 @@ r1758779441037,3,"^Domestic beer$","1","",1,c1758779416802
 r1758779443952,3,"^Cider$","1","",1,c1758779416802
 r1758779491096,3,"^Within the city of Chicago$","1","",1,c1758779416802
 r17588,3,"^Nike Store$","1","",1,c363
+r1758859421747,3,"^Yes$","1","",1,c1758859417293
+r1758859438518,3,"^iOS$","1","",1,c1758859417293
+r1758859448447,3,"^Smartwatch \(e\.g\., Apple Watch, Garmin, Fitbit\)$","1","",1,c1758859417293
+r1758859452619,3,"^Fitness Tracker \(e\.g\., Fitbit Charge, WHOOP, Oura\)$","1","",1,c1758859417293
+r1758859467182,3,"^Connected Sports Equipment \(e\.g\., Peloton bike, Tonal, smart jump rope, smart rowing machine\)$","1","",1,c1758859417293
+r1758859473206,3,"^Action Camera \(e\.g\. GoPro, Insta360, drone\)$","1","",1,c1758859417293
+r1758859479369,3,"^Smartphone as primary activity tracker$","1","",1,c1758859417293
+r1758859498788,3,"^Apple Health$","1","",1,c1758859417293
+r1758859502001,3,"^Google Fit$","1","",1,c1758859417293
+r1758859505622,3,"^Strava$","1","",1,c1758859417293
+r1758859515420,3,"^MyFitnessPal$","1","",1,c1758859417293
+r1758859519807,3,"^Fitbit$","1","",1,c1758859417293
+r1758859567039,3,"^Running$","1","",1,c1758859417293
+r1758859573074,3,"^Walking$","1","",1,c1758859417293
+r1758859576818,3,"^Weightlifting$","1","",1,c1758859417293
+r1758859857930,3,"^Vivoactive, Vivomove$","1","",1,c1758859417293
+r1758859871079,3,"^1-3 years$","1","",1,c1758859417293
+r1758859913479,3,"^Most days \(e\.g\., during workouts, for tracking\)$","1","",1,c1758859417293
+r1758859977475,3,"^Battery life$","1","",1,c1758859417293
+r1758859981547,3,"^Durability/ruggedness$","1","",1,c1758859417293
+r1758859985792,3,"^Reputation/recommendations$","1","",1,c1758859417293
+r1758859999008,3,"^Sleep tracking and analysis$","1","",1,c1758859417293
+r1758860008346,3,"^Connected features \(e\.g\., smart notifications, music storage\)$","1","",1,c1758859417293
+r1758860014950,3,"^Heart rate monitoring accuracy$","1","",1,c1758859417293
+r1758860038807,3,"^Online retailer \(e\.g\., Amazon, Best Buy online\)$","1","",1,c1758859417293
+r1758860131859,3,"^Strava Routes 3\.0$","1","",1,c1758859417293
+r1758860133918,3,"^Garmin Connect\+$","1","",1,c1758859417293
+r1758860143625,3,"^Very effective$","1","",1,c1758859417293
+r1758862647608,3,"^Yes$","1","",1,c1758860207147
+r1758862669924,3,"^iOS$","1","",1,c1758860207147
+r1758862681244,3,"^Apple$","1","",1,c1758860207147
+r1758862697633,3,"^Apple Watch Ultra 1, 2, 3$","1","",1,c1758860207147
+r1758862797646,3,"^1-2 years$","1","",1,c1758860207147
+r1758862806950,3,"^Most days \(e\.g\., during workouts, for tracking\)$","1","",1,c1758860207147
+r1758862816071,3,"^Heart-rate monitoring$","1","",1,c1758860207147
+r1758862819779,3,"^Sleep tracking$","1","",1,c1758860207147
+r1758862826237,3,"^Activity/calorie tracking$","1","",1,c1758860207147
+r1758863266141,3,"^Swapped with my primary device for specific occasions \(e\.g\. for specific sports activities\)$","1","",1,c1758860207147
+r1758863538523,3,"^Wanted new/better features$","1","",1,c1758860207147
+r1758863541571,3,"^Improved accuracy$","1","",1,c1758860207147
+r1758863547279,3,"^Better battery life$","1","",1,c1758860207147
+r1758864845269,3,"^iPhone$","1","",1,c1758860207147
+r1758864859246,3,"^10$","1","",1,c1758860207147
+r1758864912901,3,"^Apple Watch \(w/ connected LTE\)$","1","",1,c1758860207147
+r1758865030288,3,"^Yes - new purchase / gifted \(new\)$","1","",1,c1758860207147
+r1758865066890,3,"^Safety/location tracking$","1","",1,c1758860207147
 r17589,3,"^adidas Store$","1","",1,c363
 r1759,3,"^Breakfast pastries, pop ups, bars$","1","",1,c3
 r17590,3,"^Dick’s Sporting Goods$","1","",1,c363
