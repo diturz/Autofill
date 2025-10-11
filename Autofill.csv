@@ -1519,6 +1519,9 @@ c1758859417293,"Connected Devices & Apps for Fitness & Sports","",,,,
 c1758860207147,"Wristwear","",,,,
 c1758865435377,"Art Toy Surveys","",,,,
 c176,"Seafood Habits Fall 2024","","",,,
+c1760171063771,"Enjoy iced beverages? This survey is for you!","",,,,
+c1760171181660,"BNPL Installment Ads","",,,,
+c1760171455911,"Employment Questions","",,,,
 c177,"Tell us about your love for Tums!","crowdtap.com/dashboard","",,,
 c178,"All About You","","",,,
 c179,"Getting to know you!","","",,,
@@ -28738,6 +28741,26 @@ r176,3,"^Father's Day$","1","",1,c9
 r1760,3,"^Baking aids \(baking powder, baking soda, yeast, shredded/flaked coconut, guar gum, xanthan gum, egg replacer, coconut sugar, dry milk powder, etc\.\)$","1","",1,c3
 r17600,3,"^Soft drinks$","1","",1,c366
 r17601,3,"^Coffee$","1","",1,c366
+r1760171067275,3,"^Single-Serve Blended Cold Coffee Latte \(blended with plant-milk or dairy\)$","1","",1,c1760171063771
+r1760171071307,3,"^Single-Serve Black Cold Coffee$","1","",1,c1760171063771
+r1760171075410,3,"^Multi-Serve Black Cold Coffee$","1","",1,c1760171063771
+r1760171084170,3,"^Multi-Serve Blended Cold Coffee Latte \(blended with plant-milk or dairy\)$","1","",1,c1760171063771
+r1760171105150,3,"^Mass Merchandiser \(e\.g\., Walmart or Target\)$","1","",1,c1760171063771
+r1760171108700,3,"^Dollar Store \(e\.g\., Dollar General or FamilyDollar\)$","1","",1,c1760171063771
+r1760171111595,3,"^Online retailer \(e\.g\., Amazon\)$","1","",1,c1760171063771
+r1760171115518,3,"^Convenience Store / Gas Station Store \(e\.g\.,7-Eleven\)$","1","",1,c1760171063771
+r1760171118911,3,"^Club Store \(e\.g\., Sam’s Club or Costco\)$","1","",1,c1760171063771
+r1760171122332,3,"^Drug Store \(e\.g\., CVS or Walgreens\)$","1","",1,c1760171063771
+r1760171127255,3,"^Grocery Store \(e\.g\., Albertsons, Kroger, HEB\)$","1","",1,c1760171063771
+r1760171130245,3,"^Natural Food Store \(e\.g\., Whole Foods, Sprouts\)$","1","",1,c1760171063771
+r1760171185150,3,"^Afterpay$","1","",1,c1760171181660
+r1760171188261,3,"^Zip$","1","",1,c1760171181660
+r1760171190837,3,"^Affirm$","1","",1,c1760171181660
+r1760171194294,3,"^Paypal's Pay in 4$","1","",1,c1760171181660
+r1760171198077,3,"^Klarna$","1","",1,c1760171181660
+r1760171266501,3,"^Pay in 2- A$","1","",1,c1760171181660
+r1760171428081,3,"^Pay in 2 - A$","1","",1,c1760171181660
+r1760171466704,3,"^Financial Services \(e\.g\., Banking, Mortgage, Loan\)$","1","",1,c1760171455911
 r17602,3,"^Liquors/Spirits \(e\.g\., bourbon, gin, rum, scotch, vodka, whiskey, tequila, etc\.\)$","1","",1,c366
 r17603,3,"^Water$","1","",1,c366
 r17604,3,"^Juice / plant drinks$","1","",1,c366
